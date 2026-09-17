@@ -80,7 +80,8 @@
   "ratio": [
    1900,
    891
-  ]
+  ],
+  "og": "tom-time-og.jpg"
  },
  "tom-table": {
   "id": "tom-table",
@@ -107,7 +108,8 @@
   "ratio": [
    1651,
    1900
-  ]
+  ],
+  "og": "tom-table-og.jpg"
  },
  "tom-chambre": {
   "id": "tom-chambre",
@@ -134,7 +136,8 @@
   "ratio": [
    1900,
    1153
-  ]
+  ],
+  "og": "tom-chambre-og.jpg"
  },
  "tom-walkin": {
   "id": "tom-walkin",
