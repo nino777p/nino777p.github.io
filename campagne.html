@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Fony Meubles</title>
 <meta name="description" content="Page d&#x27;opération Fony Meubles.">
-<link rel="canonical" href="https://www.fony.be/campagne">
+<link rel="canonical" href="https://fony.be/campagne">
 <meta name="robots" content="noindex,follow">
 <meta name="theme-color" content="#F2EDE4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
@@ -14,7 +14,7 @@
 <meta property="og:locale" content="fr_BE">
 <meta property="og:title" content="Fony Meubles">
 <meta property="og:description" content="Page d&#x27;opération Fony Meubles.">
-<meta property="og:url" content="https://www.fony.be/campagne">
+<meta property="og:url" content="https://fony.be/campagne">
 <link rel="preload" href="assets/fonts/bodoni-moda-var.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="assets/fonts/hanken-grotesk-var.woff" as="font" type="font/woff" crossorigin>
 <style>
@@ -313,7 +313,9 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
-@media (min-width:961px) and (max-width:1219px){.sig{display:none}}
+/* 17/09 : la signature « Italian Living » cède sa place, sur bureau, aux liens Instagram / Facebook demandés en haut à droite
+   (la barre est plafonnée à 1240 px : les deux ne tiennent pas ensemble). Elle reste visible sur téléphone. */
+@media (min-width:961px){.sig{display:none}}
 .bar .cta-top{white-space:nowrap}
 
 
@@ -332,11 +334,12 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 
 /* Bande matières (accueil) */
 .materials-band{background:var(--paper)}
-.materials{list-style:none;margin:56px 0 0;padding:0;display:grid;grid-template-columns:repeat(8,1fr);gap:14px}
-.materials li{display:flex;flex-direction:column;gap:8px}
-.materials b{font-weight:600;font-size:15px;letter-spacing:-0.005em}
-.materials small{font-size:13px;color:var(--ink-soft)}
-.mat{display:block;aspect-ratio:4/5;position:relative;overflow:hidden;box-shadow:0 1px 0 rgba(35,31,28,.08)}
+/* Bandeau horizontal (nino, 17/09 : échantillons plus petits, qui défilent) : une rangée, défilement au doigt sur téléphone */
+.materials{list-style:none;margin:40px 0 0;padding:0 0 10px;display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.materials li{flex:0 0 128px;scroll-snap-align:start;display:flex;flex-direction:column;gap:6px}
+.materials b{font-weight:600;font-size:14px;letter-spacing:-0.005em}
+.materials small{font-size:12px;color:var(--ink-soft)}
+.mat{display:block;aspect-ratio:1/1;position:relative;overflow:hidden;box-shadow:0 1px 0 rgba(35,31,28,.08)}
 .mat::after{content:attr(data-label);position:absolute;left:8px;right:8px;bottom:8px;font-size:11px;line-height:1.3;color:var(--ink);background:rgba(255,255,255,.82);padding:3px 6px}
 .mat-noyer{background:repeating-linear-gradient(97deg,#5E3F2B 0 3px,#6E4E36 3px 11px,#553827 11px 13px,#6E4E36 13px 26px)}
 .mat-chene{background:repeating-linear-gradient(94deg,#C2A57E 0 2px,#D3BB94 2px 12px,#C9B08A 12px 13px,#D3BB94 13px 30px)}
@@ -346,8 +349,8 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 .mat-cuir{background:radial-gradient(circle at 40% 40%,rgba(0,0,0,.08) 1px,transparent 2px) 0 0/6px 6px,#8A5A3C}
 .mat-pierre{background:repeating-linear-gradient(0deg,rgba(255,255,255,.18) 0 1px,transparent 1px 5px),linear-gradient(160deg,#DCD3C4,#CFC4B2)}
 .mat-laiton{background:linear-gradient(115deg,#9E7E4C,#C9A764 45%,#A88B57)}
-@media (max-width:960px){.materials{grid-template-columns:repeat(4,1fr)}}
-@media (max-width:560px){.materials{grid-template-columns:repeat(2,1fr);gap:12px}}
+@media (max-width:960px){.materials{gap:12px;margin-left:-24px;margin-right:-24px;padding:0 24px 10px}.materials li{flex-basis:120px}}
+@media (max-width:560px){.materials li{flex-basis:108px}}
 /* Étiquettes des emplacements photo : plus discrètes */
 .ph::after{font-size:11px;letter-spacing:.02em;background:rgba(248,244,236,.85);padding:3px 7px;border-radius:0}
 
@@ -403,6 +406,23 @@ body::before{opacity:.10;background-size:110px 110px}
   footer{padding-bottom:24px}
 }
 
+
+/* Réseaux sociaux : barre du menu (bureau), bloc d'accueil, pied de page, panneau mobile */
+.bar>.bar-right{justify-self:end;display:flex;align-items:center;gap:14px}
+.social-top{display:flex;gap:12px;font-size:11.5px;letter-spacing:.05em;text-transform:uppercase}
+.social-top a{color:var(--ink-soft);text-decoration:none;padding:6px 0;border-bottom:1px solid transparent;transition:color .2s,border-color .2s}
+.social-top a:hover{color:var(--ink);border-color:var(--walnut)}
+@media (max-width:1219px){.social-top{display:none}}
+@media (max-width:960px){.bar>.bar-right{display:none}}
+.menu-social a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
+.foot .social a{white-space:nowrap}
+.social-band{background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:56px 0}
+.social-grid{display:grid;grid-template-columns:7fr 5fr;gap:48px;align-items:center}
+.social-grid h2{margin:0 0 10px;font-size:clamp(26px,2.6vw,36px)}
+.social-grid p{margin:0;color:var(--ink-soft);max-width:52ch}
+.social-grid .actions{display:flex;gap:12px;justify-content:flex-end;flex-wrap:wrap}
+@media (max-width:960px){.social-grid{grid-template-columns:1fr;gap:20px}.social-grid .actions{justify-content:flex-start}.social-band{padding:48px 0}}
+
 .foot a{display:inline-block;padding:5px 0}
 
 /* Rendu, 17/09 (proposition B validée par nino) : un seul patron de bandeau pour toutes les pages,
@@ -442,7 +462,7 @@ body{visibility:hidden}
 @media (max-width:860px){.camp-args{grid-template-columns:1fr;gap:16px}.camp-hero{padding:56px 0 40px}}
 
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://www.fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Fony Meubles", "item": "https://www.fony.be/campagne"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Fony Meubles", "item": "https://fony.be/campagne"}]}</script>
 </head>
 <body>
 <a class="skip" href="#contenu">Aller au contenu</a>
@@ -481,7 +501,7 @@ body{visibility:hidden}
       <h2>Dites-nous quand vous passez.</h2>
       <p class="intro">Nous vous confirmons le rendez-vous, et nous pr&#233;parons votre visite.</p>
       <form class="form" data-subject="Demande depuis la page de campagne">
-        <input type="hidden" name="_subject" value="Demande via fony.be"><input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off"><input type="hidden" name="_captcha" value="false"><input type="hidden" name="_next" value="https://www.fony.be/merci"><p class="req-note">Les champs marqu&#233;s <span class="req" aria-hidden="true">*</span> sont obligatoires.</p>
+        <input type="hidden" name="_subject" value="Demande via fony.be"><input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off"><input type="hidden" name="_captcha" value="false"><input type="hidden" name="_next" value="https://fony.be/merci"><p class="req-note">Les champs marqu&#233;s <span class="req" aria-hidden="true">*</span> sont obligatoires.</p>
         <label><span>Pr&#233;nom <span class="req" aria-hidden="true">*</span></span><input type="text" name="prenom" required autocomplete="given-name"></label>
         <label><span>Nom <span class="req" aria-hidden="true">*</span></span><input type="text" name="nom" required autocomplete="family-name"></label>
         <label><span>Adresse e-mail <span class="req" aria-hidden="true">*</span></span><input type="email" name="email" required autocomplete="email"></label>
@@ -514,7 +534,7 @@ body{visibility:hidden}
 <footer>
   <div class="wrap foot">
     <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
-    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a></div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
     <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
   </div>
 </footer>

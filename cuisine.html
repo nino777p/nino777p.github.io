@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cuisines italiennes Stosa sur mesure | Fony Meubles</title>
 <meta name="description" content="Cuisines Stosa fabriquées en Italie, dessinées avec vous de la mesure à la pose. Façades 23 mm, garantie 5 ans, échantillons au magasin près de Binche.">
-<link rel="canonical" href="https://www.fony.be/cuisine">
+<link rel="canonical" href="https://fony.be/cuisine">
 <meta name="theme-color" content="#F2EDE4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
 <meta property="og:type" content="website">
@@ -13,10 +13,10 @@
 <meta property="og:locale" content="fr_BE">
 <meta property="og:title" content="Cuisines italiennes Stosa sur mesure | Fony Meubles">
 <meta property="og:description" content="Cuisines Stosa fabriquées en Italie, dessinées avec vous de la mesure à la pose. Façades 23 mm, garantie 5 ans, échantillons au magasin près de Binche.">
-<meta property="og:image" content="https://www.fony.be/assets/img/stosa-ilot-og.jpg">
+<meta property="og:image" content="https://fony.be/assets/img/stosa-ilot-og.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:url" content="https://www.fony.be/cuisine">
+<meta property="og:url" content="https://fony.be/cuisine">
 <link rel="preload" href="assets/fonts/bodoni-moda-var.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="assets/fonts/hanken-grotesk-var.woff" as="font" type="font/woff" crossorigin>
 <style>
@@ -296,17 +296,20 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
-@media (min-width:961px) and (max-width:1219px){.sig{display:none}}
+/* 17/09 : la signature « Italian Living » cède sa place, sur bureau, aux liens Instagram / Facebook demandés en haut à droite
+   (la barre est plafonnée à 1240 px : les deux ne tiennent pas ensemble). Elle reste visible sur téléphone. */
+@media (min-width:961px){.sig{display:none}}
 .bar .cta-top{white-space:nowrap}
 
 
 /* Bande matières (accueil) */
 .materials-band{background:var(--paper)}
-.materials{list-style:none;margin:56px 0 0;padding:0;display:grid;grid-template-columns:repeat(8,1fr);gap:14px}
-.materials li{display:flex;flex-direction:column;gap:8px}
-.materials b{font-weight:600;font-size:15px;letter-spacing:-0.005em}
-.materials small{font-size:13px;color:var(--ink-soft)}
-.mat{display:block;aspect-ratio:4/5;position:relative;overflow:hidden;box-shadow:0 1px 0 rgba(35,31,28,.08)}
+/* Bandeau horizontal (nino, 17/09 : échantillons plus petits, qui défilent) : une rangée, défilement au doigt sur téléphone */
+.materials{list-style:none;margin:40px 0 0;padding:0 0 10px;display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.materials li{flex:0 0 128px;scroll-snap-align:start;display:flex;flex-direction:column;gap:6px}
+.materials b{font-weight:600;font-size:14px;letter-spacing:-0.005em}
+.materials small{font-size:12px;color:var(--ink-soft)}
+.mat{display:block;aspect-ratio:1/1;position:relative;overflow:hidden;box-shadow:0 1px 0 rgba(35,31,28,.08)}
 .mat::after{content:attr(data-label);position:absolute;left:8px;right:8px;bottom:8px;font-size:11px;line-height:1.3;color:var(--ink);background:rgba(255,255,255,.82);padding:3px 6px}
 .mat-noyer{background:repeating-linear-gradient(97deg,#5E3F2B 0 3px,#6E4E36 3px 11px,#553827 11px 13px,#6E4E36 13px 26px)}
 .mat-chene{background:repeating-linear-gradient(94deg,#C2A57E 0 2px,#D3BB94 2px 12px,#C9B08A 12px 13px,#D3BB94 13px 30px)}
@@ -316,8 +319,8 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 .mat-cuir{background:radial-gradient(circle at 40% 40%,rgba(0,0,0,.08) 1px,transparent 2px) 0 0/6px 6px,#8A5A3C}
 .mat-pierre{background:repeating-linear-gradient(0deg,rgba(255,255,255,.18) 0 1px,transparent 1px 5px),linear-gradient(160deg,#DCD3C4,#CFC4B2)}
 .mat-laiton{background:linear-gradient(115deg,#9E7E4C,#C9A764 45%,#A88B57)}
-@media (max-width:960px){.materials{grid-template-columns:repeat(4,1fr)}}
-@media (max-width:560px){.materials{grid-template-columns:repeat(2,1fr);gap:12px}}
+@media (max-width:960px){.materials{gap:12px;margin-left:-24px;margin-right:-24px;padding:0 24px 10px}.materials li{flex-basis:120px}}
+@media (max-width:560px){.materials li{flex-basis:108px}}
 /* Étiquettes des emplacements photo : plus discrètes */
 .ph::after{font-size:11px;letter-spacing:.02em;background:rgba(248,244,236,.85);padding:3px 7px;border-radius:0}
 
@@ -372,6 +375,23 @@ body::before{opacity:.10;background-size:110px 110px}
   .nav-open .mobile-bar{display:none}
   footer{padding-bottom:24px}
 }
+
+
+/* Réseaux sociaux : barre du menu (bureau), bloc d'accueil, pied de page, panneau mobile */
+.bar>.bar-right{justify-self:end;display:flex;align-items:center;gap:14px}
+.social-top{display:flex;gap:12px;font-size:11.5px;letter-spacing:.05em;text-transform:uppercase}
+.social-top a{color:var(--ink-soft);text-decoration:none;padding:6px 0;border-bottom:1px solid transparent;transition:color .2s,border-color .2s}
+.social-top a:hover{color:var(--ink);border-color:var(--walnut)}
+@media (max-width:1219px){.social-top{display:none}}
+@media (max-width:960px){.bar>.bar-right{display:none}}
+.menu-social a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
+.foot .social a{white-space:nowrap}
+.social-band{background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:56px 0}
+.social-grid{display:grid;grid-template-columns:7fr 5fr;gap:48px;align-items:center}
+.social-grid h2{margin:0 0 10px;font-size:clamp(26px,2.6vw,36px)}
+.social-grid p{margin:0;color:var(--ink-soft);max-width:52ch}
+.social-grid .actions{display:flex;gap:12px;justify-content:flex-end;flex-wrap:wrap}
+@media (max-width:960px){.social-grid{grid-template-columns:1fr;gap:20px}.social-grid .actions{justify-content:flex-start}.social-band{padding:48px 0}}
 
 
 /* Photos en place : plein cadre dans l'emplacement, étiquette masquée */
@@ -446,7 +466,7 @@ body::before{opacity:.10;background-size:110px 110px}
 [id]{scroll-margin-top:96px}
 
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://www.fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Cuisines italiennes Stosa sur mesure", "item": "https://www.fony.be/cuisine"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Cuisines italiennes Stosa sur mesure", "item": "https://fony.be/cuisine"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Combien coûte une cuisine ?", "acceptedAnswer": {"@type": "Answer", "text": "Cela dépend surtout de la taille, des façades et du plan de travail. Après la visite et les mesures, vous recevez un devis détaillé, offert et sans engagement."}}, {"@type": "Question", "name": "Combien de temps faut-il prévoir ?", "acceptedAnswer": {"@type": "Answer", "text": "Comptez environ huit semaines entre la commande signée, l'acompte versé, et la pose. Le délai dépend du fabricant et de la saison : une cuisine lancée hors période d'affluence sort plus vite."}}, {"@type": "Question", "name": "Vous occupez-vous de la pose ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. La livraison est assurée par nos soins, la pose par notre équipe ou par un artisan partenaire, avec réglages et finitions."}}, {"@type": "Question", "name": "Puis-je voir une cuisine en vrai ?", "acceptedAnswer": {"@type": "Answer", "text": "Nous n'exposons pas encore de cuisine, mais tous les échantillons sont au magasin : façades, coloris, plans de travail. Et votre projet est dessiné chez vous, à vos mesures."}}]}</script>
 <link rel="preload" as="image" type="image/avif" imagesrcset="assets/img/stosa-ilot-600.avif 600w, assets/img/stosa-ilot-900.avif 900w, assets/img/stosa-ilot-1400.avif 1400w, assets/img/stosa-ilot-1900.avif 1900w" imagesizes="(max-width:960px) 100vw, 62vw" fetchpriority="high">
 </head>
@@ -464,10 +484,12 @@ body::before{opacity:.10;background-size:110px 110px}
       <ul class="menu">
         <li class="has-sub"><button type="button" aria-expanded="false">Collections</button>
           <ul class="sub">
-            <li><a href="living">Living<small>Salons, relax, séjour, chambre</small></a></li>
+            <li><a href="salon">Salon<small>Canapés et relax</small></a></li>
+            <li><a href="living">Living<small>Séjour et chambre</small></a></li>
+            <li><a href="tables-chaises">Tables & chaises<small>Salle à manger</small></a></li>
+            <li><a href="literie">Literie<small>Matelas et boxsprings</small></a></li>
             <li><a href="sur-mesure">Sur mesure<small>Dressing, bibliothèque, meuble TV</small></a></li>
             <li><a href="#contenu" aria-current="page">Cuisine<small>Cuisines italiennes Stosa</small></a></li>
-                      <li><a href="living#literie">Literie<small>Matelas et boxsprings, à essayer en magasin</small></a></li>
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
@@ -479,10 +501,11 @@ body::before{opacity:.10;background-size:110px 110px}
         <a class="btn btn-solid" href="magasin-contact#visite">Venir au magasin</a>
         <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
         <p>Lun. 13h30–18h30 · Mar.–sam. 10h30–18h30</p>
+        <p class="menu-social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></p>
       </li>
       </ul>
     </nav>
-    <a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a>
+    <div class="bar-right"><span class="social-top"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a><a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span><a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a></div>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -549,7 +572,8 @@ body::before{opacity:.10;background-size:110px 110px}
         <p class="intro" style="margin-bottom:0">Les pièces s'ouvrent les unes sur les autres. Votre cuisine se voit depuis le canapé, et le meuble TV prolonge l'îlot. Chez Fony, les trois se dessinent ensemble, avec un seul interlocuteur.</p>
         <ul class="trades">
           <li>Cuisine <span>Stosa, sur mesure</span></li>
-          <li><a class="ilink" href="living">Salon et séjour</a> <span>canapés, tables, relax</span></li>
+          <li><a class="ilink" href="salon">Salon</a> <span>canapés, relax</span></li>
+          <li><a class="ilink" href="living">Living</a> <span>meuble TV, bibliothèque, buffet</span></li>
           <li><a class="ilink" href="sur-mesure">Rangements sur mesure</a> <span>dressing, bibliothèque, meuble TV</span></li>
         </ul>
       </div>
@@ -615,7 +639,7 @@ body::before{opacity:.10;background-size:110px 110px}
 <footer>
   <div class="wrap foot">
     <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
-    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a></div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
     <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
   </div>
 </footer>

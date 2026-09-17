@@ -3,18 +3,20 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Merci — Fony Meubles — salons, sur mesure et cuisines à Binche</title>
-<meta name="robots" content="noindex">
-<meta name="description" content="Magasin de meubles à Leval-Trahegnies (Binche) : salons et relax italiens, séjour, chambre, dressings sur mesure, cuisines Stosa. Visite et devis gratuits.">
-<link rel="canonical" href="https://fony.be/">
+<title>Literie : boxsprings et matelas belges | Fony Meubles</title>
+<meta name="description" content="Boxsprings et matelas de fabrication belge, Velda en tête, fixes ou électriques. Ressorts ensachés, latex, mousse HR, mémoire de forme : à essayer allongé en magasin à Leval-Trahegnies, près de Binche.">
+<link rel="canonical" href="https://fony.be/literie">
 <meta name="theme-color" content="#F2EDE4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Fony Meubles">
 <meta property="og:locale" content="fr_BE">
-<meta property="og:title" content="Fony Meubles — salons, sur mesure et cuisines à Binche">
-<meta property="og:description" content="Magasin de meubles à Leval-Trahegnies (Binche) : salons et relax italiens, séjour, chambre, dressings sur mesure, cuisines Stosa. Visite et devis gratuits.">
-<meta property="og:url" content="https://fony.be/">
+<meta property="og:title" content="Literie : boxsprings et matelas belges | Fony Meubles">
+<meta property="og:description" content="Boxsprings et matelas de fabrication belge, Velda en tête, fixes ou électriques. Ressorts ensachés, latex, mousse HR, mémoire de forme : à essayer allongé en magasin à Leval-Trahegnies, près de Binche.">
+<meta property="og:image" content="https://fony.be/assets/img/tom-chambre-og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://fony.be/literie">
 <link rel="preload" href="assets/fonts/bodoni-moda-var.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="assets/fonts/hanken-grotesk-var.woff" as="font" type="font/woff" crossorigin>
 <style>
@@ -310,7 +312,6 @@ h1{font-weight:600;letter-spacing:-0.01em;line-height:1.04;color:var(--ink)}
 h2{font-weight:600;letter-spacing:-0.005em;line-height:1.08}
 blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-height:1.1}
 .hero-panel,.hero-text{background:var(--paper)}
-.legal{max-width:72ch}.legal h1{font-size:clamp(34px,4vw,56px);margin:0 0 32px}.legal h2{font-family:var(--font);font-weight:600;font-size:18px;letter-spacing:.02em;text-transform:uppercase;margin:40px 0 10px}.legal p{margin:0 0 14px;color:var(--ink-soft)}.legal p.date{font-size:14px}.legal a{color:var(--terra)}
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
@@ -452,17 +453,69 @@ body::before{opacity:.10;background-size:110px 110px}
 /* Ancres : l'en-tête est collant (73 px) — sans cette marge, le titre visé passe dessous. */
 [id]{scroll-margin-top:96px}
 
+
+/* Pages générées : hero, blocs et grilles (règles de la maquette Living) */
+.hero{position:relative;min-height:78vh;display:grid;align-items:end}
+.hero .ph{position:absolute;inset:0}
+.hero-panel{position:relative;z-index:2;background:var(--paper);max-width:620px;margin:0 0 56px 24px;padding:48px 48px 40px}
+.hero-right .hero-panel{margin-left:auto;margin-right:24px}
+.hero-panel>*{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+.hero-panel>*:nth-child(2){animation-delay:.08s}.hero-panel>*:nth-child(3){animation-delay:.16s}.hero-panel>*:nth-child(4){animation-delay:.24s}
+@media (prefers-reduced-motion:reduce){.hero-panel>*{animation:none}}
+.reassure{margin:28px 0 0;padding-top:18px;border-top:1px solid var(--line);font-size:15px;color:var(--ink-soft)}
+.proofs{background:var(--sand)}
+.tops{background:var(--paper)}
+.tip{margin-top:48px;border-left:2px solid var(--walnut);padding:4px 0 4px 20px;max-width:70ch;color:var(--ink-soft)}
+.tip strong{color:var(--ink);font-weight:500}
+.final{background:var(--sand);text-align:left}
+.final-grid{display:grid;grid-template-columns:7fr 5fr;gap:64px;align-items:end}
+.final p{color:var(--ink-soft);margin:0 0 28px;max-width:44ch}
+.brands3{display:grid;grid-template-columns:repeat(3,1fr);gap:32px}
+.brand .ph{height:340px;margin-bottom:18px}
+.brand p{margin:0 0 8px;color:var(--ink-soft)}
+.brand .tag{font-size:14px;color:var(--walnut);font-weight:500}
+.spot{margin-top:72px;display:grid;grid-template-columns:7fr 5fr;gap:0;align-items:stretch}
+.spot .ph{min-height:460px}
+.spot-body{background:var(--paper);padding:48px;display:flex;flex-direction:column;justify-content:center}
+.spot-body p{color:var(--ink-soft);margin:0 0 24px}
+.spot.spot-rev{grid-template-columns:5fr 7fr}
+.spot.spot-rev .spot-body{order:-1}
+.range{margin-top:40px;color:var(--ink-soft);max-width:70ch}
+.systems{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:8px}
+.systems .ph{height:260px;margin-bottom:16px}
+.systems p{margin:0;color:var(--ink-soft)}
+.sleep{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.sleep .ph{height:320px;margin-bottom:18px}
+.sleep p{margin:0;color:var(--ink-soft)}
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:32px;margin-top:8px}
+.duo .ph{height:380px;margin-bottom:18px}
+.duo p{margin:0;color:var(--ink-soft)}
+.lexique{margin:44px 0 0;padding:28px 0 0;border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(2,1fr);gap:16px 48px;max-width:920px}
+.lexique dt{font-weight:600;font-size:15px}
+.lexique dd{margin:3px 0 0;color:var(--ink-soft);font-size:15px}
+.chairs{margin-top:56px;display:grid;grid-template-columns:5fr 7fr;gap:48px;align-items:start}
+.chairs h2{font-size:clamp(28px,3vw,40px);margin:0 0 12px}
+.chairs p{margin:0 0 14px;color:var(--ink-soft)}
+.chairs ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:10px}
+.chairs li{border:1px solid var(--line);padding:8px 14px;font-size:14px}
+.ph{position:relative;overflow:hidden}
+.ph.has-img>picture,.ph.has-img>img{position:absolute;inset:0;width:100%;height:100%;display:block}
+.ph.has-img>picture>img{width:100%;height:100%;object-fit:cover;display:block}
+.ph.has-img::after{display:none}
+@media (max-width:960px){
+  .hero{min-height:auto;display:block}
+  .hero .ph{position:relative;height:380px}
+  .hero-panel{margin:-60px 16px 0;padding:32px 24px}
+  .hero-right .hero-panel{margin-left:16px;margin-right:16px}
+  .final-grid,.brands3,.systems,.spot,.sleep,.duo{grid-template-columns:1fr}
+  .spot.spot-rev{grid-template-columns:1fr}.spot.spot-rev .spot-body{order:0}
+  .spot .ph{min-height:320px}.spot-body{padding:32px 24px}
+  .duo .ph{height:280px}
+  .lexique,.chairs{grid-template-columns:1fr}
+}
+
 </style>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FurnitureStore","name":"Fony Meubles","legalName":"FONY — MEUBLES SRL",
- "url":"https://fony.be/","telephone":"+3264460772","email":"fonymeubles@hotmail.com","vatID":"BE0449562534",
- "sameAs":["https://www.facebook.com/fonymeubles/","https://www.instagram.com/fonymeubles/"],
- "address":{"@type":"PostalAddress","streetAddress":"Route de Charleroi 160/1","postalCode":"7134","addressLocality":"Leval-Trahegnies","addressRegion":"Hainaut","addressCountry":"BE"},
- "openingHoursSpecification":[
-  {"@type":"OpeningHoursSpecification","dayOfWeek":"Monday","opens":"13:30","closes":"18:30"},
-  {"@type":"OpeningHoursSpecification","dayOfWeek":["Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"10:30","closes":"18:30"}],
- "priceRange":"€€"}
-</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Literie", "item": "https://fony.be/literie"}]}</script>
 </head>
 <body>
 <div class="promo" id="promo" role="region" aria-label="Opération en cours" hidden>
@@ -483,7 +536,7 @@ body::before{opacity:.10;background-size:110px 110px}
             <li><a href="salon">Salon<small>Canapés et relax</small></a></li>
             <li><a href="living">Living<small>Séjour et chambre</small></a></li>
             <li><a href="tables-chaises">Tables & chaises<small>Salle à manger</small></a></li>
-            <li><a href="literie">Literie<small>Matelas et boxsprings</small></a></li>
+            <li><a href="#contenu" aria-current="page">Literie<small>Matelas et boxsprings</small></a></li>
             <li><a href="sur-mesure">Sur mesure<small>Dressing, bibliothèque, meuble TV</small></a></li>
             <li><a href="cuisine">Cuisine<small>Cuisines italiennes Stosa</small></a></li>
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
@@ -507,14 +560,74 @@ body::before{opacity:.10;background-size:110px 110px}
 </header>
 
 <main id="contenu">
-  <section>
-    <div class="wrap legal">
-<h1>Merci, c’est envoyé.</h1>
-<p>Votre demande est bien arrivée. Nous la lisons et nous revenons vers vous — en général sous un jour ouvrable — pour convenir d’un moment.</p>
-<p>Si c’est urgent, appelez le <a href="tel:+3264460772">064 46 07 72</a> : le magasin est ouvert le lundi de 13h30 à 18h30, et du mardi au samedi de 10h30 à 18h30.</p>
-<p><a href="./">Retour à l’accueil</a></p>
+  <div class="hero">
+    <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-chambre-600.avif 600w, assets/img/tom-chambre-900.avif 900w, assets/img/tom-chambre-1400.avif 1400w, assets/img/tom-chambre-1900.avif 1900w" sizes="(max-width:960px) 100vw, 100vw"><img style="object-position:66% 54%" src="assets/img/tom-chambre-900.webp" srcset="assets/img/tom-chambre-600.webp 600w, assets/img/tom-chambre-900.webp 900w, assets/img/tom-chambre-1400.webp 1400w, assets/img/tom-chambre-1900.webp 1900w" sizes="(max-width:960px) 100vw, 100vw" alt="Chambre Tomasella Corinto : lit tapissé et chevets assortis" width="1900" height="1153" loading="eager" decoding="async" data-credit="Tomasella Corinto"></picture></div>
+    <div class="hero-panel">
+      <p class="kicker">Matelas et boxsprings</p>
+      <h1>Le sommeil se choisit allongé.</h1>
+      <p class="lead">Boxsprings et matelas de fabrication belge, Velda en tête. Fixe ou électrique. Ressorts ensachés, latex, mousse HR, mémoire de forme : à chaque dormeur son confort, et il se teste allongé.</p>
+      <div class="actions">
+        <a class="btn btn-solid" href="magasin-contact#visite">Venir essayer</a>
+        <a class="btn btn-ghost" href="magasin-contact#visite">Prendre rendez-vous</a>
+      </div>
+      <p class="reassure">Livraison et installation par nos soins.</p>
+    </div>
+  </div>
+
+  <section id="choisir">
+    <div class="wrap">
+      <h2>Boxspring, sommier, matelas</h2>
+      <p class="intro">Un stand d'essai couvre la plupart des conforts. Pour un besoin plus précis, nous avons la réponse au catalogue.</p>
+      <div class="brands3">
+        <div class="brand">
+          <h3>Le boxspring d'abord</h3>
+          <p>Nous le privilégions : châssis plus résistant, plus durable, accueil plus souple. Le sommier reste disponible, avec un confort un peu plus ferme.</p>
+          <span class="tag">Fabrication belge</span>
+        </div>
+        <div class="brand">
+          <h3>Le matelas</h3>
+          <p>Ressorts ensachés en priorité. Aussi latex, latex Pulse, mousse HR et mémoire de forme gel, selon votre position de sommeil et votre corpulence.</p>
+          <span class="tag">Tous les conforts</span>
+        </div>
+        <div class="brand">
+          <h3>Fixe ou électrique</h3>
+          <p>Le boxspring électrique relève la tête et les pieds : pour lire, regarder la télévision ou se relever plus facilement.</p>
+          <span class="tag">À essayer en magasin</span>
+        </div>
+      </div>
+      <p class="range">Velda, et d'autres fabricants belges. <a class="ilink" href="magasin-contact#visite">Venez vous allonger</a>, dans votre position habituelle : c'est le seul test qui vaut.</p>
+      <dl class="lexique">
+        <div><dt>Ressorts ensachés</dt><dd>Chaque ressort dans sa poche : soutien point par point, on ne sent pas les mouvements de l'autre.</dd></div>
+        <div><dt>Latex</dt><dd>Élastique et aéré, épouse le corps sans creuser.</dd></div>
+        <div><dt>Mousse HR</dt><dd>Haute résilience : ferme, légère, reprend sa forme.</dd></div>
+        <div><dt>Mémoire de forme</dt><dd>Se moule au corps sous la chaleur ; la version gel garde la fraîcheur.</dd></div>
+      </dl>
     </div>
   </section>
+
+  <section class="proofs">
+    <div class="wrap">
+      <h2>La chambre autour</h2>
+      <div class="duo">
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-900.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><h3>Lits et chevets</h3><p>Lits et chevets Tomasella, entre autres. <a class="ilink" href="living#chambre">Voir la chambre</a></p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-dressing-600.avif 600w, assets/img/tom-dressing-900.avif 900w, assets/img/tom-dressing-1400.avif 1400w, assets/img/tom-dressing-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:76% 50%" src="assets/img/tom-dressing-900.webp" srcset="assets/img/tom-dressing-600.webp 600w, assets/img/tom-dressing-900.webp 900w, assets/img/tom-dressing-1400.webp 1400w, assets/img/tom-dressing-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire-dressing Tomasella Doxa à portes coulissantes" width="1900" height="999" loading="lazy" decoding="async" data-credit="Tomasella Doxa"></picture></div><h3>Armoires et dressings</h3><p>Un recoin, une sous-pente, un mur à la cote près : le sur mesure prend le relais. <a class="ilink" href="sur-mesure">Voir le sur mesure</a></p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="final" id="visite">
+    <div class="wrap final-grid">
+      <div>
+        <h2>Venez vous allonger.</h2>
+        <p>Sans rendez-vous. Pour un conseil au calme, prenez-en un.</p>
+        <div class="actions">
+          <a class="btn btn-solid" href="magasin-contact#visite">Prendre rendez-vous</a>
+          <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
 </main>
 
 <footer>
