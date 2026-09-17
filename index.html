@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fony Meubles — salons, sur mesure et cuisines à Binche</title>
+<meta name="description" content="Magasin de meubles à Leval-Trahegnies (Binche) : salons et relax italiens, séjour, chambre, dressings sur mesure, cuisines Stosa. Visite et devis gratuits.">
+<link rel="canonical" href="https://www.fony.be/">
+<meta name="theme-color" content="#F2EDE4">
+<link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fony Meubles">
+<meta property="og:locale" content="fr_BE">
+<meta property="og:title" content="Fony Meubles — salons, sur mesure et cuisines à Binche">
+<meta property="og:description" content="Magasin de meubles à Leval-Trahegnies (Binche) : salons et relax italiens, séjour, chambre, dressings sur mesure, cuisines Stosa. Visite et devis gratuits.">
+<meta property="og:image" content="https://www.fony.be/assets/img/tom-appartement-og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://www.fony.be/">
+<link rel="preload" href="assets/fonts/bodoni-moda-var.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="assets/fonts/hanken-grotesk-var.woff" as="font" type="font/woff" crossorigin>
+<style>
+@font-face{font-family:"Bodoni Moda";src:url("assets/fonts/bodoni-moda-var.woff") format("woff");font-weight:400 900;font-style:normal;font-display:swap}
+@font-face{font-family:"Hanken Grotesk";src:url("assets/fonts/hanken-grotesk-var.woff") format("woff");font-weight:100 900;font-style:normal;font-display:swap}
+</style>
+<style>
+:root{
+  --bg:#F2EDE4;
+  --sand:#E4DBCC;
+  --sand-deep:#D9CEBC;
+  --ink:#231F1C;
+  --ink-soft:#5A5048;
+  --walnut:#231F1C;
+  --walnut-ink:#F2EDE4;
+  --line:#D3C8B6;
+  --paper:#F8F4EC; --sage:#8A9A7E; --sage-deep:#56654E; --terra:#9E4A2C;
+  --ph-a:#D8CBB8; --ph-b:#C6B49C; --ph-c:#E3DDD3; --ph-d:#CFC4B4;
+  --font:"Hanken Grotesk","Helvetica Neue",Helvetica,Arial,sans-serif;
+  --max:1240px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){/* maquette volontairement claire */}
+}
+:root[data-theme="dark"]{--bg:#F2EDE4;
+  --sand:#E4DBCC;
+  --sand-deep:#D9CEBC;
+  --ink:#231F1C;
+  --ink-soft:#5A5048;
+  --walnut:#231F1C;
+  --walnut-ink:#F2EDE4;
+  --line:#D3C8B6;
+  --paper:#F8F4EC; --sage:#8A9A7E; --sage-deep:#56654E; --terra:#9E4A2C;
+  --ph-a:#D8CBB8; --ph-b:#C6B49C; --ph-c:#E3DDD3; --ph-d:#CFC4B4;
+  --font:"Hanken Grotesk","Helvetica Neue",Helvetica,Arial,sans-serif;
+  --max:1240px;}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font);font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased}
+img{max-width:100%}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--walnut);outline-offset:3px}
+.wrap{max-width:var(--max);margin:0 auto;padding:0 24px}
+
+/* Note de maquette */
+.note{background:var(--sand);color:var(--ink-soft);font-size:14px;text-align:center;padding:8px 16px}
+
+/* En-tête */
+.bar{display:flex;align-items:center;justify-content:space-between;height:72px;gap:24px}
+.logo{font-size:28px;font-weight:500;letter-spacing:-0.02em;text-decoration:none}
+nav ul{display:flex;gap:28px;list-style:none;margin:0;padding:0;font-size:15px}
+nav a{text-decoration:none;color:var(--ink-soft)}
+nav a:hover{color:var(--ink)}
+.btn{display:inline-block;text-decoration:none;font-weight:500;font-size:15px;padding:13px 22px;border-radius:2px;border:1px solid var(--walnut);transition:background .2s,color .2s}
+.btn-solid{background:var(--walnut);color:var(--walnut-ink)}
+.btn-solid:hover{background:transparent;color:var(--walnut)}
+.btn-ghost{color:var(--ink);border-color:var(--ink)}
+.btn-ghost:hover{background:var(--ink);color:var(--bg)}
+.menu-toggle{display:none;background:none;border:1px solid var(--line);color:var(--ink);font:inherit;padding:8px 12px;border-radius:2px}
+
+/* Emplacements photo */
+.ph{position:relative;overflow:hidden;background:var(--ph-a)}
+.ph::after{content:attr(data-label);position:absolute;left:14px;bottom:12px;max-width:calc(100% - 28px);font-size:13px;color:var(--ink);background:rgba(255,255,255,.78);padding:4px 8px;border-radius:2px}
+.ph-walnut{background:repeating-linear-gradient(97deg,var(--ph-b) 0 3px,var(--ph-a) 3px 11px,var(--ph-b) 11px 13px,var(--ph-a) 13px 26px)}
+.ph-boucle{background:radial-gradient(circle at 30% 30%,rgba(255,255,255,.55) 1px,transparent 2px) 0 0/9px 9px,var(--ph-c)}
+.ph-stone{background:linear-gradient(160deg,var(--ph-c),var(--ph-d))}
+.ph-linen{background:repeating-linear-gradient(0deg,rgba(255,255,255,.08) 0 1px,transparent 1px 4px),repeating-linear-gradient(90deg,rgba(0,0,0,.05) 0 1px,transparent 1px 4px),var(--ph-d)}
+
+/* Hero */
+.hero{padding:56px 0 96px}
+.hero-grid{display:grid;grid-template-columns:7fr 5fr;gap:0;align-items:end}
+.hero-img{height:640px}
+.hero-text{background:var(--bg);padding:48px 0 0 56px;margin-left:-120px;position:relative;z-index:2}
+h1{font-weight:300;font-size:clamp(46px,6.2vw,88px);line-height:1.02;letter-spacing:-0.035em;margin:0 0 28px}
+.lead{font-size:19px;color:var(--ink-soft);max-width:34ch;margin:0 0 36px}
+.actions{display:flex;flex-wrap:wrap;gap:12px}
+.hero-info{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-size:14px;color:var(--ink-soft);max-width:40ch}
+.hero-text>*{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+.hero-text>*:nth-child(2){animation-delay:.08s}
+.hero-text>*:nth-child(3){animation-delay:.16s}
+.hero-text>*:nth-child(4){animation-delay:.24s}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.hero-text>*{animation:none}html{scroll-behavior:auto}}
+
+/* Sections */
+section{padding:112px 0}
+h2{font-weight:400;font-size:clamp(32px,3.6vw,48px);line-height:1.1;letter-spacing:-0.025em;margin:0 0 20px}
+h3{font-weight:500;font-size:22px;letter-spacing:-0.01em;margin:0 0 8px}
+.intro{max-width:52ch;color:var(--ink-soft);margin:0 0 56px}
+
+/* Ce que nous aménageons */
+.spaces{display:grid;grid-template-columns:6fr 4fr;grid-template-rows:auto auto;gap:24px}
+.space{text-decoration:none;display:block}
+.space .ph{transition:transform .5s ease}
+.space:hover .ph{transform:scale(1.015)}
+.space-living{grid-row:1 / span 2}
+.space-living .ph{height:720px}
+.space-small .ph{height:300px}
+.space-body{padding:20px 0 0;display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap}
+.space-body p{margin:0;color:var(--ink-soft);max-width:36ch;font-size:16px}
+.link{font-weight:500;font-size:15px;color:var(--walnut);text-decoration:underline;text-underline-offset:4px;white-space:nowrap}
+
+/* Manifeste */
+.manifest{background:var(--sand)}
+.manifest-grid{display:grid;grid-template-columns:7fr 4fr;gap:80px;align-items:end}
+.manifest blockquote{margin:0;font-weight:300;font-size:clamp(32px,3.8vw,54px);line-height:1.12;letter-spacing:-0.03em}
+.manifest p{margin:0;color:var(--ink-soft)}
+
+/* Métier */
+.craft-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:48px}
+.craft-grid div{border-top:1px solid var(--ink);padding-top:22px}
+.craft-grid p{margin:0;color:var(--ink-soft)}
+.craft-head{display:grid;grid-template-columns:5fr 6fr;gap:80px;align-items:end;margin-bottom:64px}
+.craft-head p{margin:0;color:var(--ink-soft)}
+
+/* Marques */
+.brands{padding:72px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.brands-title{font-size:clamp(26px,2.6vw,34px);margin-bottom:40px}
+.brand-groups{display:grid;grid-template-columns:repeat(3,1fr);gap:48px}
+.brand-groups h3{font-size:15px;font-weight:500;color:var(--ink-soft);margin:0 0 14px}
+.brand-groups p{margin:0;font-size:clamp(22px,2.2vw,30px);font-weight:300;line-height:1.35;letter-spacing:-0.01em}
+@media (max-width:720px){.brand-groups{grid-template-columns:1fr;gap:28px}}
+
+/* Visite */
+.visit-grid{display:grid;grid-template-columns:5fr 7fr;gap:64px;align-items:stretch}
+.visit-card{background:var(--sand);padding:56px;display:flex;flex-direction:column;justify-content:space-between;gap:40px}
+.visit-card .lead{margin-bottom:0}
+dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:10px 24px;font-size:16px}
+dt{color:var(--ink-soft)}
+dd{margin:0}
+.visit-img{min-height:520px}
+
+/* Pied de page */
+footer{background:var(--sand-deep);padding:56px 0;font-size:14px;color:var(--ink-soft)}
+.foot{display:flex;justify-content:space-between;flex-wrap:wrap;gap:24px}
+.foot strong{color:var(--ink);font-weight:500;font-size:22px;display:block;margin-bottom:6px}
+
+/* Responsive */
+@media (max-width:960px){
+  .bar .cta-top{display:none}
+  .hero-grid,.manifest-grid,.craft-head,.visit-grid{grid-template-columns:1fr;gap:32px}
+  .hero-img{height:420px}
+  .hero-text{margin:-80px 16px 0;padding:32px 24px 0}
+  .spaces{grid-template-columns:1fr}
+  .space-living{grid-row:auto}
+  .space-living .ph{height:420px}
+  .craft-grid{grid-template-columns:1fr;gap:32px}
+  section{padding:80px 0}
+  .visit-card{padding:36px 28px}
+  .visit-img{min-height:300px}
+}
+@media (max-width:520px){
+  body{font-size:16px}
+  .hero-img{height:340px}
+  .brands ul{justify-content:flex-start}
+}
+/* En-tête et navigation */
+header{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 94%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.bar{position:relative}
+.menu{display:flex;gap:26px;list-style:none;margin:0;padding:0;font-size:15px;align-items:center}
+.menu a,.menu button{text-decoration:none;color:var(--ink-soft);background:none;border:0;font:inherit;cursor:pointer;padding:6px 0}
+.menu a:hover,.menu button:hover,.menu [aria-current]{color:var(--ink)}
+.has-sub{position:relative}
+.has-sub>button::after{content:"";display:inline-block;width:6px;height:6px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(45deg);margin:0 0 3px 8px}
+.sub{display:block;position:absolute;top:100%;left:-18px;min-width:230px;background:var(--paper);border:1px solid var(--line);padding:10px 0;list-style:none;margin:10px 0 0;opacity:0;visibility:hidden;transform:translateY(6px);transition:opacity .18s,transform .18s,visibility .18s}
+.has-sub:hover .sub,.has-sub:focus-within .sub,.has-sub.open .sub{opacity:1;visibility:visible;transform:none}
+.sub a{display:block;padding:9px 18px;color:var(--ink)}
+.sub a small{display:block;color:var(--ink-soft);font-size:13px}
+.sub a:hover{background:var(--sand)}
+.burger{display:none;background:none;border:1px solid var(--line);color:var(--ink);font:inherit;font-size:15px;padding:8px 14px;border-radius:2px;cursor:pointer}
+@media (max-width:960px){
+  .burger{display:inline-block}
+  #mainnav{display:none;position:absolute;top:72px;left:0;right:0;background:var(--paper);border-bottom:1px solid var(--line);padding:12px 24px 20px}
+  #mainnav.open{display:block}
+  .menu{flex-direction:column;align-items:stretch;gap:0}
+  .menu>li{border-bottom:1px solid var(--line)}
+  .menu a,.menu button{display:block;width:100%;text-align:left;padding:14px 0;font-size:17px;color:var(--ink)}
+  .sub{position:static;opacity:1;visibility:visible;transform:none;display:none;border:0;background:transparent;padding:0 0 10px 12px;margin:0}
+  .has-sub.open .sub{display:block}
+}
+/* Origine : drapeaux discrets */
+.flag{display:inline-flex;width:18px;height:12px;border-radius:1px;overflow:hidden;vertical-align:middle;margin-left:8px;box-shadow:0 0 0 1px rgba(0,0,0,.1)}
+.flag i{flex:1;transform-origin:top;animation:stripe .6s ease-out both}
+.flag i:nth-child(2){animation-delay:.12s}.flag i:nth-child(3){animation-delay:.24s}
+.it i:nth-child(1){background:#009246}.it i:nth-child(2){background:#fff}.it i:nth-child(3){background:#CE2B37}
+.be i:nth-child(1){background:#1a1a1a}.be i:nth-child(2){background:#FDDA24}.be i:nth-child(3){background:#EF3340}
+@keyframes stripe{from{transform:scaleY(0)}to{transform:none}}
+/* Liseré tricolore subtil sous le titre principal */
+.tri{display:flex;gap:6px;margin:0 0 22px}
+.tri span{height:3px;width:44px;transform-origin:left;animation:draw .7s cubic-bezier(.2,.7,.2,1) both}
+.tri span:nth-child(1){background:var(--sage)}.tri span:nth-child(2){background:var(--sand-deep);animation-delay:.12s}.tri span:nth-child(3){background:var(--terra);animation-delay:.24s}
+@keyframes draw{from{transform:scaleX(0)}to{transform:none}}
+@media (prefers-reduced-motion:reduce){.flag i,.tri span{animation:none}}
+.ilink{color:var(--terra);text-decoration:underline;text-underline-offset:3px}
+.tag{color:var(--sage-deep)!important}
+.breadth{display:grid;grid-template-columns:5fr 7fr;gap:64px;align-items:center}.breadth p{margin:0;color:var(--ink-soft)}.breadth .breadth-big{font-weight:300;font-size:clamp(30px,3.4vw,46px);letter-spacing:-0.03em;line-height:1.1;color:var(--ink)}@media (max-width:960px){.breadth{grid-template-columns:1fr;gap:20px}}
+
+.promo{background:var(--sage-deep);color:#fff;font-size:15px}
+.promo .wrap{display:flex;align-items:center;justify-content:center;gap:16px;min-height:44px;padding-top:8px;padding-bottom:8px;flex-wrap:wrap;text-align:center}
+.promo a{color:#fff;font-weight:500;text-decoration:underline;text-underline-offset:3px}
+.promo .demo{font-size:12px;opacity:.8;border:1px solid rgba(255,255,255,.5);padding:1px 6px;border-radius:2px}
+
+/* Micro-interactions : sobres, rapides, sans son */
+.btn{transition:background-color .22s cubic-bezier(.2,.7,.2,1),color .22s cubic-bezier(.2,.7,.2,1),border-color .22s cubic-bezier(.2,.7,.2,1),transform .12s ease-out}
+.btn:active{transform:scale(.98)}
+.btn-solid:hover{background:color-mix(in srgb,var(--walnut) 88%,#000);color:var(--walnut-ink);border-color:color-mix(in srgb,var(--walnut) 88%,#000)}
+.ilink,.link{text-decoration:none;background-image:linear-gradient(currentColor,currentColor);background-size:100% 1px;background-position:0 100%;background-repeat:no-repeat;transition:background-size .25s ease-out}
+.ilink:hover,.link:hover{background-size:0% 1px;background-position:100% 100%}
+.menu a,.sub a{transition:color .18s ease-out,background-color .18s ease-out}
+.form-ok{grid-column:1/-1;display:none;align-items:center;gap:12px;margin:0;color:var(--sage-deep);font-weight:500}
+.form-ok.show{display:flex}
+.form-ok svg{width:28px;height:28px;flex:none}
+.form-ok circle{fill:none;stroke:var(--sage);stroke-width:2}
+.form-ok path{fill:none;stroke:var(--sage-deep);stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:24;stroke-dashoffset:24}
+.form-ok.show path{animation:tick .35s ease-out .1s forwards}
+@keyframes tick{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.btn,.ilink,.link,.menu a,.sub a{transition:none}.btn:active{transform:none}.form-ok.show path{animation:none;stroke-dashoffset:0}}
+
+/* Accessibilité (audit WCAG 2.1 AA) */
+:root{--sage-mid:#66765C;--field-line:#8C7B69}
+.skip{position:absolute;left:-9999px;top:8px;z-index:100;background:var(--ink);color:#fff;padding:10px 16px;border-radius:2px;text-decoration:none}
+.skip:focus{left:16px}
+.burger{min-height:44px;min-width:44px;padding:10px 16px}
+.form input,.form select,.form textarea{border-color:var(--field-line)}
+.form-ok circle{stroke:var(--sage-mid)}
+.step::before{color:var(--sage-mid)}
+.req{color:var(--terra)}
+.req-note{grid-column:1/-1;margin:0;font-size:14px;color:var(--ink-soft)}
+.logo{display:inline-flex;align-items:center}.logo img{height:44px;width:auto;display:block}.foot-logo{height:40px;width:auto;display:block;margin-bottom:10px}@media (max-width:560px){.logo img{height:36px}}
+
+/* Signature Italian Living avec trait de pinceau tricolore */
+.logo{gap:16px;text-decoration:none;color:var(--ink)}
+.sig{display:inline-flex;flex-direction:column;align-items:flex-start;gap:2px;padding-left:16px;border-left:1px solid var(--line)}
+.sig-text{font-size:15px;font-weight:500;letter-spacing:.01em;line-height:1.1;color:var(--ink)}
+.brush{width:96px;height:12px;display:block;filter:drop-shadow(0 0 .4px rgba(0,0,0,.35));clip-path:inset(0 100% 0 0);animation:paint .9s cubic-bezier(.3,.7,.2,1) .35s forwards}
+@keyframes paint{to{clip-path:inset(0 0 0 0)}}
+@media (prefers-reduced-motion:reduce){.brush{animation:none;clip-path:none}}
+@media (max-width:560px){.sig{padding-left:12px;gap:1px}.sig-text{font-size:13px}.brush{width:78px;height:10px}}
+@media (max-width:380px){.sig{display:none}}
+.kicker{margin:0 0 12px;font-size:15px;font-weight:500;color:var(--sage-deep);letter-spacing:.01em}
+
+/* ===== Direction « Matière italienne » ===== */
+:root{--brass:#8A6A2F;--serif:"Bodoni Moda","Didot","Bodoni 72",Georgia,serif}
+body{background:var(--bg);color:var(--ink)}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:1;opacity:.35;mix-blend-mode:multiply;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='g'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .25  0 0 0 0 .2  0 0 0 0 .15  0 0 0 .55 0'/></filter><rect width='100%' height='100%' filter='url(%23g)'/></svg>")}
+h1,h2,blockquote,.breadth-big,.proof-grid strong,.step::before{font-family:var(--serif);font-optical-sizing:auto}
+h1{font-weight:500;font-size:clamp(50px,6.6vw,104px);line-height:.98;letter-spacing:-0.02em}
+h2{font-weight:500;font-size:clamp(34px,4vw,60px);line-height:1.04;letter-spacing:-0.015em}
+blockquote,.manifest blockquote{font-weight:400;font-size:clamp(36px,4.6vw,72px);line-height:1.05;letter-spacing:-0.02em}
+.breadth .breadth-big{font-weight:400}
+.proof-grid strong{font-weight:500;letter-spacing:-0.01em}
+h3{font-family:var(--font);font-weight:600;letter-spacing:-0.005em}
+.kicker{color:var(--terra);font-weight:500;display:flex;align-items:center;gap:14px}
+.kicker::before{content:"";width:36px;height:1px;background:var(--brass)}
+.intro,.lead{color:var(--ink-soft)}
+/* Boutons : espresso franc, rosso au survol */
+.btn{border-radius:0;letter-spacing:.01em;padding:15px 26px}
+.btn-solid{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.btn-solid:hover{background:var(--terra);border-color:var(--terra);color:#fff}
+.btn-ghost{border-color:var(--ink);color:var(--ink)}
+.btn-ghost:hover{background:var(--ink);color:var(--bg)}
+/* Filets laiton et rythme */
+section{padding:132px 0}
+.proofs,.manifest,.final,.tops{background:var(--sand)}
+.proof-grid div,.points div,.craft-grid div,.cards3 div{border-top:1px solid var(--brass)}
+.trades li{border-top-color:var(--brass)}
+.tag{color:var(--brass)!important;font-weight:600;letter-spacing:.02em}
+.ilink,.link{color:var(--terra)}
+/* Images : plein cadre, reflet au survol, dévoilement à l'arrivée */
+.ph{box-shadow:0 1px 0 rgba(35,31,28,.08)}
+.ph::before{content:"";position:absolute;inset:0;background:linear-gradient(115deg,transparent 35%,rgba(255,255,255,.28) 50%,transparent 65%);transform:translateX(-120%);transition:transform 1.1s cubic-bezier(.2,.7,.2,1);pointer-events:none;z-index:1}
+.space:hover .ph::before,.brand:hover .ph::before,.made>div:hover .ph::before,.systems>div:hover .ph::before{transform:translateX(120%)}
+.hero .ph,.hero-img{animation:unveil 1.3s cubic-bezier(.7,0,.2,1) both}
+@keyframes unveil{from{clip-path:inset(0 0 100% 0)}to{clip-path:inset(0 0 0 0)}}
+.hero-panel,.hero-text{background:var(--bg)}
+/* Bandeaux sombres (contraste) */
+.promo{background:var(--ink)}
+div.pro{background:var(--ink)!important}
+div.pro .btn:hover{color:var(--ink)}
+footer{background:var(--ink);color:#CFC6B8}
+footer .foot-logo{filter:invert(1) brightness(1.1)}
+footer a{color:#F2EDE4}
+.note{background:var(--sand);color:var(--ink-soft)}
+@media (prefers-reduced-motion:reduce){.hero .ph,.hero-img{animation:none}.ph::before{display:none}}
+@media (max-width:960px){section{padding:88px 0}}
+
+/* Lisibilité des titres (retour client) */
+html{background:var(--bg)}
+body{background:transparent}
+body::before{z-index:-1;opacity:.22}
+h1,h2,blockquote,.breadth-big,.proof-grid strong,.step::before{font-optical-sizing:none;font-variation-settings:"opsz" 11}
+h1{font-weight:600;letter-spacing:-0.01em;line-height:1.04;color:var(--ink)}
+h2{font-weight:600;letter-spacing:-0.005em;line-height:1.08}
+blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-height:1.1}
+.hero-panel,.hero-text{background:var(--paper)}
+
+.sig-text{white-space:nowrap}
+.sig{justify-content:center}
+@media (min-width:961px) and (max-width:1219px){.sig{display:none}}
+.bar .cta-top{white-space:nowrap}
+
+
+/* Bande matières (accueil) */
+.materials-band{background:var(--paper)}
+.materials{list-style:none;margin:56px 0 0;padding:0;display:grid;grid-template-columns:repeat(8,1fr);gap:14px}
+.materials li{display:flex;flex-direction:column;gap:8px}
+.materials b{font-weight:600;font-size:15px;letter-spacing:-0.005em}
+.materials small{font-size:13px;color:var(--ink-soft)}
+.mat{display:block;aspect-ratio:4/5;position:relative;overflow:hidden;box-shadow:0 1px 0 rgba(35,31,28,.08)}
+.mat::after{content:attr(data-label);position:absolute;left:8px;right:8px;bottom:8px;font-size:11px;line-height:1.3;color:var(--ink);background:rgba(255,255,255,.82);padding:3px 6px}
+.mat-noyer{background:repeating-linear-gradient(97deg,#5E3F2B 0 3px,#6E4E36 3px 11px,#553827 11px 13px,#6E4E36 13px 26px)}
+.mat-chene{background:repeating-linear-gradient(94deg,#C2A57E 0 2px,#D3BB94 2px 12px,#C9B08A 12px 13px,#D3BB94 13px 30px)}
+.mat-laque{background:linear-gradient(160deg,#DDD2C1,#D9CEBC)}
+.mat-fenix{background:linear-gradient(160deg,#2F2D2A,#232120)}
+.mat-boucle{background:radial-gradient(circle at 30% 30%,rgba(255,255,255,.6) 1px,transparent 2px) 0 0/9px 9px,#EFE8DC}
+.mat-cuir{background:radial-gradient(circle at 40% 40%,rgba(0,0,0,.08) 1px,transparent 2px) 0 0/6px 6px,#8A5A3C}
+.mat-pierre{background:repeating-linear-gradient(0deg,rgba(255,255,255,.18) 0 1px,transparent 1px 5px),linear-gradient(160deg,#DCD3C4,#CFC4B2)}
+.mat-laiton{background:linear-gradient(115deg,#9E7E4C,#C9A764 45%,#A88B57)}
+@media (max-width:960px){.materials{grid-template-columns:repeat(4,1fr)}}
+@media (max-width:560px){.materials{grid-template-columns:repeat(2,1fr);gap:12px}}
+/* Étiquettes des emplacements photo : plus discrètes */
+.ph::after{font-size:11px;letter-spacing:.02em;background:rgba(248,244,236,.85);padding:3px 7px;border-radius:0}
+
+/* Netteté : le grain de papier lisait comme une pixellisation sur les écrans de téléphone (haute densité). Plus fin sur bureau, absent sur mobile. */
+body::before{opacity:.10;background-size:110px 110px}
+@media (max-width:960px),(min-resolution:2dppx){body::before{display:none}}
+/* Emplacements photo : aplats doux plutôt que trames (les trames font moirer les écrans Retina) */
+@media (min-resolution:2dppx){.ph-walnut,.ph-oak{background:linear-gradient(97deg,var(--ph-b),var(--ph-a))}.ph-boucle{background:var(--ph-c)}.ph-linen{background:var(--ph-d)}}
+
+/* Menu ouvert — bureau : sous-menu éditorial */
+.sub{min-width:320px;left:-22px;padding:18px 0 14px;border-top:2px solid var(--brass);box-shadow:0 18px 40px rgba(35,31,28,.10)}
+.sub a{padding:12px 24px 12px 24px;font-family:var(--serif);font-size:22px;line-height:1.1;font-weight:500;letter-spacing:-0.005em;color:var(--ink);border-left:2px solid transparent}
+.sub a small{font-family:var(--font);font-size:13px;line-height:1.4;margin-top:4px;letter-spacing:0}
+.sub a:hover,.sub a:focus-visible{background:var(--sand);border-left-color:var(--terra);color:var(--terra)}
+.sub a[aria-current]{color:var(--terra)}
+/* Menu ouvert — mobile : panneau plein écran, entrées en serif, actions en bas */
+@media (max-width:960px){
+  #mainnav.open{display:flex;flex-direction:column;height:calc(100dvh - 72px);overflow:auto;padding:8px 24px 28px}
+  .menu>li{border-bottom:1px solid var(--line)}
+  .menu>li:not(.menu-actions)>a,.menu>li>button{font-family:var(--serif);font-size:28px;font-weight:500;letter-spacing:-0.005em;padding:16px 0;color:var(--ink);line-height:1.1}
+  .has-sub>button::after{width:8px;height:8px;margin:0 0 6px 12px;transition:transform .2s}
+  .has-sub.open>button::after{transform:rotate(225deg);margin-bottom:0}
+  .sub{min-width:0;box-shadow:none;border-top:0;padding:0 0 12px 0}
+  .sub a{font-family:var(--font);font-size:17px;font-weight:500;padding:10px 0 10px 18px;border-left:1px solid var(--brass)}
+  .sub a small{font-size:13px}
+  .sub a:hover,.sub a:focus-visible{background:transparent;border-left-color:var(--terra)}
+  .menu-actions{margin-top:auto;padding-top:24px;display:flex;flex-direction:column;gap:12px}
+  .menu-actions .btn{text-align:center;font-family:var(--font);font-size:15px;font-weight:500;padding:15px 26px;border:1px solid var(--ink)}
+  .menu-actions .btn-solid{background:var(--ink);color:var(--bg)}
+  .menu-actions .btn-ghost{background:transparent;color:var(--ink)}
+  .menu-actions p{margin:6px 0 0;font-size:14px;color:var(--ink-soft)}
+  .burger[aria-expanded="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+}
+@media (min-width:961px){.menu-actions{display:none}}
+
+/* En-tête : trois zones équilibrées (logo · menu centré · action) */
+@media (min-width:961px){.bar{display:grid;grid-template-columns:1fr auto 1fr;align-items:center}.bar>nav{justify-self:center}.bar>.cta-top{justify-self:end}}
+/* Bandeau promo : une ligne sur mobile */
+.promo .short{display:none}
+@media (max-width:560px){.promo .wrap{min-height:40px;padding-top:6px;padding-bottom:6px;font-size:14px;flex-wrap:nowrap;justify-content:space-between;text-align:left;gap:12px}.promo .long{display:none}.promo .short{display:inline}.promo a{flex:none}}
+/* Deux sections de même fond qui se suivent : la seconde ne redouble pas la marge */
+.tops + .final,.proofs + .tops,.tops + .tops,.proofs + .proofs{padding-top:40px}
+/* Barre d'actions mobile : trois cellules égales, toujours à portée du pouce */
+.mobile-bar{display:none}
+@media (max-width:960px){
+  body{padding-bottom:64px}
+  .mobile-bar{position:fixed;left:0;right:0;bottom:0;z-index:30;display:grid;grid-template-columns:repeat(3,1fr);background:#231F1C;border-top:1px solid #8A6A2F;padding-bottom:env(safe-area-inset-bottom)}
+  .mobile-bar a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;min-height:64px;color:#F2EDE4;text-decoration:none;font-size:12px;letter-spacing:.04em;text-transform:uppercase;border-right:1px solid rgba(242,237,228,.12)}
+  .mobile-bar a:last-child{border-right:0}
+  .mobile-bar svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+  .mobile-bar a:active{background:var(--terra)}
+  .nav-open .mobile-bar{display:none}
+  footer{padding-bottom:24px}
+}
+
+
+/* Photos en place : plein cadre dans l'emplacement, étiquette masquée */
+.ph.has-img::after,.mat.has-img::after{display:none}
+.ph.has-img>img,.mat.has-img>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.ph.has-img{background:var(--sand-deep)}
+
+
+/* Blocs dont la photo n'est pas encore fournie : carte de texte, filet laiton en haut */
+.brand:not(:has(img)),.made>div:not(:has(img)),.sectors>div:not(:has(img)),
+.sleep>div:not(:has(img)),.top-grid>div:not(:has(img)){border-top:1px solid var(--brass);padding-top:20px}
+.top-grid>div:not(:has(img)){padding-top:14px}
+.brand:not(:has(img)) h3,.made>div:not(:has(img)) h3,.sectors>div:not(:has(img)) h3,
+.sleep>div:not(:has(img)) h3,.top-grid>div:not(:has(img)) h3{margin-top:0}
+/* Texte + photo : sans photo, le texte prend toute la largeur */
+.spot:not(:has(img)),.offer:not(:has(img)),.final-grid:not(:has(img)),
+.visit-grid:not(:has(img)),.living-grid:not(:has(img)){grid-template-columns:1fr;gap:28px}
+.spot:not(:has(img)){margin-top:56px;background:var(--sand)}
+.spot:not(:has(img)) .spot-body{padding:40px 44px}
+.offer:not(:has(img)) .offer-body{padding:0}
+/* Héros sans photo : le panneau devient le héros, aligné sur la grille du site */
+.hero:not(:has(img)){min-height:auto;padding:72px 0 8px;display:block}
+.hero:not(:has(img)) .hero-panel{position:static;background:transparent;box-shadow:none;
+  max-width:var(--max);margin:0 auto;padding:0 24px}
+.hero:not(:has(img)) .hero-panel h1{max-width:16ch}
+@media (max-width:960px){
+  .hero:not(:has(img)){padding:40px 0 0}
+  .hero:not(:has(img)) .hero-panel{margin:0;padding:0 24px}
+  .spot:not(:has(img)) .spot-body{padding:28px 24px}
+}
+
+.foot a{display:inline-block;padding:5px 0}
+
+/* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
+.pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
+.pop[open],.pop.show{display:flex}
+.pop-fond{position:absolute;inset:0;background:rgba(35,31,28,.42)}
+.pop-boite{position:relative;background:var(--paper);max-width:440px;width:100%;padding:40px 40px 32px;
+  border-top:2px solid var(--brass);box-shadow:0 24px 60px rgba(35,31,28,.22);animation:pop-e .32s cubic-bezier(.2,.7,.2,1) both}
+@keyframes pop-e{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.pop-boite h2{font-size:clamp(28px,3vw,38px);margin:0 0 14px}
+.pop-boite p{color:var(--ink-soft);margin:0 0 26px}
+.pop-x{position:absolute;top:8px;right:8px;width:44px;height:44px;border:0;background:none;color:var(--ink-soft);
+  font-size:26px;line-height:1;cursor:pointer;border-radius:2px}
+.pop-x:hover{color:var(--ink)}
+@media (max-width:560px){
+  .pop{align-items:flex-end;padding:0}
+  .pop-boite{max-width:none;padding:28px 24px 24px;animation-name:pop-b}
+  @keyframes pop-b{from{transform:translateY(100%)}to{transform:none}}
+}
+@media (prefers-reduced-motion:reduce){.pop-boite{animation:none}}
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FurnitureStore","name":"Fony Meubles","legalName":"FONY — MEUBLES SRL",
+ "url":"https://www.fony.be/","telephone":"+3264460772","email":"fonymeubles@hotmail.com","vatID":"BE0449562534",
+ "address":{"@type":"PostalAddress","streetAddress":"Route de Charleroi 160/1","postalCode":"7134","addressLocality":"Leval-Trahegnies","addressRegion":"Hainaut","addressCountry":"BE"},
+ "openingHoursSpecification":[
+  {"@type":"OpeningHoursSpecification","dayOfWeek":"Monday","opens":"13:30","closes":"18:30"},
+  {"@type":"OpeningHoursSpecification","dayOfWeek":["Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"10:30","closes":"18:30"}],
+ "priceRange":"€€"}
+</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+
+<div class="promo" id="promo" role="region" aria-label="Opération en cours" hidden>
+  <div class="wrap"><span class="long">Journées Relax : venez essayer nos canapés relax, le café est offert.</span><span class="short">Journées Relax : essayez nos relax.</span><a href="offre-du-moment">Voir l'offre</a></div>
+</div>
+
+
+<header>
+  <div class="wrap bar">
+    <a class="logo" href="#contenu"><img src="assets/logo-fony.png" alt="Fony Meubles – accueil" width="365" height="120"><span class="sig"><span class="sig-text">Italian Living</span></span></a>
+    <nav id="mainnav" aria-label="Menu principal">
+      <ul class="menu">
+        <li class="has-sub"><button type="button" aria-expanded="false">Collections</button>
+          <ul class="sub">
+            <li><a href="living">Living<small>Salons, relax, séjour, chambre</small></a></li>
+            <li><a href="sur-mesure">Sur mesure<small>Dressing, bibliothèque, meuble TV</small></a></li>
+            <li><a href="cuisine">Cuisine<small>Cuisines italiennes Stosa</small></a></li>
+            <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
+          </ul>
+        </li>
+        <li><a href="sur-mesure#realisations">Réalisations</a></li>
+        <li><a href="magasin-contact#nous-venons">Notre accompagnement</a></li>
+        <li><a href="espace-pro">Espace pro</a></li>
+        <li><a href="magasin-contact">Magasin &amp; contact</a></li>
+      <li class="menu-actions">
+        <a class="btn btn-solid" href="magasin-contact#visite">Venir au magasin</a>
+        <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
+        <p>Lun. 13h30–18h30 · Mar.–sam. 10h30–18h30</p>
+      </li>
+      </ul>
+    </nav>
+    <a class="btn btn-solid cta-top" href="#visite">Venir au magasin</a>
+    <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
+  </div>
+</header>
+
+<main id="contenu">
+
+  <div class="wrap hero">
+    <div class="hero-grid">
+      <div class="ph has-img ph-walnut hero-img" data-label="Photo à venir : salon exposé en magasin, lumière naturelle"><img src="assets/img/tom-appartement-1400.webp" srcset="assets/img/tom-appartement-600.webp 600w, assets/img/tom-appartement-900.webp 900w, assets/img/tom-appartement-1400.webp 1400w, assets/img/tom-appartement-1920.webp 1920w" sizes="(max-width:960px) 100vw, 62vw" alt="Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure" width="1920" height="928" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></div>
+      <div class="hero-text">
+        <p class="kicker">Mobilier, sur mesure et cuisine à Leval-Trahegnies</p>
+      <h1>Des pièces où l'on a envie de rester.</h1>
+        <p class="lead">Le canapé des soirées qui s'étirent, la table des longs dimanches. Salon, sur mesure et cuisine, choisis avec vous.</p>
+        <div class="actions">
+          <a class="btn btn-solid" href="#visite">Venir au magasin</a>
+          <a class="btn btn-ghost" href="magasin-contact#visite">Parler de mon projet</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section id="amenagements">
+    <div class="wrap">
+      <h2>Ce que nous aménageons</h2>
+      <p class="intro">Du salon au dressing, chaque projet part de votre pièce, de vos habitudes et de votre budget.</p>
+      <div class="spaces">
+        <a class="space space-living" href="living">
+          <div class="ph has-img ph-boucle" data-label="Photo à venir : canapé relax, tissu bouclé"><img src="assets/img/tom-meuble-tv-1400.webp" srcset="assets/img/tom-meuble-tv-600.webp 600w, assets/img/tom-meuble-tv-900.webp 900w, assets/img/tom-meuble-tv-1400.webp 1400w, assets/img/tom-meuble-tv-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Meuble TV Tomasella avec rangements suspendus dans un salon" width="1900" height="825" loading="lazy" decoding="async" data-credit="Tomasella"></div>
+          <div class="space-body">
+            <div><h3>Living</h3><p>Canapés, relax, tables et chambres, à essayer avant de choisir.</p></div>
+            <span class="link">Voir le living</span>
+          </div>
+        </a>
+        <a class="space space-small" href="sur-mesure">
+          <div class="ph has-img ph-linen" data-label="Photo à venir : dressing sur mesure"><img src="assets/img/tom-walkin-1400.webp" srcset="assets/img/tom-walkin-600.webp 600w, assets/img/tom-walkin-900.webp 900w, assets/img/tom-walkin-1400.webp 1400w, assets/img/tom-walkin-1431.webp 1431w" sizes="(max-width:960px) 100vw, 50vw" alt="Dressing ouvert Tomasella : penderies et tiroirs en bois chaud" width="1431" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></div>
+          <div class="space-body">
+            <div><h3>Sur mesure</h3><p>Dressing, sous-pente ou bibliothèque, dessinés au centimètre.</p></div>
+            <span class="link">Voir le sur mesure</span>
+          </div>
+        </a>
+        <a class="space space-small" href="cuisine">
+          <div class="ph has-img ph-stone" data-label="Photo à venir : cuisine réalisée par Fony"><img src="assets/img/stosa-accueil-1400.webp" srcset="assets/img/stosa-accueil-600.webp 600w, assets/img/stosa-accueil-900.webp 900w, assets/img/stosa-accueil-1400.webp 1400w, assets/img/stosa-accueil-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Metropolis : façades sombres et plan de travail clair" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Metropolis"></div>
+          <div class="space-body">
+            <div><h3>Cuisine</h3><p>Cuisines italiennes Stosa, de la prise de mesures à la pose.</p></div>
+            <span class="link">Voir la cuisine</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="materials-band" aria-labelledby="matieres-titre">
+    <div class="wrap">
+      <p class="kicker">Matières</p>
+      <h2 id="matieres-titre">Ce que l’on touche avant de choisir.</h2>
+      <p class="intro">Bois, laques, tissus, pierre : les échantillons sont au magasin, à poser côte à côte.</p>
+      <ul class="materials">
+        <li><span class="mat mat-noyer has-img" data-label="Photo macro à venir : noyer"><img src="assets/img/mat-noyer-960.webp" srcset="assets/img/mat-noyer-480.webp 480w, assets/img/mat-noyer-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : noyer ambré" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></span><b>Noyer ambré</b><small>Tomasella · Materico</small></li>
+        <li><span class="mat mat-chene has-img" data-label="Photo macro à venir : chêne clair"><img src="assets/img/mat-chene-960.webp" srcset="assets/img/mat-chene-480.webp 480w, assets/img/mat-chene-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : chêne sable" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Legno"></span><b>Chêne sable</b><small>Tomasella · Legno</small></li>
+        <li><span class="mat mat-laque has-img" data-label="Photo macro à venir : laque mate sable"><img src="assets/img/mat-laque-960.webp" srcset="assets/img/mat-laque-480.webp 480w, assets/img/mat-laque-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : laque mate Arena" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></span><b>Laque mate Arena</b><small>Tomasella · Laccato</small></li>
+        <li><span class="mat mat-fenix has-img" data-label="Photo macro à venir : Fenix noir"><img src="assets/img/mat-ciment-960.webp" srcset="assets/img/mat-ciment-480.webp 480w, assets/img/mat-ciment-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : ciment cava" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></span><b>Ciment cava</b><small>Tomasella · Materico</small></li>
+        <li><span class="mat mat-boucle has-img" data-label="Photo macro à venir : tissu bouclé"><img src="assets/img/mat-cannele-960.webp" srcset="assets/img/mat-cannele-480.webp 480w, assets/img/mat-cannele-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : chêne cannelé cognac" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Legno"></span><b>Chêne cannelé</b><small>Tomasella · Legno</small></li>
+        <li><span class="mat mat-cuir has-img" data-label="Photo macro à venir : cuir cognac"><img src="assets/img/mat-lin-960.webp" srcset="assets/img/mat-lin-480.webp 480w, assets/img/mat-lin-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : lin texturé" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></span><b>Lin texturé</b><small>Tomasella · Materico</small></li>
+        <li><span class="mat mat-pierre has-img" data-label="Photo macro à venir : travertin"><img src="assets/img/mat-pierre-960.webp" srcset="assets/img/mat-pierre-480.webp 480w, assets/img/mat-pierre-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : pierre piasentina" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></span><b>Pierre piasentina</b><small>Tomasella · Materico</small></li>
+        <li><span class="mat mat-laiton has-img" data-label="Photo macro à venir : laiton brossé"><img src="assets/img/mat-laiton-960.webp" srcset="assets/img/mat-laiton-480.webp 480w, assets/img/mat-laiton-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : laque métallisée laiton" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></span><b>Laiton métallisé</b><small>Tomasella · Laccato</small></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="manifest">
+    <div class="wrap manifest-grid">
+      <blockquote>Nous ne cherchons pas à remplir une pièce. Nous cherchons à lui donner une cohérence.</blockquote>
+      <p>Nous sélectionnons des fabricants <a class="ilink" href="#marques">italiens, belges et européens</a> pour la qualité de leurs matériaux et de leur fabrication. Notre rôle : vous aider à faire les bons choix pour les moments qui comptent, du café du matin aux repas en famille.</p>
+    </div>
+  </section>
+
+  <div class="brands" id="marques">
+    <div class="wrap breadth">
+      <p class="breadth-big">Pourquoi l'Italie.</p>
+      <p>Ce n'est pas un choix de style, c'est un choix de fabrication. Les ateliers italiens travaillent des matières qui supportent qu'on les regarde de près — le bois, le cuir, la laque — et des assemblages qui tiennent dans le temps. Nous choisissons d'abord là-dessus ; le dessin vient avec. Quelques ateliers belges et européens complètent la sélection, retenus sur le même critère. Une partie est exposée en magasin, le reste se découvre sur catalogue, avec nous : <a class="ilink" href="living">salons et séjour</a>, <a class="ilink" href="sur-mesure">sur mesure</a>, <a class="ilink" href="cuisine">cuisines Stosa</a>.</p>
+    </div>
+  </div>
+
+  <section id="visite">
+    <div class="wrap visit-grid">
+      <div class="visit-card">
+        <div>
+          <h2>Passez nous voir.</h2>
+          <p class="lead">Une trentaine de salons à essayer, les matières et les finitions en main. Le café est offert.</p>
+        </div>
+        <dl>
+          <dt>Adresse</dt><dd>160/1 route de Charleroi<br>7134 Leval-Trahegnies</dd>
+          <dt>Lundi</dt><dd>13h30 – 18h30</dd>
+          <dt>Mardi au samedi</dt><dd>10h30 – 18h30</dd>
+          <dt>Dimanche</dt><dd>Fermé</dd>
+          <dt>Téléphone</dt><dd><a href="tel:+3264460772">064 46 07 72</a></dd>
+        </dl>
+        <div class="actions">
+          <a class="btn btn-solid" href="magasin-contact#visite">Préparer ma visite</a>
+          <a class="btn btn-ghost" href="https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener">Itinéraire</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap foot">
+    <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a></div>
+    <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var b=document.querySelector('.burger'),n=document.getElementById('mainnav');
+  function closeNav(){if(n&&n.classList.contains('open')){n.classList.remove('open');b.setAttribute('aria-expanded','false');b.focus();}}
+  if(b&&n){b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');b.textContent=o?'Fermer':'Menu';document.documentElement.style.overflow=o?'hidden':'';document.body.classList.toggle('nav-open',o);if(o){var hs=n.querySelector('.has-sub');if(hs){hs.classList.add('open');var hb=hs.querySelector('button');if(hb)hb.setAttribute('aria-expanded','true');}}});}
+  document.querySelectorAll('.has-sub').forEach(function(li){
+    var btn=li.querySelector('button');
+    function set(o){li.classList.toggle('open',o);btn.setAttribute('aria-expanded',o?'true':'false');}
+    btn.addEventListener('click',function(){set(!li.classList.contains('open'));});
+    li.addEventListener('mouseenter',function(){if(window.matchMedia('(min-width:961px)').matches)set(true);});
+    li.addEventListener('mouseleave',function(){if(window.matchMedia('(min-width:961px)').matches)set(false);});
+    li.addEventListener('keydown',function(e){if(e.key==='Escape'&&li.classList.contains('open')){set(false);btn.focus();e.stopPropagation();}});
+  });
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')closeNav();});
+})();
+</script>
+<nav class="mobile-bar" aria-label="Actions rapides">
+  <a href="tel:+3264460772"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg>Appeler</a>
+  <a href="https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Itinéraire</a>
+  <a href="magasin-contact#visite"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="1"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Rendez-vous</a>
+</nav>
+<div class="pop" id="pop" role="dialog" aria-modal="true" aria-labelledby="pop-t" data-delai="25" data-repos="7" hidden>
+  <div class="pop-fond" data-fermer></div>
+  <div class="pop-boite">
+    <button class="pop-x" type="button" data-fermer aria-label="Fermer">×</button>
+    <h2 id="pop-t">Journées Relax</h2>
+    <p>Venez essayer nos canapés et fauteuils relax. Nous vous montrons les fonctions et vous aidons à trouver la bonne position. Le café est offert.</p>
+    <a class="btn btn-solid" href="offre-du-moment">Réserver un moment</a>
+  </div>
+</div>
+<script>
+(function(){
+  var P=document.getElementById('promo'), M=document.getElementById('pop');
+  function txt(el,s){ if(el) el.textContent=s||''; }
+  function cle(s){ return s.trim().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'_').replace(/^_|_$/g,''); }
+  function oui(v){ return ['oui','o','yes','true','1'].indexOf(cle(v||'no'))>=0; }
+
+  function popup(){
+    if(!M || M.hidden) return;
+    var repos=parseInt(M.dataset.repos||'7',10), delai=(parseInt(M.dataset.delai||'25',10))*1000, vu=0, pret=false, moitie=false;
+    try{ vu=parseInt(localStorage.getItem('fony-pop')||'0',10)||0; }catch(e){}
+    if(Date.now()-vu < repos*86400000) return;
+    var rendre=null;
+    function ouvrir(){
+      if(!pret||!moitie||M.classList.contains('show')) return;
+      rendre=document.activeElement; M.classList.add('show');
+      var b=M.querySelector('.pop-x'); if(b) b.focus();
+      try{ localStorage.setItem('fony-pop',String(Date.now())); }catch(e){}
+    }
+    function fermer(){
+      M.classList.remove('show'); M.hidden=true;
+      if(rendre&&rendre.focus) rendre.focus();
+    }
+    setTimeout(function(){ pret=true; ouvrir(); }, delai);
+    function lu(){
+      var h=document.documentElement;
+      if((h.scrollTop+window.innerHeight)/h.scrollHeight > 0.5){ moitie=true; ouvrir(); window.removeEventListener('scroll',lu); }
+    }
+    window.addEventListener('scroll',lu,{passive:true}); lu();
+    M.addEventListener('click',function(e){ if(e.target.closest('[data-fermer]')) fermer(); });
+    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&M.classList.contains('show')) fermer(); });
+    M.addEventListener('keydown',function(e){
+      if(e.key!=='Tab') return;
+      var f=M.querySelectorAll('button,a[href]'); if(!f.length) return;
+      var p=f[0], d=f[f.length-1];
+      if(e.shiftKey&&document.activeElement===p){ d.focus(); e.preventDefault(); }
+      else if(!e.shiftKey&&document.activeElement===d){ p.focus(); e.preventDefault(); }
+    });
+  }
+
+  fetch('campagne.txt',{cache:'no-cache'}).then(function(r){ return r.ok?r.text():null; }).then(function(t){
+    if(!t) return;
+    var c={};
+    t.split('\n').forEach(function(l){
+      l=l.trim(); if(!l||l.charAt(0)==='#') return;
+      var i=l.indexOf(':'); if(i<0) return;
+      c[cle(l.slice(0,i))]=l.slice(i+1).trim();
+    });
+    var mort=false;
+    if(c.fin){ var d=new Date(c.fin); if(!isNaN(d)&&d<new Date(new Date().toDateString())) mort=true; }
+    if(P){
+      var on=!mort&&oui(c.bandeau_actif);
+      if(on){
+        txt(P.querySelector('.long'), c.bandeau_texte);
+        txt(P.querySelector('.short'), c.bandeau_texte_court||c.bandeau_texte);
+        var a=P.querySelector('a');
+        if(a){ a.textContent=c.bandeau_libelle||"Voir l'offre"; if(c.bandeau_lien) a.setAttribute('href',c.bandeau_lien); }
+      }
+      P.hidden=!on;
+    }
+    if(M){
+      var onm=!mort&&oui(c.popup_actif);
+      if(onm){
+        txt(M.querySelector('#pop-t'), c.popup_titre);
+        txt(M.querySelector('.pop-boite p'), c.popup_texte);
+        var b=M.querySelector('.pop-boite a');
+        if(b){ b.textContent=c.popup_bouton||'En savoir plus'; if(c.popup_lien) b.setAttribute('href',c.popup_lien); }
+        if(c.popup_delai) M.dataset.delai=c.popup_delai;
+        if(c.popup_repos) M.dataset.repos=c.popup_repos;
+      }
+      M.hidden=!onm;
+    }
+  }).catch(function(){}).then(popup);
+})();
+</script>
+</body>
+</html>

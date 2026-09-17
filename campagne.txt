@@ -1,0 +1,115 @@
+# =====================================================================
+#  FONY — RÉGLAGES DES OPÉRATIONS
+# =====================================================================
+#
+#  Ce fichier commande le bandeau en haut du site, le pop-up et la page
+#  de campagne. Vous pouvez le modifier vous-même, en ligne, sans rien
+#  installer : le site se met à jour tout seul dans la minute.
+#
+#  RÈGLES DU FICHIER
+#  - une ligne = un réglage, sous la forme   nom : valeur
+#  - une ligne qui commence par #  est un commentaire, elle est ignorée
+#  - pour allumer ou éteindre : oui / non
+#  - une valeur vide = rien ne s'affiche
+#  - si ce fichier est mal rempli ou absent, RIEN ne s'affiche.
+#    Le site continue de fonctionner normalement. Vous ne pouvez pas
+#    le casser depuis ici.
+#
+#  LA DATE DE FIN EST LA SÉCURITÉ IMPORTANTE
+#  Passé cette date, le bandeau, le pop-up et la page de campagne
+#  s'éteignent d'eux-mêmes. Une offre périmée ne peut pas rester
+#  affichée parce qu'on a oublié de l'enlever.
+#
+# =====================================================================
+
+
+# ---------------------------------------------------------------------
+#  1. DATE DE FIN  (format : 2026-10-18  =  18 octobre 2026)
+#     Laissez vide s'il n'y a pas d'échéance.
+# ---------------------------------------------------------------------
+
+fin :
+
+
+# ---------------------------------------------------------------------
+#  2. BANDEAU EN HAUT DE PAGE
+#     Visible sur toutes les pages. Discret, il ne gêne personne.
+#     C'est l'outil le plus sûr : à privilégier avant le pop-up.
+# ---------------------------------------------------------------------
+
+bandeau actif : non
+
+# Le texte affiché sur ordinateur (une phrase, sans point final obligatoire)
+bandeau texte : Journées Relax : venez essayer nos canapés relax, le café est offert.
+
+# La version courte, affichée sur téléphone (6 à 8 mots maximum)
+bandeau texte court : Journées Relax : essayez nos relax.
+
+# Où mène le lien, et comment il s'appelle
+bandeau lien : offre-du-moment.html
+bandeau libellé : Voir l'offre
+
+
+# ---------------------------------------------------------------------
+#  3. POP-UP
+#     Apparaît une seule fois par visiteur, après un délai ET après
+#     qu'il a lu la moitié de la page. Jamais à l'arrivée : c'est ce qui
+#     fait fuir et ce que Google pénalise sur téléphone.
+#     À réserver à un vrai événement daté.
+# ---------------------------------------------------------------------
+
+popup actif : non
+
+popup titre : Journées Relax
+popup texte : Venez essayer nos canapés et fauteuils relax. Nous vous montrons les fonctions et vous aidons à trouver la bonne position. Le café est offert.
+popup bouton : Réserver un moment
+popup lien : offre-du-moment.html
+
+# Secondes avant qu'il puisse apparaître (25 est un bon réglage)
+popup délai : 25
+
+# Jours avant de le remontrer à quelqu'un qui l'a fermé (7 est raisonnable)
+popup repos : 7
+
+
+# ---------------------------------------------------------------------
+#  4. PAGE DE CAMPAGNE
+#     Une page seule, sans menu et sans distraction, faite pour recevoir
+#     le trafic d'une publicité Facebook, d'un flyer ou d'un QR code.
+#     Elle n'existe QUE si elle est allumée : tant que c'est « non »,
+#     la page n'est pas créée du tout. Rien d'inachevé en ligne.
+#     Elle est créée à l'adresse /campagne
+# ---------------------------------------------------------------------
+
+campagne active : non
+
+campagne titre : Journées Relax
+campagne accroche : Le confort se choisit assis.
+campagne texte : Pendant deux semaines, venez essayer nos canapés et fauteuils relax, italiens et européens. Nous vous montrons les différentes fonctions et nous vous aidons à trouver la bonne position. Le café est offert.
+
+# Les trois arguments, séparés par une barre verticale |
+campagne arguments : Une trentaine de salons exposés | Essai libre, sans rendez-vous | Conseil par quelqu'un qui connaît les produits
+
+# Le bouton principal, et ce qu'on demande dans le formulaire
+campagne bouton : Réserver un moment
+# Le visuel de la page. Écrivez un des noms ci-dessous, tel quel.
+# Si le nom est faux, la page s'affiche simplement sans image — rien ne casse.
+#     stosa-accueil            Cuisine Stosa Metropolis : façades sombres et plan de trav
+#     stosa-bois-macro         Plan de travail en chêne noueux Stosa, vue rapprochée
+#     stosa-hero               Cuisine Stosa Metropolis ouverte sur le séjour, façades ma
+#     stosa-hpl                Plan de travail stratifié HPL Stosa, vue rapprochée
+#     stosa-ilot               Cuisine moderne Stosa Metropolis avec îlot central
+#     stosa-living             Cuisine Stosa Infinity et séjour dans la même pièce
+#     tom-appartement          Appartement avec vue : séjour Tomasella, canapé et rangeme
+#     tom-armoire              Armoire Tomasella Carmen à portes battantes laquées
+#     tom-atlante-villa        Séjour Tomasella Atlante : meuble TV suspendu et rangement
+#     tom-bibliotheque         Bibliothèque murale Tomasella avec niches et éclairage int
+#     tom-chambre              Chambre Tomasella Corinto : lit tapissé et chevets assorti
+#     tom-dressing             Armoire-dressing Tomasella Doxa à portes coulissantes
+#     tom-finition             Détail de finition Tomasella : façade laquée et poignée in
+#     tom-living-panorama      Séjour Tomasella : canapé en tissu clair, bibliothèque bas
+#     tom-meuble-tv            Meuble TV Tomasella avec rangements suspendus dans un salo
+#     tom-table                Table et buffet Tomasella dans un séjour urbain
+#     tom-time                 Séjour Tomasella Time : composition murale en laque et boi
+#     tom-walkin               Dressing ouvert Tomasella : penderies et tiroirs en bois c
+campagne image : tom-living-panorama
