@@ -410,6 +410,14 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (max-width:1219px){.social-top{display:none}}
 @media (max-width:960px){.bar>.bar-right{display:none}}
 .menu-social a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
+@media (max-width:960px){
+  .menu-social{display:flex;align-items:center;gap:12px}
+  .menu-social a{display:inline-block;width:auto;padding:8px 0}
+  /* 18/09 : dans le panneau mobile, « .menu a:hover » passait le texte du bouton noir en noir sur fond noir
+     (sur téléphone, le survol reste collé après le toucher) : bouton vide au moment où l'on appuie. */
+  .menu li.menu-actions a.btn-solid:hover,.menu li.menu-actions a.btn-solid:focus{color:var(--bg);background:var(--ink)}
+  .menu li.menu-actions a.btn-ghost:hover,.menu li.menu-actions a.btn-ghost:focus{color:var(--ink);background:transparent}
+}
 .foot .social a{white-space:nowrap}
 .social-band{background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:56px 0}
 .social-grid{display:grid;grid-template-columns:7fr 5fr;gap:48px;align-items:center}
@@ -698,7 +706,7 @@ body::before{opacity:.10;background-size:110px 110px}
 (function(){
   var b=document.querySelector('.burger'),n=document.getElementById('mainnav');
   function closeNav(){if(n&&n.classList.contains('open')){n.classList.remove('open');b.setAttribute('aria-expanded','false');b.focus();}}
-  if(b&&n){b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');b.textContent=o?'Fermer':'Menu';document.documentElement.style.overflow=o?'hidden':'';document.body.classList.toggle('nav-open',o);if(o){var hs=n.querySelector('.has-sub');if(hs){hs.classList.add('open');var hb=hs.querySelector('button');if(hb)hb.setAttribute('aria-expanded','true');}}});}
+  if(b&&n){b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');b.textContent=o?'Fermer':'Menu';document.documentElement.style.overflow=o?'hidden':'';document.body.classList.toggle('nav-open',o);if(o){var hs=n.querySelector('.has-sub');if(hs){hs.classList.add('open');var hb=hs.querySelector('button');if(hb)hb.setAttribute('aria-expanded','true');}}});function shut(){n.classList.remove('open');b.setAttribute('aria-expanded','false');b.textContent='Menu';document.documentElement.style.overflow='';document.body.classList.remove('nav-open');}n.addEventListener('click',function(e){if(e.target.closest('a[href]'))shut();});document.addEventListener('keydown',function(e){if(e.key==='Escape')shut();});}
   document.querySelectorAll('.has-sub').forEach(function(li){
     var btn=li.querySelector('button');
     function set(o){li.classList.toggle('open',o);btn.setAttribute('aria-expanded',o?'true':'false');}
