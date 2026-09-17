@@ -1,0 +1,579 @@
+{
+ "tom-living-panorama": {
+  "id": "tom-living-panorama",
+  "use": [
+   "living.html:hero"
+  ],
+  "credit": "Tomasella",
+  "alt": "Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée",
+  "source": "tom-living-panorama.png",
+  "w": 1900,
+  "h": 950,
+  "files": {
+   "600": "tom-living-panorama-600.webp",
+   "900": "tom-living-panorama-900.webp",
+   "1400": "tom-living-panorama-1400.webp",
+   "1900": "tom-living-panorama-1900.webp"
+  },
+  "ratio": [
+   1900,
+   950
+  ],
+  "og": "tom-living-panorama-og.jpg"
+ },
+ "tom-atlante-villa": {
+  "id": "tom-atlante-villa",
+  "use": [
+   "living.html:atlante"
+  ],
+  "credit": "Tomasella Atlante",
+  "alt": "Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair",
+  "source": "tom-atlante-villa.png",
+  "w": 1900,
+  "h": 917,
+  "files": {
+   "600": "tom-atlante-villa-600.webp",
+   "900": "tom-atlante-villa-900.webp",
+   "1400": "tom-atlante-villa-1400.webp",
+   "1900": "tom-atlante-villa-1900.webp"
+  },
+  "ratio": [
+   1900,
+   917
+  ]
+ },
+ "tom-time": {
+  "id": "tom-time",
+  "use": [
+   "living.html:time"
+  ],
+  "credit": "Tomasella Time",
+  "alt": "Séjour Tomasella Time : composition murale en laque et bois",
+  "source": "tom-time.png",
+  "w": 1900,
+  "h": 891,
+  "files": {
+   "600": "tom-time-600.webp",
+   "900": "tom-time-900.webp",
+   "1400": "tom-time-1400.webp",
+   "1900": "tom-time-1900.webp"
+  },
+  "ratio": [
+   1900,
+   891
+  ]
+ },
+ "tom-table": {
+  "id": "tom-table",
+  "use": [
+   "living.html:buffets"
+  ],
+  "credit": "Tomasella",
+  "alt": "Table et buffet Tomasella dans un séjour urbain",
+  "source": "tom-table.png",
+  "w": 1651,
+  "h": 1900,
+  "files": {
+   "600": "tom-table-600.webp",
+   "900": "tom-table-900.webp",
+   "1400": "tom-table-1400.webp",
+   "1651": "tom-table-1651.webp"
+  },
+  "ratio": [
+   1651,
+   1900
+  ]
+ },
+ "tom-chambre": {
+  "id": "tom-chambre",
+  "use": [
+   "living.html:chambre"
+  ],
+  "credit": "Tomasella Corinto",
+  "alt": "Chambre Tomasella Corinto : lit tapissé et chevets assortis",
+  "source": "tom-chambre.png",
+  "w": 1900,
+  "h": 1153,
+  "files": {
+   "600": "tom-chambre-600.webp",
+   "900": "tom-chambre-900.webp",
+   "1400": "tom-chambre-1400.webp",
+   "1900": "tom-chambre-1900.webp"
+  },
+  "ratio": [
+   1900,
+   1153
+  ]
+ },
+ "tom-walkin": {
+  "id": "tom-walkin",
+  "use": [
+   "sur-mesure.html:hero",
+   "index.html:dressing"
+  ],
+  "credit": "Tomasella",
+  "alt": "Dressing ouvert Tomasella : penderies et tiroirs en bois chaud",
+  "source": "tom-walkin.png",
+  "w": 1431,
+  "h": 1900,
+  "files": {
+   "600": "tom-walkin-600.webp",
+   "900": "tom-walkin-900.webp",
+   "1400": "tom-walkin-1400.webp",
+   "1431": "tom-walkin-1431.webp"
+  },
+  "ratio": [
+   1431,
+   1900
+  ],
+  "og": "tom-walkin-og.jpg"
+ },
+ "tom-dressing": {
+  "id": "tom-dressing",
+  "use": [
+   "sur-mesure.html:dressing"
+  ],
+  "credit": "Tomasella Doxa",
+  "alt": "Armoire-dressing Tomasella Doxa à portes coulissantes",
+  "source": "tom-dressing.png",
+  "w": 1900,
+  "h": 999,
+  "files": {
+   "600": "tom-dressing-600.webp",
+   "900": "tom-dressing-900.webp",
+   "1400": "tom-dressing-1400.webp",
+   "1900": "tom-dressing-1900.webp"
+  },
+  "ratio": [
+   1900,
+   999
+  ]
+ },
+ "tom-bibliotheque": {
+  "id": "tom-bibliotheque",
+  "use": [
+   "sur-mesure.html:bibliotheque"
+  ],
+  "credit": "Tomasella",
+  "alt": "Bibliothèque murale Tomasella avec niches et éclairage intégré",
+  "source": "tom-bibliotheque.png",
+  "w": 1900,
+  "h": 1193,
+  "files": {
+   "600": "tom-bibliotheque-600.webp",
+   "900": "tom-bibliotheque-900.webp",
+   "1400": "tom-bibliotheque-1400.webp",
+   "1900": "tom-bibliotheque-1900.webp"
+  },
+  "ratio": [
+   1900,
+   1193
+  ]
+ },
+ "tom-meuble-tv": {
+  "id": "tom-meuble-tv",
+  "use": [
+   "sur-mesure.html:meuble-tv",
+   "index.html:living-card"
+  ],
+  "credit": "Tomasella",
+  "alt": "Meuble TV Tomasella avec rangements suspendus dans un salon",
+  "source": "tom-meuble-tv.png",
+  "w": 1900,
+  "h": 825,
+  "files": {
+   "600": "tom-meuble-tv-600.webp",
+   "900": "tom-meuble-tv-900.webp",
+   "1400": "tom-meuble-tv-1400.webp",
+   "1900": "tom-meuble-tv-1900.webp"
+  },
+  "ratio": [
+   1900,
+   825
+  ]
+ },
+ "tom-armoire": {
+  "id": "tom-armoire",
+  "use": [
+   "sur-mesure.html:tomasella-armoire"
+  ],
+  "credit": "Tomasella Carmen",
+  "alt": "Armoire Tomasella Carmen à portes battantes laquées",
+  "source": "tom-armoire.png",
+  "w": 1900,
+  "h": 1153,
+  "files": {
+   "600": "tom-armoire-600.webp",
+   "900": "tom-armoire-900.webp",
+   "1400": "tom-armoire-1400.webp",
+   "1900": "tom-armoire-1900.webp"
+  },
+  "ratio": [
+   1900,
+   1153
+  ]
+ },
+ "tom-finition": {
+  "id": "tom-finition",
+  "use": [
+   "sur-mesure.html:final"
+  ],
+  "credit": "Tomasella",
+  "alt": "Détail de finition Tomasella : façade laquée et poignée intégrée",
+  "source": "tom-finition.png",
+  "w": 1900,
+  "h": 1142,
+  "files": {
+   "600": "tom-finition-600.webp",
+   "900": "tom-finition-900.webp",
+   "1400": "tom-finition-1400.webp",
+   "1900": "tom-finition-1900.webp"
+  },
+  "ratio": [
+   1900,
+   1142
+  ]
+ },
+ "tom-appartement": {
+  "id": "tom-appartement",
+  "use": [
+   "index.html:hero",
+   "espace-pro.html:appartement"
+  ],
+  "credit": "Tomasella",
+  "alt": "Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure",
+  "source": "tom-appartement.png",
+  "w": 1920,
+  "h": 928,
+  "files": {
+   "600": "tom-appartement-600.webp",
+   "900": "tom-appartement-900.webp",
+   "1400": "tom-appartement-1400.webp",
+   "1920": "tom-appartement-1920.webp"
+  },
+  "ratio": [
+   1920,
+   928
+  ],
+  "og": "tom-appartement-og.jpg"
+ },
+ "mat-noyer": {
+  "id": "mat-noyer",
+  "use": [
+   "index.html:mat-noyer"
+  ],
+  "credit": "Tomasella · Materico",
+  "alt": "Échantillon Tomasella : noyer ambré",
+  "source": "mat-noyer.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-noyer-960.webp",
+   "480": "mat-noyer-480.webp"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-chene": {
+  "id": "mat-chene",
+  "use": [
+   "index.html:mat-chene"
+  ],
+  "credit": "Tomasella · Legno",
+  "alt": "Échantillon Tomasella : chêne sable",
+  "source": "mat-chene.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-chene-960.webp",
+   "480": "mat-chene-480.webp"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-cannele": {
+  "id": "mat-cannele",
+  "use": [
+   "index.html:mat-boucle"
+  ],
+  "credit": "Tomasella · Legno",
+  "alt": "Échantillon Tomasella : chêne cannelé cognac",
+  "source": "mat-cannele.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-cannele-960.webp",
+   "480": "mat-cannele-480.webp"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-laque": {
+  "id": "mat-laque",
+  "use": [
+   "index.html:mat-laque"
+  ],
+  "credit": "Tomasella · Laccato",
+  "alt": "Échantillon Tomasella : laque mate Arena",
+  "source": "mat-laque.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-laque-960.webp",
+   "480": "mat-laque-480.webp"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-lin": {
+  "id": "mat-lin",
+  "use": [
+   "index.html:mat-cuir"
+  ],
+  "credit": "Tomasella · Materico",
+  "alt": "Échantillon Tomasella : lin texturé",
+  "source": "mat-lin.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-lin-960.webp",
+   "480": "mat-lin-480.webp"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-pierre": {
+  "id": "mat-pierre",
+  "use": [
+   "index.html:mat-pierre"
+  ],
+  "credit": "Tomasella · Materico",
+  "alt": "Échantillon Tomasella : pierre piasentina",
+  "source": "mat-pierre.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-pierre-960.webp",
+   "480": "mat-pierre-480.webp"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-ciment": {
+  "id": "mat-ciment",
+  "use": [
+   "index.html:mat-fenix"
+  ],
+  "credit": "Tomasella · Materico",
+  "alt": "Échantillon Tomasella : ciment cava",
+  "source": "mat-ciment.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-ciment-960.webp",
+   "480": "mat-ciment-480.webp"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-laiton": {
+  "id": "mat-laiton",
+  "use": [
+   "index.html:mat-laiton"
+  ],
+  "credit": "Tomasella · Laccato",
+  "alt": "Échantillon Tomasella : laque métallisée laiton",
+  "source": "mat-laiton.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-laiton-960.webp",
+   "480": "mat-laiton-480.webp"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "stosa-hero": {
+  "id": "stosa-hero",
+  "use": [
+   "cuisine.html:hero"
+  ],
+  "credit": "Stosa Metropolis",
+  "alt": "Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé",
+  "source": "stosa-hero.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "600": "stosa-hero-600.webp",
+   "900": "stosa-hero-900.webp",
+   "1400": "stosa-hero-1400.webp",
+   "1900": "stosa-hero-1900.webp"
+  },
+  "ratio": [
+   1900,
+   1900
+  ],
+  "og": "stosa-hero-og.jpg"
+ },
+ "stosa-ilot": {
+  "id": "stosa-ilot",
+  "use": [
+   "cuisine.html:moderne"
+  ],
+  "credit": "Stosa Metropolis",
+  "alt": "Cuisine moderne Stosa Metropolis avec îlot central",
+  "source": "stosa-ilot.png",
+  "w": 1900,
+  "h": 861,
+  "files": {
+   "600": "stosa-ilot-600.webp",
+   "900": "stosa-ilot-900.webp",
+   "1400": "stosa-ilot-1400.webp",
+   "1900": "stosa-ilot-1900.webp"
+  },
+  "ratio": [
+   1900,
+   861
+  ]
+ },
+ "stosa-bois": {
+  "id": "stosa-bois",
+  "use": [
+   "cuisine.html:classique"
+  ],
+  "credit": "Stosa Natural",
+  "alt": "Cuisine Stosa Natural en bois, façades à cadre",
+  "source": "stosa-bois.png",
+  "w": 1200,
+  "h": 1200,
+  "files": {
+   "600": "stosa-bois-600.webp",
+   "900": "stosa-bois-900.webp",
+   "1200": "stosa-bois-1200.webp"
+  },
+  "ratio": [
+   1200,
+   1200
+  ]
+ },
+ "stosa-living": {
+  "id": "stosa-living",
+  "use": [
+   "cuisine.html:living"
+  ],
+  "credit": "Stosa Infinity",
+  "alt": "Cuisine Stosa Infinity et séjour dans la même pièce",
+  "source": "stosa-living.png",
+  "w": 1900,
+  "h": 861,
+  "files": {
+   "600": "stosa-living-600.webp",
+   "900": "stosa-living-900.webp",
+   "1400": "stosa-living-1400.webp",
+   "1900": "stosa-living-1900.webp"
+  },
+  "ratio": [
+   1900,
+   861
+  ]
+ },
+ "stosa-detail": {
+  "id": "stosa-detail",
+  "use": [
+   "cuisine.html:final"
+  ],
+  "credit": "Stosa Natural",
+  "alt": "Détail de façade et de poignée d’une cuisine Stosa Natural",
+  "source": "stosa-detail.png",
+  "w": 1200,
+  "h": 1200,
+  "files": {
+   "600": "stosa-detail-600.webp",
+   "900": "stosa-detail-900.webp",
+   "1200": "stosa-detail-1200.webp"
+  },
+  "ratio": [
+   1200,
+   1200
+  ]
+ },
+ "stosa-accueil": {
+  "id": "stosa-accueil",
+  "use": [
+   "index.html:cuisine-card"
+  ],
+  "credit": "Stosa Metropolis",
+  "alt": "Cuisine Stosa Metropolis : façades sombres et plan de travail clair",
+  "source": "stosa-accueil.png",
+  "w": 1900,
+  "h": 861,
+  "files": {
+   "600": "stosa-accueil-600.webp",
+   "900": "stosa-accueil-900.webp",
+   "1400": "stosa-accueil-1400.webp",
+   "1900": "stosa-accueil-1900.webp"
+  },
+  "ratio": [
+   1900,
+   861
+  ]
+ },
+ "stosa-bois-macro": {
+  "id": "stosa-bois-macro",
+  "use": [
+   "cuisine.html:plan-bois"
+  ],
+  "credit": "Stosa",
+  "alt": "Plan de travail en chêne noueux Stosa, vue rapprochée",
+  "source": "stosa-bois-macro.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "600": "stosa-bois-macro-600.webp",
+   "900": "stosa-bois-macro-900.webp",
+   "1400": "stosa-bois-macro-1400.webp",
+   "1900": "stosa-bois-macro-1900.webp"
+  },
+  "ratio": [
+   1900,
+   1900
+  ]
+ },
+ "stosa-hpl": {
+  "id": "stosa-hpl",
+  "use": [
+   "cuisine.html:plan-stratifie"
+  ],
+  "credit": "Stosa",
+  "alt": "Plan de travail stratifié HPL Stosa, vue rapprochée",
+  "source": "stosa-hpl.png",
+  "w": 1648,
+  "h": 1236,
+  "files": {
+   "600": "stosa-hpl-600.webp",
+   "900": "stosa-hpl-900.webp",
+   "1400": "stosa-hpl-1400.webp",
+   "1648": "stosa-hpl-1648.webp"
+  },
+  "ratio": [
+   1648,
+   1236
+  ]
+ }
+}
