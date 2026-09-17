@@ -395,7 +395,8 @@ body::before{opacity:.10;background-size:110px 110px}
 
 /* Photos en place : plein cadre dans l'emplacement, étiquette masquée */
 .ph.has-img::after,.mat.has-img::after{display:none}
-.ph.has-img>img,.mat.has-img>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.ph.has-img>img,.mat.has-img>img,.ph.has-img>picture,.mat.has-img>picture{position:absolute;inset:0;width:100%;height:100%;display:block}
+.ph.has-img>picture>img,.mat.has-img>picture>img,.ph.has-img>img,.mat.has-img>img{width:100%;height:100%;object-fit:cover;display:block}
 .ph.has-img{background:var(--sand-deep)}
 
 
@@ -442,6 +443,25 @@ body::before{opacity:.10;background-size:110px 110px}
   @keyframes pop-b{from{transform:translateY(100%)}to{transform:none}}
 }
 @media (prefers-reduced-motion:reduce){.pop-boite{animation:none}}
+
+/* Rendu, 17/09 (proposition B validée par nino) : un seul patron de bandeau pour toutes les pages,
+   photo jusqu'au bord droit, panneau aligné sur la marge de page (plus de bande de photo à gauche),
+   pas de rectangle « à la rogneuse » sur l'accueil, profondeur discrète, logo un peu plus grand. */
+.hero{padding:0}
+@media (min-width:961px){
+  .wrap.hero{max-width:none;padding:0;position:relative;min-height:78vh;display:grid;align-items:end}
+  .hero-grid{display:contents}
+  .hero-img{position:absolute;inset:0 0 0 24px;height:auto}
+  .hero-text{position:relative;z-index:2;background:var(--paper);max-width:620px;margin:0 0 56px 24px;padding:48px 48px 40px}
+  .hero .ph{left:24px}
+  .hero-panel{margin-left:24px}
+}
+@media (max-width:960px){.hero{padding:0}}
+.hero-text,.hero-panel{box-shadow:0 30px 60px -34px rgba(35,31,28,.45)}
+.ph.has-img:not(.hero-img):not(.hero .ph){box-shadow:0 22px 44px -30px rgba(35,31,28,.38)}
+.logo img{height:50px}
+@media (max-width:960px){.logo img{height:40px}}
+
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FurnitureStore","name":"Fony Meubles","legalName":"FONY — MEUBLES SRL",
@@ -452,6 +472,7 @@ body::before{opacity:.10;background-size:110px 110px}
   {"@type":"OpeningHoursSpecification","dayOfWeek":["Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"10:30","closes":"18:30"}],
  "priceRange":"€€"}
 </script>
+<link rel="preload" as="image" type="image/avif" imagesrcset="assets/img/tom-appartement-600.avif 600w, assets/img/tom-appartement-900.avif 900w, assets/img/tom-appartement-1400.avif 1400w, assets/img/tom-appartement-1920.avif 1920w" imagesizes="(max-width:960px) 100vw, 62vw" fetchpriority="high">
 </head>
 <body>
 <a class="skip" href="#contenu">Aller au contenu</a>
@@ -494,7 +515,7 @@ body::before{opacity:.10;background-size:110px 110px}
 
   <div class="wrap hero">
     <div class="hero-grid">
-      <div class="ph has-img ph-walnut hero-img" data-label="Photo à venir : salon exposé en magasin, lumière naturelle"><img src="assets/img/tom-appartement-1400.webp" srcset="assets/img/tom-appartement-600.webp 600w, assets/img/tom-appartement-900.webp 900w, assets/img/tom-appartement-1400.webp 1400w, assets/img/tom-appartement-1920.webp 1920w" sizes="(max-width:960px) 100vw, 62vw" alt="Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure" width="1920" height="928" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></div>
+      <div class="ph has-img ph-walnut hero-img" data-label="Photo à venir : salon exposé en magasin, lumière naturelle"><picture><source type="image/avif" srcset="assets/img/tom-appartement-600.avif 600w, assets/img/tom-appartement-900.avif 900w, assets/img/tom-appartement-1400.avif 1400w, assets/img/tom-appartement-1920.avif 1920w" sizes="(max-width:960px) 100vw, 62vw"><img style="object-position:82% 55%" src="assets/img/tom-appartement-1400.webp" srcset="assets/img/tom-appartement-600.webp 600w, assets/img/tom-appartement-900.webp 900w, assets/img/tom-appartement-1400.webp 1400w, assets/img/tom-appartement-1920.webp 1920w" sizes="(max-width:960px) 100vw, 62vw" alt="Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure" width="1920" height="928" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></picture></div>
       <div class="hero-text">
         <p class="kicker">Mobilier, sur mesure et cuisine à Leval-Trahegnies</p>
       <h1>Des pièces où l'on a envie de rester.</h1>
@@ -513,21 +534,21 @@ body::before{opacity:.10;background-size:110px 110px}
       <p class="intro">Du salon au dressing, chaque projet part de votre pièce, de vos habitudes et de votre budget.</p>
       <div class="spaces">
         <a class="space space-living" href="living">
-          <div class="ph has-img ph-boucle" data-label="Photo à venir : canapé relax, tissu bouclé"><img src="assets/img/tom-meuble-tv-1400.webp" srcset="assets/img/tom-meuble-tv-600.webp 600w, assets/img/tom-meuble-tv-900.webp 900w, assets/img/tom-meuble-tv-1400.webp 1400w, assets/img/tom-meuble-tv-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Meuble TV Tomasella avec rangements suspendus dans un salon" width="1900" height="825" loading="lazy" decoding="async" data-credit="Tomasella"></div>
+          <div class="ph has-img ph-boucle" data-label="Photo à venir : canapé relax, tissu bouclé"><picture><source type="image/avif" srcset="assets/img/tom-time-600.avif 600w, assets/img/tom-time-900.avif 900w, assets/img/tom-time-1400.avif 1400w, assets/img/tom-time-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:20% 58%" src="assets/img/tom-time-1400.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="lazy" decoding="async" data-credit="Tomasella Time"></picture></div>
           <div class="space-body">
             <div><h3>Living</h3><p>Canapés, relax, tables et chambres, à essayer avant de choisir.</p></div>
             <span class="link">Voir le living</span>
           </div>
         </a>
         <a class="space space-small" href="sur-mesure">
-          <div class="ph has-img ph-linen" data-label="Photo à venir : dressing sur mesure"><img src="assets/img/tom-walkin-1400.webp" srcset="assets/img/tom-walkin-600.webp 600w, assets/img/tom-walkin-900.webp 900w, assets/img/tom-walkin-1400.webp 1400w, assets/img/tom-walkin-1431.webp 1431w" sizes="(max-width:960px) 100vw, 50vw" alt="Dressing ouvert Tomasella : penderies et tiroirs en bois chaud" width="1431" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></div>
+          <div class="ph has-img ph-linen" data-label="Photo à venir : dressing sur mesure"><picture><source type="image/avif" srcset="assets/img/tom-walkin-600.avif 600w, assets/img/tom-walkin-900.avif 900w, assets/img/tom-walkin-1400.avif 1400w, assets/img/tom-walkin-1431.avif 1431w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 42%" src="assets/img/tom-walkin-1400.webp" srcset="assets/img/tom-walkin-600.webp 600w, assets/img/tom-walkin-900.webp 900w, assets/img/tom-walkin-1400.webp 1400w, assets/img/tom-walkin-1431.webp 1431w" sizes="(max-width:960px) 100vw, 50vw" alt="Dressing ouvert Tomasella : penderies et tiroirs en bois chaud" width="1431" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div>
           <div class="space-body">
             <div><h3>Sur mesure</h3><p>Dressing, sous-pente ou bibliothèque, dessinés au centimètre.</p></div>
             <span class="link">Voir le sur mesure</span>
           </div>
         </a>
         <a class="space space-small" href="cuisine">
-          <div class="ph has-img ph-stone" data-label="Photo à venir : cuisine réalisée par Fony"><img src="assets/img/stosa-accueil-1400.webp" srcset="assets/img/stosa-accueil-600.webp 600w, assets/img/stosa-accueil-900.webp 900w, assets/img/stosa-accueil-1400.webp 1400w, assets/img/stosa-accueil-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Metropolis : façades sombres et plan de travail clair" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Metropolis"></div>
+          <div class="ph has-img ph-stone" data-label="Photo à venir : cuisine réalisée par Fony"><picture><source type="image/avif" srcset="assets/img/stosa-accueil-600.avif 600w, assets/img/stosa-accueil-900.avif 900w, assets/img/stosa-accueil-1400.avif 1400w, assets/img/stosa-accueil-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:60% 50%" src="assets/img/stosa-accueil-1400.webp" srcset="assets/img/stosa-accueil-600.webp 600w, assets/img/stosa-accueil-900.webp 900w, assets/img/stosa-accueil-1400.webp 1400w, assets/img/stosa-accueil-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Metropolis : façades sombres et plan de travail clair" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Metropolis"></picture></div>
           <div class="space-body">
             <div><h3>Cuisine</h3><p>Cuisines italiennes Stosa, de la prise de mesures à la pose.</p></div>
             <span class="link">Voir la cuisine</span>
@@ -544,14 +565,14 @@ body::before{opacity:.10;background-size:110px 110px}
       <h2 id="matieres-titre">Ce que l’on touche avant de choisir.</h2>
       <p class="intro">Bois, laques, tissus, pierre : les échantillons sont au magasin, à poser côte à côte.</p>
       <ul class="materials">
-        <li><span class="mat mat-noyer has-img" data-label="Photo macro à venir : noyer"><img src="assets/img/mat-noyer-960.webp" srcset="assets/img/mat-noyer-480.webp 480w, assets/img/mat-noyer-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : noyer ambré" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></span><b>Noyer ambré</b><small>Tomasella · Materico</small></li>
-        <li><span class="mat mat-chene has-img" data-label="Photo macro à venir : chêne clair"><img src="assets/img/mat-chene-960.webp" srcset="assets/img/mat-chene-480.webp 480w, assets/img/mat-chene-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : chêne sable" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Legno"></span><b>Chêne sable</b><small>Tomasella · Legno</small></li>
-        <li><span class="mat mat-laque has-img" data-label="Photo macro à venir : laque mate sable"><img src="assets/img/mat-laque-960.webp" srcset="assets/img/mat-laque-480.webp 480w, assets/img/mat-laque-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : laque mate Arena" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></span><b>Laque mate Arena</b><small>Tomasella · Laccato</small></li>
-        <li><span class="mat mat-fenix has-img" data-label="Photo macro à venir : Fenix noir"><img src="assets/img/mat-ciment-960.webp" srcset="assets/img/mat-ciment-480.webp 480w, assets/img/mat-ciment-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : ciment cava" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></span><b>Ciment cava</b><small>Tomasella · Materico</small></li>
-        <li><span class="mat mat-boucle has-img" data-label="Photo macro à venir : tissu bouclé"><img src="assets/img/mat-cannele-960.webp" srcset="assets/img/mat-cannele-480.webp 480w, assets/img/mat-cannele-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : chêne cannelé cognac" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Legno"></span><b>Chêne cannelé</b><small>Tomasella · Legno</small></li>
-        <li><span class="mat mat-cuir has-img" data-label="Photo macro à venir : cuir cognac"><img src="assets/img/mat-lin-960.webp" srcset="assets/img/mat-lin-480.webp 480w, assets/img/mat-lin-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : lin texturé" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></span><b>Lin texturé</b><small>Tomasella · Materico</small></li>
-        <li><span class="mat mat-pierre has-img" data-label="Photo macro à venir : travertin"><img src="assets/img/mat-pierre-960.webp" srcset="assets/img/mat-pierre-480.webp 480w, assets/img/mat-pierre-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : pierre piasentina" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></span><b>Pierre piasentina</b><small>Tomasella · Materico</small></li>
-        <li><span class="mat mat-laiton has-img" data-label="Photo macro à venir : laiton brossé"><img src="assets/img/mat-laiton-960.webp" srcset="assets/img/mat-laiton-480.webp 480w, assets/img/mat-laiton-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : laque métallisée laiton" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></span><b>Laiton métallisé</b><small>Tomasella · Laccato</small></li>
+        <li><span class="mat mat-noyer has-img" data-label="Photo macro à venir : noyer"><picture><source type="image/avif" srcset="assets/img/mat-noyer-480.avif 480w, assets/img/mat-noyer-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-noyer-960.webp" srcset="assets/img/mat-noyer-480.webp 480w, assets/img/mat-noyer-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : noyer ambré" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Noyer ambré</b><small>Tomasella · Materico</small></li>
+        <li><span class="mat mat-chene has-img" data-label="Photo macro à venir : chêne clair"><picture><source type="image/avif" srcset="assets/img/mat-chene-480.avif 480w, assets/img/mat-chene-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-chene-960.webp" srcset="assets/img/mat-chene-480.webp 480w, assets/img/mat-chene-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : chêne sable" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Legno"></picture></span><b>Chêne sable</b><small>Tomasella · Legno</small></li>
+        <li><span class="mat mat-laque has-img" data-label="Photo macro à venir : laque mate sable"><picture><source type="image/avif" srcset="assets/img/mat-laque-480.avif 480w, assets/img/mat-laque-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-laque-960.webp" srcset="assets/img/mat-laque-480.webp 480w, assets/img/mat-laque-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : laque mate Arena" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></picture></span><b>Laque mate Arena</b><small>Tomasella · Laccato</small></li>
+        <li><span class="mat mat-fenix has-img" data-label="Photo macro à venir : Fenix noir"><picture><source type="image/avif" srcset="assets/img/mat-ciment-480.avif 480w, assets/img/mat-ciment-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-ciment-960.webp" srcset="assets/img/mat-ciment-480.webp 480w, assets/img/mat-ciment-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : ciment cava" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Ciment cava</b><small>Tomasella · Materico</small></li>
+        <li><span class="mat mat-boucle has-img" data-label="Photo macro à venir : tissu bouclé"><picture><source type="image/avif" srcset="assets/img/mat-cannele-480.avif 480w, assets/img/mat-cannele-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-cannele-960.webp" srcset="assets/img/mat-cannele-480.webp 480w, assets/img/mat-cannele-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : chêne cannelé cognac" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Legno"></picture></span><b>Chêne cannelé</b><small>Tomasella · Legno</small></li>
+        <li><span class="mat mat-cuir has-img" data-label="Photo macro à venir : cuir cognac"><picture><source type="image/avif" srcset="assets/img/mat-lin-480.avif 480w, assets/img/mat-lin-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-lin-960.webp" srcset="assets/img/mat-lin-480.webp 480w, assets/img/mat-lin-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : lin texturé" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Lin texturé</b><small>Tomasella · Materico</small></li>
+        <li><span class="mat mat-pierre has-img" data-label="Photo macro à venir : travertin"><picture><source type="image/avif" srcset="assets/img/mat-pierre-480.avif 480w, assets/img/mat-pierre-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-pierre-960.webp" srcset="assets/img/mat-pierre-480.webp 480w, assets/img/mat-pierre-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : pierre piasentina" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Pierre piasentina</b><small>Tomasella · Materico</small></li>
+        <li><span class="mat mat-laiton has-img" data-label="Photo macro à venir : laiton brossé"><picture><source type="image/avif" srcset="assets/img/mat-laiton-480.avif 480w, assets/img/mat-laiton-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-laiton-960.webp" srcset="assets/img/mat-laiton-480.webp 480w, assets/img/mat-laiton-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : laque métallisée laiton" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></picture></span><b>Laiton métallisé</b><small>Tomasella · Laccato</small></li>
       </ul>
     </div>
   </section>

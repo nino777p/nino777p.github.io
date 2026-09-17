@@ -416,7 +416,8 @@ body::before{opacity:.10;background-size:110px 110px}
 
 /* Photos en place : plein cadre dans l'emplacement, étiquette masquée */
 .ph.has-img::after,.mat.has-img::after{display:none}
-.ph.has-img>img,.mat.has-img>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.ph.has-img>img,.mat.has-img>img,.ph.has-img>picture,.mat.has-img>picture{position:absolute;inset:0;width:100%;height:100%;display:block}
+.ph.has-img>picture>img,.mat.has-img>picture>img,.ph.has-img>img,.mat.has-img>img{width:100%;height:100%;object-fit:cover;display:block}
 .ph.has-img{background:var(--sand-deep)}
 
 
@@ -463,9 +464,29 @@ body::before{opacity:.10;background-size:110px 110px}
   @keyframes pop-b{from{transform:translateY(100%)}to{transform:none}}
 }
 @media (prefers-reduced-motion:reduce){.pop-boite{animation:none}}
+
+/* Rendu, 17/09 (proposition B validée par nino) : un seul patron de bandeau pour toutes les pages,
+   photo jusqu'au bord droit, panneau aligné sur la marge de page (plus de bande de photo à gauche),
+   pas de rectangle « à la rogneuse » sur l'accueil, profondeur discrète, logo un peu plus grand. */
+.hero{padding:0}
+@media (min-width:961px){
+  .wrap.hero{max-width:none;padding:0;position:relative;min-height:78vh;display:grid;align-items:end}
+  .hero-grid{display:contents}
+  .hero-img{position:absolute;inset:0 0 0 24px;height:auto}
+  .hero-text{position:relative;z-index:2;background:var(--paper);max-width:620px;margin:0 0 56px 24px;padding:48px 48px 40px}
+  .hero .ph{left:24px}
+  .hero-panel{margin-left:24px}
+}
+@media (max-width:960px){.hero{padding:0}}
+.hero-text,.hero-panel{box-shadow:0 30px 60px -34px rgba(35,31,28,.45)}
+.ph.has-img:not(.hero-img):not(.hero .ph){box-shadow:0 22px 44px -30px rgba(35,31,28,.38)}
+.logo img{height:50px}
+@media (max-width:960px){.logo img{height:40px}}
+
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://www.fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Sur mesure", "item": "https://www.fony.be/sur-mesure"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Que peut-on faire sur mesure ?", "acceptedAnswer": {"@type": "Answer", "text": "Presque tout ce qui se range ou s'encastre : dressing, sous-pente, entrée, bibliothèque, meuble TV, rangement sous escalier, et des aménagements professionnels."}}, {"@type": "Question", "name": "La visite et les mesures sont-elles payantes ?", "acceptedAnswer": {"@type": "Answer", "text": "Non. Visite, mesures et devis sont gratuits, sans engagement."}}, {"@type": "Question", "name": "Qui s'occupe de la livraison et de la pose ?", "acceptedAnswer": {"@type": "Answer", "text": "La livraison est assurée par nos soins. La pose est réalisée par notre équipe ou, selon le projet, par un artisan partenaire."}}, {"@type": "Question", "name": "Quel délai faut-il prévoir ?", "acceptedAnswer": {"@type": "Answer", "text": "Pour la visite et les mesures, nous venons dans la semaine, parfois le jour même selon les disponibilités : un appel suffit. Ensuite, comptez huit à dix semaines entre la commande signée et la pose, selon le fabricant et la saison. Un projet lancé hors période d'affluence sort plus vite."}}, {"@type": "Question", "name": "Puis-je assortir le sur mesure à mes meubles existants ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, c'est le principe de la palette de couleurs et de matières : on part de ce que vous avez déjà."}}]}</script>
+<link rel="preload" as="image" type="image/avif" imagesrcset="assets/img/tom-walkin-600.avif 600w, assets/img/tom-walkin-900.avif 900w, assets/img/tom-walkin-1400.avif 1400w, assets/img/tom-walkin-1431.avif 1431w" imagesizes="(max-width:960px) 100vw, 62vw" fetchpriority="high">
 </head>
 <body>
 <div class="promo" id="promo" role="region" aria-label="Opération en cours" hidden>
@@ -502,7 +523,7 @@ body::before{opacity:.10;background-size:110px 110px}
 </header>
 <main id="contenu">
   <div class="hero">
-    <div class="ph has-img ph-oak" data-label="Photo à venir : dressing réalisé en sous-pente"><img src="assets/img/tom-walkin-1400.webp" srcset="assets/img/tom-walkin-600.webp 600w, assets/img/tom-walkin-900.webp 900w, assets/img/tom-walkin-1400.webp 1400w, assets/img/tom-walkin-1431.webp 1431w" sizes="(max-width:960px) 100vw, 62vw" alt="Dressing ouvert Tomasella : penderies et tiroirs en bois chaud" width="1431" height="1900" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></div>
+    <div class="ph has-img ph-oak" data-label="Photo à venir : dressing réalisé en sous-pente"><picture><source type="image/avif" srcset="assets/img/tom-walkin-600.avif 600w, assets/img/tom-walkin-900.avif 900w, assets/img/tom-walkin-1400.avif 1400w, assets/img/tom-walkin-1431.avif 1431w" sizes="(max-width:960px) 100vw, 62vw"><img style="object-position:50% 42%" src="assets/img/tom-walkin-1400.webp" srcset="assets/img/tom-walkin-600.webp 600w, assets/img/tom-walkin-900.webp 900w, assets/img/tom-walkin-1400.webp 1400w, assets/img/tom-walkin-1431.webp 1431w" sizes="(max-width:960px) 100vw, 62vw" alt="Dressing ouvert Tomasella : penderies et tiroirs en bois chaud" width="1431" height="1900" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></picture></div>
     <div class="hero-panel">
       <p class="kicker">Dressing, sous-pente et aménagements sur mesure</p>
       <h1>Chaque centimètre a sa place.</h1>
@@ -520,11 +541,11 @@ body::before{opacity:.10;background-size:110px 110px}
       <h2>Ce que nous réalisons</h2>
       <p class="intro">Les murs biscornus, les pentes de toit et les recoins sont notre terrain de jeu. Si vous pouvez le mesurer, nous pouvons le dessiner.</p>
       <div class="made">
-        <div><div class="ph has-img ph-matte" data-label="Photo à venir : dressing"><img src="assets/img/tom-dressing-1400.webp" srcset="assets/img/tom-dressing-600.webp 600w, assets/img/tom-dressing-900.webp 900w, assets/img/tom-dressing-1400.webp 1400w, assets/img/tom-dressing-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire-dressing Tomasella Doxa à portes coulissantes" width="1900" height="999" loading="lazy" decoding="async" data-credit="Tomasella Doxa"></div><h3>Dressing</h3><p>Chaque compartiment pensé pour votre garde-robe, avec des finitions assorties à la chambre.</p></div>
+        <div><div class="ph has-img ph-matte" data-label="Photo à venir : dressing"><picture><source type="image/avif" srcset="assets/img/tom-dressing-600.avif 600w, assets/img/tom-dressing-900.avif 900w, assets/img/tom-dressing-1400.avif 1400w, assets/img/tom-dressing-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:76% 50%" src="assets/img/tom-dressing-1400.webp" srcset="assets/img/tom-dressing-600.webp 600w, assets/img/tom-dressing-900.webp 900w, assets/img/tom-dressing-1400.webp 1400w, assets/img/tom-dressing-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire-dressing Tomasella Doxa à portes coulissantes" width="1900" height="999" loading="lazy" decoding="async" data-credit="Tomasella Doxa"></picture></div><h3>Dressing</h3><p>Chaque compartiment pensé pour votre garde-robe, avec des finitions assorties à la chambre.</p></div>
         <div><h3>Sous-pente</h3><p>Des rangements qui suivent la pente du toit, jusqu'au dernier centimètre.</p></div>
         <div><h3>Entrée et hall</h3><p>Manteaux, chaussures, clés : un meuble d'accueil qui range tout dès la porte.</p></div>
-        <div><div class="ph has-img ph-matte" data-label="Photo à venir : bibliothèque"><img src="assets/img/tom-bibliotheque-1400.webp" srcset="assets/img/tom-bibliotheque-600.webp 600w, assets/img/tom-bibliotheque-900.webp 900w, assets/img/tom-bibliotheque-1400.webp 1400w, assets/img/tom-bibliotheque-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Bibliothèque murale Tomasella avec niches et éclairage intégré" width="1900" height="1193" loading="lazy" decoding="async" data-credit="Tomasella"></div><h3>Bibliothèque</h3><p>Un mur entier optimisé, pleins et vides dosés selon ce que vous voulez montrer.</p></div>
-        <div><div class="ph has-img ph-stone" data-label="Photo à venir : meuble TV"><img src="assets/img/tom-meuble-tv-1400.webp" srcset="assets/img/tom-meuble-tv-600.webp 600w, assets/img/tom-meuble-tv-900.webp 900w, assets/img/tom-meuble-tv-1400.webp 1400w, assets/img/tom-meuble-tv-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Meuble TV Tomasella avec rangements suspendus dans un salon" width="1900" height="825" loading="lazy" decoding="async" data-credit="Tomasella"></div><h3>Meuble TV</h3><p>Les équipements intégrés, les câbles cachés, et un meuble qui fait le lien avec le séjour.</p></div>
+        <div><div class="ph has-img ph-matte" data-label="Photo à venir : bibliothèque"><picture><source type="image/avif" srcset="assets/img/tom-bibliotheque-600.avif 600w, assets/img/tom-bibliotheque-900.avif 900w, assets/img/tom-bibliotheque-1400.avif 1400w, assets/img/tom-bibliotheque-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:62% 50%" src="assets/img/tom-bibliotheque-1400.webp" srcset="assets/img/tom-bibliotheque-600.webp 600w, assets/img/tom-bibliotheque-900.webp 900w, assets/img/tom-bibliotheque-1400.webp 1400w, assets/img/tom-bibliotheque-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Bibliothèque murale Tomasella avec niches et éclairage intégré" width="1900" height="1193" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Bibliothèque</h3><p>Un mur entier optimisé, pleins et vides dosés selon ce que vous voulez montrer.</p></div>
+        <div><div class="ph has-img ph-stone" data-label="Photo à venir : meuble TV"><picture><source type="image/avif" srcset="assets/img/tom-meuble-tv-600.avif 600w, assets/img/tom-meuble-tv-900.avif 900w, assets/img/tom-meuble-tv-1400.avif 1400w, assets/img/tom-meuble-tv-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:80% 66%" src="assets/img/tom-meuble-tv-1400.webp" srcset="assets/img/tom-meuble-tv-600.webp 600w, assets/img/tom-meuble-tv-900.webp 900w, assets/img/tom-meuble-tv-1400.webp 1400w, assets/img/tom-meuble-tv-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Meuble TV Tomasella avec rangements suspendus dans un salon" width="1900" height="825" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Meuble TV</h3><p>Les équipements intégrés, les câbles cachés, et un meuble qui fait le lien avec le séjour.</p></div>
         <div><h3>Sous escalier</h3><p>L'espace perdu sous les marches devient enfin utile : tiroirs, placards ou bibliothèque.</p></div>
       </div>
       <div class="pro">
@@ -539,7 +560,7 @@ body::before{opacity:.10;background-size:110px 110px}
       <h2>Deux savoir-faire, un seul interlocuteur</h2>
       <div class="sleep">
         <div><h3>Un atelier partenaire en Belgique</h3><p>Pour les pièces uniques : formes atypiques, dimensions à la cote près, matériaux choisis avec vous.</p></div>
-        <div><div class="ph has-img ph-matte" data-label="Visuel Tomasella à venir : armoire ou dressing"><img src="assets/img/tom-armoire-1400.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></div><h3>Tomasella</h3><p>Pour les systèmes modulables : armoires, dressings et compositions de séjour, avec un large choix de finitions.</p></div>
+        <div><div class="ph has-img ph-matte" data-label="Visuel Tomasella à venir : armoire ou dressing"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-1400.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><h3>Tomasella</h3><p>Pour les systèmes modulables : armoires, dressings et compositions de séjour, avec un large choix de finitions.</p></div>
       </div>
       <p class="tip"><strong>Bon à savoir :</strong> pour un sous-pente, on mesure la hauteur basse, la hauteur haute et la profondeur utile. Pas besoin de le faire vous-même : nous venons relever toutes les cotes.</p>
     </div>
@@ -584,7 +605,7 @@ body::before{opacity:.10;background-size:110px 110px}
           <li>Magasin <span>064 46 07 72</span></li>
         </ul>
       </div>
-      <div class="ph has-img ph-stone" style="height:320px" data-label="Photo à venir : détail de finition"><img src="assets/img/tom-finition-1400.webp" srcset="assets/img/tom-finition-600.webp 600w, assets/img/tom-finition-900.webp 900w, assets/img/tom-finition-1400.webp 1400w, assets/img/tom-finition-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Détail de finition Tomasella : façade laquée et poignée intégrée" width="1900" height="1142" loading="lazy" decoding="async" data-credit="Tomasella"></div>
+      <div class="ph has-img ph-stone" style="height:320px" data-label="Photo à venir : détail de finition"><picture><source type="image/avif" srcset="assets/img/tom-finition-600.avif 600w, assets/img/tom-finition-900.avif 900w, assets/img/tom-finition-1400.avif 1400w, assets/img/tom-finition-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:58% 55%" src="assets/img/tom-finition-1400.webp" srcset="assets/img/tom-finition-600.webp 600w, assets/img/tom-finition-900.webp 900w, assets/img/tom-finition-1400.webp 1400w, assets/img/tom-finition-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Détail de finition Tomasella : façade laquée et poignée intégrée" width="1900" height="1142" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div>
     </div>
   </section>
 </main>

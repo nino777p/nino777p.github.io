@@ -411,6 +411,25 @@ body::before{opacity:.10;background-size:110px 110px}
   @keyframes pop-b{from{transform:translateY(100%)}to{transform:none}}
 }
 @media (prefers-reduced-motion:reduce){.pop-boite{animation:none}}
+
+/* Rendu, 17/09 (proposition B validée par nino) : un seul patron de bandeau pour toutes les pages,
+   photo jusqu'au bord droit, panneau aligné sur la marge de page (plus de bande de photo à gauche),
+   pas de rectangle « à la rogneuse » sur l'accueil, profondeur discrète, logo un peu plus grand. */
+.hero{padding:0}
+@media (min-width:961px){
+  .wrap.hero{max-width:none;padding:0;position:relative;min-height:78vh;display:grid;align-items:end}
+  .hero-grid{display:contents}
+  .hero-img{position:absolute;inset:0 0 0 24px;height:auto}
+  .hero-text{position:relative;z-index:2;background:var(--paper);max-width:620px;margin:0 0 56px 24px;padding:48px 48px 40px}
+  .hero .ph{left:24px}
+  .hero-panel{margin-left:24px}
+}
+@media (max-width:960px){.hero{padding:0}}
+.hero-text,.hero-panel{box-shadow:0 30px 60px -34px rgba(35,31,28,.45)}
+.ph.has-img:not(.hero-img):not(.hero .ph){box-shadow:0 22px 44px -30px rgba(35,31,28,.38)}
+.logo img{height:50px}
+@media (max-width:960px){.logo img{height:40px}}
+
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FurnitureStore","name":"Fony Meubles","legalName":"FONY — MEUBLES SRL",

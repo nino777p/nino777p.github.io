@@ -404,7 +404,8 @@ body::before{opacity:.10;background-size:110px 110px}
 
 /* Photos en place : plein cadre dans l'emplacement, étiquette masquée */
 .ph.has-img::after,.mat.has-img::after{display:none}
-.ph.has-img>img,.mat.has-img>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.ph.has-img>img,.mat.has-img>img,.ph.has-img>picture,.mat.has-img>picture{position:absolute;inset:0;width:100%;height:100%;display:block}
+.ph.has-img>picture>img,.mat.has-img>picture>img,.ph.has-img>img,.mat.has-img>img{width:100%;height:100%;object-fit:cover;display:block}
 .ph.has-img{background:var(--sand-deep)}
 
 
@@ -451,8 +452,28 @@ body::before{opacity:.10;background-size:110px 110px}
   @keyframes pop-b{from{transform:translateY(100%)}to{transform:none}}
 }
 @media (prefers-reduced-motion:reduce){.pop-boite{animation:none}}
+
+/* Rendu, 17/09 (proposition B validée par nino) : un seul patron de bandeau pour toutes les pages,
+   photo jusqu'au bord droit, panneau aligné sur la marge de page (plus de bande de photo à gauche),
+   pas de rectangle « à la rogneuse » sur l'accueil, profondeur discrète, logo un peu plus grand. */
+.hero{padding:0}
+@media (min-width:961px){
+  .wrap.hero{max-width:none;padding:0;position:relative;min-height:78vh;display:grid;align-items:end}
+  .hero-grid{display:contents}
+  .hero-img{position:absolute;inset:0 0 0 24px;height:auto}
+  .hero-text{position:relative;z-index:2;background:var(--paper);max-width:620px;margin:0 0 56px 24px;padding:48px 48px 40px}
+  .hero .ph{left:24px}
+  .hero-panel{margin-left:24px}
+}
+@media (max-width:960px){.hero{padding:0}}
+.hero-text,.hero-panel{box-shadow:0 30px 60px -34px rgba(35,31,28,.45)}
+.ph.has-img:not(.hero-img):not(.hero .ph){box-shadow:0 22px 44px -30px rgba(35,31,28,.38)}
+.logo img{height:50px}
+@media (max-width:960px){.logo img{height:40px}}
+
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://www.fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Living", "item": "https://www.fony.be/living"}]}</script>
+<link rel="preload" as="image" type="image/avif" imagesrcset="assets/img/tom-living-panorama-600.avif 600w, assets/img/tom-living-panorama-900.avif 900w, assets/img/tom-living-panorama-1400.avif 1400w, assets/img/tom-living-panorama-1900.avif 1900w" imagesizes="(max-width:960px) 100vw, 62vw" fetchpriority="high">
 </head>
 <body>
 <div class="promo" id="promo" role="region" aria-label="Opération en cours" hidden>
@@ -493,7 +514,7 @@ body::before{opacity:.10;background-size:110px 110px}
 <main id="contenu">
 
   <div class="hero">
-    <div class="ph has-img ph-oak" data-label="Visuel fabricant à venir : salon ouvert, canapé en tissu, lumière de fin de journée"><img src="assets/img/tom-living-panorama-1400.webp" srcset="assets/img/tom-living-panorama-600.webp 600w, assets/img/tom-living-panorama-900.webp 900w, assets/img/tom-living-panorama-1400.webp 1400w, assets/img/tom-living-panorama-1900.webp 1900w" sizes="(max-width:960px) 100vw, 62vw" alt="Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée" width="1900" height="950" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></div>
+    <div class="ph has-img ph-oak" data-label="Visuel fabricant à venir : salon ouvert, canapé en tissu, lumière de fin de journée"><picture><source type="image/avif" srcset="assets/img/tom-living-panorama-600.avif 600w, assets/img/tom-living-panorama-900.avif 900w, assets/img/tom-living-panorama-1400.avif 1400w, assets/img/tom-living-panorama-1900.avif 1900w" sizes="(max-width:960px) 100vw, 62vw"><img style="object-position:74% 52%" src="assets/img/tom-living-panorama-1400.webp" srcset="assets/img/tom-living-panorama-600.webp 600w, assets/img/tom-living-panorama-900.webp 900w, assets/img/tom-living-panorama-1400.webp 1400w, assets/img/tom-living-panorama-1900.webp 1900w" sizes="(max-width:960px) 100vw, 62vw" alt="Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée" width="1900" height="950" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></picture></div>
     <div class="hero-panel">
       <p class="kicker">Salons, relax, séjour et literie</p>
       <h1>Là où la journée ralentit.</h1>
@@ -545,9 +566,9 @@ body::before{opacity:.10;background-size:110px 110px}
       <h2>Le séjour, composé autour de vous</h2>
       <p class="intro">Meubles TV, bibliothèques, buffets, tables et chaises : avec Tomasella et d'autres fabricants à découvrir en magasin, le séjour se construit par modules, dans des bois et des couleurs qui suivent les tendances sans les subir. Le beau, accessible à tous.</p>
       <div class="systems">
-        <div><div class="ph has-img ph-matte" data-label="Visuel Tomasella à venir : Atlante"><img src="assets/img/tom-atlante-villa-1400.webp" srcset="assets/img/tom-atlante-villa-600.webp 600w, assets/img/tom-atlante-villa-900.webp 900w, assets/img/tom-atlante-villa-1400.webp 1400w, assets/img/tom-atlante-villa-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair" width="1900" height="917" loading="lazy" decoding="async" data-credit="Tomasella Atlante"></div><h3>Atlante</h3><p>Des compositions modulables pour le meuble TV et la bibliothèque, ajustées à la taille exacte de votre mur.</p></div>
-        <div><div class="ph has-img ph-stone" data-label="Visuel Tomasella à venir : Time"><img src="assets/img/tom-time-1400.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="lazy" decoding="async" data-credit="Tomasella Time"></div><h3>Time</h3><p>Un système living très modulable, avec une surface décorative résistante au quotidien.</p></div>
-        <div><div class="ph has-img ph-oak" data-label="Visuel Tomasella à venir : buffet et table"><img src="assets/img/tom-table-1400.webp" srcset="assets/img/tom-table-600.webp 600w, assets/img/tom-table-900.webp 900w, assets/img/tom-table-1400.webp 1400w, assets/img/tom-table-1651.webp 1651w" sizes="(max-width:960px) 100vw, 50vw" alt="Table et buffet Tomasella dans un séjour urbain" width="1651" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></div><h3>Buffets et tables</h3><p>Des pièces qui structurent la salle à manger et répondent au reste du séjour.</p></div>
+        <div><div class="ph has-img ph-matte" data-label="Visuel Tomasella à venir : Atlante"><picture><source type="image/avif" srcset="assets/img/tom-atlante-villa-600.avif 600w, assets/img/tom-atlante-villa-900.avif 900w, assets/img/tom-atlante-villa-1400.avif 1400w, assets/img/tom-atlante-villa-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:74% 50%" src="assets/img/tom-atlante-villa-1400.webp" srcset="assets/img/tom-atlante-villa-600.webp 600w, assets/img/tom-atlante-villa-900.webp 900w, assets/img/tom-atlante-villa-1400.webp 1400w, assets/img/tom-atlante-villa-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair" width="1900" height="917" loading="lazy" decoding="async" data-credit="Tomasella Atlante"></picture></div><h3>Atlante</h3><p>Des compositions modulables pour le meuble TV et la bibliothèque, ajustées à la taille exacte de votre mur.</p></div>
+        <div><div class="ph has-img ph-stone" data-label="Visuel Tomasella à venir : Time"><picture><source type="image/avif" srcset="assets/img/tom-time-600.avif 600w, assets/img/tom-time-900.avif 900w, assets/img/tom-time-1400.avif 1400w, assets/img/tom-time-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:20% 58%" src="assets/img/tom-time-1400.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="lazy" decoding="async" data-credit="Tomasella Time"></picture></div><h3>Time</h3><p>Un système living très modulable, avec une surface décorative résistante au quotidien.</p></div>
+        <div><div class="ph has-img ph-oak" data-label="Visuel Tomasella à venir : buffet et table"><picture><source type="image/avif" srcset="assets/img/tom-table-600.avif 600w, assets/img/tom-table-900.avif 900w, assets/img/tom-table-1400.avif 1400w, assets/img/tom-table-1651.avif 1651w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 56%" src="assets/img/tom-table-1400.webp" srcset="assets/img/tom-table-600.webp 600w, assets/img/tom-table-900.webp 900w, assets/img/tom-table-1400.webp 1400w, assets/img/tom-table-1651.webp 1651w" sizes="(max-width:960px) 100vw, 50vw" alt="Table et buffet Tomasella dans un séjour urbain" width="1651" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Buffets et tables</h3><p>Des pièces qui structurent la salle à manger et répondent au reste du séjour.</p></div>
       </div>
     </div>
   </section>
@@ -556,7 +577,7 @@ body::before{opacity:.10;background-size:110px 110px}
     <div class="wrap">
       <h2>La chambre et le sommeil</h2>
       <div class="sleep">
-        <div><div class="ph has-img ph-matte" data-label="Visuel Tomasella à venir : chambre"><img src="assets/img/tom-chambre-1400.webp" srcset="assets/img/tom-chambre-600.webp 600w, assets/img/tom-chambre-900.webp 900w, assets/img/tom-chambre-1400.webp 1400w, assets/img/tom-chambre-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Chambre Tomasella Corinto : lit tapissé et chevets assortis" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Corinto"></div><h3>Chambre et rangements</h3><p>Lits, armoires et dressings Tomasella, entre autres, pour une chambre rangée sans être figée. Un recoin, une sous-pente, un mur à la cote près ? Nos fabricants belges et nos ateliers sur mesure prennent le relais : <a class="ilink" href="sur-mesure">voir le sur mesure</a>.</p></div>
+        <div><div class="ph has-img ph-matte" data-label="Visuel Tomasella à venir : chambre"><picture><source type="image/avif" srcset="assets/img/tom-chambre-600.avif 600w, assets/img/tom-chambre-900.avif 900w, assets/img/tom-chambre-1400.avif 1400w, assets/img/tom-chambre-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:66% 54%" src="assets/img/tom-chambre-1400.webp" srcset="assets/img/tom-chambre-600.webp 600w, assets/img/tom-chambre-900.webp 900w, assets/img/tom-chambre-1400.webp 1400w, assets/img/tom-chambre-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Chambre Tomasella Corinto : lit tapissé et chevets assortis" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Corinto"></picture></div><h3>Chambre et rangements</h3><p>Lits, armoires et dressings Tomasella, entre autres, pour une chambre rangée sans être figée. Un recoin, une sous-pente, un mur à la cote près ? Nos fabricants belges et nos ateliers sur mesure prennent le relais : <a class="ilink" href="sur-mesure">voir le sur mesure</a>.</p></div>
         <div><h3>Literie</h3><p>Matelas et boxsprings, notamment Velda, fabriqués en Belgique. Modèles réglables disponibles pour lire, regarder la télévision ou se relever plus facilement.</p></div>
       </div>
       <p class="tip"><strong>Bon à savoir :</strong> la fermeté d'un matelas se choisit selon votre position de sommeil et votre corpulence, pas selon l'habitude. Venez vous allonger : quelques minutes suffisent pour sentir la différence.</p>
