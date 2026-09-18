@@ -23,7 +23,7 @@
 <link rel="preload" href="assets/fonts/bodoni-moda-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="assets/fonts/hanken-grotesk-var.woff2" as="font" type="font/woff2" crossorigin>
 <style>
-@font-face{font-family:"Bodoni Moda";src:url("assets/fonts/bodoni-moda-var.woff2") format("woff2"),url("assets/fonts/bodoni-moda-var.woff") format("woff");font-weight:400 900;font-style:normal;font-display:swap}
+@font-face{font-family:"Bodoni Moda";src:url("assets/fonts/bodoni-moda-var.woff2") format("woff2"),url("assets/fonts/bodoni-moda-var.woff") format("woff");font-weight:500;font-style:normal;font-display:swap}
 @font-face{font-family:"Hanken Grotesk";src:url("assets/fonts/hanken-grotesk-var.woff2") format("woff2"),url("assets/fonts/hanken-grotesk-var.woff") format("woff");font-weight:100 900;font-style:normal;font-display:swap}
 </style>
 <style>
@@ -515,6 +515,12 @@ body::before{opacity:.10;background-size:110px 110px}
 /* 18/09 : plus d'animation d'ouverture du bandeau (nino : « le bandeau d'animation est à retirer ») */
 .hero .ph,.hero-img,.hero-text>*,.hero-panel>*{animation:none}
 
+
+/* 18/09 : apparition au défilement. Le contenu reste visible sans JavaScript. */
+.js-anim .vient{opacity:0;transform:translateY(8px);transition:opacity .55s ease-out,transform .55s ease-out}
+.js-anim .vient.vu{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.js-anim .vient{opacity:1;transform:none;transition:none}}
+
 .form .form-note{margin:-4px 0 0;font-size:13.5px;color:var(--ink-soft)}.form input[type="file"]{padding:10px;font-size:14px}
 
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
@@ -623,7 +629,7 @@ html.pro header{background:rgba(30,27,25,.88)}
   <div class="hero">
     <div class="hero-panel">
       <p class="kicker">Espaces de travail et d’accueil</p>
-      <h1>Du bureau à domicile au home&nbsp;: aménagé avec vous.</h1>
+      <h1>Des espaces qui travaillent pour vous.</h1>
       <p class="lead">Bureau, cabinet, salle d’attente, commerce, maison de repos, appartement témoin : mobilier, rangements sur mesure, fauteuils relax et cuisines, avec un seul interlocuteur du plan à la pose. Indépendant, profession libérale ou entreprise.</p>
       <div class="actions">
         <a class="btn btn-solid" href="#projet-pro">Parler de votre projet</a>
@@ -729,6 +735,7 @@ html.pro header{background:rgba(30,27,25,.88)}
   <a href="magasin-contact#visite"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="1"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Rendez-vous</a>
 </nav>
 <script>if("serviceWorker" in navigator)addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){})});</script>
+<script>(function(){var d=document;if(!("IntersectionObserver" in window))return;try{if(matchMedia("(prefers-reduced-motion: reduce)").matches)return;}catch(e){}var s=d.querySelectorAll("main section:not(:first-of-type) h2,main section:not(:first-of-type) h3,main .space,main .mat,main section:not(:first-of-type) .lead,main section:not(:first-of-type) .intro,main section:not(:first-of-type) .actions,main section:not(:first-of-type) > .wrap > p");if(!s.length)return;d.documentElement.className+=" js-anim";var o=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("vu");o.unobserve(e.target);}});},{rootMargin:"0px 0px -8% 0px",threshold:0.05});for(var i=0;i<s.length;i++){s[i].classList.add("vient");o.observe(s[i]);}})();</script>
 <script>document.querySelectorAll('form.form').forEach(function(f){var em=f.querySelector('input[name=email]'),tel=f.querySelector('input[name=tel]'),pref=f.querySelector('select[name=contact]'),star=f.querySelector('.tel-req');function need(){if(!tel||!pref)return;var byPhone=/rappel|visite/i.test(pref.value);tel.required=byPhone;if(star)star.hidden=!byPhone;}if(pref){pref.addEventListener('change',need);need();}f.addEventListener('submit',function(e){if(em&&tel&&!em.value.trim()&&!tel.value.trim()){e.preventDefault();em.setCustomValidity('Indiquez un e-mail ou un numéro de téléphone.');em.reportValidity();setTimeout(function(){em.setCustomValidity('');},2500);return;}var fi=f.querySelector('input[type=file]');if(fi&&fi.files&&fi.files.length){var t=0;for(var i=0;i<fi.files.length;i++)t+=fi.files[i].size;if(t>10*1024*1024){e.preventDefault();fi.setCustomValidity('Les fichiers dépassent 10 Mo au total.');fi.reportValidity();setTimeout(function(){fi.setCustomValidity('');},2500);}}});});</script>
 <div class="pop" id="pop" role="dialog" aria-modal="true" aria-labelledby="pop-t" data-delai="25" data-repos="7" hidden>
   <div class="pop-fond" data-fermer></div>
