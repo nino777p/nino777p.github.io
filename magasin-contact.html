@@ -356,9 +356,10 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
-/* 17/09 : la signature « Italian Living » cède sa place, sur bureau, aux liens Instagram / Facebook demandés en haut à droite
-   (la barre est plafonnée à 1240 px : les deux ne tiennent pas ensemble). Elle reste visible sur téléphone. */
-@media (min-width:961px){.sig{display:none}}
+/* 18/09 (nino : « Italian Living est pas mal ») : la signature revient sur bureau, les réseaux quittent la barre
+   (ils vivent dans l'accueil, le pied de page, le panneau mobile et la fiche contact). Elle s'efface seulement
+   dans la bande étroite où elle chevaucherait le menu. */
+@media (min-width:961px) and (max-width:1140px){.sig{display:none}}
 .bar .cta-top{white-space:nowrap}
 
 .map-card{display:flex;flex-direction:column;justify-content:center;gap:10px;padding:40px;background:var(--sand);min-height:0}.map-card .kicker{margin:0}.map-card .map-adr{margin:0;font-weight:500;font-size:20px;line-height:1.3}.map-card .map-txt{margin:0 0 8px;color:var(--ink-soft)}.map-card .btn{align-self:flex-start}.map-card{align-self:start}
@@ -488,6 +489,11 @@ body::before{opacity:.10;background-size:110px 110px}
 
 .foot a{display:inline-block;padding:5px 0}
 
+/* 18/09 : plus d'animation d'ouverture du bandeau (nino : « le bandeau d'animation est à retirer ») */
+.hero .ph,.hero-img,.hero-text>*,.hero-panel>*{animation:none}
+
+.form .form-note{margin:-4px 0 0;font-size:13.5px;color:var(--ink-soft)}.form input[type="file"]{padding:10px;font-size:14px}
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -526,12 +532,16 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (max-width:960px){.logo img{height:40px}}
 /* Ancres : l'en-tête est collant (73 px) — sans cette marge, le titre visé passe dessous. */
 [id]{scroll-margin-top:96px}
+/* 18/09 : interligne des grands titres — à 1,02 le point d'un j touchait la descendante d'un p (Magasin & contact, 1280 px) */
+h1{line-height:1.08}
 
 
 /* Thème « Cristal & encre », 18/09 — variables, grain, en-tête, panneaux, bandes encre, bouton principal */
 :root{--bg:#FAF8F4;--paper:#FFFFFF;--sand:#F3EFE8;--sand-deep:#E8E2D8;--line:#E4DED4;--ink:#1B1815;--ink-soft:#5B534B;--walnut:#1B1815;--walnut-ink:#FFFFFF;--terra:#9E4A2C;--brass:#C9A45C;--sage-deep:#9E4A2C;--ph-a:#E6DFD3;--ph-b:#D9CFC0;--ph-c:#EEE9E1;--ph-d:#E2DBD0}
 body::before{display:none}
 header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+/* page Espace pro (html.pro, sombre) : l'en-tête reste sombre — corrigé le 18/09 (barre blanche avec logo et menu blancs en v7) */
+html.pro header{background:rgba(30,27,25,.88)}
 .hero-text,.hero-panel{background:rgba(255,255,255,.97);box-shadow:0 30px 80px rgba(20,16,12,.10)}
 .materials-band,.social-band{background:#FFFFFF}
 .visit-card,.map-card,.tops{background:var(--sand)}
@@ -551,7 +561,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FurnitureStore","name":"Fony Meubles","legalName":"FONY — MEUBLES SRL",
- "url":"https://fony.be/","telephone":"+3264460772","email":"fonymeubles@hotmail.com","vatID":"BE0449562534",
+ "url":"https://fony.be/","telephone":"+3264460772","email":"fonymeubles@gmail.com","vatID":"BE0449562534",
  "sameAs":["https://www.facebook.com/fonymeubles/","https://www.instagram.com/fonymeubles/"],
  "address":{"@type":"PostalAddress","streetAddress":"Route de Charleroi 160/1","postalCode":"7134","addressLocality":"Leval-Trahegnies","addressRegion":"Hainaut","addressCountry":"BE"},
  "openingHoursSpecification":[
@@ -582,8 +592,6 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
-        <li><a href="sur-mesure#realisations">Réalisations</a></li>
-        <li><a href="magasin-contact#nous-venons">Notre accompagnement</a></li>
         <li><a href="espace-pro">Espace pro</a></li>
         <li><a href="#contenu" aria-current="page">Magasin &amp; contact</a></li>
       <li class="menu-actions">
@@ -594,7 +602,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       </li>
       </ul>
     </nav>
-    <div class="bar-right"><span class="social-top"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a><a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span><a class="btn btn-solid cta-top" href="#visite">Venir au magasin</a></div>
+    <a class="btn btn-solid cta-top" href="#visite">Venir au magasin</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -602,13 +610,13 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <div class="hero">
     <div class="hero-panel">
       <p class="kicker">Magasin de meubles à Leval-Trahegnies (Binche)</p>
-      <h1>Venez voir, toucher, essayer.</h1>
-      <p class="lead">Dans notre magasin de Leval-Trahegnies, vous pouvez comparer les assises, les matières et les finitions, et parler de votre projet avec quelqu'un qui connaît les produits. Nous sommes installés ici depuis 1993.</p>
+      <h1>Venez avec vos mesures, repartez avec un projet.</h1>
+      <p class="lead">Au magasin de Leval-Trahegnies, vous comparez les assises, les matières et les finitions, et vous parlez de votre projet avec quelqu’un qui connaît les produits. Sans rendez-vous ; pour un conseil au calme, prenez-en un.</p>
       <div class="actions">
         <a class="btn btn-solid" href="#visite">Préparer ma visite</a>
         <a class="btn btn-ghost" href="https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener">Itinéraire</a>
       </div>
-      <p class="reassure">Passez quand vous voulez. Pour être sûr qu'on ait le temps de bien vous conseiller, prenez rendez-vous.</p>
+      <p class="reassure">Passez quand vous voulez. Pour être sûr qu’on ait le temps de bien vous conseiller, prenez rendez-vous.</p>
     </div>
   </div>
 
@@ -616,9 +624,9 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
     <div class="wrap">
       <h2>Ce qui vous attend en magasin</h2>
       <div class="cards3" style="margin-top:40px">
-        <div><h3>Voir et comparer les produits</h3><p>Une trentaine de salons exposés : vous comparez concrètement le confort, les dimensions et la qualité des finitions avant de décider.</p></div>
-        <div><h3>Composer votre projet ensemble</h3><p>À partir des dimensions de votre pièce ou de quelques photos, nous construisons avec vous une configuration adaptée : tailles, matières, coloris et agencement.</p></div>
-        <div><h3>Prendre le temps d'en parler</h3><p>Un projet se prépare mieux assis, autour d'un café. Nous prenons le temps de vous écouter, sans vous presser.</p></div>
+        <div><h3>Voir et comparer</h3><p>Une trentaine de salons exposés, les échantillons de matières et de façades : vous comparez en vrai avant de décider.</p></div>
+        <div><h3>Composer votre projet</h3><p>À partir des dimensions de votre pièce ou de quelques photos, nous composons avec vous : tailles, matières, coloris, agencement.</p></div>
+        <div><h3>Prendre le temps</h3><p>Un projet se prépare mieux assis, autour d’un café. Nous écoutons, sans presser.</p></div>
       </div>
     </div>
   </section>
@@ -633,8 +641,10 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
           <dt>Mardi au samedi</dt><dd>10h30 – 18h30</dd>
           <dt>Dimanche</dt><dd>Fermé</dd>
           <dt>Magasin</dt><dd><a class="ilink" href="tel:+3264460772">064 46 07 72</a></dd>
-          <dt>E-mail</dt><dd><a class="ilink" href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a></dd>
+          <dt>E-mail</dt><dd><a class="ilink" href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a></dd>
           <dt>Réseaux</dt><dd><a class="ilink" href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a class="ilink" href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></dd>
+          <dt>Services</dt><dd>Livraison, installation, démontage et évacuation de l’ancien mobilier : sur demande, modalités en magasin.</dd>
+          <dt>Paiement</dt><dd>Modalités à discuter en magasin.</dd>
         </dl>
       </div>
       <div class="map map-card"><p class="kicker">Pour venir</p><p class="map-adr">160/1 route de Charleroi<br>7134 Leval-Trahegnies (Binche)</p><a class="btn btn-ghost" href="https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener">Ouvrir dans Google Maps</a></div>
@@ -649,7 +659,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
         <ul class="trades">
           <li><a class="ilink" href="sur-mesure">Sur mesure</a> <span>dressing, sous-pente, entrée</span></li>
           <li><a class="ilink" href="cuisine">Cuisine</a> <span>cuisines italiennes Stosa</span></li>
-          <li><a class="ilink" href="magasin-contact#nous-venons">Notre accompagnement</a> <span>les étapes d'un projet</span></li>
+          <li><a class="ilink" href="espace-pro">Espace pro</a> <span>bureau, cabinet, commerce, home</span></li>
         </ul>
       </div>
     </div>
@@ -659,19 +669,22 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
     <div class="wrap faq-grid">
       <div>
         <h2>Préparer votre visite</h2>
-        <p class="intro">Dites-nous en quelques mots ce que vous cherchez. Nous vous recontactons pour convenir d'un moment ou répondre à vos questions.</p>
+        <p class="intro">Ce qui nous aide : les dimensions de la pièce ou du mur (largeur, hauteur, profondeur), une photo, et une idée de ce que vous voulez y mettre — volume, forme, usage. Pas de mesures ? Nous venons les relever chez vous. Besoin d’idées avant de passer ? Un coup de fil suffit, nous vous aiguillons.</p>
+        <p class="intro">Dites-nous en quelques mots ce que vous cherchez ; nous vous recontactons pour convenir d’un moment ou répondre à vos questions.</p>
       </div>
-      <form class="form" action="https://formsubmit.co/fonymeubles@hotmail.com" method="post">
+      <form class="form" action="https://formsubmit.co/fonymeubles@gmail.com" method="post" enctype="multipart/form-data">
         <input type="hidden" name="_subject" value="Demande via fony.be"><input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off"><input type="hidden" name="_captcha" value="false"><input type="hidden" name="_next" value="https://fony.be/merci"><p class="req-note">Les champs marqués <span class="req" aria-hidden="true">*</span> sont obligatoires.</p>
         <label><span>Prénom <span class="req" aria-hidden="true">*</span></span><input name="prenom" autocomplete="given-name" required></label>
-        <label><span>Nom <span class="req" aria-hidden="true">*</span></span><input name="nom" autocomplete="family-name" required></label>
-        <label><span>Adresse e-mail <span class="req" aria-hidden="true">*</span></span><input type="email" name="email" autocomplete="email" required></label>
-        <label>Téléphone<input type="tel" name="tel" autocomplete="tel"></label>
+        <label>Nom (facultatif)<input name="nom" autocomplete="family-name"></label>
+        <label>Adresse e-mail<input type="email" name="email" autocomplete="email"></label>
+        <label><span>Téléphone <span class="req tel-req" aria-hidden="true" hidden>*</span></span><input type="tel" name="tel" autocomplete="tel"></label>
+        <p class="full form-note">E-mail ou téléphone, au choix. Le téléphone est demandé si vous souhaitez être rappelé ou une visite chez vous.</p>
         <label>Votre projet concerne
             <select name="interet"><option>Salon et relax</option><option>Literie</option><option>Sur mesure</option><option>Cuisine</option><option>Projet complet</option><option>Professionnel</option></select></label>
         <label>Vous préférez<select name="contact"><option>Venir au magasin</option><option>Une visite chez vous</option><option>Être rappelé</option></select></label>
         <label class="full">Votre projet en quelques mots<textarea name="message"></textarea></label>
-        <label class="full check"><input type="checkbox" name="consentement" required> <span>J'accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. <a class="ilink" href="confidentialite">Politique de confidentialité</a></span></label>
+        <label class="full">Mesures, plan ou photo de la pièce (facultatif, 10 Mo au total)<input type="file" name="fichier" accept="image/*,.pdf" multiple></label>
+        <label class="full check"><input type="checkbox" name="consentement" required> <span>J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. <a class="ilink" href="confidentialite">Politique de confidentialité</a></span></label>
         <div class="full"><button class="btn btn-solid" type="submit">Envoyer ma demande</button></div>
         <p class="form-ok" role="status"><svg viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="12"/><path d="M8.5 14.5l4 4 7-8"/></svg><span>Merci, votre demande est bien envoyée. Nous revenons vers vous rapidement.</span></p>
       </form>
@@ -681,7 +694,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 <footer>
   <div class="wrap foot">
     <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
-    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
     <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
   </div>
 </footer>
@@ -709,6 +722,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <a href="https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Itinéraire</a>
   <a href="#visite"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="1"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Rendez-vous</a>
 </nav>
+<script>document.querySelectorAll('form.form').forEach(function(f){var em=f.querySelector('input[name=email]'),tel=f.querySelector('input[name=tel]'),pref=f.querySelector('select[name=contact]'),star=f.querySelector('.tel-req');function need(){if(!tel||!pref)return;var byPhone=/rappel|visite/i.test(pref.value);tel.required=byPhone;if(star)star.hidden=!byPhone;}if(pref){pref.addEventListener('change',need);need();}f.addEventListener('submit',function(e){if(em&&tel&&!em.value.trim()&&!tel.value.trim()){e.preventDefault();em.setCustomValidity('Indiquez un e-mail ou un numéro de téléphone.');em.reportValidity();setTimeout(function(){em.setCustomValidity('');},2500);return;}var fi=f.querySelector('input[type=file]');if(fi&&fi.files&&fi.files.length){var t=0;for(var i=0;i<fi.files.length;i++)t+=fi.files[i].size;if(t>10*1024*1024){e.preventDefault();fi.setCustomValidity('Les fichiers dépassent 10 Mo au total.');fi.reportValidity();setTimeout(function(){fi.setCustomValidity('');},2500);}}});});</script>
 <div class="pop" id="pop" role="dialog" aria-modal="true" aria-labelledby="pop-t" data-delai="25" data-repos="7" hidden>
   <div class="pop-fond" data-fermer></div>
   <div class="pop-boite">

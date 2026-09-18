@@ -324,9 +324,10 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
-/* 17/09 : la signature « Italian Living » cède sa place, sur bureau, aux liens Instagram / Facebook demandés en haut à droite
-   (la barre est plafonnée à 1240 px : les deux ne tiennent pas ensemble). Elle reste visible sur téléphone. */
-@media (min-width:961px){.sig{display:none}}
+/* 18/09 (nino : « Italian Living est pas mal ») : la signature revient sur bureau, les réseaux quittent la barre
+   (ils vivent dans l'accueil, le pied de page, le panneau mobile et la fiche contact). Elle s'efface seulement
+   dans la bande étroite où elle chevaucherait le menu. */
+@media (min-width:961px) and (max-width:1140px){.sig{display:none}}
 .bar .cta-top{white-space:nowrap}
 
 
@@ -462,6 +463,10 @@ body::before{opacity:.10;background-size:110px 110px}
 
 .foot a{display:inline-block;padding:5px 0}
 
+/* 18/09 : plus d'animation d'ouverture du bandeau (nino : « le bandeau d'animation est à retirer ») */
+.hero .ph,.hero-img,.hero-text>*,.hero-panel>*{animation:none}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -500,12 +505,16 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (max-width:960px){.logo img{height:40px}}
 /* Ancres : l'en-tête est collant (73 px) — sans cette marge, le titre visé passe dessous. */
 [id]{scroll-margin-top:96px}
+/* 18/09 : interligne des grands titres — à 1,02 le point d'un j touchait la descendante d'un p (Magasin & contact, 1280 px) */
+h1{line-height:1.08}
 
 
 /* Thème « Cristal & encre », 18/09 — variables, grain, en-tête, panneaux, bandes encre, bouton principal */
 :root{--bg:#FAF8F4;--paper:#FFFFFF;--sand:#F3EFE8;--sand-deep:#E8E2D8;--line:#E4DED4;--ink:#1B1815;--ink-soft:#5B534B;--walnut:#1B1815;--walnut-ink:#FFFFFF;--terra:#9E4A2C;--brass:#C9A45C;--sage-deep:#9E4A2C;--ph-a:#E6DFD3;--ph-b:#D9CFC0;--ph-c:#EEE9E1;--ph-d:#E2DBD0}
 body::before{display:none}
 header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+/* page Espace pro (html.pro, sombre) : l'en-tête reste sombre — corrigé le 18/09 (barre blanche avec logo et menu blancs en v7) */
+html.pro header{background:rgba(30,27,25,.88)}
 .hero-text,.hero-panel{background:rgba(255,255,255,.97);box-shadow:0 30px 80px rgba(20,16,12,.10)}
 .materials-band,.social-band{background:#FFFFFF}
 .visit-card,.map-card,.tops{background:var(--sand)}
@@ -525,7 +534,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FurnitureStore","name":"Fony Meubles","legalName":"FONY — MEUBLES SRL",
- "url":"https://fony.be/","telephone":"+3264460772","email":"fonymeubles@hotmail.com","vatID":"BE0449562534",
+ "url":"https://fony.be/","telephone":"+3264460772","email":"fonymeubles@gmail.com","vatID":"BE0449562534",
  "sameAs":["https://www.facebook.com/fonymeubles/","https://www.instagram.com/fonymeubles/"],
  "address":{"@type":"PostalAddress","streetAddress":"Route de Charleroi 160/1","postalCode":"7134","addressLocality":"Leval-Trahegnies","addressRegion":"Hainaut","addressCountry":"BE"},
  "openingHoursSpecification":[
@@ -559,8 +568,6 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
-        <li><a href="sur-mesure#realisations">Réalisations</a></li>
-        <li><a href="magasin-contact#nous-venons">Notre accompagnement</a></li>
         <li><a href="espace-pro">Espace pro</a></li>
         <li><a href="magasin-contact">Magasin &amp; contact</a></li>
       <li class="menu-actions">
@@ -571,7 +578,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       </li>
       </ul>
     </nav>
-    <div class="bar-right"><span class="social-top"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a><a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span><a class="btn btn-solid cta-top" href="#visite">Venir au magasin</a></div>
+    <a class="btn btn-solid cta-top" href="#visite">Venir au magasin</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -583,8 +590,8 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       <div class="ph has-img ph-walnut hero-img" data-label="Photo à venir : salon exposé en magasin, lumière naturelle"><picture><source type="image/avif" srcset="assets/img/tom-appartement-600.avif 600w, assets/img/tom-appartement-900.avif 900w, assets/img/tom-appartement-1400.avif 1400w, assets/img/tom-appartement-1920.avif 1920w" sizes="(max-width:960px) 100vw, 62vw"><img style="object-position:82% 55%" src="assets/img/tom-appartement-1400.webp" srcset="assets/img/tom-appartement-600.webp 600w, assets/img/tom-appartement-900.webp 900w, assets/img/tom-appartement-1400.webp 1400w, assets/img/tom-appartement-1920.webp 1920w" sizes="(max-width:960px) 100vw, 62vw" alt="Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure" width="1920" height="928" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></picture></div>
       <div class="hero-text">
         <p class="kicker">Mobilier, sur mesure et cuisine à Leval-Trahegnies</p>
-      <h1>Salon, séjour, cuisine&nbsp;: à&nbsp;essayer.</h1>
-        <p class="lead">Mobilier italien et belge, sur mesure et cuisines Stosa. Une trentaine de salons exposés à Leval-Trahegnies, choisis avec vous.</p>
+      <h1>Choisi en vrai, gardé longtemps.</h1>
+        <p class="lead">Une trentaine de salons italiens et européens, des cuisines Stosa, du sur mesure au centimètre. Au magasin, à Leval-Trahegnies — et chez vous pour les mesures.</p>
         <div class="actions">
           <a class="btn btn-solid" href="#visite">Venir au magasin</a>
           <a class="btn btn-ghost" href="magasin-contact#visite">Parler de mon projet</a>
@@ -595,27 +602,27 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 
   <section id="amenagements">
     <div class="wrap">
-      <h2>Ce que nous aménageons</h2>
-      <p class="intro">Du salon au dressing, chaque projet part de votre pièce, de vos habitudes et de votre budget.</p>
+      <h2>Par où commencer</h2>
+      <p class="intro">Salon, séjour, table, literie, sur mesure ou cuisine : chaque projet part de votre pièce et de votre budget.</p>
       <div class="spaces">
         <a class="space space-living" href="salon">
           <div class="ph has-img ph-boucle" data-label="Photo à venir : canapé relax, tissu bouclé"><picture><source type="image/avif" srcset="assets/img/tom-time-600.avif 600w, assets/img/tom-time-900.avif 900w, assets/img/tom-time-1400.avif 1400w, assets/img/tom-time-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:20% 58%" src="assets/img/tom-time-1400.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="lazy" decoding="async" data-credit="Tomasella Time"></picture></div>
           <div class="space-body">
-            <div><h3>Salon</h3><p>Canapés et relax italiens et européens, à essayer assis avant de choisir.</p></div>
+            <div><h3>Salon</h3><p>Une trentaine de canapés et relax à essayer, du classique au contemporain.</p></div>
             <span class="link">Voir les salons</span>
           </div>
         </a>
         <a class="space space-small" href="sur-mesure">
           <div class="ph has-img ph-linen" data-label="Photo à venir : dressing sur mesure"><picture><source type="image/avif" srcset="assets/img/tom-walkin-600.avif 600w, assets/img/tom-walkin-900.avif 900w, assets/img/tom-walkin-1400.avif 1400w, assets/img/tom-walkin-1431.avif 1431w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 42%" src="assets/img/tom-walkin-1400.webp" srcset="assets/img/tom-walkin-600.webp 600w, assets/img/tom-walkin-900.webp 900w, assets/img/tom-walkin-1400.webp 1400w, assets/img/tom-walkin-1431.webp 1431w" sizes="(max-width:960px) 100vw, 50vw" alt="Dressing ouvert Tomasella : penderies et tiroirs en bois chaud" width="1431" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div>
           <div class="space-body">
-            <div><h3>Sur mesure</h3><p>Dressing, sous-pente ou bibliothèque, dessinés au centimètre.</p></div>
+            <div><h3>Sur mesure</h3><p>Dressing, sous-pente, bibliothèque : dessinés pour votre pièce, pas pour un catalogue.</p></div>
             <span class="link">Voir le sur mesure</span>
           </div>
         </a>
         <a class="space space-small" href="cuisine">
           <div class="ph has-img ph-stone" data-label="Photo à venir : cuisine réalisée par Fony"><picture><source type="image/avif" srcset="assets/img/stosa-accueil-600.avif 600w, assets/img/stosa-accueil-900.avif 900w, assets/img/stosa-accueil-1400.avif 1400w, assets/img/stosa-accueil-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:60% 50%" src="assets/img/stosa-accueil-1400.webp" srcset="assets/img/stosa-accueil-600.webp 600w, assets/img/stosa-accueil-900.webp 900w, assets/img/stosa-accueil-1400.webp 1400w, assets/img/stosa-accueil-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Metropolis : façades sombres et plan de travail clair" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Metropolis"></picture></div>
           <div class="space-body">
-            <div><h3>Cuisine</h3><p>Cuisines italiennes Stosa, de la prise de mesures à la pose.</p></div>
+            <div><h3>Cuisine</h3><p>Cuisines italiennes Stosa, dessinées chez vous, posées par nous.</p></div>
             <span class="link">Voir la cuisine</span>
           </div>
         </a>
@@ -624,21 +631,21 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
         <a class="space space-small" href="living">
           <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-atlante-villa-600.avif 600w, assets/img/tom-atlante-villa-900.avif 900w, assets/img/tom-atlante-villa-1400.avif 1400w, assets/img/tom-atlante-villa-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:74% 50%" src="assets/img/tom-atlante-villa-900.webp" srcset="assets/img/tom-atlante-villa-600.webp 600w, assets/img/tom-atlante-villa-900.webp 900w, assets/img/tom-atlante-villa-1400.webp 1400w, assets/img/tom-atlante-villa-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair" width="1900" height="917" loading="lazy" decoding="async" data-credit="Tomasella Atlante"></picture></div>
           <div class="space-body">
-            <div><h3>Living</h3><p>Meuble TV, bibliothèque, buffet : le séjour se compose pièce par pièce.</p></div>
+            <div><h3>Living</h3><p>Meuble TV, bibliothèque, buffet : composés à la mesure de votre mur.</p></div>
             <span class="link">Voir le living</span>
           </div>
         </a>
         <a class="space space-small" href="tables-chaises">
           <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-table-600.avif 600w, assets/img/tom-table-900.avif 900w, assets/img/tom-table-1400.avif 1400w, assets/img/tom-table-1651.avif 1651w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:50% 56%" src="assets/img/tom-table-900.webp" srcset="assets/img/tom-table-600.webp 600w, assets/img/tom-table-900.webp 900w, assets/img/tom-table-1400.webp 1400w, assets/img/tom-table-1651.webp 1651w" sizes="(max-width:960px) 100vw, 33vw" alt="Table et buffet Tomasella dans un séjour urbain" width="1651" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div>
           <div class="space-body">
-            <div><h3>Tables &amp; chaises</h3><p>Grandes tables fixes italiennes, tables à rallonge, chaises à essayer assis.</p></div>
+            <div><h3>Tables &amp; chaises</h3><p>La grande table fixe italienne, la rallonge quand la place manque, et les chaises qui vont avec.</p></div>
             <span class="link">Voir les tables</span>
           </div>
         </a>
         <a class="space space-small" href="literie">
           <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-chambre-600.avif 600w, assets/img/tom-chambre-900.avif 900w, assets/img/tom-chambre-1400.avif 1400w, assets/img/tom-chambre-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:66% 54%" src="assets/img/tom-chambre-900.webp" srcset="assets/img/tom-chambre-600.webp 600w, assets/img/tom-chambre-900.webp 900w, assets/img/tom-chambre-1400.webp 1400w, assets/img/tom-chambre-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Chambre Tomasella Corinto : lit tapissé et chevets assortis" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Corinto"></picture></div>
           <div class="space-body">
-            <div><h3>Literie</h3><p>Boxsprings et matelas de fabrication belge, à essayer allongé.</p></div>
+            <div><h3>Literie</h3><p>Boxsprings et matelas belges. Dix minutes allongé pour bien choisir.</p></div>
             <span class="link">Voir la literie</span>
           </div>
         </a>
@@ -650,8 +657,8 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <section class="materials-band" aria-labelledby="matieres-titre">
     <div class="wrap">
       <p class="kicker">Matières</p>
-      <h2 id="matieres-titre">Ce que l’on touche avant de choisir.</h2>
-      <p class="intro">Bois, laques, tissus, pierre : les échantillons sont au magasin, à poser côte à côte.</p>
+      <h2 id="matieres-titre">Les matières, en vrai.</h2>
+      <p class="intro">Bois, laques, tissus, pierre : les échantillons sont au magasin, à poser côte à côte avec une photo de votre pièce.</p>
       <ul class="materials">
         <li><span class="mat mat-noyer has-img" data-label="Photo macro à venir : noyer"><picture><source type="image/avif" srcset="assets/img/mat-noyer-480.avif 480w, assets/img/mat-noyer-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-noyer-960.webp" srcset="assets/img/mat-noyer-480.webp 480w, assets/img/mat-noyer-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : noyer ambré" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Noyer ambré</b><small>Tomasella · Materico</small></li>
         <li><span class="mat mat-chene has-img" data-label="Photo macro à venir : chêne clair"><picture><source type="image/avif" srcset="assets/img/mat-chene-480.avif 480w, assets/img/mat-chene-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-chene-960.webp" srcset="assets/img/mat-chene-480.webp 480w, assets/img/mat-chene-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : chêne sable" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Legno"></picture></span><b>Chêne sable</b><small>Tomasella · Legno</small></li>
@@ -689,8 +696,8 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 
   <div class="brands" id="marques">
     <div class="wrap breadth">
-      <p class="breadth-big">Pourquoi l'Italie.</p>
-      <p>Ce n'est pas un choix de style, c'est un choix de fabrication. Les ateliers italiens travaillent des matières qui supportent qu'on les regarde de près — le bois, le cuir, la laque — et des assemblages qui tiennent dans le temps. Nous choisissons d'abord là-dessus ; le dessin vient avec. Quelques ateliers belges et européens complètent la sélection, retenus sur le même critère. Une partie est exposée en magasin, le reste se découvre sur catalogue, avec nous : <a class="ilink" href="salon">salons</a>, <a class="ilink" href="living">living</a>, <a class="ilink" href="tables-chaises">tables et chaises</a>, <a class="ilink" href="literie">literie</a>, <a class="ilink" href="sur-mesure">sur mesure</a>, <a class="ilink" href="cuisine">cuisines Stosa</a>.</p>
+      <p class="breadth-big">Pourquoi l’Italie.</p>
+      <p>Ce n’est pas un choix de style, c’est un choix de fabrication : des matières qui supportent qu’on les regarde de près — bois, cuir, laque — et des assemblages qui tiennent. Quelques ateliers belges et européens complètent la sélection, sur le même critère. Une partie est exposée, le reste se découvre sur catalogue, avec nous : <a class="ilink" href="salon">salons</a>, <a class="ilink" href="living">living</a>, <a class="ilink" href="tables-chaises">tables et chaises</a>, <a class="ilink" href="literie">literie</a>, <a class="ilink" href="sur-mesure">sur mesure</a>, <a class="ilink" href="cuisine">cuisines Stosa</a>.</p>
     </div>
   </div>
 
@@ -698,8 +705,8 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
     <div class="wrap visit-grid">
       <div class="visit-card">
         <div>
-          <h2>Passez nous voir.</h2>
-          <p class="lead">Une trentaine de salons à essayer, les matières et les finitions en main. Le café est offert.</p>
+          <h2>Passez quand vous voulez.</h2>
+          <p class="lead">Une trentaine de salons à essayer, les matières en main, et le temps d’en parler. Le café est offert.</p>
         </div>
         <dl>
           <dt>Adresse</dt><dd>160/1 route de Charleroi<br>7134 Leval-Trahegnies</dd>
@@ -721,7 +728,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 <footer>
   <div class="wrap foot">
     <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
-    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
     <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
   </div>
 </footer>

@@ -316,9 +316,10 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
-/* 17/09 : la signature « Italian Living » cède sa place, sur bureau, aux liens Instagram / Facebook demandés en haut à droite
-   (la barre est plafonnée à 1240 px : les deux ne tiennent pas ensemble). Elle reste visible sur téléphone. */
-@media (min-width:961px){.sig{display:none}}
+/* 18/09 (nino : « Italian Living est pas mal ») : la signature revient sur bureau, les réseaux quittent la barre
+   (ils vivent dans l'accueil, le pied de page, le panneau mobile et la fiche contact). Elle s'efface seulement
+   dans la bande étroite où elle chevaucherait le menu. */
+@media (min-width:961px) and (max-width:1140px){.sig{display:none}}
 .bar .cta-top{white-space:nowrap}
 
 
@@ -423,6 +424,10 @@ body::before{opacity:.10;background-size:110px 110px}
 
 .foot a{display:inline-block;padding:5px 0}
 
+/* 18/09 : plus d'animation d'ouverture du bandeau (nino : « le bandeau d'animation est à retirer ») */
+.hero .ph,.hero-img,.hero-text>*,.hero-panel>*{animation:none}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -461,12 +466,16 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (max-width:960px){.logo img{height:40px}}
 /* Ancres : l'en-tête est collant (73 px) — sans cette marge, le titre visé passe dessous. */
 [id]{scroll-margin-top:96px}
+/* 18/09 : interligne des grands titres — à 1,02 le point d'un j touchait la descendante d'un p (Magasin & contact, 1280 px) */
+h1{line-height:1.08}
 
 
 /* Thème « Cristal & encre », 18/09 — variables, grain, en-tête, panneaux, bandes encre, bouton principal */
 :root{--bg:#FAF8F4;--paper:#FFFFFF;--sand:#F3EFE8;--sand-deep:#E8E2D8;--line:#E4DED4;--ink:#1B1815;--ink-soft:#5B534B;--walnut:#1B1815;--walnut-ink:#FFFFFF;--terra:#9E4A2C;--brass:#C9A45C;--sage-deep:#9E4A2C;--ph-a:#E6DFD3;--ph-b:#D9CFC0;--ph-c:#EEE9E1;--ph-d:#E2DBD0}
 body::before{display:none}
 header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+/* page Espace pro (html.pro, sombre) : l'en-tête reste sombre — corrigé le 18/09 (barre blanche avec logo et menu blancs en v7) */
+html.pro header{background:rgba(30,27,25,.88)}
 .hero-text,.hero-panel{background:rgba(255,255,255,.97);box-shadow:0 30px 80px rgba(20,16,12,.10)}
 .materials-band,.social-band{background:#FFFFFF}
 .visit-card,.map-card,.tops{background:var(--sand)}
@@ -511,8 +520,6 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
-        <li><a href="sur-mesure#realisations">Réalisations</a></li>
-        <li><a href="magasin-contact#nous-venons">Notre accompagnement</a></li>
         <li><a href="espace-pro">Espace pro</a></li>
         <li><a href="magasin-contact">Magasin &amp; contact</a></li>
       <li class="menu-actions">
@@ -523,7 +530,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       </li>
       </ul>
     </nav>
-    <div class="bar-right"><span class="social-top"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a><a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span><a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a></div>
+    <a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -534,26 +541,26 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 <h1>Politique de confidentialité</h1>
 <p class="date">Dernière mise à jour : septembre 2026</p>
 <h2>Qui traite vos données</h2>
-<p>FONY — MEUBLES SRL, Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche), Belgique. Numéro d'entreprise et TVA : BE 0449.562.534. Contact : <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a> — <a href="tel:+3264460772">+32 64 46 07 72</a>.</p>
-<h2>Qui d'autre intervient</h2>
-<p>L'hébergement du site est assuré par GitHub, Inc. L'acheminement des formulaires passe par FormSubmit (Bloomcoding LLC), qui transmet le contenu de votre message vers notre boîte e-mail sans le conserver durablement. Aucune autre société n'a accès aux données que vous nous envoyez : ni régie publicitaire, ni outil de statistiques — le site n'en utilise aucun.</p>
+<p>FONY — MEUBLES SRL, Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche), Belgique. Numéro d’entreprise et TVA : BE 0449.562.534. Contact : <a href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a> — <a href="tel:+3264460772">+32 64 46 07 72</a>.</p>
+<h2>Qui d’autre intervient</h2>
+<p>L’hébergement du site est assuré par GitHub, Inc. L’acheminement des formulaires passe par FormSubmit (Bloomcoding LLC), qui transmet le contenu de votre message vers notre boîte e-mail sans le conserver durablement. Aucune autre société n’a accès aux données que vous nous envoyez : ni régie publicitaire, ni outil de statistiques — le site n’en utilise aucun.</p>
 <h2>Quelles données nous collectons, et pourquoi</h2>
-<p>Nous collectons uniquement les informations que vous nous transmettez volontairement via les formulaires du site : votre nom, votre adresse e-mail, votre numéro de téléphone si vous le communiquez, et les éléments de votre projet d'aménagement. Pour une demande professionnelle, nous collectons également le nom de votre entreprise, votre fonction et les caractéristiques techniques de votre projet.</p>
-<p>Ces informations servent exclusivement à vous répondre, à préparer votre visite en magasin et à établir votre projet ou votre devis. Elles ne servent à rien d'autre.</p>
+<p>Nous collectons uniquement les informations que vous nous transmettez volontairement via les formulaires du site : votre nom, votre adresse e-mail, votre numéro de téléphone si vous le communiquez, et les éléments de votre projet d’aménagement. Pour une demande professionnelle, nous collectons également le nom de votre entreprise, votre fonction et les caractéristiques techniques de votre projet.</p>
+<p>Ces informations servent exclusivement à vous répondre, à préparer votre visite en magasin et à établir votre projet ou votre devis. Elles ne servent à rien d’autre.</p>
 <p>La base légale de ce traitement est votre demande elle-même : les mesures précontractuelles prises à votre initiative, et votre consentement lorsque vous nous écrivez.</p>
 <h2>Informations professionnelles</h2>
-<p>Si vous cochez la case prévue à cet effet, nous pouvons vous adresser des informations et actualités professionnelles. Cet envoi repose uniquement sur votre consentement, il est facultatif, et il n'a aucune incidence sur le traitement de votre demande. Vous pouvez y mettre fin à tout moment, par le lien de désinscription présent dans chaque envoi ou par un simple e-mail.</p>
+<p>Si vous cochez la case prévue à cet effet, nous pouvons vous adresser des informations et actualités professionnelles. Cet envoi repose uniquement sur votre consentement, il est facultatif, et il n’a aucune incidence sur le traitement de votre demande. Vous pouvez y mettre fin à tout moment, par le lien de désinscription présent dans chaque envoi ou par un simple e-mail.</p>
 <h2>Ce que nous ne faisons pas</h2>
 <p>Nous ne vendons pas vos données. Nous ne les louons pas. Nous ne les transmettons à aucun tiers à des fins commerciales ou publicitaires.</p>
 <h2>Qui peut y accéder</h2>
-<p>Vos informations sont accessibles aux seules personnes de FONY — MEUBLES qui traitent votre demande. Le site est hébergé par GitHub, Inc., qui agit comme sous-traitant technique ; les envois de formulaire transitent par le prestataire de formulaire indiqué sur la page de contact. Lorsque votre projet le nécessite — la fabrication d'un meuble sur mesure, une livraison, une pose — les seules informations strictement utiles sont transmises au fournisseur ou au poseur concerné.</p>
+<p>Vos informations sont accessibles aux seules personnes de FONY — MEUBLES qui traitent votre demande. Le site est hébergé par GitHub, Inc., qui agit comme sous-traitant technique ; les envois de formulaire transitent par le prestataire de formulaire indiqué sur la page de contact. Lorsque votre projet le nécessite — la fabrication d’un meuble sur mesure, une livraison, une pose — les seules informations strictement utiles sont transmises au fournisseur ou au poseur concerné.</p>
 <h2>Combien de temps nous les conservons</h2>
-<p>Trois ans à compter de notre dernier échange, si votre demande ne débouche pas sur une commande. En cas de commande, les documents liés sont conservés le temps imposé par nos obligations comptables et légales. Si vous êtes inscrit à nos informations professionnelles, vos coordonnées sont conservées jusqu'à votre désinscription.</p>
+<p>Trois ans à compter de notre dernier échange, si votre demande ne débouche pas sur une commande. En cas de commande, les documents liés sont conservés le temps imposé par nos obligations comptables et légales. Si vous êtes inscrit à nos informations professionnelles, vos coordonnées sont conservées jusqu’à votre désinscription.</p>
 <h2 id="cookies">Cookies</h2>
-<p>Ce site utilise des cookies strictement nécessaires à son fonctionnement, ainsi que, avec votre accord, des cookies de mesure d'audience et des services tiers — notamment la carte Google Maps qui indique l'accès au magasin. Vous acceptez ou refusez ces cookies non essentiels lors de votre première visite, et vous pouvez modifier ce choix à tout moment via le bandeau de gestion des cookies.</p>
+<p>Ce site utilise des cookies strictement nécessaires à son fonctionnement, ainsi que, avec votre accord, des cookies de mesure d’audience et des services tiers — notamment la carte Google Maps qui indique l’accès au magasin. Vous acceptez ou refusez ces cookies non essentiels lors de votre première visite, et vous pouvez modifier ce choix à tout moment via le bandeau de gestion des cookies.</p>
 <h2>Vos droits</h2>
-<p>Vous pouvez à tout moment demander à consulter les informations que nous détenons sur vous, les faire corriger, les faire supprimer, en limiter l'usage, ou vous opposer à leur traitement. Une demande par e-mail à <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a> suffit, et nous y répondons dans un délai d'un mois.</p>
-<p>Si notre réponse ne vous satisfait pas, vous pouvez introduire une réclamation auprès de l'Autorité de protection des données, Rue de la Presse 35, 1000 Bruxelles — <a href="https://www.autoriteprotectiondonnees.be" rel="noopener">www.autoriteprotectiondonnees.be</a>.</p>
+<p>Vous pouvez à tout moment demander à consulter les informations que nous détenons sur vous, les faire corriger, les faire supprimer, en limiter l’usage, ou vous opposer à leur traitement. Une demande par e-mail à <a href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a> suffit, et nous y répondons dans un délai d’un mois.</p>
+<p>Si notre réponse ne vous satisfait pas, vous pouvez introduire une réclamation auprès de l’Autorité de protection des données, Rue de la Presse 35, 1000 Bruxelles — <a href="https://www.autoriteprotectiondonnees.be" rel="noopener">www.autoriteprotectiondonnees.be</a>.</p>
     </div>
   </section>
 </main>
@@ -561,7 +568,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 <footer>
   <div class="wrap foot">
     <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
-    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
     <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
   </div>
 </footer>

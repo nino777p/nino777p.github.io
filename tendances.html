@@ -315,9 +315,10 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
-/* 17/09 : la signature « Italian Living » cède sa place, sur bureau, aux liens Instagram / Facebook demandés en haut à droite
-   (la barre est plafonnée à 1240 px : les deux ne tiennent pas ensemble). Elle reste visible sur téléphone. */
-@media (min-width:961px){.sig{display:none}}
+/* 18/09 (nino : « Italian Living est pas mal ») : la signature revient sur bureau, les réseaux quittent la barre
+   (ils vivent dans l'accueil, le pied de page, le panneau mobile et la fiche contact). Elle s'efface seulement
+   dans la bande étroite où elle chevaucherait le menu. */
+@media (min-width:961px) and (max-width:1140px){.sig{display:none}}
 .bar .cta-top{white-space:nowrap}
 
 
@@ -422,6 +423,10 @@ body::before{opacity:.10;background-size:110px 110px}
 
 .foot a{display:inline-block;padding:5px 0}
 
+/* 18/09 : plus d'animation d'ouverture du bandeau (nino : « le bandeau d'animation est à retirer ») */
+.hero .ph,.hero-img,.hero-text>*,.hero-panel>*{animation:none}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -460,6 +465,8 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (max-width:960px){.logo img{height:40px}}
 /* Ancres : l'en-tête est collant (73 px) — sans cette marge, le titre visé passe dessous. */
 [id]{scroll-margin-top:96px}
+/* 18/09 : interligne des grands titres — à 1,02 le point d'un j touchait la descendante d'un p (Magasin & contact, 1280 px) */
+h1{line-height:1.08}
 
 
 /* Page Tendances */
@@ -487,6 +494,8 @@ body::before{opacity:.10;background-size:110px 110px}
 :root{--bg:#FAF8F4;--paper:#FFFFFF;--sand:#F3EFE8;--sand-deep:#E8E2D8;--line:#E4DED4;--ink:#1B1815;--ink-soft:#5B534B;--walnut:#1B1815;--walnut-ink:#FFFFFF;--terra:#9E4A2C;--brass:#C9A45C;--sage-deep:#9E4A2C;--ph-a:#E6DFD3;--ph-b:#D9CFC0;--ph-c:#EEE9E1;--ph-d:#E2DBD0}
 body::before{display:none}
 header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+/* page Espace pro (html.pro, sombre) : l'en-tête reste sombre — corrigé le 18/09 (barre blanche avec logo et menu blancs en v7) */
+html.pro header{background:rgba(30,27,25,.88)}
 .hero-text,.hero-panel{background:rgba(255,255,255,.97);box-shadow:0 30px 80px rgba(20,16,12,.10)}
 .materials-band,.social-band{background:#FFFFFF}
 .visit-card,.map-card,.tops{background:var(--sand)}
@@ -531,8 +540,6 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
             <li><a href="#contenu" aria-current="page">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
-        <li><a href="sur-mesure#realisations">Réalisations</a></li>
-        <li><a href="magasin-contact#nous-venons">Notre accompagnement</a></li>
         <li><a href="espace-pro">Espace pro</a></li>
         <li><a href="magasin-contact">Magasin &amp; contact</a></li>
       <li class="menu-actions">
@@ -543,7 +550,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       </li>
       </ul>
     </nav>
-    <div class="bar-right"><span class="social-top"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a><a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span><a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a></div>
+    <a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -553,23 +560,23 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <section style="padding-bottom:48px">
     <div class="wrap">
       <p class="kicker">Tendances</p>
-      <h1 style="max-width:15ch">La tendance dans les détails. Le reste, pour longtemps.</h1>
-      <p class="intro" style="margin-bottom:0">Chaque saison apporte ses teintes et ses matières. Nous les regardons, nous en gardons ce qui tient — et nous vous conseillons de faire pareil.</p>
+      <h1 style="max-width:15ch">La mode dans le coussin, pas dans le canapé.</h1>
+      <p class="intro" style="margin-bottom:0">Chaque saison apporte ses teintes et ses matières. Nous en gardons ce qui tient, et nous vous conseillons de faire pareil.</p>
     </div>
   </section>
 
   <section class="manifest" style="padding-top:88px">
     <div class="wrap manifest-grid">
-      <blockquote>Un canapé se garde dix ans. Un coussin, deux saisons. C'est là que se met la mode.</blockquote>
-      <p>Une pièce entièrement à la mode d'une année est démodée l'année suivante, et il faut alors tout reprendre. Nous partons de l'inverse. Les grandes surfaces — le canapé, la table, les façades du dressing — se choisissent dans des tons qui ne se datent pas. La tendance arrive ensuite, sur ce qui coûte peu et se remplace vite. Vous suivez l'époque sans être obligé de la suivre.</p>
+      <blockquote>Un canapé se garde dix ans. Un coussin, deux saisons. C’est là que se met la mode.</blockquote>
+      <p>Une pièce entièrement à la mode d’une année est démodée l’année suivante, et il faut alors tout reprendre. Nous partons de l’inverse. Les grandes surfaces — le canapé, la table, les façades du dressing — se choisissent dans des tons qui ne se datent pas. La tendance arrive ensuite, sur ce qui coûte peu et se remplace vite. Vous suivez l’époque sans être obligé de la suivre.</p>
     </div>
   </section>
 
   <section class="materials-band" aria-labelledby="saison-titre">
     <div class="wrap">
       <p class="kicker">Ce qui revient cette saison</p>
-      <h2 id="saison-titre">Trois familles, et ce qu'on en fait.</h2>
-      <p class="intro">Elles ont un point commun : ce sont des teintes naturelles. C'est pour cela qu'elles vieillissent bien, et c'est pour cela qu'on peut les prendre au sérieux plus longtemps qu'une saison.</p>
+      <h2 id="saison-titre">Trois familles, et ce qu’on en fait.</h2>
+      <p class="intro">Elles ont un point commun : ce sont des teintes naturelles. C’est pour cela qu’elles vieillissent bien, et c’est pour cela qu’on peut les prendre au sérieux plus longtemps qu’une saison.</p>
       <ul class="materials materials-3">
         <li><span class="mat has-img"><picture><source type="image/avif" srcset="assets/img/mat-laque-480.avif 480w, assets/img/mat-laque-960.avif 960w" sizes="(max-width:760px) 45vw, 22vw"><img src="assets/img/mat-laque-960.webp" srcset="assets/img/mat-laque-480.webp 480w, assets/img/mat-laque-960.webp 960w" sizes="(max-width:760px) 45vw, 22vw" alt="Échantillon Tomasella : laque mate Arena" width="1900" height="1900" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></picture></span><b>Les beiges</b><small>Sable, lin, écru, grège — ici une laque mate Arena. Après des années de gris, la pièce se réchauffe. C’est la famille qu’on peut prendre en grande surface sans rien risquer : le beige ne se démode pas, il change de nuance.</small></li>
         <li><span class="mat has-img"><picture><source type="image/avif" srcset="assets/img/mat-pierre-480.avif 480w, assets/img/mat-pierre-960.avif 960w" sizes="(max-width:760px) 45vw, 22vw"><img src="assets/img/mat-pierre-960.webp" srcset="assets/img/mat-pierre-480.webp 480w, assets/img/mat-pierre-960.webp 960w" sizes="(max-width:760px) 45vw, 22vw" alt="Échantillon Tomasella : pierre piasentina" width="1900" height="1900" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Les pierres veinées</b><small>Travertin du côté clair, piasentina — la pierre ci-contre — du côté sombre. Mates, veinées, elles font un plateau ou une table basse remarquables. Sur toute une pièce en revanche, on s’en lasse vite.</small></li>
@@ -584,9 +591,9 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       <h2>Où mettre la tendance, et où ne pas la mettre.</h2>
       <p class="intro">La même règle, appliquée trois fois.</p>
       <div class="tend-grid">
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-living-panorama-600.avif 600w, assets/img/tom-living-panorama-900.avif 900w, assets/img/tom-living-panorama-1400.avif 1400w, assets/img/tom-living-panorama-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:74% 52%" src="assets/img/tom-living-panorama-900.webp" srcset="assets/img/tom-living-panorama-600.webp 600w, assets/img/tom-living-panorama-900.webp 900w, assets/img/tom-living-panorama-1400.webp 1400w, assets/img/tom-living-panorama-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée" width="1900" height="950" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Le salon</h3><p><b>La base, pour longtemps.</b> Le canapé dans un ton neutre et un tissu qui se nettoie. C'est la pièce la plus chère et la plus longue à vivre : elle ne doit rien à la saison.</p><p><b>La tendance, en petit.</b> Un fauteuil dans un ton chaud, un tapis, une table basse en pierre. Trois objets qu'on change sans refaire le salon.</p></div>
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-table-600.avif 600w, assets/img/tom-table-900.avif 900w, assets/img/tom-table-1400.avif 1400w, assets/img/tom-table-1651.avif 1651w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:50% 56%" src="assets/img/tom-table-900.webp" srcset="assets/img/tom-table-600.webp 600w, assets/img/tom-table-900.webp 900w, assets/img/tom-table-1400.webp 1400w, assets/img/tom-table-1651.webp 1651w" sizes="(max-width:960px) 100vw, 33vw" alt="Table et buffet Tomasella dans un séjour urbain" width="1651" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>La salle à manger</h3><p><b>La base, pour longtemps.</b> La table en bois massif ou plaqué, dans une essence franche. Une belle table traverse les modes parce qu'elle n'en a jamais suivi.</p><p><b>La tendance, en petit.</b> Les chaises et la lumière. Ce sont elles qui datent une salle à manger, et ce sont elles qui coûtent le moins cher à remplacer.</p></div>
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-900.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><h3>Le dressing et la chambre</h3><p><b>La base, pour longtemps.</b> Les façades dans un ton sobre, assorti au sol et aux portes. On les garde vingt ans, et on ne les regarde pas : on regarde ce qu'il y a derrière.</p><p><b>La tendance, en petit.</b> L'intérieur, les poignées, l'éclairage des penderies. C'est là que se joue le plaisir quotidien, et c'est démontable.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-living-panorama-600.avif 600w, assets/img/tom-living-panorama-900.avif 900w, assets/img/tom-living-panorama-1400.avif 1400w, assets/img/tom-living-panorama-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:74% 52%" src="assets/img/tom-living-panorama-900.webp" srcset="assets/img/tom-living-panorama-600.webp 600w, assets/img/tom-living-panorama-900.webp 900w, assets/img/tom-living-panorama-1400.webp 1400w, assets/img/tom-living-panorama-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée" width="1900" height="950" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Le salon</h3><p><b>La base, pour longtemps.</b> Le canapé dans un ton neutre et un tissu qui se nettoie. C’est la pièce la plus chère et la plus longue à vivre : elle ne doit rien à la saison.</p><p><b>La tendance, en petit.</b> Un fauteuil dans un ton chaud, un tapis, une table basse en pierre. Trois objets qu’on change sans refaire le salon.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-table-600.avif 600w, assets/img/tom-table-900.avif 900w, assets/img/tom-table-1400.avif 1400w, assets/img/tom-table-1651.avif 1651w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:50% 56%" src="assets/img/tom-table-900.webp" srcset="assets/img/tom-table-600.webp 600w, assets/img/tom-table-900.webp 900w, assets/img/tom-table-1400.webp 1400w, assets/img/tom-table-1651.webp 1651w" sizes="(max-width:960px) 100vw, 33vw" alt="Table et buffet Tomasella dans un séjour urbain" width="1651" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>La salle à manger</h3><p><b>La base, pour longtemps.</b> La table en bois massif ou plaqué, dans une essence franche. Une belle table traverse les modes parce qu’elle n’en a jamais suivi.</p><p><b>La tendance, en petit.</b> Les chaises et la lumière. Ce sont elles qui datent une salle à manger, et ce sont elles qui coûtent le moins cher à remplacer.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-900.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><h3>Le dressing et la chambre</h3><p><b>La base, pour longtemps.</b> Les façades dans un ton sobre, assorti au sol et aux portes. On les garde vingt ans, et on ne les regarde pas : on regarde ce qu’il y a derrière.</p><p><b>La tendance, en petit.</b> L’intérieur, les poignées, l’éclairage des penderies. C’est là que se joue le plaisir quotidien, et c’est démontable.</p></div>
       </div>
     </div>
   </section>
@@ -595,7 +602,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
     <div class="wrap final-grid">
       <div>
         <h2>Le plus sûr reste de les poser côte à côte.</h2>
-        <p>Un beige n'est pas un beige tant qu'on ne l'a pas mis à côté de son sol et de sa lumière. Les échantillons sont au magasin : venez avec une photo de la pièce, nous sortons les matières et nous comparons.</p>
+        <p>Un beige n’est pas un beige tant qu’on ne l’a pas mis à côté de son sol et de sa lumière. Les échantillons sont au magasin : venez avec une photo de la pièce, nous sortons les matières et nous comparons.</p>
         <div class="actions">
           <a class="btn btn-solid" href="magasin-contact#visite">Préparer ma visite</a>
           <a class="btn btn-ghost" href="living">Voir le living</a>
@@ -609,7 +616,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 <footer>
   <div class="wrap foot">
     <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
-    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
     <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
   </div>
 </footer>

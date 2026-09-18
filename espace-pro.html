@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Espace pro : hôtels, restaurants, bureaux | Fony Meubles</title>
-<meta name="description" content="Aménagement d&#x27;espaces professionnels dans le Hainaut : hôtellerie, restauration, bureaux, promotion immobilière, commerces. Un interlocuteur, du plan à la pose.">
+<title>Espace pro : bureau, cabinet, commerce, home | Fony Meubles</title>
+<meta name="description" content="Aménagement d&#x27;espaces de travail et d&#x27;accueil dans le Hainaut : bureau à domicile, professions libérales, homes, entreprises, commerces et horeca, promotion immobilière. Un interlocuteur, du plan à la pose.">
 <link rel="canonical" href="https://fony.be/espace-pro">
 <meta name="theme-color" content="#FAF8F4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
@@ -14,8 +14,8 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Fony Meubles">
 <meta property="og:locale" content="fr_BE">
-<meta property="og:title" content="Espace pro : hôtels, restaurants, bureaux | Fony Meubles">
-<meta property="og:description" content="Aménagement d&#x27;espaces professionnels dans le Hainaut : hôtellerie, restauration, bureaux, promotion immobilière, commerces. Un interlocuteur, du plan à la pose.">
+<meta property="og:title" content="Espace pro : bureau, cabinet, commerce, home | Fony Meubles">
+<meta property="og:description" content="Aménagement d&#x27;espaces de travail et d&#x27;accueil dans le Hainaut : bureau à domicile, professions libérales, homes, entreprises, commerces et horeca, promotion immobilière. Un interlocuteur, du plan à la pose.">
 <meta property="og:url" content="https://fony.be/espace-pro">
 <link rel="preload" href="assets/fonts/bodoni-moda-var.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="assets/fonts/hanken-grotesk-var.woff" as="font" type="font/woff" crossorigin>
@@ -353,9 +353,10 @@ html.pro .note{background:#2B2723;color:var(--ink-soft)}
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
-/* 17/09 : la signature « Italian Living » cède sa place, sur bureau, aux liens Instagram / Facebook demandés en haut à droite
-   (la barre est plafonnée à 1240 px : les deux ne tiennent pas ensemble). Elle reste visible sur téléphone. */
-@media (min-width:961px){.sig{display:none}}
+/* 18/09 (nino : « Italian Living est pas mal ») : la signature revient sur bureau, les réseaux quittent la barre
+   (ils vivent dans l'accueil, le pied de page, le panneau mobile et la fiche contact). Elle s'efface seulement
+   dans la bande étroite où elle chevaucherait le menu. */
+@media (min-width:961px) and (max-width:1140px){.sig{display:none}}
 .bar .cta-top{white-space:nowrap}
 
 
@@ -504,6 +505,15 @@ body::before{opacity:.10;background-size:110px 110px}
 
 .foot a{display:inline-block;padding:5px 0}
 
+/* Espace pro, 18/09 : six espaces, trois par rangée sur bureau */
+@media (min-width:961px){.sectors{grid-template-columns:repeat(3,1fr);gap:28px 24px}.sectors .ph{height:240px}}
+
+
+/* 18/09 : plus d'animation d'ouverture du bandeau (nino : « le bandeau d'animation est à retirer ») */
+.hero .ph,.hero-img,.hero-text>*,.hero-panel>*{animation:none}
+
+.form .form-note{margin:-4px 0 0;font-size:13.5px;color:var(--ink-soft)}.form input[type="file"]{padding:10px;font-size:14px}
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -542,12 +552,16 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (max-width:960px){.logo img{height:40px}}
 /* Ancres : l'en-tête est collant (73 px) — sans cette marge, le titre visé passe dessous. */
 [id]{scroll-margin-top:96px}
+/* 18/09 : interligne des grands titres — à 1,02 le point d'un j touchait la descendante d'un p (Magasin & contact, 1280 px) */
+h1{line-height:1.08}
 
 
 /* Thème « Cristal & encre », 18/09 — variables, grain, en-tête, panneaux, bandes encre, bouton principal */
 :root{--bg:#FAF8F4;--paper:#FFFFFF;--sand:#F3EFE8;--sand-deep:#E8E2D8;--line:#E4DED4;--ink:#1B1815;--ink-soft:#5B534B;--walnut:#1B1815;--walnut-ink:#FFFFFF;--terra:#9E4A2C;--brass:#C9A45C;--sage-deep:#9E4A2C;--ph-a:#E6DFD3;--ph-b:#D9CFC0;--ph-c:#EEE9E1;--ph-d:#E2DBD0}
 body::before{display:none}
 header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+/* page Espace pro (html.pro, sombre) : l'en-tête reste sombre — corrigé le 18/09 (barre blanche avec logo et menu blancs en v7) */
+html.pro header{background:rgba(30,27,25,.88)}
 .hero-text,.hero-panel{background:rgba(255,255,255,.97);box-shadow:0 30px 80px rgba(20,16,12,.10)}
 .materials-band,.social-band{background:#FFFFFF}
 .visit-card,.map-card,.tops{background:var(--sand)}
@@ -588,8 +602,6 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
-        <li><a href="sur-mesure#realisations">Réalisations</a></li>
-        <li><a href="magasin-contact#nous-venons">Notre accompagnement</a></li>
         <li><a href="#contenu" aria-current="page">Espace pro</a></li>
         <li><a href="magasin-contact">Magasin &amp; contact</a></li>
       <li class="menu-actions">
@@ -600,19 +612,19 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       </li>
       </ul>
     </nav>
-    <div class="bar-right"><span class="social-top"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a><a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span><a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a></div>
+    <a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
 <main id="contenu">
   <div class="hero">
     <div class="hero-panel">
-      <p class="kicker">Aménagement pour les professionnels</p>
-      <h1>Des espaces qui travaillent pour vous.</h1>
-      <p class="lead">Mobilier, cuisines et rangements sur mesure pour les bureaux, la promotion immobilière, l'hôtellerie, la restauration et les commerces. Un seul interlocuteur, du plan à la pose.</p>
+      <p class="kicker">Espaces de travail et d’accueil</p>
+      <h1>Du bureau à domicile au home&nbsp;: aménagé avec vous.</h1>
+      <p class="lead">Bureau, cabinet, salle d’attente, commerce, maison de repos, appartement témoin : mobilier, rangements sur mesure, fauteuils relax et cuisines, avec un seul interlocuteur du plan à la pose. Indépendant, profession libérale ou entreprise.</p>
       <div class="actions">
         <a class="btn btn-solid" href="#projet-pro">Parler de votre projet</a>
-        <a class="btn btn-ghost" href="#secteurs">Voir les secteurs</a>
+        <a class="btn btn-ghost" href="#secteurs">Voir les espaces</a>
       </div>
       <p class="reassure">Visite du lieu et devis offerts, sans engagement.</p>
     </div>
@@ -620,13 +632,15 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 
   <section id="secteurs">
     <div class="wrap">
-      <h2>Quatre univers, une même exigence</h2>
-      <p class="intro">Chaque projet part de votre activité : qui reçoit, qui travaille, ce qui doit durer.</p>
+      <h2>Chaque espace a son usage.</h2>
+      <p class="intro">Un bureau qu’on occupe huit heures par jour, une salle d’attente où l’on passe vingt minutes, une chambre de home où l’on vit : le mobilier ne se choisit pas pareil. On commence par là.</p>
       <div class="sectors">
-        <div><h3>Bureaux</h3><p>Postes de travail, salles de réunion, accueil et rangements. Un cadre qui rassure vos clients et sert vos équipes.</p></div>
-        <div><div class="ph has-img ph-oak" data-label="Photo à venir : appartement neuf équipé"><picture><source type="image/avif" srcset="assets/img/tom-appartement-600.avif 600w, assets/img/tom-appartement-900.avif 900w, assets/img/tom-appartement-1400.avif 1400w, assets/img/tom-appartement-1920.avif 1920w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:82% 55%" src="assets/img/tom-appartement-1400.webp" srcset="assets/img/tom-appartement-600.webp 600w, assets/img/tom-appartement-900.webp 900w, assets/img/tom-appartement-1400.webp 1400w, assets/img/tom-appartement-1920.webp 1920w" sizes="(max-width:960px) 100vw, 50vw" alt="Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure" width="1920" height="928" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Promotion immobilière</h3><p>Cuisines, dressings et rangements pour vos programmes neufs, de l'appartement témoin à la série.</p></div>
-        <div><h3>Hôtellerie et restauration</h3><p>Chambres, salles et réception : du mobilier qui tient le rythme et garde son allure.</p></div>
-        <div><h3>Commerces</h3><p>Boutiques, instituts et showrooms : comptoirs, présentoirs et rangements dessinés pour votre activité.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-bibliotheque-600.avif 600w, assets/img/tom-bibliotheque-900.avif 900w, assets/img/tom-bibliotheque-1400.avif 1400w, assets/img/tom-bibliotheque-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:62% 50%" src="assets/img/tom-bibliotheque-900.webp" srcset="assets/img/tom-bibliotheque-600.webp 600w, assets/img/tom-bibliotheque-900.webp 900w, assets/img/tom-bibliotheque-1400.webp 1400w, assets/img/tom-bibliotheque-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Bibliothèque murale Tomasella avec niches et éclairage intégré" width="1900" height="1193" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Bureau à domicile</h3><p>Un poste de travail qui s’intègre au séjour ou à la chambre : bureau, rangements, bibliothèque, dans les finitions de la pièce.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-living-panorama-600.avif 600w, assets/img/tom-living-panorama-900.avif 900w, assets/img/tom-living-panorama-1400.avif 1400w, assets/img/tom-living-panorama-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:74% 52%" src="assets/img/tom-living-panorama-900.webp" srcset="assets/img/tom-living-panorama-600.webp 600w, assets/img/tom-living-panorama-900.webp 900w, assets/img/tom-living-panorama-1400.webp 1400w, assets/img/tom-living-panorama-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée" width="1900" height="950" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Professions libérales</h3><p>Cabinet, salle d’attente, accueil : des assises qui tiennent le rythme, des rangements fermés, une image qui rassure.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-chambre-600.avif 600w, assets/img/tom-chambre-900.avif 900w, assets/img/tom-chambre-1400.avif 1400w, assets/img/tom-chambre-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:66% 54%" src="assets/img/tom-chambre-900.webp" srcset="assets/img/tom-chambre-600.webp 600w, assets/img/tom-chambre-900.webp 900w, assets/img/tom-chambre-1400.webp 1400w, assets/img/tom-chambre-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Chambre Tomasella Corinto : lit tapissé et chevets assortis" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Corinto"></picture></div><h3>Homes et maisons de repos</h3><p>Fauteuils relax, sièges et mobilier de chambre : le confort d’abord, l’entretien facile, la solidité.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-time-600.avif 600w, assets/img/tom-time-900.avif 900w, assets/img/tom-time-1400.avif 1400w, assets/img/tom-time-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:20% 58%" src="assets/img/tom-time-900.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="lazy" decoding="async" data-credit="Tomasella Time"></picture></div><h3>Entreprises et bureaux</h3><p>Postes de travail, salles de réunion, accueil et rangements, dessinés pour votre activité.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-table-600.avif 600w, assets/img/tom-table-900.avif 900w, assets/img/tom-table-1400.avif 1400w, assets/img/tom-table-1651.avif 1651w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:50% 56%" src="assets/img/tom-table-900.webp" srcset="assets/img/tom-table-600.webp 600w, assets/img/tom-table-900.webp 900w, assets/img/tom-table-1400.webp 1400w, assets/img/tom-table-1651.webp 1651w" sizes="(max-width:960px) 100vw, 33vw" alt="Table et buffet Tomasella dans un séjour urbain" width="1651" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Commerces et horeca</h3><p>Boutiques, instituts, restaurants, hôtels : comptoirs, présentoirs, tables et assises qui gardent leur allure.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-appartement-600.avif 600w, assets/img/tom-appartement-900.avif 900w, assets/img/tom-appartement-1400.avif 1400w, assets/img/tom-appartement-1920.avif 1920w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:82% 55%" src="assets/img/tom-appartement-900.webp" srcset="assets/img/tom-appartement-600.webp 600w, assets/img/tom-appartement-900.webp 900w, assets/img/tom-appartement-1400.webp 1400w, assets/img/tom-appartement-1920.webp 1920w" sizes="(max-width:960px) 100vw, 33vw" alt="Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure" width="1920" height="928" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Promotion immobilière</h3><p>Cuisines, dressings et rangements pour vos programmes neufs, de l’appartement témoin à la série.</p></div>
       </div>
     </div>
   </section>
@@ -635,7 +649,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
     <div class="wrap">
       <h2>Ce que nous réalisons pour vous</h2>
       <ul class="services">
-        <li>Sur mesure</li><li>Meubles de rangement</li><li>Cuisines Stosa</li><li>Mobilier</li>
+        <li>Sur mesure</li><li>Meubles de rangement</li><li>Fauteuils relax</li><li>Cuisines Stosa</li><li>Mobilier</li>
       </ul>
     </div>
   </section>
@@ -643,9 +657,9 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <section>
     <div class="wrap">
       <h2>Comment nous travaillons</h2>
-      <p class="intro">Des étapes claires, un interlocuteur unique, des délais annoncés.</p>
+      <p class="intro">Des étapes claires, un interlocuteur unique, des délais annoncés. Pour aller vite et juste, trois choses nous aident : les dimensions de l’espace ou un plan ; l’usage — qui s’y installe, combien de temps, combien de fois par jour ; et une idée du volume et de la forme que vous imaginez. Nous faisons le reste sur place.</p>
       <div class="steps">
-        <div class="step"><h3>Visite du lieu</h3><p>Nous venons voir l'espace, comprendre l'activité et relever les contraintes.</p></div>
+        <div class="step"><h3>Visite du lieu</h3><p>Nous venons voir l’espace, comprendre l’activité et relever les contraintes.</p></div>
         <div class="step"><h3>Plan et devis</h3><p>Implantation, matériaux et finitions, avec un devis détaillé.</p></div>
         <div class="step"><h3>Fabrication</h3><p>Chez nos fabricants et notre atelier partenaire, selon le planning convenu.</p></div>
         <div class="step"><h3>Livraison et pose</h3><p>Livraison par nos soins, pose par notre équipe ou un artisan partenaire.</p></div>
@@ -657,19 +671,21 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
     <div class="wrap faq-grid">
       <div>
         <h2>Parlons de votre projet</h2>
-        <p class="intro">Décrivez votre activité et votre espace. Nous revenons vers vous pour organiser une visite.</p>
+        <p class="intro">Décrivez votre espace et son usage. Nous revenons vers vous pour organiser une visite, ou simplement vous aiguiller par téléphone.</p>
       </div>
-      <form class="form" action="https://formsubmit.co/fonymeubles@hotmail.com" method="post">
+      <form class="form" action="https://formsubmit.co/fonymeubles@gmail.com" method="post" enctype="multipart/form-data">
         <input type="hidden" name="_subject" value="Demande via fony.be"><input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off"><input type="hidden" name="_captcha" value="false"><input type="hidden" name="_next" value="https://fony.be/merci"><p class="req-note">Les champs marqués <span class="req" aria-hidden="true">*</span> sont obligatoires.</p>
         <input type="hidden" name="source" value="espace-pro">
-        <label><span>Société <span class="req" aria-hidden="true">*</span></span><input name="societe" autocomplete="organization" required></label>
-        <label>Secteur<select name="secteur"><option>Bureaux</option><option>Promotion immobilière</option><option>Hôtellerie et restauration</option><option>Commerces</option></select></label>
-        <label><span>Nom <span class="req" aria-hidden="true">*</span></span><input name="nom" autocomplete="name" required></label>
-        <label><span>Adresse e-mail <span class="req" aria-hidden="true">*</span></span><input type="email" name="email" autocomplete="email" required></label>
-        <label>Téléphone<input type="tel" name="tel" autocomplete="tel"></label>
+        <label>Société (si vous en avez une)<input name="societe" autocomplete="organization"></label>
+        <label>Votre espace<select name="secteur"><option>Bureau à domicile</option><option>Profession libérale</option><option>Home, maison de repos</option><option>Entreprise, bureaux</option><option>Commerce, horeca</option><option>Promotion immobilière</option><option>Autre</option></select></label>
+        <label><span>Prénom ou nom <span class="req" aria-hidden="true">*</span></span><input name="nom" autocomplete="name" required></label>
+        <label>Adresse e-mail<input type="email" name="email" autocomplete="email"></label>
+        <label><span>Téléphone <span class="req tel-req" aria-hidden="true" hidden>*</span></span><input type="tel" name="tel" autocomplete="tel"></label>
+        <p class="full form-note">E-mail ou téléphone, au choix. Le téléphone est demandé si vous souhaitez être rappelé ou une visite chez vous.</p>
         <label>Localisation du projet<input name="lieu"></label>
         <label class="full">Votre projet<textarea name="message"></textarea></label>
-        <label class="full check"><input type="checkbox" name="consentement" required> <span>J'accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. <a class="ilink" href="confidentialite">Politique de confidentialité</a></span></label>
+        <label class="full">Plan, mesures ou photos de l’espace (facultatif, 10 Mo au total)<input type="file" name="fichier" accept="image/*,.pdf" multiple></label>
+        <label class="full check"><input type="checkbox" name="consentement" required> <span>J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. <a class="ilink" href="confidentialite">Politique de confidentialité</a></span></label>
         <div class="full"><button class="btn btn-solid" type="submit">Envoyer la demande</button></div>
         <p class="form-ok" role="status"><svg viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="12"/><path d="M8.5 14.5l4 4 7-8"/></svg><span>Merci, votre demande est bien envoyée. Nous revenons vers vous rapidement.</span></p>
       </form>
@@ -679,7 +695,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 <footer>
   <div class="wrap foot">
     <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
-    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
     <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
   </div>
 </footer>
@@ -709,6 +725,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <a href="https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Itinéraire</a>
   <a href="magasin-contact#visite"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="1"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Rendez-vous</a>
 </nav>
+<script>document.querySelectorAll('form.form').forEach(function(f){var em=f.querySelector('input[name=email]'),tel=f.querySelector('input[name=tel]'),pref=f.querySelector('select[name=contact]'),star=f.querySelector('.tel-req');function need(){if(!tel||!pref)return;var byPhone=/rappel|visite/i.test(pref.value);tel.required=byPhone;if(star)star.hidden=!byPhone;}if(pref){pref.addEventListener('change',need);need();}f.addEventListener('submit',function(e){if(em&&tel&&!em.value.trim()&&!tel.value.trim()){e.preventDefault();em.setCustomValidity('Indiquez un e-mail ou un numéro de téléphone.');em.reportValidity();setTimeout(function(){em.setCustomValidity('');},2500);return;}var fi=f.querySelector('input[type=file]');if(fi&&fi.files&&fi.files.length){var t=0;for(var i=0;i<fi.files.length;i++)t+=fi.files[i].size;if(t>10*1024*1024){e.preventDefault();fi.setCustomValidity('Les fichiers dépassent 10 Mo au total.');fi.reportValidity();setTimeout(function(){fi.setCustomValidity('');},2500);}}});});</script>
 <div class="pop" id="pop" role="dialog" aria-modal="true" aria-labelledby="pop-t" data-delai="25" data-repos="7" hidden>
   <div class="pop-fond" data-fermer></div>
   <div class="pop-boite">

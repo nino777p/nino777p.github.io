@@ -28,7 +28,7 @@
 #     Laissez vide s'il n'y a pas d'échéance.
 # ---------------------------------------------------------------------
 
-fin : 2026-09-18
+fin :
 
 
 # ---------------------------------------------------------------------
@@ -37,7 +37,7 @@ fin : 2026-09-18
 #     C'est l'outil le plus sûr : à privilégier avant le pop-up.
 # ---------------------------------------------------------------------
 
-bandeau actif : oui
+bandeau actif : non
 
 # Le texte affiché sur ordinateur (une phrase, sans point final obligatoire)
 bandeau texte : Journées Relax : venez essayer nos canapés relax, le café est offert.
@@ -46,7 +46,7 @@ bandeau texte : Journées Relax : venez essayer nos canapés relax, le café est
 bandeau texte court : Journées Relax : essayez nos relax.
 
 # Où mène le lien, et comment il s'appelle
-bandeau lien : campagne.html
+bandeau lien : offre-du-moment.html
 bandeau libellé : Voir l'offre
 
 
@@ -58,15 +58,15 @@ bandeau libellé : Voir l'offre
 #     À réserver à un vrai événement daté.
 # ---------------------------------------------------------------------
 
-popup actif : oui
+popup actif : non
 
 popup titre : Journées Relax
 popup texte : Venez essayer nos canapés et fauteuils relax. Nous vous montrons les fonctions et vous aidons à trouver la bonne position. Le café est offert.
 popup bouton : Réserver un moment
-popup lien : campagne.html
+popup lien : offre-du-moment.html
 
 # Secondes avant qu'il puisse apparaître (25 est un bon réglage)
-popup délai : 10
+popup délai : 25
 
 # Jours avant de le remontrer à quelqu'un qui l'a fermé (7 est raisonnable)
 popup repos : 7
@@ -81,11 +81,11 @@ popup repos : 7
 #     Elle est créée à l'adresse /campagne
 # ---------------------------------------------------------------------
 
-campagne active : oui
+campagne active : non
 
 campagne titre : Journées Relax
 campagne accroche : Le confort se choisit assis.
-campagne texte : Venez essayer nos canapés et fauteuils relax, italiens et européens, sans rendez-vous. Nous vous montrons les fonctions et vous aidons à trouver la bonne position. Le café est offert.
+campagne texte : Pendant deux semaines, venez essayer nos canapés et fauteuils relax, italiens et européens. Nous vous montrons les différentes fonctions et nous vous aidons à trouver la bonne position. Le café est offert.
 
 # Les trois arguments, séparés par une barre verticale |
 campagne arguments : Une trentaine de salons exposés | Essai libre, sans rendez-vous | Conseil par quelqu'un qui connaît les produits

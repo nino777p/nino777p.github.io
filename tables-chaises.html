@@ -318,9 +318,10 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
-/* 17/09 : la signature « Italian Living » cède sa place, sur bureau, aux liens Instagram / Facebook demandés en haut à droite
-   (la barre est plafonnée à 1240 px : les deux ne tiennent pas ensemble). Elle reste visible sur téléphone. */
-@media (min-width:961px){.sig{display:none}}
+/* 18/09 (nino : « Italian Living est pas mal ») : la signature revient sur bureau, les réseaux quittent la barre
+   (ils vivent dans l'accueil, le pied de page, le panneau mobile et la fiche contact). Elle s'efface seulement
+   dans la bande étroite où elle chevaucherait le menu. */
+@media (min-width:961px) and (max-width:1140px){.sig{display:none}}
 .bar .cta-top{white-space:nowrap}
 
 
@@ -425,6 +426,10 @@ body::before{opacity:.10;background-size:110px 110px}
 
 .foot a{display:inline-block;padding:5px 0}
 
+/* 18/09 : plus d'animation d'ouverture du bandeau (nino : « le bandeau d'animation est à retirer ») */
+.hero .ph,.hero-img,.hero-text>*,.hero-panel>*{animation:none}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -463,6 +468,8 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (max-width:960px){.logo img{height:40px}}
 /* Ancres : l'en-tête est collant (73 px) — sans cette marge, le titre visé passe dessous. */
 [id]{scroll-margin-top:96px}
+/* 18/09 : interligne des grands titres — à 1,02 le point d'un j touchait la descendante d'un p (Magasin & contact, 1280 px) */
+h1{line-height:1.08}
 
 
 /* Pages générées : hero, blocs et grilles (règles de la maquette Living) */
@@ -530,6 +537,8 @@ body::before{opacity:.10;background-size:110px 110px}
 :root{--bg:#FAF8F4;--paper:#FFFFFF;--sand:#F3EFE8;--sand-deep:#E8E2D8;--line:#E4DED4;--ink:#1B1815;--ink-soft:#5B534B;--walnut:#1B1815;--walnut-ink:#FFFFFF;--terra:#9E4A2C;--brass:#C9A45C;--sage-deep:#9E4A2C;--ph-a:#E6DFD3;--ph-b:#D9CFC0;--ph-c:#EEE9E1;--ph-d:#E2DBD0}
 body::before{display:none}
 header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+/* page Espace pro (html.pro, sombre) : l'en-tête reste sombre — corrigé le 18/09 (barre blanche avec logo et menu blancs en v7) */
+html.pro header{background:rgba(30,27,25,.88)}
 .hero-text,.hero-panel{background:rgba(255,255,255,.97);box-shadow:0 30px 80px rgba(20,16,12,.10)}
 .materials-band,.social-band{background:#FFFFFF}
 .visit-card,.map-card,.tops{background:var(--sand)}
@@ -574,8 +583,6 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
-        <li><a href="sur-mesure#realisations">Réalisations</a></li>
-        <li><a href="magasin-contact#nous-venons">Notre accompagnement</a></li>
         <li><a href="espace-pro">Espace pro</a></li>
         <li><a href="magasin-contact">Magasin &amp; contact</a></li>
       <li class="menu-actions">
@@ -586,7 +593,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       </li>
       </ul>
     </nav>
-    <div class="bar-right"><span class="social-top"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a><a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span><a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a></div>
+    <a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -596,8 +603,8 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
     <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-table-600.avif 600w, assets/img/tom-table-900.avif 900w, assets/img/tom-table-1400.avif 1400w, assets/img/tom-table-1651.avif 1651w" sizes="(max-width:960px) 100vw, 100vw"><img style="object-position:50% 56%" src="assets/img/tom-table-900.webp" srcset="assets/img/tom-table-600.webp 600w, assets/img/tom-table-900.webp 900w, assets/img/tom-table-1400.webp 1400w, assets/img/tom-table-1651.webp 1651w" sizes="(max-width:960px) 100vw, 100vw" alt="Table et buffet Tomasella dans un séjour urbain" width="1651" height="1900" loading="eager" decoding="async" data-credit="Tomasella"></picture></div>
     <div class="hero-panel">
       <p class="kicker">Salle à manger</p>
-      <h1>La table, et les chaises qui vont avec.</h1>
-      <p class="lead">Une grande table fixe italienne, à la ligne épurée : c'est ce que nous aimons vendre. Quand la place manque, une table à rallonge Akante fait le travail. Tomasella, Sedit, Cattelan Italia, Di Lazzaro.</p>
+      <h1>La table qu’on garde, les chaises qu’on change.</h1>
+      <p class="lead">Une grande table fixe italienne, à la ligne épurée : c’est ce que nous aimons vendre. Quand la place manque, une table à rallonge Akante fait le travail. Tomasella, Sedit, Cattelan Italia, Di Lazzaro.</p>
       <div class="actions">
         <a class="btn btn-solid" href="magasin-contact#visite">Venir les voir</a>
         <a class="btn btn-ghost" href="magasin-contact#visite">Parler de mon projet</a>
@@ -609,7 +616,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <section id="table">
     <div class="wrap">
       <h2>La table, pour longtemps</h2>
-      <p class="intro">C'est la pièce qu'on garde. Essences, plateaux, dimensions : tout se compare au magasin, avec les cotes de votre pièce.</p>
+      <p class="intro">C’est la pièce qu’on garde. Essences, plateaux, dimensions : tout se compare au magasin, avec les cotes de votre pièce.</p>
       <div class="brands3">
         <div class="brand">
           <h3>Tomasella et Sedit</h3>
@@ -627,14 +634,14 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
           <span class="tag">Nouveau au magasin</span>
         </div>
       </div>
-      <p class="range">Et pour les pièces qui reçoivent plus qu'elles ne mesurent : les tables à rallonge Akante, pratiques et bien faites.</p>
+      <p class="range">Et pour les pièces qui reçoivent plus qu’elles ne mesurent : les tables à rallonge Akante, pratiques et bien faites.</p>
       <div class="chairs">
         <div>
           <h2>Les chaises</h2>
-          <p>Ce sont elles qui datent une salle à manger, et les moins chères à remplacer : c'est là que la tendance a sa place.</p>
+          <p>Ce sont elles qui datent une salle à manger, et les moins chères à remplacer : c’est là que la tendance a sa place.</p>
           <ul aria-label="Matières des chaises"><li>Bois</li><li>Tissu</li><li>Cuir</li><li>Microfibre</li><li>Pied métal</li></ul>
         </div>
-        <p class="tip" style="margin-top:0"><strong>Bon à savoir :</strong> une table se choisit avec ses chaises. La hauteur du plateau et celle de l'assise doivent aller ensemble, et le nombre de convives se décide avant la longueur.</p>
+        <p class="tip" style="margin-top:0"><strong>Bon à savoir :</strong> une table se choisit avec ses chaises. La hauteur du plateau et celle de l’assise doivent aller ensemble, et le nombre de convives se décide avant la longueur.</p>
       </div>
     </div>
   </section>
@@ -642,10 +649,10 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <section class="proofs">
     <div class="wrap">
       <h2>Dans la pièce</h2>
-      <p class="intro">La salle à manger n'est jamais seule : elle ouvre sur le salon ou sur la cuisine. La table se choisit avec ce qu'il y a autour.</p>
+      <p class="intro">La salle à manger n’est jamais seule : elle ouvre sur le salon ou sur la cuisine. La table se choisit avec ce qu’il y a autour.</p>
       <div class="systems">
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-atlante-villa-600.avif 600w, assets/img/tom-atlante-villa-900.avif 900w, assets/img/tom-atlante-villa-1400.avif 1400w, assets/img/tom-atlante-villa-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:74% 50%" src="assets/img/tom-atlante-villa-900.webp" srcset="assets/img/tom-atlante-villa-600.webp 600w, assets/img/tom-atlante-villa-900.webp 900w, assets/img/tom-atlante-villa-1400.webp 1400w, assets/img/tom-atlante-villa-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair" width="1900" height="917" loading="lazy" decoding="async" data-credit="Tomasella Atlante"></picture></div><h3>Avec le séjour</h3><p>Table et buffet dans les finitions du meuble TV : la pièce tient d'un seul geste. <a class="ilink" href="living">Voir le living</a></p></div>
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/stosa-living-600.avif 600w, assets/img/stosa-living-900.avif 900w, assets/img/stosa-living-1400.avif 1400w, assets/img/stosa-living-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:70% 50%" src="assets/img/stosa-living-900.webp" srcset="assets/img/stosa-living-600.webp 600w, assets/img/stosa-living-900.webp 900w, assets/img/stosa-living-1400.webp 1400w, assets/img/stosa-living-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Cuisine Stosa Infinity et séjour dans la même pièce" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Infinity"></picture></div><h3>Avec la cuisine</h3><p>Quand la cuisine s'ouvre sur la table, les deux se dessinent ensemble. <a class="ilink" href="cuisine">Voir la cuisine</a></p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-atlante-villa-600.avif 600w, assets/img/tom-atlante-villa-900.avif 900w, assets/img/tom-atlante-villa-1400.avif 1400w, assets/img/tom-atlante-villa-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:74% 50%" src="assets/img/tom-atlante-villa-900.webp" srcset="assets/img/tom-atlante-villa-600.webp 600w, assets/img/tom-atlante-villa-900.webp 900w, assets/img/tom-atlante-villa-1400.webp 1400w, assets/img/tom-atlante-villa-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair" width="1900" height="917" loading="lazy" decoding="async" data-credit="Tomasella Atlante"></picture></div><h3>Avec le séjour</h3><p>Table et buffet dans les finitions du meuble TV : la pièce tient d’un seul geste. <a class="ilink" href="living">Voir le living</a></p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/stosa-living-600.avif 600w, assets/img/stosa-living-900.avif 900w, assets/img/stosa-living-1400.avif 1400w, assets/img/stosa-living-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:70% 50%" src="assets/img/stosa-living-900.webp" srcset="assets/img/stosa-living-600.webp 600w, assets/img/stosa-living-900.webp 900w, assets/img/stosa-living-1400.webp 1400w, assets/img/stosa-living-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Cuisine Stosa Infinity et séjour dans la même pièce" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Infinity"></picture></div><h3>Avec la cuisine</h3><p>Quand la cuisine s’ouvre sur la table, les deux se dessinent ensemble. <a class="ilink" href="cuisine">Voir la cuisine</a></p></div>
         <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-finition-600.avif 600w, assets/img/tom-finition-900.avif 900w, assets/img/tom-finition-1400.avif 1400w, assets/img/tom-finition-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:58% 55%" src="assets/img/tom-finition-900.webp" srcset="assets/img/tom-finition-600.webp 600w, assets/img/tom-finition-900.webp 900w, assets/img/tom-finition-1400.webp 1400w, assets/img/tom-finition-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Détail de finition Tomasella : façade laquée et poignée intégrée" width="1900" height="1142" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Le buffet</h3><p>Des pièces qui structurent la salle à manger et répondent au reste du séjour.</p></div>
       </div>
     </div>
@@ -654,8 +661,8 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <section class="final" id="visite">
     <div class="wrap final-grid">
       <div>
-        <h2>Une table se choisit assis, avec ses chaises.</h2>
-        <p>Passez quand vous voulez. Pour être sûr qu'on ait le temps de bien vous conseiller, prenez rendez-vous.</p>
+        <h2>Venez vous asseoir à la table.</h2>
+        <p>Sans rendez-vous. Pour un conseil au calme, prenez-en un.</p>
         <div class="actions">
           <a class="btn btn-solid" href="magasin-contact#visite">Prendre rendez-vous</a>
           <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
@@ -669,7 +676,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 <footer>
   <div class="wrap foot">
     <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
-    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
     <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
   </div>
 </footer>

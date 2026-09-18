@@ -318,9 +318,10 @@ blockquote,.manifest blockquote{font-weight:500;letter-spacing:-0.01em;line-heig
 
 .sig-text{white-space:nowrap}
 .sig{justify-content:center}
-/* 17/09 : la signature « Italian Living » cède sa place, sur bureau, aux liens Instagram / Facebook demandés en haut à droite
-   (la barre est plafonnée à 1240 px : les deux ne tiennent pas ensemble). Elle reste visible sur téléphone. */
-@media (min-width:961px){.sig{display:none}}
+/* 18/09 (nino : « Italian Living est pas mal ») : la signature revient sur bureau, les réseaux quittent la barre
+   (ils vivent dans l'accueil, le pied de page, le panneau mobile et la fiche contact). Elle s'efface seulement
+   dans la bande étroite où elle chevaucherait le menu. */
+@media (min-width:961px) and (max-width:1140px){.sig{display:none}}
 .bar .cta-top{white-space:nowrap}
 
 
@@ -425,6 +426,10 @@ body::before{opacity:.10;background-size:110px 110px}
 
 .foot a{display:inline-block;padding:5px 0}
 
+/* 18/09 : plus d'animation d'ouverture du bandeau (nino : « le bandeau d'animation est à retirer ») */
+.hero .ph,.hero-img,.hero-text>*,.hero-panel>*{animation:none}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -463,6 +468,8 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (max-width:960px){.logo img{height:40px}}
 /* Ancres : l'en-tête est collant (73 px) — sans cette marge, le titre visé passe dessous. */
 [id]{scroll-margin-top:96px}
+/* 18/09 : interligne des grands titres — à 1,02 le point d'un j touchait la descendante d'un p (Magasin & contact, 1280 px) */
+h1{line-height:1.08}
 
 
 /* Pages générées : hero, blocs et grilles (règles de la maquette Living) */
@@ -530,6 +537,8 @@ body::before{opacity:.10;background-size:110px 110px}
 :root{--bg:#FAF8F4;--paper:#FFFFFF;--sand:#F3EFE8;--sand-deep:#E8E2D8;--line:#E4DED4;--ink:#1B1815;--ink-soft:#5B534B;--walnut:#1B1815;--walnut-ink:#FFFFFF;--terra:#9E4A2C;--brass:#C9A45C;--sage-deep:#9E4A2C;--ph-a:#E6DFD3;--ph-b:#D9CFC0;--ph-c:#EEE9E1;--ph-d:#E2DBD0}
 body::before{display:none}
 header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+/* page Espace pro (html.pro, sombre) : l'en-tête reste sombre — corrigé le 18/09 (barre blanche avec logo et menu blancs en v7) */
+html.pro header{background:rgba(30,27,25,.88)}
 .hero-text,.hero-panel{background:rgba(255,255,255,.97);box-shadow:0 30px 80px rgba(20,16,12,.10)}
 .materials-band,.social-band{background:#FFFFFF}
 .visit-card,.map-card,.tops{background:var(--sand)}
@@ -574,8 +583,6 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
-        <li><a href="sur-mesure#realisations">Réalisations</a></li>
-        <li><a href="magasin-contact#nous-venons">Notre accompagnement</a></li>
         <li><a href="espace-pro">Espace pro</a></li>
         <li><a href="magasin-contact">Magasin &amp; contact</a></li>
       <li class="menu-actions">
@@ -586,7 +593,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       </li>
       </ul>
     </nav>
-    <div class="bar-right"><span class="social-top"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a><a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span><a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a></div>
+    <a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -613,14 +620,14 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
       <div class="systems">
         <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-atlante-villa-600.avif 600w, assets/img/tom-atlante-villa-900.avif 900w, assets/img/tom-atlante-villa-1400.avif 1400w, assets/img/tom-atlante-villa-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:74% 50%" src="assets/img/tom-atlante-villa-900.webp" srcset="assets/img/tom-atlante-villa-600.webp 600w, assets/img/tom-atlante-villa-900.webp 900w, assets/img/tom-atlante-villa-1400.webp 1400w, assets/img/tom-atlante-villa-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair" width="1900" height="917" loading="lazy" decoding="async" data-credit="Tomasella Atlante"></picture></div><h3>Atlante</h3><p>Des compositions modulables pour le meuble TV et la bibliothèque, ajustées à la taille exacte de votre mur.</p></div>
         <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-time-600.avif 600w, assets/img/tom-time-900.avif 900w, assets/img/tom-time-1400.avif 1400w, assets/img/tom-time-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:20% 58%" src="assets/img/tom-time-900.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="lazy" decoding="async" data-credit="Tomasella Time"></picture></div><h3>Time</h3><p>Un système living très modulable, avec une surface décorative résistante au quotidien.</p></div>
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-meuble-tv-600.avif 600w, assets/img/tom-meuble-tv-900.avif 900w, assets/img/tom-meuble-tv-1400.avif 1400w, assets/img/tom-meuble-tv-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:80% 66%" src="assets/img/tom-meuble-tv-900.webp" srcset="assets/img/tom-meuble-tv-600.webp 600w, assets/img/tom-meuble-tv-900.webp 900w, assets/img/tom-meuble-tv-1400.webp 1400w, assets/img/tom-meuble-tv-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Meuble TV Tomasella avec rangements suspendus dans un salon" width="1900" height="825" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Meubles TV et bibliothèques</h3><p>Autour de l'écran ou d'un mur de livres : rangements suspendus, niches et portes, dans les mêmes bois et laques.</p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-meuble-tv-600.avif 600w, assets/img/tom-meuble-tv-900.avif 900w, assets/img/tom-meuble-tv-1400.avif 1400w, assets/img/tom-meuble-tv-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:80% 66%" src="assets/img/tom-meuble-tv-900.webp" srcset="assets/img/tom-meuble-tv-600.webp 600w, assets/img/tom-meuble-tv-900.webp 900w, assets/img/tom-meuble-tv-1400.webp 1400w, assets/img/tom-meuble-tv-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Meuble TV Tomasella avec rangements suspendus dans un salon" width="1900" height="825" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>Meubles TV et bibliothèques</h3><p>Autour de l’écran ou d’un mur de livres : rangements suspendus, niches et portes, dans les mêmes bois et laques.</p></div>
       </div>
       <div class="spot spot-rev">
         <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-finition-600.avif 600w, assets/img/tom-finition-900.avif 900w, assets/img/tom-finition-1400.avif 1400w, assets/img/tom-finition-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:58% 55%" src="assets/img/tom-finition-900.webp" srcset="assets/img/tom-finition-600.webp 600w, assets/img/tom-finition-900.webp 900w, assets/img/tom-finition-1400.webp 1400w, assets/img/tom-finition-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Détail de finition Tomasella : façade laquée et poignée intégrée" width="1900" height="1142" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div>
         <div class="spot-body">
           <h2 style="font-size:clamp(28px,3vw,40px)">Les finitions, à toucher</h2>
           <p>Laques mates, bois, matières : les échantillons sont au magasin, à poser côte à côte avec une photo de votre pièce.</p>
-          <div class="actions"><a class="btn btn-ghost" href="./#marques">Voir les matières</a></div>
+          <div class="actions"><a class="btn btn-ghost" href="nuancier">Repérer une teinte</a><a class="btn btn-ghost" href="./#marques">Voir les matières</a></div>
         </div>
       </div>
       <p class="range">La table et les chaises ont leur page : <a class="ilink" href="tables-chaises">tables &amp; chaises</a>. Les buffets qui les accompagnent sont ici, dans les mêmes finitions que le séjour.</p>
@@ -640,8 +647,8 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
   <section class="final" id="visite">
     <div class="wrap final-grid">
       <div>
-        <h2>Une pièce se compose au magasin, pas sur catalogue.</h2>
-        <p>Venez avec les dimensions du mur et une photo de la pièce. On compose ensemble, module par module.</p>
+        <h2>Venez avec les cotes de votre mur.</h2>
+        <p>Et une photo de la pièce. On compose ensemble, module par module.</p>
         <div class="actions">
           <a class="btn btn-solid" href="magasin-contact#visite">Prendre rendez-vous</a>
           <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
@@ -655,7 +662,7 @@ header{background:rgba(255,255,255,.86);backdrop-filter:blur(14px);-webkit-backd
 <footer>
   <div class="wrap foot">
     <div><img class="foot-logo" src="assets/logo-fony.png" alt="Fony Meubles" width="365" height="120">Mobilier et aménagement intérieur à Leval-Trahegnies depuis 1993<br>FONY — MEUBLES SRL, TVA BE 0449.562.534</div>
-    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@hotmail.com">fonymeubles@hotmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
+    <div>160/1 route de Charleroi, 7134 Leval-Trahegnies<br><a href="tel:+3264460772">064 46 07 72</a> – <a href="mailto:fonymeubles@gmail.com">fonymeubles@gmail.com</a><br>Suivez-nous : <span class="social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></span></div>
     <div><a href="mentions-legales">Mentions légales</a><br><a href="confidentialite">Politique de confidentialité</a><br><a href="confidentialite#cookies">Cookies</a></div>
   </div>
 </footer>
