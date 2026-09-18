@@ -8,6 +8,9 @@
 <link rel="canonical" href="https://fony.be/">
 <meta name="theme-color" content="#F2EDE4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self'; connect-src 'self'; form-action 'self' https://formsubmit.co; base-uri 'self'; object-src 'none'; frame-src 'none'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Fony Meubles">
 <meta property="og:locale" content="fr_BE">
@@ -565,6 +568,9 @@ body::before{opacity:.10;background-size:110px 110px}
   function txt(el,s){ if(el) el.textContent=s||''; }
   function cle(s){ return s.trim().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'_').replace(/^_|_$/g,''); }
   function oui(v){ return ['oui','o','yes','true','1'].indexOf(cle(v||'no'))>=0; }
+  // 18/09 (audit) : un lien venu du fichier ne peut être qu'une page du site (chemin relatif sans schéma)
+  // ou une adresse https ; tout le reste (javascript:, data:, …) est ignoré.
+  function lien(v){ v=(v||'').trim(); if(!v) return ''; if(/^https:\/\//i.test(v)) return v; if(/^[a-z0-9][a-z0-9._\/#?=&-]*$/i.test(v) && v.indexOf(':')<0 && v.indexOf('//')<0) return v; return ''; }
 
   function popup(){
     if(!M || M.hidden) return;
@@ -615,7 +621,7 @@ body::before{opacity:.10;background-size:110px 110px}
         txt(P.querySelector('.long'), c.bandeau_texte);
         txt(P.querySelector('.short'), c.bandeau_texte_court||c.bandeau_texte);
         var a=P.querySelector('a');
-        if(a){ a.textContent=c.bandeau_libelle||"Voir l'offre"; if(c.bandeau_lien) a.setAttribute('href',c.bandeau_lien); }
+        if(a){ a.textContent=c.bandeau_libelle||"Voir l'offre"; var lb=lien(c.bandeau_lien); if(lb) a.setAttribute('href',lb); }
       }
       P.hidden=!on;
     }
@@ -625,7 +631,7 @@ body::before{opacity:.10;background-size:110px 110px}
         txt(M.querySelector('#pop-t'), c.popup_titre);
         txt(M.querySelector('.pop-boite p'), c.popup_texte);
         var b=M.querySelector('.pop-boite a');
-        if(b){ b.textContent=c.popup_bouton||'En savoir plus'; if(c.popup_lien) b.setAttribute('href',c.popup_lien); }
+        if(b){ b.textContent=c.popup_bouton||'En savoir plus'; var lp=lien(c.popup_lien); if(lp) b.setAttribute('href',lp); }
         if(c.popup_delai) M.dataset.delai=c.popup_delai;
         if(c.popup_repos) M.dataset.repos=c.popup_repos;
       }

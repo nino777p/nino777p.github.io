@@ -9,6 +9,9 @@
 <meta name="robots" content="noindex,follow">
 <meta name="theme-color" content="#F2EDE4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self'; connect-src 'self'; form-action 'self' https://formsubmit.co; base-uri 'self'; object-src 'none'; frame-src 'none'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Fony Meubles">
 <meta property="og:locale" content="fr_BE">
@@ -508,7 +511,7 @@ body{visibility:hidden}
     <div class="wrap">
       <h2>Dites-nous quand vous passez.</h2>
       <p class="intro">Nous vous confirmons le rendez-vous, et nous pr&#233;parons votre visite.</p>
-      <form class="form" data-subject="Demande depuis la page de campagne">
+      <form class="form" action="https://formsubmit.co/fonymeubles@hotmail.com" method="post" data-subject="Demande depuis la page de campagne">
         <input type="hidden" name="_subject" value="Demande via fony.be"><input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off"><input type="hidden" name="_captcha" value="false"><input type="hidden" name="_next" value="https://fony.be/merci"><p class="req-note">Les champs marqu&#233;s <span class="req" aria-hidden="true">*</span> sont obligatoires.</p>
         <label><span>Pr&#233;nom <span class="req" aria-hidden="true">*</span></span><input type="text" name="prenom" required autocomplete="given-name"></label>
         <label><span>Nom <span class="req" aria-hidden="true">*</span></span><input type="text" name="nom" required autocomplete="family-name"></label>
@@ -584,7 +587,7 @@ body{visibility:hidden}
     (c.campagne_arguments||'').split('|').map(function(s){return s.trim();}).filter(Boolean).forEach(function(a){
       var li=document.createElement('li'); li.textContent=a; ul.appendChild(li);
     });
-    if(c.campagne_image){
+    if(c.campagne_image && /^[a-z0-9-]+$/.test(c.campagne_image)){   /* 18/09 : un nom de photo, rien d'autre */
       var box=document.getElementById('camp-img'), pic=document.createElement('picture'), src=document.createElement('source'), im=new Image();
       src.type='image/avif'; src.srcset='assets/img/'+c.campagne_image+'-1400.avif';
       im.alt=''; im.decoding='async';
