@@ -37,7 +37,7 @@ fin : 2026-09-18
 #     C'est l'outil le plus sûr : à privilégier avant le pop-up.
 # ---------------------------------------------------------------------
 
-bandeau actif : non
+bandeau actif : oui
 
 # Le texte affiché sur ordinateur (une phrase, sans point final obligatoire)
 bandeau texte : Journées Relax : venez essayer nos canapés relax, le café est offert.
@@ -46,7 +46,7 @@ bandeau texte : Journées Relax : venez essayer nos canapés relax, le café est
 bandeau texte court : Journées Relax : essayez nos relax.
 
 # Où mène le lien, et comment il s'appelle
-bandeau lien : offre-du-moment.html
+bandeau lien : campagne.html
 bandeau libellé : Voir l'offre
 
 
