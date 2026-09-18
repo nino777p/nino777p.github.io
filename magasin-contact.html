@@ -501,6 +501,11 @@ body::before{opacity:.10;background-size:110px 110px}
 .js-anim .vient.vu{opacity:1;transform:none}
 @media (prefers-reduced-motion:reduce){.js-anim .vient{opacity:1;transform:none;transition:none}}
 
+
+/* 19/09 — contraste AA sur les étiquettes (WCAG 1.4.3) : laiton assombri, teinte inchangée */
+:root{--brass-ink:#7B5F29}
+.tag{color:var(--brass-ink)!important}
+
 .form .form-note{margin:-4px 0 0;font-size:13.5px;color:var(--ink-soft)}.form input[type="file"]{padding:10px;font-size:14px}
 
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
@@ -586,10 +591,10 @@ html.pro header{background:rgba(30,27,25,.88)}
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Magasin & contact à Leval-Trahegnies (Binche)", "item": "https://fony.be/magasin-contact"}]}</script>
 </head>
 <body>
+<a class="skip" href="#contenu">Aller au contenu</a>
 <div class="promo" id="promo" role="region" aria-label="Opération en cours" hidden>
   <div class="wrap"><span class="long">Journées Relax : venez essayer nos canapés relax, le café est offert.</span><span class="short">Journées Relax : essayez nos relax.</span><a href="offre-du-moment">Voir l'offre</a></div>
 </div>
-<a class="skip" href="#contenu">Aller au contenu</a>
 <header>
   <div class="wrap bar">
     <a class="logo" href="./"><picture><source type="image/webp" srcset="assets/logo-fony.webp"><img src="assets/logo-fony.png" alt="Fony Meubles – accueil" width="365" height="120"></picture><span class="sig"><span class="sig-text">Italian Living</span></span></a>

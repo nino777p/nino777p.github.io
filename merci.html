@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Merci — Fony Meubles — salons, sur mesure et cuisines à Binche</title>
 <meta name="robots" content="noindex">
-<meta name="description" content="Magasin de meubles à Leval-Trahegnies (Binche) : salons et relax italiens, séjour, chambre, dressings sur mesure, cuisines Stosa. Visite et devis gratuits.">
-<link rel="canonical" href="https://fony.be/">
+<meta name="description" content="Votre message est parti. L’équipe de Fony Meubles vous répond dans les meilleurs délais.">
+<link rel="canonical" href="https://fony.be/merci">
 <meta name="theme-color" content="#FAF8F4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
@@ -445,6 +445,11 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (prefers-reduced-motion:reduce){.js-anim .vient{opacity:1;transform:none;transition:none}}
 
 
+/* 19/09 — contraste AA sur les étiquettes (WCAG 1.4.3) : laiton assombri, teinte inchangée */
+:root{--brass-ink:#7B5F29}
+.tag{color:var(--brass-ink)!important}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -527,10 +532,10 @@ html.pro header{background:rgba(30,27,25,.88)}
 </script>
 </head>
 <body>
+<a class="skip" href="#contenu">Aller au contenu</a>
 <div class="promo" id="promo" role="region" aria-label="Opération en cours" hidden>
   <div class="wrap"><span class="long">Journées Relax : venez essayer nos canapés relax, le café est offert.</span><span class="short">Journées Relax : essayez nos relax.</span><a href="offre-du-moment">Voir l'offre</a></div>
 </div>
-<a class="skip" href="#contenu">Aller au contenu</a>
 
 
 

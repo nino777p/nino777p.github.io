@@ -440,6 +440,11 @@ body::before{opacity:.10;background-size:110px 110px}
 /* 18/09 : plus d'animation d'ouverture du bandeau (nino : « le bandeau d'animation est à retirer ») */
 .hero .ph,.hero-img,.hero-text>*,.hero-panel>*{animation:none}
 
+
+/* 19/09 — contraste AA sur les étiquettes (WCAG 1.4.3) : laiton assombri, teinte inchangée */
+:root{--brass-ink:#7B5F29}
+.tag{color:var(--brass-ink)!important}
+
 .form .form-note{margin:-4px 0 0;font-size:13.5px;color:var(--ink-soft)}.form input[type="file"]{padding:10px;font-size:14px}
 
 /* Rendu, 17/09 (proposition B validée par nino) : un seul patron de bandeau pour toutes les pages,
@@ -526,7 +531,7 @@ html.pro header{background:rgba(30,27,25,.88)}
   <section class="camp-hero">
     <div class="wrap">
       <p class="kicker" data-c="campagne_accroche"></p>
-      <h1 data-c="campagne_titre"></h1>
+      <h1 data-c="campagne_titre">Fony Meubles</h1>
       <p class="lead" data-c="campagne_texte"></p>
       <ul class="camp-args" id="camp-args"></ul>
       <div class="actions">

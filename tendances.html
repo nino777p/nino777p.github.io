@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tendances : beige, pierre veinée et bois | Fony Meubles</title>
-<meta name="description" content="La tendance en petites touches, la base pour longtemps : choisir un salon, une table ou un dressing qu&#x27;on ne regrette pas dans cinq ans. Échantillons au magasin à Binche.">
+<meta name="description" content="La tendance en petites touches, la base pour longtemps : choisir un salon, une table ou un dressing qu&#x27;on ne regrette pas dans cinq ans. Échantillons à Binche.">
 <link rel="canonical" href="https://fony.be/tendances">
 <meta name="theme-color" content="#FAF8F4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="Fony Meubles">
 <meta property="og:locale" content="fr_BE">
 <meta property="og:title" content="Tendances : beige, pierre veinée et bois | Fony Meubles">
-<meta property="og:description" content="La tendance en petites touches, la base pour longtemps : choisir un salon, une table ou un dressing qu&#x27;on ne regrette pas dans cinq ans. Échantillons au magasin à Binche.">
+<meta property="og:description" content="La tendance en petites touches, la base pour longtemps : choisir un salon, une table ou un dressing qu&#x27;on ne regrette pas dans cinq ans. Échantillons à Binche.">
 <meta property="og:image" content="https://fony.be/assets/img/tom-finition-og.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -436,6 +436,11 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (prefers-reduced-motion:reduce){.js-anim .vient{opacity:1;transform:none;transition:none}}
 
 
+/* 19/09 — contraste AA sur les étiquettes (WCAG 1.4.3) : laiton assombri, teinte inchangée */
+:root{--brass-ink:#7B5F29}
+.tag{color:var(--brass-ink)!important}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -525,10 +530,10 @@ html.pro header{background:rgba(30,27,25,.88)}
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Tendances", "item": "https://fony.be/tendances"}]}</script>
 </head>
 <body>
+<a class="skip" href="#contenu">Aller au contenu</a>
 <div class="promo" id="promo" role="region" aria-label="Opération en cours" hidden>
   <div class="wrap"><span class="long">Journées Relax : venez essayer nos canapés relax, le café est offert.</span><span class="short">Journées Relax : essayez nos relax.</span><a href="offre-du-moment">Voir l'offre</a></div>
 </div>
-<a class="skip" href="#contenu">Aller au contenu</a>
 
 
 

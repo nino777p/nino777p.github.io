@@ -483,6 +483,11 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (prefers-reduced-motion:reduce){.js-anim .vient{opacity:1;transform:none;transition:none}}
 
 
+/* 19/09 — contraste AA sur les étiquettes (WCAG 1.4.3) : laiton assombri, teinte inchangée */
+:root{--brass-ink:#7B5F29}
+.tag{color:var(--brass-ink)!important}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}

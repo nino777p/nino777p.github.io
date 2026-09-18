@@ -488,6 +488,11 @@ body::before{opacity:.10;background-size:110px 110px}
 @media (prefers-reduced-motion:reduce){.js-anim .vient{opacity:1;transform:none;transition:none}}
 
 
+/* 19/09 — contraste AA sur les étiquettes (WCAG 1.4.3) : laiton assombri, teinte inchangée */
+:root{--brass-ink:#7B5F29}
+.tag{color:var(--brass-ink)!important}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -558,10 +563,10 @@ html.pro header{background:rgba(30,27,25,.88)}
 <link rel="preload" as="image" type="image/avif" imagesrcset="assets/img/tom-walkin-600.avif 600w, assets/img/tom-walkin-900.avif 900w, assets/img/tom-walkin-1400.avif 1400w, assets/img/tom-walkin-1431.avif 1431w" imagesizes="(max-width:960px) 100vw, 62vw" fetchpriority="high">
 </head>
 <body>
+<a class="skip" href="#contenu">Aller au contenu</a>
 <div class="promo" id="promo" role="region" aria-label="Opération en cours" hidden>
   <div class="wrap"><span class="long">Journées Relax : venez essayer nos canapés relax, le café est offert.</span><span class="short">Journées Relax : essayez nos relax.</span><a href="offre-du-moment">Voir l'offre</a></div>
 </div>
-<a class="skip" href="#contenu">Aller au contenu</a>
 <header>
   <div class="wrap bar">
     <a class="logo" href="./"><picture><source type="image/webp" srcset="assets/logo-fony.webp"><img src="assets/logo-fony.png" alt="Fony Meubles – accueil" width="365" height="120"></picture><span class="sig"><span class="sig-text">Italian Living</span></span></a>
