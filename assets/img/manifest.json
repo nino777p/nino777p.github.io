@@ -301,7 +301,8 @@
   "ratio": [
    1900,
    1142
-  ]
+  ],
+  "og": "tom-finition-og.jpg"
  },
  "tom-appartement": {
   "id": "tom-appartement",
@@ -353,7 +354,8 @@
   "ratio": [
    960,
    1200
-  ]
+  ],
+  "og": "mat-noyer-og.jpg"
  },
  "mat-chene": {
   "id": "mat-chene",
