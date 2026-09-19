@@ -554,6 +554,31 @@ h1{line-height:1.08}
   .lexique,.chairs{grid-template-columns:1fr}
 }
 
+/* 19/09 — Les fabricants, page Salon. nino : « un onglet fournisseur, Max Divani, hop,
+   une liste deroulante avec quelques photos, Nicoletti, une liste deroulante... ».
+   D'ou une LISTE verticale, pas une grille de cartes : chaque fabricant est une ligne,
+   et son depliant s'ouvre sous son nom. Tant qu'un fabricant n'a pas de photo, sa ligne
+   existe (son nom est une information vraie) mais son depliant n'existe pas — pas de
+   bouton qui ne mene nulle part. */
+#fabricants{border-top:1px solid var(--line)}
+.fab-liste{margin-top:40px;border-top:1px solid var(--line)}
+.fab{display:grid;grid-template-columns:minmax(220px,4fr) 7fr;gap:48px;
+     padding:32px 0;border-bottom:1px solid var(--line)}
+.fab-nom h3{margin:0;font-size:clamp(20px,2vw,26px);font-weight:500}
+.fab-nom .tag{display:inline-block;margin-top:8px;font-size:14px;color:var(--walnut);font-weight:500}
+.fab-corps p{margin:0;color:var(--ink-soft);max-width:62ch}
+.fab details.pli{margin-top:18px}
+.fab details.pli summary{cursor:pointer;font-size:16px;font-weight:500;list-style:none;color:var(--walnut)}
+.fab details.pli summary::-webkit-details-marker{display:none}
+.fab details.pli summary::after{content:" +"}
+.fab details.pli[open] summary::after{content:" \2013"}
+.fab-photos{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px}
+.fab-photos .ph{height:200px}
+@media (max-width:860px){
+  .fab{grid-template-columns:1fr;gap:12px;padding:28px 0}
+  .fab-photos{grid-template-columns:1fr}.fab-photos .ph{height:220px}
+}
+
 
 /* Thème « Cristal & encre », 18/09 — variables, grain, en-tête, panneaux, bandes encre, bouton principal */
 :root{--bg:#FAF8F4;--paper:#FFFFFF;--sand:#F3EFE8;--sand-deep:#E8E2D8;--line:#E4DED4;--ink:#1B1815;--ink-soft:#5B534B;--walnut:#1B1815;--walnut-ink:#FFFFFF;--terra:#9E4A2C;--brass:#C9A45C;--sage-deep:#9E4A2C;--ph-a:#E6DFD3;--ph-b:#D9CFC0;--ph-c:#EEE9E1;--ph-d:#E2DBD0}
@@ -568,9 +593,12 @@ html.pro header{background:rgba(30,27,25,.88)}
 .btn-solid:hover{background:#7F3A22;border-color:#7F3A22;color:#fff}
 .menu li.menu-actions a.btn-solid,.menu li.menu-actions a.btn-solid:hover,.menu li.menu-actions a.btn-solid:focus{background:#9E4A2C;border-color:#9E4A2C;color:#fff}
 .btn-ghost:hover{background:var(--ink);color:#FFFFFF}
-.manifest{background:#1B1815;color:#F2EDE4}
-.manifest blockquote,.manifest p,.manifest h2{color:#F2EDE4}
-.manifest .ilink,.manifest .kicker{color:#C9A45C}
+/* 19/09, nino : le sombre de fin de page est juste, celui du milieu ne l'est pas.
+   Mesure : le bloc « Pourquoi ces fabricants » tombait aux trois cinquiemes de la hauteur de
+   l'accueil (mesure) — une bande sombre pleine largeur en plein milieu se lit comme un
+   pied de page, et on croit la page finie. La maquette d'origine le donnait en
+   sable ; on lui rend son fond et on garde le sombre pour la seule fin. */
+.manifest .ilink{color:#9E4A2C}
 .final{background:#1B1815}
 .final h2,.final p{color:#F2EDE4}
 .final .btn-ghost{color:#F2EDE4;border-color:#F2EDE4}
@@ -622,7 +650,7 @@ html.pro header{background:rgba(30,27,25,.88)}
 
 <main id="contenu">
   <div class="hero hero-right">
-    <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-time-600.avif 600w, assets/img/tom-time-900.avif 900w, assets/img/tom-time-1400.avif 1400w, assets/img/tom-time-1900.avif 1900w" sizes="(max-width:960px) 100vw, 100vw"><img style="object-position:20% 58%" src="assets/img/tom-time-900.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 100vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="eager" decoding="async" data-credit="Tomasella Time"></picture></div>
+    <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-time-600.avif 600w, assets/img/tom-time-900.avif 900w, assets/img/tom-time-1400.avif 1400w, assets/img/tom-time-1900.avif 1900w" sizes="(max-width:960px) 100vw, 100vw"><img style="object-position:8% 58%" src="assets/img/tom-time-900.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 100vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="eager" decoding="async" data-credit="Tomasella Time"></picture></div>
     <div class="hero-panel">
       <p class="kicker">Canapés et relax</p>
       <h1>Salon</h1>
@@ -631,31 +659,14 @@ html.pro header{background:rgba(30,27,25,.88)}
         <a class="btn btn-solid" href="magasin-contact#visite">Venir essayer</a>
         <a class="btn btn-ghost" href="magasin-contact#visite">Parler de mon projet</a>
       </div>
-      <p class="reassure">Déplacement offert pour les mesures, livraison par nos soins.</p>
+      <p class="reassure">La première visite, prise de mesures et conseil, est offerte.</p>
     </div>
   </div>
 
   <section id="salons">
     <div class="wrap">
-      <h2>Trois manières de faire un canapé</h2>
+      <h2>Ce qu’on regarde avant de choisir</h2>
       <p class="intro">En magasin, vous comparez les fermetés, les matières et les fonctions relax, assis.</p>
-      <div class="brands3">
-        <div class="brand">
-          <h3>Max Divani</h3>
-          <p>Des salons fabriqués en Italie, dans de nombreuses configurations. Cuir, éco-cuir ou tissus respirants.</p>
-          <span class="tag">À voir en magasin</span>
-        </div>
-        <div class="brand">
-          <h3>Nicoletti</h3>
-          <p>Le relax pensé comme un objet de design, en cuir ou en tissu, avec un large choix de modèles au catalogue.</p>
-          <span class="tag">Le relax design</span>
-        </div>
-        <div class="brand">
-          <h3>Une sélection européenne</h3>
-          <p>D’autres ateliers européens, choisis pour leurs finitions, pour élargir les styles et les budgets.</p>
-          <span class="tag">Sur catalogue</span>
-        </div>
-      </div>
       <div class="spot">
         <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-living-panorama-600.avif 600w, assets/img/tom-living-panorama-900.avif 900w, assets/img/tom-living-panorama-1400.avif 1400w, assets/img/tom-living-panorama-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:74% 52%" src="assets/img/tom-living-panorama-900.webp" srcset="assets/img/tom-living-panorama-600.webp 600w, assets/img/tom-living-panorama-900.webp 900w, assets/img/tom-living-panorama-1400.webp 1400w, assets/img/tom-living-panorama-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée" width="1900" height="950" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div>
         <div class="spot-body">
@@ -664,11 +675,11 @@ html.pro header{background:rgba(30,27,25,.88)}
           <div class="actions"><a class="btn btn-solid" href="magasin-contact#visite">L’essayer en magasin</a></div>
         </div>
       </div>
-      <p class="range">Les modèles exposés s’essaient. Le reste des collections sur catalogue, à tous les budgets. <a class="ilink" href="magasin-contact#visite">Préparer ma visite</a></p>
+      <p class="range">Une trentaine de salons à essayer, et plus de cent tissus et cuirs dans nos nuanciers : <strong>on vous laisse faire le calcul.</strong> Le reste des collections sur catalogue, à tous les budgets. <a class="ilink" href="magasin-contact#visite">Préparer ma visite</a></p>
       <div class="proof-grid">
         <div>
           <h3>La plupart des modèles se déclinent</h3>
-          <p>Un même modèle existe en angle, en trois places, en deux places — et dans un très grand choix de teintes, de dimensions et de matières. Vous ne choisissez pas un canapé dans un rayon : vous composez le vôtre.</p>
+          <p>Un même modèle existe en angle, en trois places, en deux places — et dans plus de cent tissus et cuirs. <strong>Un salon, deux couleurs, c’est deux ambiances.</strong> Vous ne choisissez pas un canapé dans un rayon : vous composez le vôtre.</p>
         </div>
         <div>
           <h3>Ce qu’il y a dans l’assise</h3>
@@ -676,10 +687,35 @@ html.pro header{background:rgba(30,27,25,.88)}
         </div>
         <div>
           <h3>Le relax, en deux nombres</h3>
-          <p>Combien de places, et combien de places s’inclinent — une, deux ou trois. Un trois places n’a pas forcément trois relax. Sur une place à trois axes, le relèvement des jambes, l’appui-tête et le soutien lombaire se règlent séparément.</p>
+          <p>Combien de places, et combien de places s’inclinent — une, deux ou trois. Un trois places n’a pas forcément trois relax. Et une place peut avoir un moteur ou trois : avec trois, le relèvement des jambes, l’appui-tête et le soutien lombaire se règlent séparément.</p>
         </div>
       </div>
       <p class="range"><strong>Votre relax, votre salon : venez le choisir en magasin.</strong> Le fauteuil relax existe aussi seul, et tout s’essaie assis. <a class="ilink" href="magasin-contact#visite">Préparer ma visite</a></p>
+    </div>
+  </section>
+
+  <section id="fabricants">
+    <div class="wrap">
+      <h2>Qui fabrique ce que vous allez essayer</h2>
+      <p class="intro">Deux fabricants italiens, une famille de formes arrondies, et une sélection d’ateliers européens.</p>
+      <div class="fab-liste">
+        <div class="fab" id="fab-max-divani">
+          <div class="fab-nom"><h3>Max Divani</h3><span class="tag">À voir en magasin</span></div>
+          <div class="fab-corps"><p>Des salons fabriqués en Italie, dans de nombreuses configurations. Cuir, éco-cuir ou tissus respirants.</p></div>
+        </div>
+        <div class="fab" id="fab-nicoletti">
+          <div class="fab-nom"><h3>Nicoletti</h3><span class="tag">Le relax design</span></div>
+          <div class="fab-corps"><p>Le relax pensé comme un objet de design, en cuir ou en tissu, avec un large choix de modèles au catalogue.</p></div>
+        </div>
+        <div class="fab" id="fab-lignes-arrondies">
+          <div class="fab-nom"><h3>Les lignes arrondies</h3><span class="tag">Contemporain</span></div>
+          <div class="fab-corps"><p>Une famille de salons contemporains aux formes rondes, sans angle vif. De plus en plus d’ateliers italiens en fabriquent.</p></div>
+        </div>
+        <div class="fab" id="fab-europe">
+          <div class="fab-nom"><h3>Une sélection européenne</h3><span class="tag">Sur catalogue</span></div>
+          <div class="fab-corps"><p>D’autres ateliers européens, choisis pour leurs finitions, pour élargir les styles et les budgets.</p></div>
+        </div>
+      </div>
     </div>
   </section>
 

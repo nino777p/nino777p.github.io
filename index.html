@@ -518,6 +518,77 @@ body::before{opacity:.10;background-size:110px 110px}
 }
 
 
+/* Livraison offerte + sa reserve, en plus petit dessous (consigne de nino). */
+.livraison{margin:22px 0 0;font-size:16px;font-weight:500;color:var(--ink)}
+.livraison sup{color:var(--terra,#9E4A2C)}
+.livraison span{display:block;margin-top:4px;font-size:13px;font-weight:400;color:var(--ink-soft);max-width:44ch}
+
+
+:root{--r-serre:56px;--r-normal:120px;--r-large:200px}
+/* garde-fou : une photo qui deborde ne doit jamais creer de barre horizontale */
+main{overflow-x:clip}
+
+/* 1. LE RYTHME. Ce qui se suit et se repond est serre ; ce qui change de sujet
+      est large. « Pourquoi ces fabricants », la bande de marques et « Ce qui
+      arrive au magasin » parlent tous les trois de qui nous sommes : ils se
+      groupent. Avant « Venir au magasin », on change de registre : on respire. */
+#amenagements{padding-top:var(--r-large);padding-bottom:var(--r-normal)}
+#marques{padding-top:var(--r-normal);padding-bottom:var(--r-serre)}
+.social-band{padding-top:var(--r-serre);padding-bottom:var(--r-large)}
+
+/* 2. LES DEUX RANGEES. 24 px entre elles : on lisait une seule grille de six.
+      56 px : deux groupes de trois, ce qu'elles sont. */
+.spaces2{margin-top:var(--r-serre)}
+
+/* 3. LA PHOTO QUI SORT DU CADRE. Le Salon est la carte la plus importante du
+      bloc ; sa photo va chercher le bord gauche de l'ecran pendant que tout le
+      texte reste aligne dans la boite. C'est le seul endroit de la page, avec
+      l'ouverture, ou quelque chose franchit la limite. */
+/* 19/09, nino : « un peu hors cadre... rajoute un peu de symetrie dedans ».
+   Le debordement allait jusqu'au bord de l'ecran (124 px hors du cadre a 1440).
+   Il est ramene a la moitie : la photo franchit encore la limite — c'est le
+   seul relief de la page avec l'ouverture — mais elle ne vient plus buter
+   contre le bord, et le canape n'est plus tranche par l'arete de l'ecran. */
+/* 19/09, nino : « elargis les trois du bas pour que la ligne exterieure gauche
+   du Salon et celle des trois dernieres images soient alignees ».
+   Consequence : ce n'est plus UNE photo qui sort du cadre, c'est LA GRILLE
+   ENTIERE qui franchit la limite de 64 px a gauche, pendant que le titre et le
+   chapo restent alignes dans la boite de 1240. Une seule ligne exterieure pour
+   les six cartes, au lieu d'une photo qui depassait toute seule.
+   Le pas est fixe (64 px) et bute proprement au bord quand la marge est plus
+   petite ; max() fait la butee. Le cote droit ne bouge pas. */
+/* 19/09, deuxieme passe (nino : « les textes sont decales vers la droite par
+   rapport aux images »). C'etait vrai et c'etait de moi : les grilles sortaient
+   de 64 px, le titre et le chapo restaient dans la boite. Un bloc, une seule
+   ligne : c'est le CONTENEUR de la section qui se deplace, titre compris.
+   Mesure avant : titre a 124, images a 60. Apres : tout a 60. */
+/* Deplacer le CONTENEUR cassait son centrage (margin:0 auto) : mesure a -40 px,
+   le bloc sortait de l'ecran. On deplace donc chaque enfant, conteneur intact. */
+@media (min-width:1241px){
+  #amenagements > .wrap > h2,
+  #amenagements > .wrap > p,
+  .spaces,.spaces2{
+    margin-left:max(calc((var(--max) - 100vw)/2 - 24px), -64px);
+  }
+  .spaces,.spaces2{
+    width:calc(100% - max(calc((var(--max) - 100vw)/2 - 24px), -64px));
+  }
+}
+
+/* 4. LA CARTE QUI PASSE DEVANT. Elle remonte sur le bloc precedent : premier
+      vrai plan de la page apres l'ouverture. Desactivee sur telephone, ou un
+      chevauchement ne se lit pas et mange de la hauteur. */
+@media (min-width:961px){
+  #visite{padding-top:0;padding-bottom:var(--r-normal)}
+  #visite .visit-card{margin-top:-96px;position:relative;z-index:1;
+    box-shadow:0 30px 80px rgba(20,16,12,.10)}
+}
+@media (max-width:960px){
+  :root{--r-serre:40px;--r-normal:72px;--r-large:104px}
+  #visite{padding-top:var(--r-normal)}
+}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -573,9 +644,12 @@ html.pro header{background:rgba(30,27,25,.88)}
 .btn-solid:hover{background:#7F3A22;border-color:#7F3A22;color:#fff}
 .menu li.menu-actions a.btn-solid,.menu li.menu-actions a.btn-solid:hover,.menu li.menu-actions a.btn-solid:focus{background:#9E4A2C;border-color:#9E4A2C;color:#fff}
 .btn-ghost:hover{background:var(--ink);color:#FFFFFF}
-.manifest{background:#1B1815;color:#F2EDE4}
-.manifest blockquote,.manifest p,.manifest h2{color:#F2EDE4}
-.manifest .ilink,.manifest .kicker{color:#C9A45C}
+/* 19/09, nino : le sombre de fin de page est juste, celui du milieu ne l'est pas.
+   Mesure : le bloc « Pourquoi ces fabricants » tombait aux trois cinquiemes de la hauteur de
+   l'accueil (mesure) — une bande sombre pleine largeur en plein milieu se lit comme un
+   pied de page, et on croit la page finie. La maquette d'origine le donnait en
+   sable ; on lui rend son fond et on garde le sombre pour la seule fin. */
+.manifest .ilink{color:#9E4A2C}
 .final{background:#1B1815}
 .final h2,.final p{color:#F2EDE4}
 .final .btn-ghost{color:#F2EDE4;border-color:#F2EDE4}
@@ -657,21 +731,21 @@ html.pro header{background:rgba(30,27,25,.88)}
 
   <section id="amenagements">
     <div class="wrap">
-      <h2>Par où commencer</h2>
+      <h2>C’est ici que votre projet d’aménagement commence</h2>
       <p class="intro">Salon, séjour, table, literie, sur mesure ou cuisine : chaque projet part de votre pièce et de votre budget.</p>
       <div class="spaces">
         <a class="space space-living" href="salon">
-          <div class="ph has-img ph-boucle" data-label="Photo à venir : canapé relax, tissu bouclé"><picture><source type="image/avif" srcset="assets/img/tom-time-600.avif 600w, assets/img/tom-time-900.avif 900w, assets/img/tom-time-1400.avif 1400w, assets/img/tom-time-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:20% 58%" src="assets/img/tom-time-1400.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="lazy" decoding="async" data-credit="Tomasella Time"></picture></div>
+          <div class="ph has-img ph-boucle" data-label="Photo à venir : canapé relax, tissu bouclé"><picture><source type="image/avif" srcset="assets/img/tom-time-600.avif 600w, assets/img/tom-time-900.avif 900w, assets/img/tom-time-1400.avif 1400w, assets/img/tom-time-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:8% 58%" src="assets/img/tom-time-1400.webp" srcset="assets/img/tom-time-600.webp 600w, assets/img/tom-time-900.webp 900w, assets/img/tom-time-1400.webp 1400w, assets/img/tom-time-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Séjour Tomasella Time : composition murale en laque et bois" width="1900" height="891" loading="lazy" decoding="async" data-credit="Tomasella Time"></picture></div>
           <div class="space-body">
-            <div><h3>Salon</h3><p>Canapés et relax à essayer, du classique au contemporain.</p></div>
+            <div><h3>Salon</h3><p>Une trentaine de salons à essayer, du classique au contemporain.</p></div>
             <span class="link">Voir les salons</span>
           </div>
         </a>
-        <a class="space space-small" href="sur-mesure">
-          <div class="ph has-img ph-linen" data-label="Photo à venir : dressing sur mesure"><picture><source type="image/avif" srcset="assets/img/tom-walkin-600.avif 600w, assets/img/tom-walkin-900.avif 900w, assets/img/tom-walkin-1400.avif 1400w, assets/img/tom-walkin-1431.avif 1431w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 42%" src="assets/img/tom-walkin-1400.webp" srcset="assets/img/tom-walkin-600.webp 600w, assets/img/tom-walkin-900.webp 900w, assets/img/tom-walkin-1400.webp 1400w, assets/img/tom-walkin-1431.webp 1431w" sizes="(max-width:960px) 100vw, 50vw" alt="Dressing ouvert Tomasella : penderies et tiroirs en bois chaud" width="1431" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div>
+        <a class="space space-small" href="living">
+          <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-atlante-villa-600.avif 600w, assets/img/tom-atlante-villa-900.avif 900w, assets/img/tom-atlante-villa-1400.avif 1400w, assets/img/tom-atlante-villa-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:74% 50%" src="assets/img/tom-atlante-villa-900.webp" srcset="assets/img/tom-atlante-villa-600.webp 600w, assets/img/tom-atlante-villa-900.webp 900w, assets/img/tom-atlante-villa-1400.webp 1400w, assets/img/tom-atlante-villa-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair" width="1900" height="917" loading="lazy" decoding="async" data-credit="Tomasella Atlante"></picture></div>
           <div class="space-body">
-            <div><h3>Sur mesure</h3><p>Dressing, sous-pente, bibliothèque : dessinés pour votre pièce, pas pour un catalogue.</p></div>
-            <span class="link">Voir le sur mesure</span>
+            <div><h3>Living</h3><p>Meuble TV, bibliothèque, buffet : composés à la mesure de votre mur.</p></div>
+            <span class="link">Voir le living</span>
           </div>
         </a>
         <a class="space space-small" href="cuisine">
@@ -683,11 +757,11 @@ html.pro header{background:rgba(30,27,25,.88)}
         </a>
       </div>
       <div class="spaces spaces2">
-        <a class="space space-small" href="living">
-          <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-atlante-villa-600.avif 600w, assets/img/tom-atlante-villa-900.avif 900w, assets/img/tom-atlante-villa-1400.avif 1400w, assets/img/tom-atlante-villa-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:74% 50%" src="assets/img/tom-atlante-villa-900.webp" srcset="assets/img/tom-atlante-villa-600.webp 600w, assets/img/tom-atlante-villa-900.webp 900w, assets/img/tom-atlante-villa-1400.webp 1400w, assets/img/tom-atlante-villa-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair" width="1900" height="917" loading="lazy" decoding="async" data-credit="Tomasella Atlante"></picture></div>
+        <a class="space space-small" href="sur-mesure">
+          <div class="ph has-img ph-linen" data-label="Photo à venir : dressing sur mesure"><picture><source type="image/avif" srcset="assets/img/tom-walkin-600.avif 600w, assets/img/tom-walkin-900.avif 900w, assets/img/tom-walkin-1400.avif 1400w, assets/img/tom-walkin-1431.avif 1431w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 42%" src="assets/img/tom-walkin-1400.webp" srcset="assets/img/tom-walkin-600.webp 600w, assets/img/tom-walkin-900.webp 900w, assets/img/tom-walkin-1400.webp 1400w, assets/img/tom-walkin-1431.webp 1431w" sizes="(max-width:960px) 100vw, 50vw" alt="Dressing ouvert Tomasella : penderies et tiroirs en bois chaud" width="1431" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div>
           <div class="space-body">
-            <div><h3>Living</h3><p>Meuble TV, bibliothèque, buffet : composés à la mesure de votre mur.</p></div>
-            <span class="link">Voir le living</span>
+            <div><h3>Sur mesure</h3><p>Dressing, sous-pente, bibliothèque : dessinés pour votre pièce, pas pour un catalogue.</p></div>
+            <span class="link">Voir le sur mesure</span>
           </div>
         </a>
         <a class="space space-small" href="tables-chaises">
@@ -708,12 +782,7 @@ html.pro header{background:rgba(30,27,25,.88)}
     </div>
   </section>
 
-  <section class="manifest">
-    <div class="wrap manifest-grid">
-      <h2>Pourquoi ces fabricants</h2>
-      <p>Nous sélectionnons des fabricants <a class="ilink" href="#marques">italiens, belges et européens</a> pour la qualité de leurs matériaux et de leur fabrication. Notre rôle : vous aider à faire les bons choix, pour longtemps.</p>
-    </div>
-  </section>
+  
 
   <div class="brands" id="marques">
     <div class="wrap breadth">
@@ -755,6 +824,7 @@ html.pro header{background:rgba(30,27,25,.88)}
           <a class="btn btn-solid" href="magasin-contact#visite">Préparer ma visite</a>
           <a class="btn btn-ghost" href="https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener">Itinéraire</a>
         </div>
+          <p class="livraison">Livraison offerte<sup>*</sup><span>* Dans la région. Au-delà, nous vous le disons avant la commande.</span></p>
       </div>
     </div>
   </section>

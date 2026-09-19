@@ -476,6 +476,29 @@ details.pli .top-grid{margin-top:26px}
 details.pli .tip{margin-top:22px}
 
 
+/* 19/09 — Le bloc « Visez l'intemporel ». La question est en petit au-dessus du
+   titre : elle se lit d'abord, mais c'est la reponse qui tient la page. */
+#intemporel .question{margin:0 0 10px;font-size:clamp(17px,1.7vw,21px);color:var(--ink-soft)}
+#intemporel h2{margin:0 0 18px}
+#intemporel .intro{max-width:64ch}
+.deux-q{margin-top:52px;display:grid;grid-template-columns:1fr 1fr;gap:56px}
+.deux-q .num{margin:0 0 10px;font-size:15px;font-weight:600;color:var(--walnut);
+             letter-spacing:.08em}
+.deux-q h3{margin:0 0 10px;font-size:clamp(21px,2vw,27px);font-weight:500}
+.deux-q p{margin:0;color:var(--ink-soft)}
+.ambiances{margin-top:48px;display:grid;grid-template-columns:1fr 1fr;gap:32px}
+.ambiances .ph{height:300px;margin-bottom:16px}
+.ambiances h3{margin:0 0 6px;font-size:20px;font-weight:500}
+.ambiances p{margin:0;color:var(--ink-soft)}
+#intemporel .tip{margin-top:52px}
+@media (max-width:860px){
+  .deux-q{grid-template-columns:1fr;gap:34px;margin-top:38px}
+  .ambiances{grid-template-columns:1fr}
+  .ambiances .ph{height:240px}
+  #intemporel .tip{margin-top:38px}
+}
+
+
 /* La legende d'une scene : une ligne, sous la photo, jamais une explication. */
 .scene-fig{margin:0}
 .scene{margin:14px 0 0;font-size:17px;line-height:1.45;color:var(--ink-soft);font-style:italic}
@@ -537,9 +560,12 @@ html.pro header{background:rgba(30,27,25,.88)}
 .btn-solid:hover{background:#7F3A22;border-color:#7F3A22;color:#fff}
 .menu li.menu-actions a.btn-solid,.menu li.menu-actions a.btn-solid:hover,.menu li.menu-actions a.btn-solid:focus{background:#9E4A2C;border-color:#9E4A2C;color:#fff}
 .btn-ghost:hover{background:var(--ink);color:#FFFFFF}
-.manifest{background:#1B1815;color:#F2EDE4}
-.manifest blockquote,.manifest p,.manifest h2{color:#F2EDE4}
-.manifest .ilink,.manifest .kicker{color:#C9A45C}
+/* 19/09, nino : le sombre de fin de page est juste, celui du milieu ne l'est pas.
+   Mesure : le bloc « Pourquoi ces fabricants » tombait aux trois cinquiemes de la hauteur de
+   l'accueil (mesure) — une bande sombre pleine largeur en plein milieu se lit comme un
+   pied de page, et on croit la page finie. La maquette d'origine le donnait en
+   sable ; on lui rend son fond et on garde le sombre pour la seule fin. */
+.manifest .ilink{color:#9E4A2C}
 .final{background:#1B1815}
 .final h2,.final p{color:#F2EDE4}
 .final .btn-ghost{color:#F2EDE4;border-color:#F2EDE4}
@@ -620,7 +646,28 @@ html.pro header{background:rgba(30,27,25,.88)}
     </div>
   </section>
 
-  <section>
+    <section id="intemporel">
+    <div class="wrap">
+      <p class="question">Vous ne savez plus quel style choisir&nbsp;?</p>
+      <h2>Visez l’intemporel.</h2>
+      <p class="intro">Un style, ça se choisit rarement à l’avance&nbsp;: on sait ce qu’on aime quand on le voit. Alors nous partons de deux questions concrètes, et le style sort tout seul à la fin.</p>
+      <div class="deux-q">
+        <div>
+          <p class="num">1</p>
+          <h3>La porte</h3>
+          <p>Lisse, sans cadre ni moulure&nbsp;: c’est la ligne contemporaine. À cadre, avec une moulure&nbsp;: c’est la ligne classique. C’est le seul choix vraiment structurel, et c’est celui qui ne se change plus.</p>
+        </div>
+        <div>
+          <p class="num">2</p>
+          <h3>La température</h3>
+          <p>Chaude — bois, beige, terre — ou froide — blanc, gris, laque, anthracite. La même porte change entièrement d’ambiance selon la teinte qu’on lui donne. C’est la couleur qui fait le chaud et le froid, pas le modèle.</p>
+        </div>
+      </div>
+      <p class="tip"><strong>Ce qui dure, et ce qui se change.</strong> Les portes et le plan de travail restent quinze ans&nbsp;: on les choisit sobres. Le mur, la crédence, les tabourets et les accessoires se changent en un week-end&nbsp;: c’est là qu’on met la tendance. Un intérieur qui ne se date pas, c’est ça — pas l’absence de couleur.</p>
+    </div>
+  </section>
+
+<section>
     <div class="wrap">
       <h2>Moderne ou classique, à votre image</h2>
       <p class="intro">Toutes les collections Stosa, sur commande : de la ligne Art aux modèles haut de gamme comme Aliant. Lignes épurées ou charme classique, chaque modèle se compose selon votre pièce, vos habitudes et votre budget.</p>

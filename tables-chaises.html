@@ -554,6 +554,31 @@ h1{line-height:1.08}
   .lexique,.chairs{grid-template-columns:1fr}
 }
 
+/* 19/09 — Les fabricants, page Salon. nino : « un onglet fournisseur, Max Divani, hop,
+   une liste deroulante avec quelques photos, Nicoletti, une liste deroulante... ».
+   D'ou une LISTE verticale, pas une grille de cartes : chaque fabricant est une ligne,
+   et son depliant s'ouvre sous son nom. Tant qu'un fabricant n'a pas de photo, sa ligne
+   existe (son nom est une information vraie) mais son depliant n'existe pas — pas de
+   bouton qui ne mene nulle part. */
+#fabricants{border-top:1px solid var(--line)}
+.fab-liste{margin-top:40px;border-top:1px solid var(--line)}
+.fab{display:grid;grid-template-columns:minmax(220px,4fr) 7fr;gap:48px;
+     padding:32px 0;border-bottom:1px solid var(--line)}
+.fab-nom h3{margin:0;font-size:clamp(20px,2vw,26px);font-weight:500}
+.fab-nom .tag{display:inline-block;margin-top:8px;font-size:14px;color:var(--walnut);font-weight:500}
+.fab-corps p{margin:0;color:var(--ink-soft);max-width:62ch}
+.fab details.pli{margin-top:18px}
+.fab details.pli summary{cursor:pointer;font-size:16px;font-weight:500;list-style:none;color:var(--walnut)}
+.fab details.pli summary::-webkit-details-marker{display:none}
+.fab details.pli summary::after{content:" +"}
+.fab details.pli[open] summary::after{content:" \2013"}
+.fab-photos{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px}
+.fab-photos .ph{height:200px}
+@media (max-width:860px){
+  .fab{grid-template-columns:1fr;gap:12px;padding:28px 0}
+  .fab-photos{grid-template-columns:1fr}.fab-photos .ph{height:220px}
+}
+
 
 /* Thème « Cristal & encre », 18/09 — variables, grain, en-tête, panneaux, bandes encre, bouton principal */
 :root{--bg:#FAF8F4;--paper:#FFFFFF;--sand:#F3EFE8;--sand-deep:#E8E2D8;--line:#E4DED4;--ink:#1B1815;--ink-soft:#5B534B;--walnut:#1B1815;--walnut-ink:#FFFFFF;--terra:#9E4A2C;--brass:#C9A45C;--sage-deep:#9E4A2C;--ph-a:#E6DFD3;--ph-b:#D9CFC0;--ph-c:#EEE9E1;--ph-d:#E2DBD0}
@@ -568,9 +593,12 @@ html.pro header{background:rgba(30,27,25,.88)}
 .btn-solid:hover{background:#7F3A22;border-color:#7F3A22;color:#fff}
 .menu li.menu-actions a.btn-solid,.menu li.menu-actions a.btn-solid:hover,.menu li.menu-actions a.btn-solid:focus{background:#9E4A2C;border-color:#9E4A2C;color:#fff}
 .btn-ghost:hover{background:var(--ink);color:#FFFFFF}
-.manifest{background:#1B1815;color:#F2EDE4}
-.manifest blockquote,.manifest p,.manifest h2{color:#F2EDE4}
-.manifest .ilink,.manifest .kicker{color:#C9A45C}
+/* 19/09, nino : le sombre de fin de page est juste, celui du milieu ne l'est pas.
+   Mesure : le bloc « Pourquoi ces fabricants » tombait aux trois cinquiemes de la hauteur de
+   l'accueil (mesure) — une bande sombre pleine largeur en plein milieu se lit comme un
+   pied de page, et on croit la page finie. La maquette d'origine le donnait en
+   sable ; on lui rend son fond et on garde le sombre pour la seule fin. */
+.manifest .ilink{color:#9E4A2C}
 .final{background:#1B1815}
 .final h2,.final p{color:#F2EDE4}
 .final .btn-ghost{color:#F2EDE4;border-color:#F2EDE4}
@@ -631,7 +659,7 @@ html.pro header{background:rgba(30,27,25,.88)}
         <a class="btn btn-solid" href="magasin-contact#visite">Venir les voir</a>
         <a class="btn btn-ghost" href="magasin-contact#visite">Parler de mon projet</a>
       </div>
-      <p class="reassure">Déplacement offert pour les mesures, livraison par nos soins.</p>
+      <p class="reassure">La première visite, prise de mesures et conseil, est offerte.</p>
     </div>
   </div>
 

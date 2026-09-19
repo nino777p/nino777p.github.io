@@ -480,6 +480,71 @@ body::before{opacity:.10;background-size:110px 110px}
 }
 
 
+:root{--r-serre:56px;--r-normal:120px;--r-large:200px}
+/* garde-fou : une photo qui deborde ne doit jamais creer de barre horizontale */
+main{overflow-x:clip}
+
+/* 1. LE RYTHME. Ce qui se suit et se repond est serre ; ce qui change de sujet
+      est large. « Pourquoi ces fabricants », la bande de marques et « Ce qui
+      arrive au magasin » parlent tous les trois de qui nous sommes : ils se
+      groupent. Avant « Venir au magasin », on change de registre : on respire. */
+#amenagements{padding-top:var(--r-large);padding-bottom:var(--r-normal)}
+#marques{padding-top:var(--r-normal);padding-bottom:var(--r-serre)}
+.social-band{padding-top:var(--r-serre);padding-bottom:var(--r-large)}
+
+/* 2. LES DEUX RANGEES. 24 px entre elles : on lisait une seule grille de six.
+      56 px : deux groupes de trois, ce qu'elles sont. */
+.spaces2{margin-top:var(--r-serre)}
+
+/* 3. LA PHOTO QUI SORT DU CADRE. Le Salon est la carte la plus importante du
+      bloc ; sa photo va chercher le bord gauche de l'ecran pendant que tout le
+      texte reste aligne dans la boite. C'est le seul endroit de la page, avec
+      l'ouverture, ou quelque chose franchit la limite. */
+/* 19/09, nino : « un peu hors cadre... rajoute un peu de symetrie dedans ».
+   Le debordement allait jusqu'au bord de l'ecran (124 px hors du cadre a 1440).
+   Il est ramene a la moitie : la photo franchit encore la limite — c'est le
+   seul relief de la page avec l'ouverture — mais elle ne vient plus buter
+   contre le bord, et le canape n'est plus tranche par l'arete de l'ecran. */
+/* 19/09, nino : « elargis les trois du bas pour que la ligne exterieure gauche
+   du Salon et celle des trois dernieres images soient alignees ».
+   Consequence : ce n'est plus UNE photo qui sort du cadre, c'est LA GRILLE
+   ENTIERE qui franchit la limite de 64 px a gauche, pendant que le titre et le
+   chapo restent alignes dans la boite de 1240. Une seule ligne exterieure pour
+   les six cartes, au lieu d'une photo qui depassait toute seule.
+   Le pas est fixe (64 px) et bute proprement au bord quand la marge est plus
+   petite ; max() fait la butee. Le cote droit ne bouge pas. */
+/* 19/09, deuxieme passe (nino : « les textes sont decales vers la droite par
+   rapport aux images »). C'etait vrai et c'etait de moi : les grilles sortaient
+   de 64 px, le titre et le chapo restaient dans la boite. Un bloc, une seule
+   ligne : c'est le CONTENEUR de la section qui se deplace, titre compris.
+   Mesure avant : titre a 124, images a 60. Apres : tout a 60. */
+/* Deplacer le CONTENEUR cassait son centrage (margin:0 auto) : mesure a -40 px,
+   le bloc sortait de l'ecran. On deplace donc chaque enfant, conteneur intact. */
+@media (min-width:1241px){
+  #amenagements > .wrap > h2,
+  #amenagements > .wrap > p,
+  .spaces,.spaces2{
+    margin-left:max(calc((var(--max) - 100vw)/2 - 24px), -64px);
+  }
+  .spaces,.spaces2{
+    width:calc(100% - max(calc((var(--max) - 100vw)/2 - 24px), -64px));
+  }
+}
+
+/* 4. LA CARTE QUI PASSE DEVANT. Elle remonte sur le bloc precedent : premier
+      vrai plan de la page apres l'ouverture. Desactivee sur telephone, ou un
+      chevauchement ne se lit pas et mange de la hauteur. */
+@media (min-width:961px){
+  #visite{padding-top:0;padding-bottom:var(--r-normal)}
+  #visite .visit-card{margin-top:-96px;position:relative;z-index:1;
+    box-shadow:0 30px 80px rgba(20,16,12,.10)}
+}
+@media (max-width:960px){
+  :root{--r-serre:40px;--r-normal:72px;--r-large:104px}
+  #visite{padding-top:var(--r-normal)}
+}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -535,9 +600,12 @@ html.pro header{background:rgba(30,27,25,.88)}
 .btn-solid:hover{background:#7F3A22;border-color:#7F3A22;color:#fff}
 .menu li.menu-actions a.btn-solid,.menu li.menu-actions a.btn-solid:hover,.menu li.menu-actions a.btn-solid:focus{background:#9E4A2C;border-color:#9E4A2C;color:#fff}
 .btn-ghost:hover{background:var(--ink);color:#FFFFFF}
-.manifest{background:#1B1815;color:#F2EDE4}
-.manifest blockquote,.manifest p,.manifest h2{color:#F2EDE4}
-.manifest .ilink,.manifest .kicker{color:#C9A45C}
+/* 19/09, nino : le sombre de fin de page est juste, celui du milieu ne l'est pas.
+   Mesure : le bloc « Pourquoi ces fabricants » tombait aux trois cinquiemes de la hauteur de
+   l'accueil (mesure) — une bande sombre pleine largeur en plein milieu se lit comme un
+   pied de page, et on croit la page finie. La maquette d'origine le donnait en
+   sable ; on lui rend son fond et on garde le sombre pour la seule fin. */
+.manifest .ilink{color:#9E4A2C}
 .final{background:#1B1815}
 .final h2,.final p{color:#F2EDE4}
 .final .btn-ghost{color:#F2EDE4;border-color:#F2EDE4}
