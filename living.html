@@ -483,6 +483,17 @@ body::before{opacity:.10;background-size:110px 110px}
 h1{line-height:1.08}
 
 
+/* 19/09 — La triade des pages de collection.
+   Défaut trouvé en ligne : la classe .proof-grid a été reprise de la page Cuisine,
+   mais sa règle de grille vit dans la maquette Cuisine et n'existait pas ici. Les
+   trois arguments s'empilaient en une colonne. Même échelle que Cuisine : trois
+   colonnes, deux à partir de 960 px, une à partir de 560 px. */
+.proof-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:48px}
+.proof-grid h3{margin:18px 0 8px}
+.proof-grid p{margin:0;color:var(--ink-soft)}
+@media (max-width:960px){.proof-grid{grid-template-columns:1fr 1fr;gap:36px}}
+@media (max-width:560px){.proof-grid{grid-template-columns:1fr;gap:28px}}
+
 /* Pages générées : hero, blocs et grilles (règles de la maquette Living) */
 .hero{position:relative;min-height:78vh;display:grid;align-items:end}
 .hero .ph{position:absolute;inset:0}
