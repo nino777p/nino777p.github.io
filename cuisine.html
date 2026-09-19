@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cuisines italiennes Stosa sur mesure | Fony Meubles</title>
-<meta name="description" content="Cuisines Stosa fabriquées en Italie, dessinées avec vous de la mesure à la pose. Façades 23 mm, garantie 5 ans, échantillons au magasin près de Binche.">
+<meta name="description" content="Cuisines Stosa fabriquées en Italie, dessinées avec vous de la mesure à la pose. Garantie 5 ans, échantillons de façades et de plans au magasin près de Binche.">
 <link rel="canonical" href="https://fony.be/cuisine">
 <meta name="theme-color" content="#FAF8F4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="Fony Meubles">
 <meta property="og:locale" content="fr_BE">
 <meta property="og:title" content="Cuisines italiennes Stosa sur mesure | Fony Meubles">
-<meta property="og:description" content="Cuisines Stosa fabriquées en Italie, dessinées avec vous de la mesure à la pose. Façades 23 mm, garantie 5 ans, échantillons au magasin près de Binche.">
+<meta property="og:description" content="Cuisines Stosa fabriquées en Italie, dessinées avec vous de la mesure à la pose. Garantie 5 ans, échantillons de façades et de plans au magasin près de Binche.">
 <meta property="og:image" content="https://fony.be/assets/img/stosa-ilot-og.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -453,6 +453,35 @@ body::before{opacity:.10;background-size:110px 110px}
 .tag{color:var(--brass-ink)!important}
 
 
+/* Trois scenes : une photo, une ligne, rien d'autre. */
+.scenes{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}
+.scenes figure{margin:0}
+.scenes .ph{height:340px}
+.scenes figcaption{margin-top:14px;font-size:17px;line-height:1.45;color:var(--ink)}
+@media (max-width:960px){.scenes{grid-template-columns:1fr;gap:34px}.scenes .ph{height:300px}}
+/* Triade de la cuisine : trois temps, pas quatre etapes. */
+.triade{display:grid;grid-template-columns:repeat(3,1fr);gap:48px;margin-top:36px}
+.triade h3{margin:0 0 10px;font-size:22px}
+.triade p{margin:0;color:var(--ink-soft)}
+@media (max-width:860px){.triade{grid-template-columns:1fr;gap:28px}}
+
+
+/* Detail technique replie : meme grammaire que les questions frequentes. */
+details.pli{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:20px 0;margin-top:28px}
+details.pli summary{cursor:pointer;font-weight:500;font-size:19px;list-style:none}
+details.pli summary::-webkit-details-marker{display:none}
+details.pli summary::after{content:"+";float:right;color:var(--ink-soft)}
+details.pli[open] summary::after{content:"–"}
+details.pli .top-grid{margin-top:26px}
+details.pli .tip{margin-top:22px}
+
+
+/* La legende d'une scene : une ligne, sous la photo, jamais une explication. */
+.scene-fig{margin:0}
+.scene{margin:14px 0 0;font-size:17px;line-height:1.45;color:var(--ink-soft);font-style:italic}
+@media (max-width:960px){.scene{margin-top:12px;font-size:16px}}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -575,6 +604,22 @@ html.pro header{background:rgba(30,27,25,.88)}
     </div>
   </div>
 
+<section>
+    <div class="wrap living-grid">
+      <div>
+        <h2>Cuisine, séjour, rangements : un seul espace à penser</h2>
+        <p class="intro" style="margin-bottom:0">Les pièces s’ouvrent les unes sur les autres. Votre cuisine se voit depuis le canapé, et le meuble TV prolonge l’îlot. Chez Fony, les trois se dessinent ensemble, avec un seul interlocuteur.</p>
+        <ul class="trades">
+          <li>Cuisine <span>Stosa, sur mesure</span></li>
+          <li><a class="ilink" href="salon">Salon</a> <span>canapés, relax</span></li>
+          <li><a class="ilink" href="living">Living</a> <span>meuble TV, bibliothèque, buffet</span></li>
+          <li><a class="ilink" href="sur-mesure">Rangements sur mesure</a> <span>dressing, bibliothèque, meuble TV</span></li>
+        </ul>
+      </div>
+      <figure class="scene-fig"><div class="ph has-img ph-stone" data-label="Visuel Stosa à venir : cuisine et living dans la même pièce"><picture><source type="image/avif" srcset="assets/img/stosa-living-600.avif 600w, assets/img/stosa-living-900.avif 900w, assets/img/stosa-living-1400.avif 1400w, assets/img/stosa-living-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:70% 50%" src="assets/img/stosa-living-1400.webp" srcset="assets/img/stosa-living-600.webp 600w, assets/img/stosa-living-900.webp 900w, assets/img/stosa-living-1400.webp 1400w, assets/img/stosa-living-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Infinity et séjour dans la même pièce" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Infinity"></picture></div><figcaption class="scene">On finit de cuisiner, on s’assied : personne n’a changé de pièce.</figcaption></figure>
+    </div>
+  </section>
+
   <section>
     <div class="wrap">
       <h2>Moderne ou classique, à votre image</h2>
@@ -608,53 +653,29 @@ html.pro header{background:rgba(30,27,25,.88)}
       <h2>Ce qui fait la différence, dans le temps</h2>
       <div class="proof-grid">
         <div><strong>Fabriquée en Italie</strong><p>Chaque cuisine Stosa est conçue et produite exclusivement en Italie.</p></div>
-        <div><strong>Façades de 23 mm</strong><p>Des portes plus épaisses pour plus de tenue et une finition qui reste nette avec les années.</p></div>
+        <div><strong>Un seul interlocuteur</strong><p>De la première mesure à la dernière poignée, la même personne suit votre projet.</p></div>
         <div><strong>Garantie 5 ans</strong><p>Stosa certifie ses cuisines et les garantit cinq ans.</p></div>
       </div>
     </div>
   </section>
 
-  <section>
-    <div class="wrap living-grid">
-      <div>
-        <h2>Cuisine, séjour, rangements : un seul espace à penser</h2>
-        <p class="intro" style="margin-bottom:0">Les pièces s’ouvrent les unes sur les autres. Votre cuisine se voit depuis le canapé, et le meuble TV prolonge l’îlot. Chez Fony, les trois se dessinent ensemble, avec un seul interlocuteur.</p>
-        <ul class="trades">
-          <li>Cuisine <span>Stosa, sur mesure</span></li>
-          <li><a class="ilink" href="salon">Salon</a> <span>canapés, relax</span></li>
-          <li><a class="ilink" href="living">Living</a> <span>meuble TV, bibliothèque, buffet</span></li>
-          <li><a class="ilink" href="sur-mesure">Rangements sur mesure</a> <span>dressing, bibliothèque, meuble TV</span></li>
-        </ul>
-      </div>
-      <div class="ph has-img ph-stone" data-label="Visuel Stosa à venir : cuisine et living dans la même pièce"><picture><source type="image/avif" srcset="assets/img/stosa-living-600.avif 600w, assets/img/stosa-living-900.avif 900w, assets/img/stosa-living-1400.avif 1400w, assets/img/stosa-living-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:70% 50%" src="assets/img/stosa-living-1400.webp" srcset="assets/img/stosa-living-600.webp 600w, assets/img/stosa-living-900.webp 900w, assets/img/stosa-living-1400.webp 1400w, assets/img/stosa-living-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Infinity et séjour dans la même pièce" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Infinity"></picture></div>
-    </div>
-  </section>
+  
 
   <section id="parcours" style="padding-top:0">
     <div class="wrap">
-      <h2>Comment se passe votre projet</h2>
-      <p class="intro">Quatre étapes, à votre rythme. Vous savez toujours où vous en êtes et qui s’en occupe.</p>
-      <div class="steps">
-        <div class="step"><h3>On se rencontre</h3><p>Chez vous ou au magasin, pour parler de vos habitudes, de vos envies et de votre budget.</p></div>
-        <div class="step"><h3>On mesure</h3><p>Nous venons relever les cotes et les contraintes de la pièce : arrivées d’eau, fenêtres, prises.</p></div>
-        <div class="step"><h3>On compose</h3><p>Plan, façades, plan de travail, teintes et matières : on ajuste ensemble jusqu’à ce que tout tombe juste. <a class="ilink" href="nuancier">Repérer une teinte avant la visite</a></p></div>
-        <div class="step"><h3>On installe</h3><p>Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, réglages et finitions. Et nous restons joignables après la pose.</p></div>
-      </div>
-    </div>
-  </section>
+      <h2>Vous la rêvez. Nous la dessinons. Nous la posons.</h2><div class="triade"><div><h3>Vous la rêvez</h3><p>Chez vous ou au magasin, on parle de vos habitudes, de vos envies et de votre budget. Rien n’est dessiné avant de vous avoir écouté.</p></div><div><h3>Nous la dessinons</h3><p>Nous venons relever les cotes et les contraintes de la pièce, puis nous composons avec vous : plan, façades, plan de travail, teintes. On ajuste jusqu’à ce que tout tombe juste. <a class="ilink" href="nuancier">Repérer une teinte avant la visite</a></p></div><div><h3>Nous la posons</h3><p>Livraison par nos soins, pose par notre équipe ou par un artisan partenaire, réglages et finitions. Et nous restons joignables après la pose.</p></div></div></div></section>
 
   <section class="tops">
     <div class="wrap">
       <h2>Le plan de travail, selon votre usage</h2>
-      <p class="intro">C’est l’élément qui travaille le plus. Voici comment choisir, sans jargon.</p>
-      <div class="top-grid">
+      <p class="intro">C’est l’élément qui travaille le plus, et celui qui fait le plus varier un budget. Nous vous montrons les options côte à côte en magasin.</p>
+      <details class="pli"><summary>Les quatre matières, et ce qu’elles changent</summary><div class="top-grid">
         <div><div class="ph has-img ph-matte" data-label="Stratifié"><picture><source type="image/avif" srcset="assets/img/stosa-hpl-600.avif 600w, assets/img/stosa-hpl-900.avif 900w, assets/img/stosa-hpl-1400.avif 1400w, assets/img/stosa-hpl-1648.avif 1648w" sizes="(max-width:960px) 100vw, 50vw"><img src="assets/img/stosa-hpl-1400.webp" srcset="assets/img/stosa-hpl-600.webp 600w, assets/img/stosa-hpl-900.webp 900w, assets/img/stosa-hpl-1400.webp 1400w, assets/img/stosa-hpl-1648.webp 1648w" sizes="(max-width:960px) 100vw, 50vw" alt="Plan de travail stratifié HPL Stosa, vue rapprochée" width="1648" height="1236" loading="lazy" decoding="async" data-credit="Stosa"></picture></div><h3>Stratifié</h3><p>Large choix de décors, facile à vivre au quotidien.</p></div>
         <div><h3>Céramique</h3><p>Supporte bien la chaleur et les rayures.</p></div>
         <div><h3>Quartz</h3><p>Aspect pierre, surface régulière, simple à entretenir.</p></div>
         <div><h3>Compact</h3><p>Très résistant aux chocs et à l’eau, chant plein dans la masse.</p></div>
       </div>
-      <p class="tip"><strong>Bon à savoir :</strong> le plan de travail est souvent ce qui fait le plus varier le budget d’une cuisine. Nous vous montrons les options côte à côte pour choisir en connaissance de cause. Les plans stratifié et compact viennent de Stosa ; la pierre, le quartz et la céramique sont réalisés par notre marbrier partenaire.</p>
-    </div>
+      <p class="tip"><strong>Qui fabrique quoi :</strong> les plans stratifié et compact viennent de Stosa ; la pierre, le quartz et la céramique sont réalisés par notre marbrier partenaire.</p></details></div>
   </section>
 
   <section>

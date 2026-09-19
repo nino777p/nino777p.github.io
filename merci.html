@@ -450,6 +450,36 @@ body::before{opacity:.10;background-size:110px 110px}
 .tag{color:var(--brass-ink)!important}
 
 
+/* 19/09 : la photo d'ouverture tient toute la largeur, sans marge asymétrique */
+.wrap.hero{max-width:none;padding:0}
+@media (min-width:961px){
+  /* la photo est en position absolue sur .wrap.hero : elle peut saigner pendant que
+     le texte, lui, reste dans la colonne du site. La maquette posait left:24px et
+     rien à droite — une asymétrie invisible mais réelle. */
+  .wrap.hero .hero-img{left:0;right:0}
+  .wrap.hero .hero-grid{max-width:var(--max);margin:0 auto;padding:0 20px}
+  .wrap.hero .hero-text{max-width:470px}
+}
+@media (max-width:960px){
+  /* 292 px sur 844 auparavant, soit 35 % du premier écran — celui qui porte 42 %
+     du temps de regard. La photo passe à 56 % de la hauteur d'écran. */
+  .hero-img{height:56vh;min-height:380px}
+  .wrap.hero .hero-text{margin-left:16px;margin-right:16px;max-width:none}
+}
+
+
+@media (max-width:760px){
+  .spaces{grid-template-columns:1fr 1fr;gap:14px}
+  .space-living{grid-column:1 / -1}
+  .space-living .ph{height:300px}
+  .space-small .ph{height:180px}
+  .spaces2{grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}
+  .spaces2 .ph{height:180px}
+  .space h3{font-size:18px}
+  .space p{font-size:14.5px}
+}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}

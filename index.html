@@ -488,6 +488,42 @@ body::before{opacity:.10;background-size:110px 110px}
 .tag{color:var(--brass-ink)!important}
 
 
+/* 19/09 : la photo d'ouverture tient toute la largeur, sans marge asymétrique */
+.wrap.hero{max-width:none;padding:0}
+@media (min-width:961px){
+  /* la photo est en position absolue sur .wrap.hero : elle peut saigner pendant que
+     le texte, lui, reste dans la colonne du site. La maquette posait left:24px et
+     rien à droite — une asymétrie invisible mais réelle. */
+  .wrap.hero .hero-img{left:0;right:0}
+  .wrap.hero .hero-grid{max-width:var(--max);margin:0 auto;padding:0 20px}
+  .wrap.hero .hero-text{max-width:470px}
+}
+@media (max-width:960px){
+  /* 292 px sur 844 auparavant, soit 35 % du premier écran — celui qui porte 42 %
+     du temps de regard. La photo passe à 56 % de la hauteur d'écran. */
+  .hero-img{height:56vh;min-height:380px}
+  .wrap.hero .hero-text{margin-left:16px;margin-right:16px;max-width:none}
+}
+
+
+/* 19/09 : une image dans le bloc de confiance */
+.manifest-photo{margin:0}
+.manifest-photo img{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:cover}
+@media (max-width:960px){.manifest-photo{order:-1}.manifest-photo img{aspect-ratio:16/10}}
+
+
+@media (max-width:760px){
+  .spaces{grid-template-columns:1fr 1fr;gap:14px}
+  .space-living{grid-column:1 / -1}
+  .space-living .ph{height:300px}
+  .space-small .ph{height:180px}
+  .spaces2{grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}
+  .spaces2 .ph{height:180px}
+  .space h3{font-size:18px}
+  .space p{font-size:14.5px}
+}
+
+
 /* Pop-up d'opération : tardif, discret, fermable, jamais plein écran sur téléphone */
 .pop{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:24px}
 .pop[open],.pop.show{display:flex}
@@ -616,9 +652,9 @@ html.pro header{background:rgba(30,27,25,.88)}
       <div class="ph has-img ph-walnut hero-img" data-label="Photo à venir : salon exposé en magasin, lumière naturelle"><picture><source type="image/avif" srcset="assets/img/tom-appartement-600.avif 600w, assets/img/tom-appartement-900.avif 900w, assets/img/tom-appartement-1400.avif 1400w, assets/img/tom-appartement-1920.avif 1920w" sizes="(max-width:960px) 100vw, 62vw"><img style="object-position:82% 55%" src="assets/img/tom-appartement-1400.webp" srcset="assets/img/tom-appartement-600.webp 600w, assets/img/tom-appartement-900.webp 900w, assets/img/tom-appartement-1400.webp 1400w, assets/img/tom-appartement-1920.webp 1920w" sizes="(max-width:960px) 100vw, 62vw" alt="Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure" width="1920" height="928" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></picture></div>
       <div class="hero-text">
       <h1>Meubles, cuisines, sur mesure</h1>
-        <p class="lead">Mobilier italien et belge, sur mesure et cuisines Stosa. À Leval-Trahegnies, choisis avec vous.</p>
+        <p class="lead">Mobilier italien et belge, cuisines Stosa, sur mesure. À Leval-Trahegnies. Ce qui fait la différence — la mousse, le mécanisme, le grain du cuir — ne se voit pas sur un écran.</p>
         <div class="actions">
-          <a class="btn btn-solid" href="#visite">Venir au magasin</a>
+          <a class="btn btn-solid" href="#visite">Venir essayer</a>
           <a class="btn btn-ghost" href="magasin-contact#visite">Parler de mon projet</a>
         </div>
       </div>
@@ -678,45 +714,11 @@ html.pro header{background:rgba(30,27,25,.88)}
     </div>
   </section>
 
-
-  <section class="materials-band" aria-labelledby="matieres-titre">
-    <div class="wrap">
-      <p class="kicker">Matières</p>
-      <h2 id="matieres-titre">Les matières, en vrai.</h2>
-      <p class="intro">Bois, laques, tissus, pierre : les échantillons sont au magasin, à poser côte à côte avec une photo de votre pièce.</p>
-      <ul class="materials">
-        <li><a class="mat-lien" href="nuancier"><span class="mat mat-noyer has-img" data-label="Photo macro à venir : noyer"><picture><source type="image/avif" srcset="assets/img/mat-noyer-480.avif 480w, assets/img/mat-noyer-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-noyer-960.webp" srcset="assets/img/mat-noyer-480.webp 480w, assets/img/mat-noyer-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : noyer ambré" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Noyer ambré</b><small>Tomasella · Materico</small></a></li>
-        <li><a class="mat-lien" href="nuancier"><span class="mat mat-chene has-img" data-label="Photo macro à venir : chêne clair"><picture><source type="image/avif" srcset="assets/img/mat-chene-480.avif 480w, assets/img/mat-chene-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-chene-960.webp" srcset="assets/img/mat-chene-480.webp 480w, assets/img/mat-chene-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : chêne sable" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Legno"></picture></span><b>Chêne sable</b><small>Tomasella · Legno</small></a></li>
-        <li><a class="mat-lien" href="nuancier"><span class="mat mat-laque has-img" data-label="Photo macro à venir : laque mate sable"><picture><source type="image/avif" srcset="assets/img/mat-laque-480.avif 480w, assets/img/mat-laque-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-laque-960.webp" srcset="assets/img/mat-laque-480.webp 480w, assets/img/mat-laque-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : laque mate Arena" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></picture></span><b>Laque mate Arena</b><small>Tomasella · Laccato</small></a></li>
-        <li><a class="mat-lien" href="nuancier"><span class="mat mat-fenix has-img" data-label="Photo macro à venir : Fenix noir"><picture><source type="image/avif" srcset="assets/img/mat-ciment-480.avif 480w, assets/img/mat-ciment-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-ciment-960.webp" srcset="assets/img/mat-ciment-480.webp 480w, assets/img/mat-ciment-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : ciment cava" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Ciment cava</b><small>Tomasella · Materico</small></a></li>
-        <li><a class="mat-lien" href="nuancier"><span class="mat mat-boucle has-img" data-label="Photo macro à venir : tissu bouclé"><picture><source type="image/avif" srcset="assets/img/mat-cannele-480.avif 480w, assets/img/mat-cannele-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-cannele-960.webp" srcset="assets/img/mat-cannele-480.webp 480w, assets/img/mat-cannele-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : chêne cannelé cognac" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Legno"></picture></span><b>Chêne cannelé</b><small>Tomasella · Legno</small></a></li>
-        <li><a class="mat-lien" href="nuancier"><span class="mat mat-cuir has-img" data-label="Photo macro à venir : cuir cognac"><picture><source type="image/avif" srcset="assets/img/mat-lin-480.avif 480w, assets/img/mat-lin-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-lin-960.webp" srcset="assets/img/mat-lin-480.webp 480w, assets/img/mat-lin-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : lin texturé" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Lin texturé</b><small>Tomasella · Materico</small></a></li>
-        <li><a class="mat-lien" href="nuancier"><span class="mat mat-pierre has-img" data-label="Photo macro à venir : travertin"><picture><source type="image/avif" srcset="assets/img/mat-pierre-480.avif 480w, assets/img/mat-pierre-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-pierre-960.webp" srcset="assets/img/mat-pierre-480.webp 480w, assets/img/mat-pierre-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : pierre piasentina" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Pierre piasentina</b><small>Tomasella · Materico</small></a></li>
-        <li><a class="mat-lien" href="nuancier"><span class="mat mat-laiton has-img" data-label="Photo macro à venir : laiton brossé"><picture><source type="image/avif" srcset="assets/img/mat-laiton-480.avif 480w, assets/img/mat-laiton-960.avif 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px"><img src="assets/img/mat-laiton-960.webp" srcset="assets/img/mat-laiton-480.webp 480w, assets/img/mat-laiton-960.webp 960w" sizes="(max-width:560px) 46vw, (max-width:960px) 24vw, 150px" alt="Échantillon Tomasella : laque métallisée laiton" width="960" height="1200" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></picture></span><b>Laiton métallisé</b><small>Tomasella · Laccato</small></a></li>
-      </ul>
-      <p class="mat-suite"><a href="nuancier">Voir toutes les teintes</a></p>
-    </div>
-  </section>
-
-
-  <section class="social-band" aria-labelledby="reseaux-titre">
-    <div class="wrap social-grid">
-      <div>
-        <p class="kicker">Réseaux</p>
-        <h2 id="reseaux-titre">Ce qui arrive au magasin, en photos.</h2>
-        <p>Arrivages, réalisations, nouveautés : nous les montrons au fil des semaines sur Instagram et Facebook.</p>
-      </div>
-      <div class="actions">
-        <a class="btn btn-ghost" href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a>
-        <a class="btn btn-ghost" href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a>
-      </div>
-    </div>
-  </section>
-
   <section class="manifest">
     <div class="wrap manifest-grid">
-      <h2>Pourquoi ces fabricants</h2>
-      <p>Nous sélectionnons des fabricants <a class="ilink" href="#marques">italiens, belges et européens</a> pour la qualité de leurs matériaux et de leur fabrication. Notre rôle : vous aider à faire les bons choix, pour longtemps.</p>
+      <div><h2>Pourquoi ces fabricants</h2>
+      <p>Nous sélectionnons des fabricants <a class="ilink" href="#marques">italiens, belges et européens</a> pour la qualité de leurs matériaux et de leur fabrication. Notre rôle : vous aider à faire les bons choix, pour longtemps.</p></div>
+      <figure class="manifest-photo"><picture><source type="image/avif" srcset="assets/img/stosa-bois-macro-600.avif 600w, assets/img/stosa-bois-macro-900.avif 900w, assets/img/stosa-bois-macro-1400.avif 1400w, assets/img/stosa-bois-macro-1900.avif 1900w" sizes="(max-width:960px) 100vw, 34vw"><img src="assets/img/stosa-bois-macro-900.webp" srcset="assets/img/stosa-bois-macro-600.webp 600w, assets/img/stosa-bois-macro-900.webp 900w, assets/img/stosa-bois-macro-1400.webp 1400w, assets/img/stosa-bois-macro-1900.webp 1900w" sizes="(max-width:960px) 100vw, 34vw" alt="Plan de travail en chêne noueux Stosa, vue rapprochée" width="1900" height="1900" loading="lazy" decoding="async" data-credit="Stosa"></picture></figure>
     </div>
   </section>
 
@@ -727,11 +729,26 @@ html.pro header{background:rgba(30,27,25,.88)}
     </div>
   </div>
 
+
+  <section class="social-band" aria-labelledby="reseaux-titre">
+    <div class="wrap social-grid">
+      <div>
+        <p class="kicker">Réseaux</p>
+        <h2 id="reseaux-titre">Ce qui arrive au magasin</h2>
+        <p>Arrivages, réalisations, nouveautés : nous les montrons au fil des semaines sur Instagram et Facebook.</p>
+      </div>
+      <div class="actions">
+        <a class="btn btn-ghost" href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a>
+        <a class="btn btn-ghost" href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a>
+      </div>
+    </div>
+  </section>
+
   <section id="visite">
     <div class="wrap visit-grid">
       <div class="visit-card">
         <div>
-          <h2>Passez quand vous voulez.</h2>
+          <h2>Venir au magasin</h2>
           <p class="lead">Des canapés à essayer, les matières et les finitions en main. Le café est offert.</p>
         </div>
         <dl>
