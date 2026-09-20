@@ -575,6 +575,24 @@ html.pro header{background:rgba(30,27,25,.88)}
 .final .btn-ghost:hover{background:#F2EDE4;color:#1B1815}
 .pop-boite{border-top-color:#9E4A2C}
 
+
+/* 20/09 — La page ne garde que le magasin, les infos et le formulaire. Le titre
+   reste seul : sans chapo ni boutons, il a besoin d'air sous lui. */
+.hero .hero-panel h1:only-child{margin-bottom:0}
+/* Carte du plan : meme hauteur que la colonne d'infos, cadre centre, et l'adresse
+   repetee cliquable. La colonne de gauche et la carte tombent maintenant a la meme
+   ligne en haut comme en bas. */
+@media (min-width:961px){
+  .info-grid{align-items:stretch}
+  .info-grid{align-items:stretch}
+  .info-grid>div{height:100%}
+  .info-grid .map-card{height:100%;display:flex;flex-direction:column;
+                       justify-content:center;align-items:flex-start;padding:44px;margin:0}
+}
+.adresse-maps{text-decoration:none;border-bottom:1px solid var(--terra);
+              padding-bottom:1px;color:var(--ink)}
+.adresse-maps:hover{color:var(--terra)}
+
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FurnitureStore","name":"Fony Meubles","legalName":"FONY — MEUBLES SRL",
@@ -610,21 +628,21 @@ html.pro header{background:rgba(30,27,25,.88)}
             <li><a href="tables-chaises">Tables & chaises<small>Salle à manger</small></a></li>
             <li><a href="literie">Literie<small>Matelas et boxsprings</small></a></li>
             <li><a href="sur-mesure">Sur mesure<small>Dressing, bibliothèque, meuble TV</small></a></li>
-            <li><a href="cuisine">Cuisine<small>Cuisines italiennes Stosa</small></a></li>
+            <li><a href="cuisine">Cuisine<small>Cuisines sur mesure</small></a></li>
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
         <li><a href="espace-pro">Espace pro</a></li>
         <li><a href="#contenu" aria-current="page">Magasin &amp; contact</a></li>
       <li class="menu-actions">
-        <a class="btn btn-solid" href="#visite">Venir au magasin</a>
+        <a class="btn btn-solid" href="#visite">Mon projet</a>
         <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
         <p>Lun. 13h30–18h30 · Mar.–sam. 10h30–18h30</p>
         <p class="menu-social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></p>
       </li>
       </ul>
     </nav>
-    <a class="btn btn-solid cta-top" href="#visite">Venir au magasin</a>
+    <a class="btn btn-solid cta-top" href="#visite">Mon projet</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -632,32 +650,15 @@ html.pro header{background:rgba(30,27,25,.88)}
   <div class="hero">
     <div class="hero-panel">
       <h1>Le magasin, à Leval-Trahegnies</h1>
-      <p class="lead">Au magasin de Leval-Trahegnies, sur la commune de Binche, vous comparez les assises, les matières et les finitions, et vous parlez de votre projet avec quelqu’un qui connaît les produits.</p>
-      <div class="actions">
-        <a class="btn btn-solid" href="#visite">Préparer ma visite</a>
-        <a class="btn btn-ghost" href="https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener">Itinéraire</a>
       </div>
-      <p class="reassure">Sans rendez-vous, vous êtes le bienvenu. Avec, nous sommes sûrs d’avoir le temps de vous conseiller.</p>
-    </div>
   </div>
-
-  <section>
-    <div class="wrap">
-      <h2>Ce qui vous attend en magasin</h2>
-      <div class="cards3" style="margin-top:40px">
-        <div><h3>Voir et comparer les produits</h3><p>Vous comparez concrètement le confort, les dimensions et la qualité des finitions avant de décider.</p></div>
-        <div><h3>Composer votre projet</h3><p>À partir des dimensions de votre pièce ou de quelques photos, nous composons avec vous : tailles, matières, coloris, agencement.</p></div>
-        <div><h3>Prendre le temps</h3><p>Un projet se prépare mieux assis. Nous écoutons, sans presser.</p></div>
-      </div>
-    </div>
-  </section>
 
   <section>
     <div class="wrap info-grid">
       <div>
         <h2>Infos pratiques</h2>
         <dl class="hours">
-          <dt>Adresse</dt><dd>160/1 route de Charleroi<br>7134 Leval-Trahegnies</dd>
+          <dt>Adresse</dt><dd><a class="ilink adresse-maps" href="https://www.google.com/maps/search/?api=1&amp;query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener">160/1 route de Charleroi<br>7134 Leval-Trahegnies</a></dd>
           <dt>Lundi</dt><dd>13h30 – 18h30</dd>
           <dt>Mardi au samedi</dt><dd>10h30 – 18h30</dd>
           <dt>Dimanche</dt><dd>Fermé</dd>
@@ -675,23 +676,13 @@ html.pro header{background:rgba(30,27,25,.88)}
   <section>
     <div class="wrap living-grid">
       <div>
-        <h2 id="nous-venons">Nous venons chez vous</h2>
-        <p class="intro" style="margin-bottom:8px">Nous sommes en Hainaut, entre La Louvière, Charleroi et Mons, et nous nous déplaçons dans toute la région.</p>
-        <p class="intro" style="margin-bottom:24px">Pour un projet sur mesure, une cuisine ou un aménagement complet, nous nous déplaçons pour prendre les mesures et comprendre la pièce. Le déplacement est offert et le devis ne vous engage à rien.</p>
-        <ul class="trades">
-          <li><a class="ilink" href="sur-mesure">Sur mesure</a> <span>dressing, sous-pente, entrée</span></li>
-          <li><a class="ilink" href="cuisine">Cuisine</a> <span>cuisines italiennes Stosa</span></li>
-          <li><a class="ilink" href="espace-pro">Espace pro</a> <span>bureau, cabinet, commerce, home</span></li>
-        </ul>
-      </div>
-    </div>
-  </section>
+        
 
   <section class="tops" id="visite">
     <div class="wrap faq-grid">
       <div>
         <h2>Préparer votre visite</h2>
-        <p class="intro">Ce qui nous aide : les dimensions de la pièce ou du mur (largeur, hauteur, profondeur), une photo, et une idée de ce que vous voulez y mettre — volume, forme, usage. Pas de mesures ? Nous venons les relever chez vous. Besoin d’idées avant de passer ? Un coup de fil suffit, nous vous aiguillons.</p>
+        <p class="intro">Vos mesures&nbsp;: longueur, largeur et hauteur du mur.</p>
         <p class="intro">Dites-nous en quelques mots ce que vous cherchez ; nous vous recontactons pour convenir d’un moment ou répondre à vos questions.</p>
       </div>
       <form class="form" action="https://formsubmit.co/fonymeubles@gmail.com" method="post" enctype="multipart/form-data">
@@ -705,7 +696,6 @@ html.pro header{background:rgba(30,27,25,.88)}
             <select name="interet"><option>Salon et relax</option><option>Literie</option><option>Sur mesure</option><option>Cuisine</option><option>Projet complet</option><option>Professionnel</option></select></label>
         <label>Vous préférez<select name="contact"><option>Venir au magasin</option><option>Une visite chez vous</option><option>Être rappelé</option></select></label>
         <label class="full">Votre projet en quelques mots<textarea name="message"></textarea></label>
-        <label class="full">Mesures, plan ou photo de la pièce (facultatif, 10 Mo au total)<input type="file" name="fichier" accept="image/*,.pdf" multiple></label>
         <label class="full check"><input type="checkbox" name="consentement" required> <span>J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. <a class="ilink" href="confidentialite">Politique de confidentialité</a></span></label>
         <div class="full"><button class="btn btn-solid" type="submit">Envoyer ma demande</button></div>
         <p class="form-ok" role="status"><svg viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="12"/><path d="M8.5 14.5l4 4 7-8"/></svg><span>Merci, votre demande est bien envoyée. Nous revenons vers vous rapidement.</span></p>

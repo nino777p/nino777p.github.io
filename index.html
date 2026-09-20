@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Fony Meubles — salons, sur mesure et cuisines à Binche</title>
-<meta name="description" content="Magasin de meubles à Leval-Trahegnies (Binche) : salons et relax italiens, séjour, chambre, dressings sur mesure, cuisines Stosa. Visite et devis gratuits.">
+<meta name="description" content="Magasin de meubles à Leval-Trahegnies (Binche) : salons et relax, séjour, chambre, dressings sur mesure et cuisines. Fabrication européenne.">
 <link rel="canonical" href="https://fony.be/">
 <meta name="theme-color" content="#FAF8F4">
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMjMxRjFDIi8+PHRleHQgeD0iMzIiIHk9IjQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQm9kb25pIE1vZGEsRGlkb3QsR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSI0MiIgZmlsbD0iI0YyRURFNCI+RjwvdGV4dD48L3N2Zz4=">
@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="Fony Meubles">
 <meta property="og:locale" content="fr_BE">
 <meta property="og:title" content="Fony Meubles — salons, sur mesure et cuisines à Binche">
-<meta property="og:description" content="Magasin de meubles à Leval-Trahegnies (Binche) : salons et relax italiens, séjour, chambre, dressings sur mesure, cuisines Stosa. Visite et devis gratuits.">
+<meta property="og:description" content="Magasin de meubles à Leval-Trahegnies (Binche) : salons et relax, séjour, chambre, dressings sur mesure et cuisines. Fabrication européenne.">
 <meta property="og:image" content="https://fony.be/assets/img/tom-appartement-og.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -518,12 +518,6 @@ body::before{opacity:.10;background-size:110px 110px}
 }
 
 
-/* Livraison offerte + sa reserve, en plus petit dessous (consigne de nino). */
-.livraison{margin:22px 0 0;font-size:16px;font-weight:500;color:var(--ink)}
-.livraison sup{color:var(--terra,#9E4A2C)}
-.livraison span{display:block;margin-top:4px;font-size:13px;font-weight:400;color:var(--ink-soft);max-width:44ch}
-
-
 :root{--r-serre:56px;--r-normal:120px;--r-large:200px}
 /* garde-fou : une photo qui deborde ne doit jamais creer de barre horizontale */
 main{overflow-x:clip}
@@ -656,11 +650,41 @@ html.pro header{background:rgba(30,27,25,.88)}
 .final .btn-ghost:hover{background:#F2EDE4;color:#1B1815}
 .pop-boite{border-top-color:#9E4A2C}
 
+
+/* 20/09 — Le bloc « Pourquoi la fabrication europeenne ». Il remplace « Pourquoi
+   l'Italie », qui n'avait AUCUN titre : soixante-quinze mots invisibles pour Google
+   et pour un lecteur d'ecran. Il recoit un vrai h2 et l'appel a l'action du milieu
+   de page, que l'accueil n'avait pas. */
+#marques h2{margin:0 0 16px}
+.europe-pts,.europe-cta{grid-column:1 / -1}
+.europe-pts{margin:28px 0 0;display:grid;grid-template-columns:repeat(4,1fr);gap:28px}
+.europe-pts h3{margin:0 0 7px;font-size:17px;font-weight:600}
+.europe-pts p{margin:0;color:var(--ink-soft);font-size:15px}
+.europe-cta{margin:40px 0 0;padding-top:26px;border-top:1px solid var(--line);
+            display:flex;align-items:baseline;justify-content:space-between;gap:20px;flex-wrap:wrap}
+.europe-cta p{margin:0;font-size:clamp(19px,2vw,25px);color:var(--ink)}
+@media (max-width:960px){.europe-pts{grid-template-columns:1fr 1fr;gap:22px}}
+@media (max-width:560px){.europe-pts{grid-template-columns:1fr}}
+
+
+/* 20/09, nino : « aligner et quadriller ». La colonne de droite ne tombait pas juste
+   en face du Salon : 720 px a gauche contre 744 a droite, soit 24 px de decalage
+   invisibles un par un mais qui cassent la grille. Les cartes s'etirent maintenant
+   pour remplir exactement la hauteur de la colonne, et les textes partent tous de la
+   meme ligne. */
+@media (min-width:961px){
+  #amenagements .spaces{min-height:744px}
+  #amenagements .spaces .space{display:flex;flex-direction:column}
+  #amenagements .spaces .space .ph{flex:1 1 auto;height:auto;min-height:220px}
+  #amenagements .space-body{min-height:62px;padding-top:18px;align-content:flex-start}
+  #amenagements .spaces2 .space .ph{height:300px;flex:0 0 300px}
+}
+
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FurnitureStore","name":"Fony Meubles","legalName":"FONY — MEUBLES SRL",
  "url":"https://fony.be/","telephone":"+3264460772","email":"fonymeubles@gmail.com","vatID":"BE0449562534",
- "description":"Magasin de meubles à Leval-Trahegnies (Binche) : canapés et relax italiens et européens, séjour et chambre Tomasella, tables et chaises, literie belge, aménagements sur mesure et cuisines italiennes Stosa.",
+ "description":"Magasin de meubles à Leval-Trahegnies (Binche) : canapés et relax européens, séjour et chambre, tables et chaises, literie belge, aménagements sur mesure et cuisines.",
  "image":"https://fony.be/assets/img/tom-living-panorama-og.jpg","logo":"https://fony.be/assets/logo-fony.png",
  "hasMap":"https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies",
  "sameAs":["https://www.facebook.com/fonymeubles/","https://www.instagram.com/fonymeubles/"],
@@ -694,21 +718,21 @@ html.pro header{background:rgba(30,27,25,.88)}
             <li><a href="tables-chaises">Tables & chaises<small>Salle à manger</small></a></li>
             <li><a href="literie">Literie<small>Matelas et boxsprings</small></a></li>
             <li><a href="sur-mesure">Sur mesure<small>Dressing, bibliothèque, meuble TV</small></a></li>
-            <li><a href="cuisine">Cuisine<small>Cuisines italiennes Stosa</small></a></li>
+            <li><a href="cuisine">Cuisine<small>Cuisines sur mesure</small></a></li>
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
         <li><a href="espace-pro">Espace pro</a></li>
         <li><a href="magasin-contact">Magasin &amp; contact</a></li>
       <li class="menu-actions">
-        <a class="btn btn-solid" href="magasin-contact#visite">Venir au magasin</a>
+        <a class="btn btn-solid" href="magasin-contact#visite">Mon projet</a>
         <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
         <p>Lun. 13h30–18h30 · Mar.–sam. 10h30–18h30</p>
         <p class="menu-social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></p>
       </li>
       </ul>
     </nav>
-    <a class="btn btn-solid cta-top" href="#visite">Venir au magasin</a>
+    <a class="btn btn-solid cta-top" href="#visite">Mon projet</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -719,11 +743,11 @@ html.pro header{background:rgba(30,27,25,.88)}
     <div class="hero-grid">
       <div class="ph has-img ph-walnut hero-img" data-label="Photo à venir : salon exposé en magasin, lumière naturelle"><picture><source type="image/avif" srcset="assets/img/tom-appartement-600.avif 600w, assets/img/tom-appartement-900.avif 900w, assets/img/tom-appartement-1400.avif 1400w, assets/img/tom-appartement-1920.avif 1920w" sizes="(max-width:960px) 100vw, 62vw"><img style="object-position:82% 55%" src="assets/img/tom-appartement-1400.webp" srcset="assets/img/tom-appartement-600.webp 600w, assets/img/tom-appartement-900.webp 900w, assets/img/tom-appartement-1400.webp 1400w, assets/img/tom-appartement-1920.webp 1920w" sizes="(max-width:960px) 100vw, 62vw" alt="Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure" width="1920" height="928" loading="eager" decoding="async" fetchpriority="high" data-credit="Tomasella"></picture></div>
       <div class="hero-text">
-      <h1>Meubles, cuisines, sur mesure</h1>
-        <p class="lead">Mobilier italien et belge, cuisines Stosa, sur mesure. À Leval-Trahegnies. Ce qui fait la différence — la mousse, le mécanisme, le grain du cuir — ne se voit pas sur un écran.</p>
+      <h1>Meubles Cuisines Sur mesure</h1>
+        <p class="lead">Mobilier européen, cuisines et sur mesure. À Leval-Trahegnies.</p>
         <div class="actions">
-          <a class="btn btn-solid" href="#visite">Venir essayer</a>
-          <a class="btn btn-ghost" href="magasin-contact#visite">Parler de mon projet</a>
+          <a class="btn btn-solid" href="#visite">Mon projet</a>
+          <a class="btn btn-ghost" href="magasin-contact#visite">Mon projet</a>
         </div>
       </div>
     </div>
@@ -749,9 +773,9 @@ html.pro header{background:rgba(30,27,25,.88)}
           </div>
         </a>
         <a class="space space-small" href="cuisine">
-          <div class="ph has-img ph-stone" data-label="Photo à venir : cuisine réalisée par Fony"><picture><source type="image/avif" srcset="assets/img/stosa-accueil-600.avif 600w, assets/img/stosa-accueil-900.avif 900w, assets/img/stosa-accueil-1400.avif 1400w, assets/img/stosa-accueil-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:60% 50%" src="assets/img/stosa-accueil-1400.webp" srcset="assets/img/stosa-accueil-600.webp 600w, assets/img/stosa-accueil-900.webp 900w, assets/img/stosa-accueil-1400.webp 1400w, assets/img/stosa-accueil-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Metropolis : façades sombres et plan de travail clair" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Metropolis"></picture></div>
+          <div class="ph has-img ph-stone" data-label="Photo à venir : cuisine réalisée par Fony"><picture><source type="image/avif" srcset="assets/img/stosa-accueil-600.avif 600w, assets/img/stosa-accueil-900.avif 900w, assets/img/stosa-accueil-1400.avif 1400w, assets/img/stosa-accueil-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:60% 50%" src="assets/img/stosa-accueil-1400.webp" srcset="assets/img/stosa-accueil-600.webp 600w, assets/img/stosa-accueil-900.webp 900w, assets/img/stosa-accueil-1400.webp 1400w, assets/img/stosa-accueil-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine ouverte : façades sombres et plan de travail clair" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Metropolis"></picture></div>
           <div class="space-body">
-            <div><h3>Cuisine</h3><p>Cuisines italiennes Stosa, dessinées chez vous, posées par nous.</p></div>
+            <div><h3>Cuisine</h3><p>Dessinée chez vous, posée par nous.</p></div>
             <span class="link">Voir la cuisine</span>
           </div>
         </a>
@@ -786,9 +810,19 @@ html.pro header{background:rgba(30,27,25,.88)}
 
   <div class="brands" id="marques">
     <div class="wrap breadth">
-      <p class="breadth-big">Pourquoi l’Italie.</p>
-      <p>Ce n’est pas un choix de style, c’est un choix de fabrication : des matières qui supportent qu’on les regarde de près — bois, cuir, laque — et des assemblages qui tiennent. Quelques ateliers belges et européens complètent la sélection, sur le même critère. Une partie est exposée, le reste se découvre sur catalogue, avec nous : <a class="ilink" href="salon">salons</a>, <a class="ilink" href="living">living</a>, <a class="ilink" href="tables-chaises">tables et chaises</a>, <a class="ilink" href="literie">literie</a>, <a class="ilink" href="sur-mesure">sur mesure</a>, <a class="ilink" href="cuisine">cuisines Stosa</a>.</p>
-    </div>
+      <h2>Pourquoi la fabrication européenne&nbsp;?</h2>
+      <p>Ce n’est pas un choix de style, c’est un choix de fabrication : des matières qui supportent qu’on les regarde de près — bois, cuir, laque — et des assemblages qui tiennent. Quelques ateliers belges et européens complètent la sélection, sur le même critère. Une partie est exposée, le reste se découvre sur catalogue, avec nous : <a class="ilink" href="salon">salons</a>, <a class="ilink" href="living">living</a>, <a class="ilink" href="tables-chaises">tables et chaises</a>, <a class="ilink" href="literie">literie</a>, <a class="ilink" href="sur-mesure">sur mesure</a>, <a class="ilink" href="cuisine">cuisines</a>.</p>
+          <div class="europe-pts">
+        <div><h3>La fabrication</h3><p>Des ateliers européens choisis pour leurs matières et leurs assemblages, pas pour leur catalogue.</p></div>
+        <div><h3>La proximité</h3><p>Des fournisseurs à quelques heures de route&nbsp;: une pièce se recommande, un réglage se règle, un délai se tient.</p></div>
+        <div><h3>Les normes</h3><p>Des matériaux conformes aux règles européennes, sur les colles, les mousses et les finitions.</p></div>
+        <div><h3>Le service</h3><p>Ce qui se fabrique près de chez vous se répare près de chez vous, des années après.</p></div>
+      </div>
+      <div class="europe-cta">
+        <p>Construisons ensemble votre projet.</p>
+        <a class="btn btn-solid" href="magasin-contact#visite">Mon projet</a>
+      </div>
+</div>
   </div>
 
 
@@ -796,7 +830,7 @@ html.pro header{background:rgba(30,27,25,.88)}
     <div class="wrap social-grid">
       <div>
         <p class="kicker">Réseaux</p>
-        <h2 id="reseaux-titre">Ce qui arrive au magasin</h2>
+        <h2 id="reseaux-titre">Restez connectés</h2>
         <p>Arrivages, réalisations, nouveautés : nous les montrons au fil des semaines sur Instagram et Facebook.</p>
       </div>
       <div class="actions">
@@ -810,7 +844,7 @@ html.pro header{background:rgba(30,27,25,.88)}
     <div class="wrap visit-grid">
       <div class="visit-card">
         <div>
-          <h2>Venir au magasin</h2>
+          <h2>Nous rendre visite</h2>
           <p class="lead">Du salon à la table, nous composons votre intérieur avec vous. Parlons de votre projet au magasin, autour d’un bon café italien.</p>
         </div>
         <dl>
@@ -821,10 +855,9 @@ html.pro header{background:rgba(30,27,25,.88)}
           <dt>Téléphone</dt><dd><a href="tel:+3264460772">064 46 07 72</a></dd>
         </dl>
         <div class="actions">
-          <a class="btn btn-solid" href="magasin-contact#visite">Préparer ma visite</a>
+          <a class="btn btn-solid" href="magasin-contact#visite">Mon projet</a>
           <a class="btn btn-ghost" href="https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener">Itinéraire</a>
         </div>
-          <p class="livraison">Livraison offerte<sup>*</sup><span>* Dans la région. Au-delà, nous vous le disons avant la commande.</span></p>
       </div>
     </div>
   </section>

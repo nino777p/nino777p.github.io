@@ -572,6 +572,25 @@ html.pro header{background:rgba(30,27,25,.88)}
 .final .btn-ghost:hover{background:#F2EDE4;color:#1B1815}
 .pop-boite{border-top-color:#9E4A2C}
 
+
+/* 20/09 — Le plan de travail : le quartz sort, l'ordre suit le prix, et chaque
+   matiere porte son niveau en sigles. Aucun montant n'est affiche : c'est un ordre
+   de grandeur, pas un prix. Trois colonnes au lieu de quatre. */
+#tops .top-grid,.tops .top-grid{grid-template-columns:repeat(3,1fr)}
+.top-grid .tier{display:block;margin-top:8px;font-size:16px;letter-spacing:.06em}
+.top-grid>div{border-top:1px solid var(--brass);padding-top:16px}
+/* 20/09 bis, nino : « l'image n'est pas cadree ». Pleine largeur, elle devenait
+   une banniere de 8 pour 1. Elle prend maintenant la largeur d'une colonne :
+   c'est un echantillon de matiere, pas un bandeau. */
+.tops-photo{height:260px;max-width:calc((100% - 48px)/3);margin:22px 0 30px}
+@media (max-width:560px){.tops-photo{height:200px}}
+@media (max-width:960px){#tops .top-grid,.tops .top-grid{grid-template-columns:1fr 1fr}}
+@media (max-width:560px){#tops .top-grid,.tops .top-grid{grid-template-columns:1fr}}
+/* Les deux photos « Moderne ou classique » avaient deux hauteurs differentes :
+   la page penchait. Meme hauteur, meme cadre. */
+.styles .ph{height:420px}
+@media (max-width:960px){.styles .ph{height:280px}}
+
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Cuisines italiennes Stosa sur mesure", "item": "https://fony.be/cuisine"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Combien coûte une cuisine ?", "acceptedAnswer": {"@type": "Answer", "text": "Cela dépend surtout de la taille, des façades et du plan de travail. Après la visite et les mesures, vous recevez un devis détaillé, offert et sans engagement."}}, {"@type": "Question", "name": "Combien de temps faut-il prévoir ?", "acceptedAnswer": {"@type": "Answer", "text": "Comptez environ huit semaines entre la commande signée, l'acompte versé, et la pose. Le délai dépend du fabricant et de la saison : une cuisine lancée hors période d'affluence sort plus vite."}}, {"@type": "Question", "name": "Vous occupez-vous de la pose ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. La livraison est assurée par nos soins, la pose par notre équipe ou par un professionnel partenaire, avec réglages et finitions."}}, {"@type": "Question", "name": "Puis-je voir une cuisine en vrai ?", "acceptedAnswer": {"@type": "Answer", "text": "Nous n'exposons pas encore de cuisine, mais tous les échantillons sont au magasin : façades, coloris, plans de travail. Et votre projet est dessiné chez vous, à vos mesures."}}]}</script>
@@ -596,21 +615,21 @@ html.pro header{background:rgba(30,27,25,.88)}
             <li><a href="tables-chaises">Tables & chaises<small>Salle à manger</small></a></li>
             <li><a href="literie">Literie<small>Matelas et boxsprings</small></a></li>
             <li><a href="sur-mesure">Sur mesure<small>Dressing, bibliothèque, meuble TV</small></a></li>
-            <li><a href="#contenu" aria-current="page">Cuisine<small>Cuisines italiennes Stosa</small></a></li>
+            <li><a href="#contenu" aria-current="page">Cuisine<small>Cuisines sur mesure</small></a></li>
             <li><a href="tendances">Tendances<small>Ce qui revient, ce qui dure</small></a></li>
           </ul>
         </li>
         <li><a href="espace-pro">Espace pro</a></li>
         <li><a href="magasin-contact">Magasin &amp; contact</a></li>
       <li class="menu-actions">
-        <a class="btn btn-solid" href="magasin-contact#visite">Venir au magasin</a>
+        <a class="btn btn-solid" href="magasin-contact#visite">Mon projet</a>
         <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
         <p>Lun. 13h30–18h30 · Mar.–sam. 10h30–18h30</p>
         <p class="menu-social"><a href="https://www.instagram.com/fonymeubles/" rel="noopener" target="_blank">Instagram</a> · <a href="https://www.facebook.com/fonymeubles/" rel="noopener" target="_blank">Facebook</a></p>
       </li>
       </ul>
     </nav>
-    <a class="btn btn-solid cta-top" href="magasin-contact#visite">Venir au magasin</a>
+    <a class="btn btn-solid cta-top" href="magasin-contact#visite">Mon projet</a>
     <button class="burger" type="button" aria-expanded="false" aria-controls="mainnav">Menu</button>
   </div>
 </header>
@@ -618,7 +637,7 @@ html.pro header{background:rgba(30,27,25,.88)}
 <main id="contenu">
 
   <div class="hero">
-    <div class="ph has-img ph-oak" data-label="Visuel Stosa à venir : grande cuisine ouverte sur le séjour (ex. modèle Natural)"><picture><source type="image/avif" srcset="assets/img/stosa-ilot-600.avif 600w, assets/img/stosa-ilot-900.avif 900w, assets/img/stosa-ilot-1400.avif 1400w, assets/img/stosa-ilot-1900.avif 1900w" sizes="(max-width:960px) 100vw, 62vw"><img style="object-position:42% 55%" src="assets/img/stosa-ilot-1400.webp" srcset="assets/img/stosa-ilot-600.webp 600w, assets/img/stosa-ilot-900.webp 900w, assets/img/stosa-ilot-1400.webp 1400w, assets/img/stosa-ilot-1900.webp 1900w" sizes="(max-width:960px) 100vw, 62vw" alt="Cuisine moderne Stosa Metropolis avec îlot central" width="1900" height="861" loading="eager" decoding="async" fetchpriority="high" data-credit="Stosa Metropolis"></picture></div>
+    <div class="ph has-img ph-oak" data-label="Grande cuisine ouverte sur le séjour"><picture><source type="image/avif" srcset="assets/img/stosa-ilot-600.avif 600w, assets/img/stosa-ilot-900.avif 900w, assets/img/stosa-ilot-1400.avif 1400w, assets/img/stosa-ilot-1900.avif 1900w" sizes="(max-width:960px) 100vw, 62vw"><img style="object-position:42% 55%" src="assets/img/stosa-ilot-1400.webp" srcset="assets/img/stosa-ilot-600.webp 600w, assets/img/stosa-ilot-900.webp 900w, assets/img/stosa-ilot-1400.webp 1400w, assets/img/stosa-ilot-1900.webp 1900w" sizes="(max-width:960px) 100vw, 62vw" alt="Cuisine moderne avec îlot central" width="1900" height="861" loading="eager" decoding="async" fetchpriority="high" data-credit="Stosa Metropolis"></picture></div>
     <div class="hero-panel">
       <h1>Cuisines italiennes Stosa</h1>
       <p class="lead">Des cuisines italiennes Stosa, fabriquées en Italie : de la première mesure à la dernière poignée, un seul interlocuteur.</p>
@@ -634,7 +653,7 @@ html.pro header{background:rgba(30,27,25,.88)}
     <div class="wrap living-grid">
       <div>
         <h2>Cuisine, séjour, rangements : un seul espace à penser</h2>
-        <p class="intro" style="margin-bottom:0">Les pièces s’ouvrent les unes sur les autres. Votre cuisine se voit depuis le canapé, et le meuble TV prolonge l’îlot. Chez Fony, les trois se dessinent ensemble, avec un seul interlocuteur.</p>
+        <p class="intro" style="margin-bottom:0">Les pièces s’ouvrent les unes sur les autres, et les teintes se répondent. Nous tenons la cuisine et les meubles, donc l’accord se compose en direct, devant vous, sur les mêmes échantillons. Vous partez de votre cuisine, et vous pouvez meubler toute la maison au même endroit — avec le même interlocuteur.</p>
         <ul class="trades">
           <li>Cuisine <span>Stosa, sur mesure</span></li>
           <li><a class="ilink" href="salon">Salon</a> <span>canapés, relax</span></li>
@@ -642,7 +661,7 @@ html.pro header{background:rgba(30,27,25,.88)}
           <li><a class="ilink" href="sur-mesure">Rangements sur mesure</a> <span>dressing, bibliothèque, meuble TV</span></li>
         </ul>
       </div>
-      <figure class="scene-fig"><div class="ph has-img ph-stone" data-label="Visuel Stosa à venir : cuisine et living dans la même pièce"><picture><source type="image/avif" srcset="assets/img/stosa-living-600.avif 600w, assets/img/stosa-living-900.avif 900w, assets/img/stosa-living-1400.avif 1400w, assets/img/stosa-living-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:70% 50%" src="assets/img/stosa-living-1400.webp" srcset="assets/img/stosa-living-600.webp 600w, assets/img/stosa-living-900.webp 900w, assets/img/stosa-living-1400.webp 1400w, assets/img/stosa-living-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Infinity et séjour dans la même pièce" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Infinity"></picture></div><figcaption class="scene">On finit de cuisiner, on s’assied : personne n’a changé de pièce.</figcaption></figure>
+      <figure class="scene-fig"><div class="ph has-img ph-stone" data-label="Visuel Stosa à venir : cuisine et living dans la même pièce"><picture><source type="image/avif" srcset="assets/img/stosa-living-600.avif 600w, assets/img/stosa-living-900.avif 900w, assets/img/stosa-living-1400.avif 1400w, assets/img/stosa-living-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:70% 50%" src="assets/img/stosa-living-1400.webp" srcset="assets/img/stosa-living-600.webp 600w, assets/img/stosa-living-900.webp 900w, assets/img/stosa-living-1400.webp 1400w, assets/img/stosa-living-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine et séjour dans la même pièce" width="1900" height="861" loading="lazy" decoding="async" data-credit="Stosa Infinity"></picture></div><figcaption class="scene">On finit de cuisiner, on s’assied : personne n’a changé de pièce.</figcaption></figure>
     </div>
   </section>
 
@@ -660,7 +679,7 @@ html.pro header{background:rgba(30,27,25,.88)}
         <div>
           <p class="num">2</p>
           <h3>La température</h3>
-          <p>Chaude — bois, beige, terre — ou froide — blanc, gris, laque, anthracite. La même porte change entièrement d’ambiance selon la teinte qu’on lui donne. C’est la couleur qui fait le chaud et le froid, pas le modèle.</p>
+          <p>Chaude — bois, beige, terre — ou froide — blanc, gris, laque, anthracite. </p>
         </div>
       </div>
       <p class="tip"><strong>Ce qui dure, et ce qui se change.</strong> Les portes et le plan de travail restent quinze ans&nbsp;: on les choisit sobres. Le mur, la crédence, les tabourets et les accessoires se changent en un week-end&nbsp;: c’est là qu’on met la tendance. Un intérieur qui ne se date pas, c’est ça — pas l’absence de couleur.</p>
@@ -670,18 +689,17 @@ html.pro header{background:rgba(30,27,25,.88)}
 <section>
     <div class="wrap">
       <h2>Moderne ou classique, à votre image</h2>
-      <p class="intro">Toutes les collections Stosa, sur commande : de la ligne Art aux modèles haut de gamme comme Aliant. Lignes épurées ou charme classique, chaque modèle se compose selon votre pièce, vos habitudes et votre budget.</p>
+      <p class="intro">Toutes les collections, sur commande, de l’entrée de gamme au haut de gamme. Lignes épurées ou charme classique, chaque modèle se compose selon votre pièce, vos habitudes et votre budget.</p>
       <div class="styles">
         <div>
-          <div class="ph has-img ph-matte ph-tall" data-label="Visuel Stosa à venir : cuisine moderne avec îlot"><picture><source type="image/avif" srcset="assets/img/stosa-hero-600.avif 600w, assets/img/stosa-hero-900.avif 900w, assets/img/stosa-hero-1400.avif 1400w, assets/img/stosa-hero-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 58%" src="assets/img/stosa-hero-1400.webp" srcset="assets/img/stosa-hero-600.webp 600w, assets/img/stosa-hero-900.webp 900w, assets/img/stosa-hero-1400.webp 1400w, assets/img/stosa-hero-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé" width="1900" height="1900" loading="lazy" decoding="async" data-credit="Stosa Metropolis"></picture></div>
+          <div class="ph has-img ph-matte ph-tall" data-label="Visuel Stosa à venir : cuisine moderne avec îlot"><picture><source type="image/avif" srcset="assets/img/stosa-hero-600.avif 600w, assets/img/stosa-hero-900.avif 900w, assets/img/stosa-hero-1400.avif 1400w, assets/img/stosa-hero-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 58%" src="assets/img/stosa-hero-1400.webp" srcset="assets/img/stosa-hero-600.webp 600w, assets/img/stosa-hero-900.webp 900w, assets/img/stosa-hero-1400.webp 1400w, assets/img/stosa-hero-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine ouverte sur le séjour, façades mates et plan de travail foncé" width="1900" height="1900" loading="lazy" decoding="async" data-credit="Stosa Metropolis"></picture></div>
           <div class="style-body">
             <h3>Cuisines modernes</h3>
             <p>Pour ceux qui aiment les surfaces nettes, les matières actuelles et les rangements invisibles.</p>
-            <p class="models">Par exemple : Infinity, Aliant, Natural, Metropolis</p>
           </div>
         </div>
         <div>
-          <div class="ph has-img ph-oak ph-short" data-label="Visuel Stosa à venir : cuisine classique en bois"><picture><source type="image/avif" srcset="assets/img/stosa-bois-600.avif 600w, assets/img/stosa-bois-900.avif 900w, assets/img/stosa-bois-1200.avif 1200w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 52%" src="assets/img/stosa-bois-900.webp" srcset="assets/img/stosa-bois-600.webp 600w, assets/img/stosa-bois-900.webp 900w, assets/img/stosa-bois-1200.webp 1200w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine Stosa Natural en bois, façades à cadre" width="1200" height="1200" loading="lazy" decoding="async" data-credit="Stosa Natural"></picture></div>
+          <div class="ph has-img ph-oak ph-short" data-label="Visuel Stosa à venir : cuisine classique en bois"><picture><source type="image/avif" srcset="assets/img/stosa-bois-600.avif 600w, assets/img/stosa-bois-900.avif 900w, assets/img/stosa-bois-1200.avif 1200w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 52%" src="assets/img/stosa-bois-900.webp" srcset="assets/img/stosa-bois-600.webp 600w, assets/img/stosa-bois-900.webp 900w, assets/img/stosa-bois-1200.webp 1200w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine en bois, façades à cadre" width="1200" height="1200" loading="lazy" decoding="async" data-credit="Stosa Natural"></picture></div>
           <div class="style-body">
             <h3>Cuisines classiques</h3>
             <p>Pour ceux qui aiment le bois, les moulures discrètes et une cuisine qui traverse les années.</p>
@@ -689,8 +707,8 @@ html.pro header{background:rgba(30,27,25,.88)}
         </div>
       </div>
       <div class="art">
-        <h3>La ligne Art</h3>
-        <p>Des matériaux de qualité et une réponse à chaque besoin, à un prix plus accessible. Idéale pour un premier projet ou une cuisine qui doit aller à l’essentiel, sans renoncer au design. Modèles Lumia et Kaya, entre autres.</p>
+        <h3>Le design accessible italien</h3>
+        <p>Des matériaux de qualité et une réponse à chaque besoin, à un prix plus accessible. Idéale pour un premier projet ou une cuisine qui doit aller à l’essentiel, sans renoncer au design. </p>
       </div>
     </div>
   </section>
@@ -710,19 +728,19 @@ html.pro header{background:rgba(30,27,25,.88)}
 
   <section id="parcours" style="padding-top:0">
     <div class="wrap">
-      <h2>Vous la rêvez. Nous la dessinons. Nous la posons.</h2><div class="triade"><div><h3>Vous la rêvez</h3><p>Chez vous ou au magasin, on parle de vos habitudes, de vos envies et de votre budget. Rien n’est dessiné avant de vous avoir écouté.</p></div><div><h3>Nous la dessinons</h3><p>Nous venons relever les cotes et les contraintes de la pièce, puis nous composons avec vous : plan, façades, plan de travail, teintes. On ajuste jusqu’à ce que tout tombe juste. <a class="ilink" href="nuancier">Repérer une teinte avant la visite</a></p></div><div><h3>Nous la posons</h3><p>Livraison par nos soins, pose par notre équipe ou par un artisan partenaire, réglages et finitions. Et nous restons joignables après la pose.</p></div></div></div></section>
+      <h2>Vous la rêvez. Nous la dessinons.</h2><div class="triade"><div><h3>Vous la rêvez</h3><p>Chez vous ou au magasin, on parle de vos habitudes, de vos envies et de votre budget. Rien n’est dessiné avant de vous avoir écouté.</p></div><div><h3>Nous la dessinons</h3><p>Nous venons relever les cotes et les contraintes de la pièce, puis nous composons avec vous : plan, façades, plan de travail, teintes. Repérer une teinte avant la visite</p></div><div><h3>Nous la posons</h3><p>Livraison par nos soins, pose par notre équipe ou par un artisan partenaire, réglages et finitions. Et nous restons joignables après la pose.</p></div></div></div></section>
 
   <section class="tops">
     <div class="wrap">
       <h2>Le plan de travail, selon votre usage</h2>
       <p class="intro">C’est l’élément qui travaille le plus, et celui qui fait le plus varier un budget. Nous vous montrons les options côte à côte en magasin.</p>
-      <details class="pli"><summary>Les quatre matières, et ce qu’elles changent</summary><div class="top-grid">
-        <div><div class="ph has-img ph-matte" data-label="Stratifié"><picture><source type="image/avif" srcset="assets/img/stosa-hpl-600.avif 600w, assets/img/stosa-hpl-900.avif 900w, assets/img/stosa-hpl-1400.avif 1400w, assets/img/stosa-hpl-1648.avif 1648w" sizes="(max-width:960px) 100vw, 50vw"><img src="assets/img/stosa-hpl-1400.webp" srcset="assets/img/stosa-hpl-600.webp 600w, assets/img/stosa-hpl-900.webp 900w, assets/img/stosa-hpl-1400.webp 1400w, assets/img/stosa-hpl-1648.webp 1648w" sizes="(max-width:960px) 100vw, 50vw" alt="Plan de travail stratifié HPL Stosa, vue rapprochée" width="1648" height="1236" loading="lazy" decoding="async" data-credit="Stosa"></picture></div><h3>Stratifié</h3><p>Large choix de décors, facile à vivre au quotidien.</p></div>
-        <div><h3>Céramique</h3><p>Supporte bien la chaleur et les rayures.</p></div>
-        <div><h3>Quartz</h3><p>Aspect pierre, surface régulière, simple à entretenir.</p></div>
-        <div><h3>Compact</h3><p>Très résistant aux chocs et à l’eau, chant plein dans la masse.</p></div>
-      </div>
-      <p class="tip"><strong>Qui fabrique quoi :</strong> les plans stratifié et compact viennent de Stosa ; la pierre, le quartz et la céramique sont réalisés par notre marbrier partenaire.</p></details></div>
+      <details class="pli"><summary>Les trois matières, et ce qu’elles changent</summary><div class="ph has-img ph-matte tops-photo" data-label="Plan de travail stratifié"><picture><source type="image/avif" srcset="assets/img/stosa-hpl-600.avif 600w, assets/img/stosa-hpl-900.avif 900w, assets/img/stosa-hpl-1400.avif 1400w, assets/img/stosa-hpl-1648.avif 1648w" sizes="(max-width:960px) 100vw, 50vw"><img src="assets/img/stosa-hpl-1400.webp" srcset="assets/img/stosa-hpl-600.webp 600w, assets/img/stosa-hpl-900.webp 900w, assets/img/stosa-hpl-1400.webp 1400w, assets/img/stosa-hpl-1648.webp 1648w" sizes="(max-width:960px) 100vw, 50vw" alt="Plan de travail stratifié HPL Stosa, vue rapprochée" width="1648" height="1236" loading="lazy" decoding="async" data-credit="Stosa"></picture></div>
+      <div class="top-grid">
+        <div><h3>Stratifié</h3><p>Large choix de décors, facile à vivre au quotidien.</p><span class="tier">€</span></div>
+        <div><h3>Compact</h3><p>Très résistant aux chocs et à l’eau, chant plein dans la masse.</p><span class="tier">€€</span></div>
+        <div><h3>Céramique</h3><p>Supporte bien la chaleur et les rayures.</p><span class="tier">€€€</span></div>
+      </div>      </div>
+      <p class="tip"><strong>Qui fabrique quoi :</strong> les plans stratifié et compact sont fabriqués chez le fabricant de la cuisine, pour que les teintes s’accordent exactement aux façades ; la céramique et les plans en matière naturelle sont réalisés par notre marbrier partenaire.</p></details></div>
   </section>
 
   <section>
@@ -747,7 +765,7 @@ html.pro header{background:rgba(30,27,25,.88)}
           <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
         </div>
       </div>
-      <div class="ph has-img ph-oak" style="height:320px" data-label="Visuel Stosa à venir : détail de façade et poignée"><picture><source type="image/avif" srcset="assets/img/stosa-detail-600.avif 600w, assets/img/stosa-detail-900.avif 900w, assets/img/stosa-detail-1200.avif 1200w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 50%" src="assets/img/stosa-detail-900.webp" srcset="assets/img/stosa-detail-600.webp 600w, assets/img/stosa-detail-900.webp 900w, assets/img/stosa-detail-1200.webp 1200w" sizes="(max-width:960px) 100vw, 50vw" alt="Détail de façade et de poignée d’une cuisine Stosa Natural" width="1200" height="1200" loading="lazy" decoding="async" data-credit="Stosa Natural"></picture></div>
+      <div class="ph has-img ph-oak" style="height:320px" data-label="Visuel Stosa à venir : détail de façade et poignée"><picture><source type="image/avif" srcset="assets/img/stosa-detail-600.avif 600w, assets/img/stosa-detail-900.avif 900w, assets/img/stosa-detail-1200.avif 1200w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 50%" src="assets/img/stosa-detail-900.webp" srcset="assets/img/stosa-detail-600.webp 600w, assets/img/stosa-detail-900.webp 900w, assets/img/stosa-detail-1200.webp 1200w" sizes="(max-width:960px) 100vw, 50vw" alt="Détail de façade et de poignée" width="1200" height="1200" loading="lazy" decoding="async" data-credit="Stosa Natural"></picture></div>
     </div>
   </section>
 
