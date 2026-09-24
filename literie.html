@@ -289,10 +289,13 @@ h1{line-height:1.08}
 .brands3{display:grid;grid-template-columns:repeat(3,1fr);gap:32px}
 .brand p{margin:0 0 8px;color:var(--ink-soft)}
 .brand .tag{font-size:14px;color:var(--walnut);font-weight:500}
-.range{margin-top:40px;color:var(--ink-soft);max-width:70ch}
 .duo{display:grid;grid-template-columns:1fr 1fr;gap:32px;margin-top:8px}
 .duo .ph{height:380px;margin-bottom:18px}
 .duo p{margin:0;color:var(--ink-soft)}
+.duo>div:only-child{grid-column:1/-1;display:grid;grid-template-columns:1fr 1fr;column-gap:48px;align-content:center}
+.duo>div:only-child>.ph{grid-column:1;grid-row:1/span 2;margin-bottom:0}
+.duo>div:only-child>h3{grid-column:2;align-self:end;margin-top:0}
+.duo>div:only-child>p{grid-column:2;align-self:start}
 .lexique{margin:44px 0 0;padding:28px 0 0;border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(2,1fr);gap:16px 48px;max-width:920px}
 .lexique dt{font-weight:600;font-size:15px}
 .lexique dd{margin:3px 0 0;color:var(--ink-soft);font-size:15px}
@@ -306,6 +309,7 @@ h1{line-height:1.08}
   .hero-panel{margin:-60px 16px 0;padding:32px 24px}
   .final-grid,.brands3,.systems,.spot,.sleep,.duo{grid-template-columns:1fr}
   .duo .ph{height:280px}
+  .duo>div:only-child{display:block}.duo>div:only-child>.ph{margin-bottom:18px}
   .lexique,.chairs{grid-template-columns:1fr}
 }
 .fab details.pli summary::-webkit-details-marker{display:none}
@@ -403,7 +407,7 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
     <div class="hero-panel">
       <p class="kicker">Matelas et boxsprings</p>
       <h1>Literie</h1>
-      <p class="lead">Boxsprings et matelas de fabrication belge, Velda en tête. Fixe ou électrique. Ressorts ensachés, latex, mousse HR, mémoire de forme : à chaque dormeur son confort, et il se teste allongé.</p>
+      <p class="lead">Boxsprings et matelas de fabrication belge, Velda en tête. Fixe ou électrique.</p>
       <div class="actions">
         <a class="btn btn-solid" href="magasin-contact#visite">Mon projet literie</a>
         <a target="_blank" rel="noopener" class="btn btn-ghost" href="https://www.google.com/maps/search/?api=1&amp;query=160+Route+de+Charleroi+7134+Leval-Trahegnies">Itinéraire</a>
@@ -415,27 +419,26 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
   <section id="choisir">
     <div class="wrap">
       <h2>Boxspring, sommier, matelas</h2>
-      <p class="intro">Un stand d’essai couvre la plupart des conforts. Pour un besoin plus précis, nous avons la réponse au catalogue.</p>
+      <p class="intro">Quatre à cinq couchages d’essai, avec différents matelas, couvrent la plupart des conforts. Le reste au catalogue.</p>
       <div class="brands3">
         <div class="brand">
           <h3>Le boxspring d’abord</h3>
-          <p>Nous le privilégions : châssis plus résistant, plus durable, accueil plus souple. Le sommier reste disponible, avec un confort un peu plus ferme.</p>
+          <p>Châssis plus résistant, accueil plus souple. Le sommier reste disponible, un peu plus ferme.</p>
           <span class="tag">Fabrication belge</span>
         </div>
         <div class="brand">
           <h3>Le matelas</h3>
-          <p>Ressorts ensachés en priorité. Aussi latex, latex Pulse, mousse HR et mémoire de forme gel, selon votre position de sommeil et votre corpulence.</p>
+          <p>Ressorts ensachés en priorité ; aussi latex, latex Pulse, mousse HR, mémoire de forme gel, selon votre position et votre corpulence.</p>
           <span class="tag">Tous les conforts</span>
         </div>
         <div class="brand">
           <h3>Fixe ou électrique</h3>
-          <p>Le boxspring électrique relève la tête et les pieds : pour lire, regarder la télévision ou se relever plus facilement.</p>
+          <p>L’électrique relève la tête et les pieds : lire, ou se relever plus facilement.</p>
           <span class="tag">À essayer en magasin</span>
         </div>
       </div>
-      <p class="range">Velda, et d’autres fabricants belges. <a class="ilink" href="magasin-contact#visite">Venez vous allonger</a>, dans votre position habituelle : c’est le seul test qui vaut.</p>
       <dl class="lexique">
-        <div><dt>Ressorts ensachés</dt><dd>Chaque ressort dans sa poche : soutien point par point, on ne sent pas les mouvements de l’autre.</dd></div>
+        <div><dt>Ressorts ensachés</dt><dd>Chaque ressort dans sa poche : soutien point par point, sans sentir l’autre bouger.</dd></div>
         <div><dt>Latex</dt><dd>Élastique et aéré, épouse le corps sans creuser.</dd></div>
         <div><dt>Mousse HR</dt><dd>Haute résilience : ferme, légère, reprend sa forme.</dd></div>
         <div><dt>Mémoire de forme</dt><dd>Se moule au corps sous la chaleur ; la version gel garde la fraîcheur.</dd></div>
@@ -447,8 +450,7 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
     <div class="wrap">
       <h2>La chambre autour</h2>
       <div class="duo">
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-900.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><h3>Lits et chevets</h3><p>Lits et chevets Tomasella, entre autres. <a class="ilink" href="living#chambre">Voir la chambre</a></p></div>
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-dressing-600.avif 600w, assets/img/tom-dressing-900.avif 900w, assets/img/tom-dressing-1400.avif 1400w, assets/img/tom-dressing-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:76% 50%" src="assets/img/tom-dressing-900.webp" srcset="assets/img/tom-dressing-600.webp 600w, assets/img/tom-dressing-900.webp 900w, assets/img/tom-dressing-1400.webp 1400w, assets/img/tom-dressing-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire-dressing Tomasella Doxa à portes coulissantes" width="1900" height="999" loading="lazy" decoding="async" data-credit="Tomasella Doxa"></picture></div><h3>Armoires et dressings</h3><p>Un recoin, une sous-pente, un mur à la cote près : le sur mesure prend le relais. <a class="ilink" href="sur-mesure">Voir le sur mesure</a></p></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-900.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><h3>Lits, chevets, armoires</h3><p>Lits, chevets et armoires Tomasella, entre autres. <a class="ilink" href="living#chambre">Voir la chambre</a></p></div>
       </div>
     </div>
   </section>
@@ -457,7 +459,7 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
     <div class="wrap final-grid">
       <div>
         <h2>Venez vous allonger.</h2>
-        <p>Sans rendez-vous. Pour un conseil au calme, prenez-en un.</p>
+        <p>Dans votre position habituelle : c’est le seul test qui vaut. Sans rendez-vous.</p>
         <div class="actions">
           <a class="btn btn-solid" href="magasin-contact#visite">Mon projet literie</a>
           <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>

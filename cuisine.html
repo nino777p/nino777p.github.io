@@ -74,7 +74,6 @@ h3{font-weight:500;font-size:22px;letter-spacing:-0.01em;margin:0 0 8px}
 .styles .ph-tall{height:640px}
 .styles .ph-short{height:420px;margin-top:120px}
 .style-body{padding-top:20px}
-.style-body p{margin:0 0 8px;color:var(--ink-soft);max-width:44ch}
 .art{margin-top:72px;display:grid;grid-template-columns:4fr 8fr;gap:48px;align-items:center;background:var(--paper);padding:40px}
 .art p{margin:0;color:var(--ink-soft)}
 .proofs{background:var(--sand)}
@@ -93,7 +92,6 @@ h3{font-weight:500;font-size:22px;letter-spacing:-0.01em;margin:0 0 8px}
 .top-grid p{margin:0 0 10px;color:var(--ink-soft);font-size:16px}
 .tier{font-size:14px;color:var(--walnut);font-weight:500}
 .tip{margin-top:48px;border-left:2px solid var(--walnut);padding:4px 0 4px 20px;max-width:70ch;color:var(--ink-soft)}
-.tip strong{color:var(--ink);font-weight:500}
 .faq-grid{display:grid;grid-template-columns:4fr 8fr;gap:72px}
 details{border-top:1px solid var(--line);padding:20px 0}
 details:last-child{border-bottom:1px solid var(--line)}
@@ -304,7 +302,6 @@ details.pli summary::after{content:"+";float:right;color:var(--ink-soft)}
 details.pli[open] summary::after{content:"–"}
 details.pli .top-grid{margin-top:26px}
 details.pli .tip{margin-top:22px}
-#intemporel .question{margin:0 0 10px;font-size:clamp(17px,1.7vw,21px);color:var(--ink-soft)}
 #intemporel h2{margin:0 0 18px}
 #intemporel .intro{max-width:64ch}
 .deux-q{margin-top:52px;display:grid;grid-template-columns:1fr 1fr;gap:56px}
@@ -408,7 +405,7 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
 }
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Cuisines italiennes Stosa sur mesure", "item": "https://fony.be/cuisine"}]}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Combien coûte une cuisine ?", "acceptedAnswer": {"@type": "Answer", "text": "Cela dépend surtout de la taille, des façades et du plan de travail. Après la visite et les mesures, vous recevez un devis détaillé, offert et sans engagement."}}, {"@type": "Question", "name": "Combien de temps faut-il prévoir ?", "acceptedAnswer": {"@type": "Answer", "text": "Comptez environ huit semaines entre la commande signée, l'acompte versé, et la pose. Le délai dépend du fabricant et de la saison : une cuisine lancée hors période d'affluence sort plus vite."}}, {"@type": "Question", "name": "Vous occupez-vous de la pose ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. La livraison est assurée par nos soins, la pose par notre équipe ou par un professionnel partenaire, avec réglages et finitions."}}, {"@type": "Question", "name": "Puis-je voir une cuisine en vrai ?", "acceptedAnswer": {"@type": "Answer", "text": "Nous n'exposons pas encore de cuisine, mais tous les échantillons sont au magasin : façades, coloris, plans de travail. Et votre projet est dessiné chez vous, à vos mesures."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Combien de temps faut-il prévoir ?", "acceptedAnswer": {"@type": "Answer", "text": "Environ huit semaines entre la commande signée, l'acompte versé, et la pose, selon le fabricant et la saison."}}, {"@type": "Question", "name": "Puis-je voir une cuisine en vrai ?", "acceptedAnswer": {"@type": "Answer", "text": "Pas encore de cuisine exposée, mais tous les échantillons sont au magasin : façades, coloris, plans de travail."}}]}</script>
 <link rel="preload" as="image" type="image/avif" imagesrcset="assets/img/stosa-ilot-600.avif 600w, assets/img/stosa-ilot-900.avif 900w, assets/img/stosa-ilot-1400.avif 1400w, assets/img/stosa-ilot-1900.avif 1900w" imagesizes="(max-width:960px) 100vw, 62vw" fetchpriority="high">
 </head>
 <body>
@@ -455,20 +452,20 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
     <div class="ph has-img ph-oak" data-label="Grande cuisine ouverte sur le séjour"><picture><source type="image/avif" srcset="assets/img/stosa-ilot-600.avif 600w, assets/img/stosa-ilot-900.avif 900w, assets/img/stosa-ilot-1400.avif 1400w, assets/img/stosa-ilot-1900.avif 1900w" sizes="(max-width:960px) 100vw, 62vw"><img style="object-position:42% 55%" src="assets/img/stosa-ilot-1400.webp" srcset="assets/img/stosa-ilot-600.webp 600w, assets/img/stosa-ilot-900.webp 900w, assets/img/stosa-ilot-1400.webp 1400w, assets/img/stosa-ilot-1900.webp 1900w" sizes="(max-width:960px) 100vw, 62vw" alt="Cuisine moderne avec îlot central" width="1900" height="861" loading="eager" decoding="async" fetchpriority="high" data-credit="Fabricant italien"></picture></div>
     <div class="hero-panel">
       <h1>Cuisines italiennes</h1>
-      <p class="lead">Des cuisines italiennes, fabriquées en Italie : de la première mesure à la dernière poignée, un seul interlocuteur.</p>
+      <p class="lead">Dessinées chez vous, fabriquées en Italie, posées par nous.</p>
       <div class="actions">
         <a class="btn btn-solid" href="magasin-contact#visite">Mon projet cuisine</a>
         <a class="btn btn-ghost" href="#parcours">Voir comment ça se passe</a>
       </div>
-      <p class="reassure">Nous venons chez vous. Visite, mesures et devis gratuits, sans engagement. Échantillons de façades, coloris et plans de travail à voir en magasin.</p>
+      <p class="reassure">Première visite, mesures et devis offerts, sans engagement.</p>
     </div>
   </div>
 
 <section>
     <div class="wrap living-grid">
       <div>
-        <h2>Cuisine, séjour, rangements : un seul espace à penser</h2>
-        <p class="intro" style="margin-bottom:0">Les pièces s’ouvrent les unes sur les autres, et les teintes se répondent. Nous tenons la cuisine et les meubles, donc l’accord se compose en direct, devant vous, sur les mêmes échantillons. Vous partez de votre cuisine, et vous pouvez meubler toute la maison au même endroit — avec le même interlocuteur.</p>
+        <h2>Un seul espace à penser</h2>
+        <p class="intro" style="margin-bottom:0">Nous tenons la cuisine et les meubles&nbsp;: l’accord se compose devant vous, et toute la maison se meuble au même endroit.</p>
         <ul class="trades">
           <li>Cuisine <span>italienne, sur mesure</span></li>
           <li><a class="ilink" href="salon">Salon</a> <span>canapés, relax</span></li>
@@ -482,14 +479,13 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
 
     <section id="intemporel">
     <div class="wrap">
-      <p class="question">Vous ne savez plus quel style choisir&nbsp;?</p>
       <h2>Visez l’intemporel.</h2>
-      <p class="intro">Un style, ça se choisit rarement à l’avance&nbsp;: on sait ce qu’on aime quand on le voit. Alors nous partons de deux questions concrètes, et le style sort tout seul à la fin.</p>
+      <p class="intro">Deux questions, et le style vient tout seul.</p>
       <div class="deux-q">
         <div>
           <p class="num">1</p>
           <h3>La porte</h3>
-          <p>Lisse, sans cadre ni moulure&nbsp;: c’est la ligne contemporaine. À cadre, avec une moulure&nbsp;: c’est la ligne classique. C’est le seul choix vraiment structurel, et c’est celui qui ne se change plus.</p>
+          <p>Lisse, sans cadre&nbsp;: contemporaine. À cadre, avec moulure&nbsp;: classique. Le seul choix qui ne se change plus.</p>
         </div>
         <div>
           <p class="num">2</p>
@@ -497,33 +493,31 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
           <p>Chaude — bois, beige, terre — ou froide — blanc, gris, laque, anthracite. </p>
         </div>
       </div>
-      <p class="tip"><strong>Ce qui dure, et ce qui se change.</strong> Les portes et le plan de travail restent quinze ans&nbsp;: on les choisit sobres. Le mur, la crédence, les tabourets et les accessoires se changent en un week-end&nbsp;: c’est là qu’on met la tendance. Un intérieur qui ne se date pas, c’est ça — pas l’absence de couleur.</p>
+      <p class="tip">Les portes et le plan de travail restent quinze ans, on les choisit sobres&nbsp;; la tendance va sur ce qui se change en un week-end.</p>
     </div>
   </section>
 
 <section>
     <div class="wrap">
       <h2>Moderne ou classique, à votre image</h2>
-      <p class="intro">Toutes les collections, sur commande, de l’entrée de gamme au haut de gamme. Lignes épurées ou charme classique, chaque modèle se compose selon votre pièce, vos habitudes et votre budget.</p>
+      <p class="intro">Toutes les collections, sur commande, de l’entrée de gamme au haut de gamme.</p>
       <div class="styles">
         <div>
           <div class="ph has-img ph-matte ph-tall" data-label="Visuel à venir : cuisine moderne avec îlot"><picture><source type="image/avif" srcset="assets/img/stosa-hero-600.avif 600w, assets/img/stosa-hero-900.avif 900w, assets/img/stosa-hero-1400.avif 1400w, assets/img/stosa-hero-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 58%" src="assets/img/stosa-hero-1400.webp" srcset="assets/img/stosa-hero-600.webp 600w, assets/img/stosa-hero-900.webp 900w, assets/img/stosa-hero-1400.webp 1400w, assets/img/stosa-hero-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine ouverte sur le séjour, façades mates et plan de travail foncé" width="1900" height="1900" loading="lazy" decoding="async" data-credit="Fabricant italien"></picture></div>
           <div class="style-body">
             <h3>Cuisines modernes</h3>
-            <p>Pour ceux qui aiment les surfaces nettes, les matières actuelles et les rangements invisibles.</p>
           </div>
         </div>
         <div>
           <div class="ph has-img ph-oak ph-short" data-label="Visuel à venir : cuisine classique en bois"><picture><source type="image/avif" srcset="assets/img/stosa-bois-600.avif 600w, assets/img/stosa-bois-900.avif 900w, assets/img/stosa-bois-1200.avif 1200w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 52%" src="assets/img/stosa-bois-900.webp" srcset="assets/img/stosa-bois-600.webp 600w, assets/img/stosa-bois-900.webp 900w, assets/img/stosa-bois-1200.webp 1200w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine en bois, façades à cadre" width="1200" height="1200" loading="lazy" decoding="async" data-credit="Fabricant italien"></picture></div>
           <div class="style-body">
             <h3>Cuisines classiques</h3>
-            <p>Pour ceux qui aiment le bois, les moulures discrètes et une cuisine qui traverse les années.</p>
           </div>
         </div>
       </div>
       <div class="art">
         <h3>Le design accessible italien</h3>
-        <p>Des matériaux de qualité et une réponse à chaque besoin, à un prix plus accessible. Idéale pour un premier projet ou une cuisine qui doit aller à l’essentiel, sans renoncer au design. </p>
+        <p>Pour un premier projet, ou une cuisine qui va à l’essentiel. </p>
       </div>
     </div>
   </section>
@@ -532,7 +526,7 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
     <div class="wrap">
       <h2>Ce qui fait la différence, dans le temps</h2>
       <div class="proof-grid">
-        <div><strong>Fabriquée en Italie</strong><p>Chaque cuisine est conçue et produite exclusivement en Italie.</p></div>
+        <div><strong>Fabriquée en Italie</strong><p>Conçue et produite en Italie.</p></div>
         <div><strong>Un seul interlocuteur</strong><p>De la première mesure à la dernière poignée, la même personne suit votre projet.</p></div>
         <div><strong>Garantie 5 ans</strong><p>Stosa certifie ses cuisines et les garantit cinq ans.</p></div>
       </div>
@@ -543,29 +537,27 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
 
   <section id="parcours" style="padding-top:0">
     <div class="wrap">
-      <h2>Vous la rêvez. Nous la dessinons.</h2><div class="triade"><div><h3>Vous la rêvez</h3><p>Chez vous ou au magasin, on parle de vos habitudes, de vos envies et de votre budget. Rien n’est dessiné avant de vous avoir écouté.</p></div><div><h3>Nous la dessinons</h3><p>Nous venons relever les cotes et les contraintes de la pièce, puis nous composons avec vous : plan, façades, plan de travail, teintes.</p></div><div><h3>Nous la posons</h3><p>Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, réglages et finitions. Et nous restons joignables après la pose.</p></div></div></div></section>
+      <h2>Vous la rêvez. Nous la dessinons.</h2><div class="triade"><div><h3>Vous la rêvez</h3><p>Vos habitudes, vos envies, votre budget : on écoute avant de dessiner.</p></div><div><h3>Nous la dessinons</h3><p>Nous relevons les cotes chez vous, puis nous composons : plan, façades, plan de travail, teintes.</p></div><div><h3>Nous la posons</h3><p>Livraison par nos soins, pose par notre équipe ou un professionnel partenaire, réglages et finitions. Nous restons joignables ensuite.</p></div></div></div></section>
 
   <section class="tops">
     <div class="wrap">
       <h2>Le plan de travail, selon votre usage</h2>
-      <p class="intro">C’est l’élément qui travaille le plus, et celui qui fait le plus varier un budget. Nous vous montrons les options côte à côte en magasin.</p>
+      <p class="intro">L’élément qui travaille le plus, et qui fait le plus varier un budget.</p>
       <details class="pli"><summary>Les trois matières, et ce qu’elles changent</summary><div class="ph has-img ph-matte tops-photo" data-label="Plan de travail stratifié"><picture><source type="image/avif" srcset="assets/img/stosa-hpl-600.avif 600w, assets/img/stosa-hpl-900.avif 900w, assets/img/stosa-hpl-1400.avif 1400w, assets/img/stosa-hpl-1648.avif 1648w" sizes="(max-width:960px) 100vw, 50vw"><img src="assets/img/stosa-hpl-1400.webp" srcset="assets/img/stosa-hpl-600.webp 600w, assets/img/stosa-hpl-900.webp 900w, assets/img/stosa-hpl-1400.webp 1400w, assets/img/stosa-hpl-1648.webp 1648w" sizes="(max-width:960px) 100vw, 50vw" alt="Plan de travail stratifié HPL, vue rapprochée" width="1648" height="1236" loading="lazy" decoding="async" data-credit="Fabricant italien"></picture></div>
       <div class="top-grid">
-        <div><h3>Stratifié</h3><p>Large choix de décors, facile à vivre au quotidien.</p><span class="tier">€</span></div>
-        <div><h3>Compact</h3><p>Très résistant aux chocs et à l’eau, chant plein dans la masse.</p><span class="tier">€€</span></div>
+        <div><h3>Stratifié</h3><p>Large choix de décors, facile à vivre.</p><span class="tier">€</span></div>
+        <div><h3>Compact</h3><p>Résistant aux chocs et à l’eau, chant plein dans la masse.</p><span class="tier">€€</span></div>
         <div><h3>Céramique</h3><p>Supporte bien la chaleur et les rayures.</p><span class="tier">€€€</span></div>
       </div>
-      <p class="tip"><strong>Qui fabrique quoi :</strong> les plans stratifié et compact sont fabriqués chez le fabricant de la cuisine, pour que les teintes s’accordent exactement aux façades ; la céramique et les plans en matière naturelle sont réalisés par notre marbrier partenaire.</p></details></div>
+      <p class="tip">Stratifié et compact viennent du fabricant de la cuisine, pour accorder les teintes aux façades ; céramique et matières naturelles, de notre marbrier partenaire.</p></details></div>
   </section>
 
   <section>
     <div class="wrap faq-grid">
       <h2>Vos questions</h2>
       <div>
-        <details><summary>Combien coûte une cuisine ?</summary><p>Cela dépend surtout de la taille, des façades et du plan de travail. Après la visite et les mesures, vous recevez un devis détaillé, offert et sans engagement.</p></details>
-        <details><summary>Combien de temps faut-il prévoir ?</summary><p>Comptez environ huit semaines entre la commande signée, l’acompte versé, et la pose. Le délai dépend du fabricant et de la saison : une cuisine lancée hors période d’affluence sort plus vite.</p></details>
-        <details><summary>Vous occupez-vous de la pose ?</summary><p>Oui. La livraison est assurée par nos soins, la pose par notre équipe ou par un professionnel partenaire, avec réglages et finitions.</p></details>
-        <details><summary>Puis-je voir une cuisine en vrai ?</summary><p>Nous n’exposons pas encore de cuisine, mais tous les échantillons sont au magasin : façades, coloris, plans de travail. Et votre projet est dessiné chez vous, à vos mesures.</p></details>
+        <details><summary>Combien de temps faut-il prévoir ?</summary><p>Environ huit semaines entre la commande signée, l’acompte versé, et la pose, selon le fabricant et la saison.</p></details>
+        <details><summary>Puis-je voir une cuisine en vrai ?</summary><p>Pas encore de cuisine exposée, mais tous les échantillons sont au magasin : façades, coloris, plans de travail.</p></details>
       </div>
     </div>
   </section>
@@ -574,7 +566,7 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
     <div class="wrap final-grid">
       <div>
         <h2>Parlons de votre cuisine.</h2>
-        <p>Racontez-nous votre projet en quelques mots. Nous venons chez vous prendre les mesures et nous dessinons la cuisine avec vous. Le déplacement est offert.</p>
+        <p>Racontez-nous votre projet en quelques mots : nous venons prendre les mesures et la dessiner avec vous.</p>
         <div class="actions">
           <a class="btn btn-solid" href="magasin-contact#visite">Mon projet cuisine</a>
           <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
