@@ -15,6 +15,7 @@
    "1400": "tom-living-panorama-1400.webp",
    "1900": "tom-living-panorama-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-living-panorama-600.avif",
    "900": "tom-living-panorama-900.avif",
@@ -43,6 +44,7 @@
    "1400": "tom-atlante-villa-1400.webp",
    "1900": "tom-atlante-villa-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-atlante-villa-600.avif",
    "900": "tom-atlante-villa-900.avif",
@@ -57,8 +59,7 @@
  "tom-time": {
   "id": "tom-time",
   "use": [
-   "living.html:time",
-   "index.html:living-card"
+   "living.html:time"
   ],
   "credit": "Tomasella Time",
   "alt": "Séjour Tomasella Time : composition murale en laque et bois",
@@ -71,6 +72,7 @@
    "1400": "tom-time-1400.webp",
    "1900": "tom-time-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-time-600.avif",
    "900": "tom-time-900.avif",
@@ -99,6 +101,7 @@
    "1400": "tom-table-1400.webp",
    "1651": "tom-table-1651.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-table-600.avif",
    "900": "tom-table-900.avif",
@@ -127,6 +130,7 @@
    "1400": "tom-chambre-1400.webp",
    "1900": "tom-chambre-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-chambre-600.avif",
    "900": "tom-chambre-900.avif",
@@ -156,6 +160,7 @@
    "1400": "tom-walkin-1400.webp",
    "1431": "tom-walkin-1431.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-walkin-600.avif",
    "900": "tom-walkin-900.avif",
@@ -184,6 +189,7 @@
    "1400": "tom-dressing-1400.webp",
    "1900": "tom-dressing-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-dressing-600.avif",
    "900": "tom-dressing-900.avif",
@@ -211,6 +217,7 @@
    "1400": "tom-bibliotheque-1400.webp",
    "1900": "tom-bibliotheque-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-bibliotheque-600.avif",
    "900": "tom-bibliotheque-900.avif",
@@ -238,6 +245,7 @@
    "1400": "tom-meuble-tv-1400.webp",
    "1900": "tom-meuble-tv-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-meuble-tv-600.avif",
    "900": "tom-meuble-tv-900.avif",
@@ -265,6 +273,7 @@
    "1400": "tom-armoire-1400.webp",
    "1900": "tom-armoire-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-armoire-600.avif",
    "900": "tom-armoire-900.avif",
@@ -292,6 +301,7 @@
    "1400": "tom-finition-1400.webp",
    "1900": "tom-finition-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-finition-600.avif",
    "900": "tom-finition-900.avif",
@@ -321,6 +331,7 @@
    "1400": "tom-appartement-1400.webp",
    "1920": "tom-appartement-1920.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "tom-appartement-600.avif",
    "900": "tom-appartement-900.avif",
@@ -534,6 +545,7 @@
    "1400": "stosa-hero-1400.webp",
    "1900": "stosa-hero-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "stosa-hero-600.avif",
    "900": "stosa-hero-900.avif",
@@ -561,6 +573,7 @@
    "1400": "stosa-ilot-1400.webp",
    "1900": "stosa-ilot-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "stosa-ilot-600.avif",
    "900": "stosa-ilot-900.avif",
@@ -588,6 +601,7 @@
    "900": "stosa-bois-900.webp",
    "1200": "stosa-bois-1200.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "stosa-bois-600.avif",
    "900": "stosa-bois-900.avif",
@@ -614,6 +628,7 @@
    "1400": "stosa-living-1400.webp",
    "1900": "stosa-living-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "stosa-living-600.avif",
    "900": "stosa-living-900.avif",
@@ -640,6 +655,7 @@
    "900": "stosa-detail-900.webp",
    "1200": "stosa-detail-1200.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "stosa-detail-600.avif",
    "900": "stosa-detail-900.avif",
@@ -666,6 +682,7 @@
    "1400": "stosa-accueil-1400.webp",
    "1900": "stosa-accueil-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "stosa-accueil-600.avif",
    "900": "stosa-accueil-900.avif",
@@ -693,6 +710,7 @@
    "1400": "stosa-bois-macro-1400.webp",
    "1900": "stosa-bois-macro-1900.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "stosa-bois-macro-600.avif",
    "900": "stosa-bois-macro-900.avif",
@@ -720,6 +738,7 @@
    "1400": "stosa-hpl-1400.webp",
    "1648": "stosa-hpl-1648.webp"
   },
+  "rendu": "naturel",
   "avif": {
    "600": "stosa-hpl-600.avif",
    "900": "stosa-hpl-900.avif",
@@ -729,6 +748,323 @@
   "ratio": [
    1648,
    1236
+  ]
+ },
+ "md-coffee-ambiance": {
+  "id": "md-coffee-ambiance",
+  "use": [
+   "salon.html:hero"
+  ],
+  "credit": "Max Divani Coffee",
+  "alt": "Canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre",
+  "source": "md-coffee-ambiance.jpg",
+  "w": 4800,
+  "h": 3432,
+  "files": {
+   "600": "md-coffee-ambiance-600.webp",
+   "900": "md-coffee-ambiance-900.webp",
+   "1400": "md-coffee-ambiance-1400.webp",
+   "2000": "md-coffee-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-coffee-ambiance-600.avif",
+   "900": "md-coffee-ambiance-900.avif",
+   "1400": "md-coffee-ambiance-1400.avif",
+   "2000": "md-coffee-ambiance-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3432
+  ],
+  "og": "md-coffee-ambiance-og.jpg"
+ },
+ "md-coffee-angle": {
+  "id": "md-coffee-angle",
+  "use": [],
+  "credit": "Max Divani Coffee",
+  "alt": "Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf",
+  "source": "md-coffee-angle.jpg",
+  "w": 4800,
+  "h": 2983,
+  "files": {
+   "600": "md-coffee-angle-600.webp",
+   "900": "md-coffee-angle-900.webp",
+   "1400": "md-coffee-angle-1400.webp",
+   "2000": "md-coffee-angle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-coffee-angle-600.avif",
+   "900": "md-coffee-angle-900.avif",
+   "1400": "md-coffee-angle-1400.avif",
+   "2000": "md-coffee-angle-2000.avif"
+  },
+  "ratio": [
+   4800,
+   2983
+  ]
+ },
+ "md-osaka-relax": {
+  "id": "md-osaka-relax",
+  "use": [
+   "index.html:living-card"
+  ],
+  "credit": "Max Divani Osaka",
+  "alt": "Deux canapés relax en cuir brun foncé face à face dans un séjour",
+  "source": "md-osaka-relax.jpg",
+  "w": 4800,
+  "h": 3032,
+  "files": {
+   "600": "md-osaka-relax-600.webp",
+   "900": "md-osaka-relax-900.webp",
+   "1400": "md-osaka-relax-1400.webp",
+   "2000": "md-osaka-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-osaka-relax-600.avif",
+   "900": "md-osaka-relax-900.avif",
+   "1400": "md-osaka-relax-1400.avif",
+   "2000": "md-osaka-relax-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3032
+  ]
+ },
+ "md-zebra-relax": {
+  "id": "md-zebra-relax",
+  "use": [],
+  "credit": "Max Divani Zebra",
+  "alt": "Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables",
+  "source": "md-zebra-relax.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-zebra-relax-600.webp",
+   "900": "md-zebra-relax-900.webp",
+   "1400": "md-zebra-relax-1400.webp",
+   "2000": "md-zebra-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-relax-600.avif",
+   "900": "md-zebra-relax-900.avif",
+   "1400": "md-zebra-relax-1400.avif",
+   "2000": "md-zebra-relax-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-zebra-angle": {
+  "id": "md-zebra-angle",
+  "use": [],
+  "credit": "Max Divani Zebra",
+  "alt": "Canapé d’angle en tissu gris, têtières réglables, piètement métal noir",
+  "source": "md-zebra-angle.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-zebra-angle-600.webp",
+   "900": "md-zebra-angle-900.webp",
+   "1400": "md-zebra-angle-1400.webp",
+   "2000": "md-zebra-angle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-angle-600.avif",
+   "900": "md-zebra-angle-900.avif",
+   "1400": "md-zebra-angle-1400.avif",
+   "2000": "md-zebra-angle-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-zebra-detail": {
+  "id": "md-zebra-detail",
+  "use": [],
+  "credit": "Max Divani Zebra",
+  "alt": "Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris",
+  "source": "md-zebra-detail.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-zebra-detail-600.webp",
+   "900": "md-zebra-detail-900.webp",
+   "1400": "md-zebra-detail-1400.webp",
+   "2000": "md-zebra-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-detail-600.avif",
+   "900": "md-zebra-detail-900.avif",
+   "1400": "md-zebra-detail-1400.avif",
+   "2000": "md-zebra-detail-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-gala-ambiance": {
+  "id": "md-gala-ambiance",
+  "use": [],
+  "credit": "Max Divani Gala",
+  "alt": "Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée",
+  "source": "md-gala-ambiance.jpg",
+  "w": 4800,
+  "h": 2809,
+  "files": {
+   "600": "md-gala-ambiance-600.webp",
+   "900": "md-gala-ambiance-900.webp",
+   "1400": "md-gala-ambiance-1400.webp",
+   "2000": "md-gala-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-gala-ambiance-600.avif",
+   "900": "md-gala-ambiance-900.avif",
+   "1400": "md-gala-ambiance-1400.avif",
+   "2000": "md-gala-ambiance-2000.avif"
+  },
+  "ratio": [
+   4800,
+   2809
+  ]
+ },
+ "md-curry-relax": {
+  "id": "md-curry-relax",
+  "use": [],
+  "credit": "Max Divani Curry",
+  "alt": "Canapés trois places et deux places en tissu gris clair, une place relax ouverte",
+  "source": "md-curry-relax.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-curry-relax-600.webp",
+   "900": "md-curry-relax-900.webp",
+   "1400": "md-curry-relax-1400.webp",
+   "2000": "md-curry-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-curry-relax-600.avif",
+   "900": "md-curry-relax-900.avif",
+   "1400": "md-curry-relax-1400.avif",
+   "2000": "md-curry-relax-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "eu-chaises-quatre": {
+  "id": "eu-chaises-quatre",
+  "use": [],
+  "credit": "Fabricant européen",
+  "alt": "Quatre chaises en tissu, gris, ocre, taupe et écru, sur pied métal",
+  "source": "eu-chaises-quatre.jpg",
+  "w": 4961,
+  "h": 1800,
+  "files": {
+   "600": "eu-chaises-quatre-600.webp",
+   "900": "eu-chaises-quatre-900.webp",
+   "1400": "eu-chaises-quatre-1400.webp",
+   "2000": "eu-chaises-quatre-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "eu-chaises-quatre-600.avif",
+   "900": "eu-chaises-quatre-900.avif",
+   "1400": "eu-chaises-quatre-1400.avif",
+   "2000": "eu-chaises-quatre-2000.avif"
+  },
+  "ratio": [
+   4961,
+   1800
+  ]
+ },
+ "eu-chaise-vues": {
+  "id": "eu-chaise-vues",
+  "use": [],
+  "credit": "Fabricant européen",
+  "alt": "Chaise en tissu bouclé gris sur pied métal, vue de face, de dos et de profil",
+  "source": "eu-chaise-vues.jpg",
+  "w": 3768,
+  "h": 3018,
+  "files": {
+   "600": "eu-chaise-vues-600.webp",
+   "900": "eu-chaise-vues-900.webp",
+   "1400": "eu-chaise-vues-1400.webp",
+   "2000": "eu-chaise-vues-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "eu-chaise-vues-600.avif",
+   "900": "eu-chaise-vues-900.avif",
+   "1400": "eu-chaise-vues-1400.avif",
+   "2000": "eu-chaise-vues-2000.avif"
+  },
+  "ratio": [
+   3768,
+   3018
+  ]
+ },
+ "eu-salon-arrondi": {
+  "id": "eu-salon-arrondi",
+  "use": [],
+  "credit": "Fabricant européen",
+  "alt": "Salon aux formes arrondies en tissu texturé beige, dans un séjour aux tons chauds",
+  "source": "eu-salon-arrondi.jpg",
+  "w": 2400,
+  "h": 1600,
+  "files": {
+   "600": "eu-salon-arrondi-600.webp",
+   "900": "eu-salon-arrondi-900.webp",
+   "1400": "eu-salon-arrondi-1400.webp",
+   "2000": "eu-salon-arrondi-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "eu-salon-arrondi-600.avif",
+   "900": "eu-salon-arrondi-900.avif",
+   "1400": "eu-salon-arrondi-1400.avif",
+   "2000": "eu-salon-arrondi-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1600
+  ]
+ },
+ "eu-salon-arrondi-pack": {
+  "id": "eu-salon-arrondi-pack",
+  "use": [],
+  "credit": "Fabricant européen",
+  "alt": "Canapé aux formes arrondies en tissu texturé brun, avec méridienne ronde",
+  "source": "eu-salon-arrondi-pack.jpg",
+  "w": 1772,
+  "h": 814,
+  "files": {
+   "600": "eu-salon-arrondi-pack-600.webp",
+   "900": "eu-salon-arrondi-pack-900.webp",
+   "1400": "eu-salon-arrondi-pack-1400.webp",
+   "1772": "eu-salon-arrondi-pack-1772.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "eu-salon-arrondi-pack-600.avif",
+   "900": "eu-salon-arrondi-pack-900.avif",
+   "1400": "eu-salon-arrondi-pack-1400.avif",
+   "1772": "eu-salon-arrondi-pack-1772.avif"
+  },
+  "ratio": [
+   1772,
+   814
   ]
  }
 }
