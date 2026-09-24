@@ -327,6 +327,45 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
 @media (min-width:961px) and (prefers-reduced-motion:no-preference){
   .js-anim .vient{transition-delay:calc(var(--pas,0)*50ms)}
 }
+
+/* 24/09 — mosaïque (décidée par nino pour toutes les pages sauf Espace pro) : les photos d'une grille se
+   décalent, et leur texte passe dans une carte en relief posée à cheval sur la photo. */
+.mq{display:grid;grid-template-columns:repeat(12,1fr);gap:0 28px;align-items:start}
+.mq>div{position:relative;margin:0;border-top:0;padding-top:0}
+.mq>div>.ph{position:relative;overflow:hidden;height:auto;min-height:0;aspect-ratio:4/3;margin:0;box-shadow:0 22px 44px rgba(27,24,21,.10)}
+.mq>div>.ph picture,.mq>div>.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.mq .legende{position:relative;z-index:2;background:#FAF8F4;margin:-64px 0 0 28px;padding:22px 26px 24px;
+  max-width:min(440px,84%);box-shadow:0 18px 40px rgba(27,24,21,.12)}
+.mq .legende h3{margin:0 0 6px}
+.mq .legende p{margin:0;color:#5B534B}
+.mq .legende p+p{margin-top:10px}
+.mq .texte{background:#FFFFFF;padding:24px 26px;box-shadow:0 14px 32px rgba(27,24,21,.08);border-top:3px solid #9E4A2C}
+.mq .texte h3{margin:0 0 6px}.mq .texte p{margin:0;color:#5B534B}
+.mq-3>div:nth-child(1){grid-column:1/8}
+.mq-3>div:nth-child(2){grid-column:8/13;margin-top:140px}
+.mq-3>div:nth-child(2) .legende{margin-left:-48px}
+.mq-3>div:nth-child(3){grid-column:3/10;margin-top:72px}
+.mq-2>div:nth-child(1){grid-column:1/8}
+.mq-2>div:nth-child(2){grid-column:7/13;margin-top:96px}
+.mq-2>div:nth-child(2) .legende{margin-left:-48px}
+.mq.mq-1{display:block}
+.mq.mq-1>div{display:block;position:relative}
+.mq.mq-1>div>.ph{width:66%;aspect-ratio:16/10}
+.mq.mq-1 .legende{position:absolute;right:0;top:50%;transform:translateY(-50%);margin:0;width:min(440px,40%)}
+.mq-made{gap:28px}
+.mq-made>div:nth-child(1){grid-column:1/7;grid-row:1/3}
+.mq-made>div:nth-child(2){grid-column:7/10;grid-row:1;align-self:end}
+.mq-made>div:nth-child(3){grid-column:10/13;grid-row:1;align-self:end;margin-bottom:-40px}
+.mq-made>div:nth-child(4){grid-column:7/13;grid-row:2;margin-top:40px}
+.mq-made>div:nth-child(5){grid-column:2/8;grid-row:3;margin-top:56px}
+.mq-made>div:nth-child(6){grid-column:8/12;grid-row:3;align-self:center;margin-top:56px}
+@media (max-width:960px){
+  .mq,.mq-made{grid-template-columns:1fr;gap:48px}
+  .mq>div{grid-column:1!important;grid-row:auto!important;margin:0!important}
+  .mq .legende,.mq-3>div:nth-child(2) .legende,.mq-2>div:nth-child(2) .legende{margin:-40px 12px 0;max-width:none}
+  .mq.mq-1>div>.ph{width:100%}
+  .mq.mq-1 .legende{position:relative;right:auto;top:auto;transform:none;width:auto;margin:-40px 12px 0}
+}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Tendances", "item": "https://fony.be/tendances"}]}</script>
 </head>
@@ -402,10 +441,10 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
     <div class="wrap">
       <p class="kicker">Pièce par pièce</p>
       <h2>Où mettre la tendance, et où ne pas la mettre.</h2>
-      <div class="tend-grid">
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/md-gala-ambiance-600.avif 600w, assets/img/md-gala-ambiance-900.avif 900w, assets/img/md-gala-ambiance-1400.avif 1400w, assets/img/md-gala-ambiance-2000.avif 2000w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:50% 60%" src="assets/img/md-gala-ambiance-900.webp" srcset="assets/img/md-gala-ambiance-600.webp 600w, assets/img/md-gala-ambiance-900.webp 900w, assets/img/md-gala-ambiance-1400.webp 1400w, assets/img/md-gala-ambiance-2000.webp 2000w" sizes="(max-width:960px) 100vw, 33vw" alt="Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée" width="4800" height="2809" loading="lazy" decoding="async" data-credit="Max Divani Gala"></picture></div><h3>Le salon</h3><p><b>La base, pour longtemps.</b> Le canapé dans un ton neutre, un tissu qui se nettoie : il ne doit rien à la saison.</p><p><b>La tendance, en petit.</b> Un fauteuil dans un ton chaud, un tapis, une table basse en pierre.</p></div>
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-table-600.avif 600w, assets/img/tom-table-900.avif 900w, assets/img/tom-table-1400.avif 1400w, assets/img/tom-table-1651.avif 1651w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:50% 56%" src="assets/img/tom-table-900.webp" srcset="assets/img/tom-table-600.webp 600w, assets/img/tom-table-900.webp 900w, assets/img/tom-table-1400.webp 1400w, assets/img/tom-table-1651.webp 1651w" sizes="(max-width:960px) 100vw, 33vw" alt="Table et buffet Tomasella dans un séjour urbain" width="1651" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><h3>La salle à manger</h3><p><b>La base, pour longtemps.</b> La table, en bois massif ou plaqué, dans une essence franche.</p><p><b>La tendance, en petit.</b> Les chaises et la lumière, qui datent une salle à manger.</p></div>
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-900.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><h3>Le dressing et la chambre</h3><p><b>La base, pour longtemps.</b> Les façades dans un ton sobre, assorti au sol et aux portes. On les garde vingt ans, et on ne les regarde pas : on regarde ce qu’il y a derrière.</p><p><b>La tendance, en petit.</b> L’intérieur, les poignées, l’éclairage des penderies : démontables.</p></div>
+      <div class="tend-grid mq mq-3">
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/md-gala-ambiance-600.avif 600w, assets/img/md-gala-ambiance-900.avif 900w, assets/img/md-gala-ambiance-1400.avif 1400w, assets/img/md-gala-ambiance-2000.avif 2000w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:50% 60%" src="assets/img/md-gala-ambiance-900.webp" srcset="assets/img/md-gala-ambiance-600.webp 600w, assets/img/md-gala-ambiance-900.webp 900w, assets/img/md-gala-ambiance-1400.webp 1400w, assets/img/md-gala-ambiance-2000.webp 2000w" sizes="(max-width:960px) 100vw, 33vw" alt="Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée" width="4800" height="2809" loading="lazy" decoding="async" data-credit="Max Divani Gala"></picture></div><div class="legende"><h3>Le salon</h3><p><b>La base, pour longtemps.</b> Le canapé dans un ton neutre, un tissu qui se nettoie : il ne doit rien à la saison.</p><p><b>La tendance, en petit.</b> Un fauteuil dans un ton chaud, un tapis, une table basse en pierre.</p></div></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-table-600.avif 600w, assets/img/tom-table-900.avif 900w, assets/img/tom-table-1400.avif 1400w, assets/img/tom-table-1651.avif 1651w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:50% 56%" src="assets/img/tom-table-900.webp" srcset="assets/img/tom-table-600.webp 600w, assets/img/tom-table-900.webp 900w, assets/img/tom-table-1400.webp 1400w, assets/img/tom-table-1651.webp 1651w" sizes="(max-width:960px) 100vw, 33vw" alt="Table et buffet Tomasella dans un séjour urbain" width="1651" height="1900" loading="lazy" decoding="async" data-credit="Tomasella"></picture></div><div class="legende"><h3>La salle à manger</h3><p><b>La base, pour longtemps.</b> La table, en bois massif ou plaqué, dans une essence franche.</p><p><b>La tendance, en petit.</b> Les chaises et la lumière, qui datent une salle à manger.</p></div></div>
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 33vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-900.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 33vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><div class="legende"><h3>Le dressing et la chambre</h3><p><b>La base, pour longtemps.</b> Les façades dans un ton sobre, assorti au sol et aux portes. On les garde vingt ans, et on ne les regarde pas : on regarde ce qu’il y a derrière.</p><p><b>La tendance, en petit.</b> L’intérieur, les poignées, l’éclairage des penderies : démontables.</p></div></div>
       </div>
     </div>
   </section>

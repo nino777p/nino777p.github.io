@@ -358,6 +358,45 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
   :is(.spaces,.duo,.systems,.sleep,.top-grid,.triade,.styles,.deux-q,.steps,.proof-grid,.europe-pts,.brands3,.cards3,.points,.craft-grid,.made,.sectors,.fab-photos)>:nth-child(3){--pas:2}
   .js-anim .vient{transition-delay:calc(var(--pas,0)*50ms)}
 }
+
+/* 24/09 — mosaïque (décidée par nino pour toutes les pages sauf Espace pro) : les photos d'une grille se
+   décalent, et leur texte passe dans une carte en relief posée à cheval sur la photo. */
+.mq{display:grid;grid-template-columns:repeat(12,1fr);gap:0 28px;align-items:start}
+.mq>div{position:relative;margin:0;border-top:0;padding-top:0}
+.mq>div>.ph{position:relative;overflow:hidden;height:auto;min-height:0;aspect-ratio:4/3;margin:0;box-shadow:0 22px 44px rgba(27,24,21,.10)}
+.mq>div>.ph picture,.mq>div>.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.mq .legende{position:relative;z-index:2;background:#FAF8F4;margin:-64px 0 0 28px;padding:22px 26px 24px;
+  max-width:min(440px,84%);box-shadow:0 18px 40px rgba(27,24,21,.12)}
+.mq .legende h3{margin:0 0 6px}
+.mq .legende p{margin:0;color:#5B534B}
+.mq .legende p+p{margin-top:10px}
+.mq .texte{background:#FFFFFF;padding:24px 26px;box-shadow:0 14px 32px rgba(27,24,21,.08);border-top:3px solid #9E4A2C}
+.mq .texte h3{margin:0 0 6px}.mq .texte p{margin:0;color:#5B534B}
+.mq-3>div:nth-child(1){grid-column:1/8}
+.mq-3>div:nth-child(2){grid-column:8/13;margin-top:140px}
+.mq-3>div:nth-child(2) .legende{margin-left:-48px}
+.mq-3>div:nth-child(3){grid-column:3/10;margin-top:72px}
+.mq-2>div:nth-child(1){grid-column:1/8}
+.mq-2>div:nth-child(2){grid-column:7/13;margin-top:96px}
+.mq-2>div:nth-child(2) .legende{margin-left:-48px}
+.mq.mq-1{display:block}
+.mq.mq-1>div{display:block;position:relative}
+.mq.mq-1>div>.ph{width:66%;aspect-ratio:16/10}
+.mq.mq-1 .legende{position:absolute;right:0;top:50%;transform:translateY(-50%);margin:0;width:min(440px,40%)}
+.mq-made{gap:28px}
+.mq-made>div:nth-child(1){grid-column:1/7;grid-row:1/3}
+.mq-made>div:nth-child(2){grid-column:7/10;grid-row:1;align-self:end}
+.mq-made>div:nth-child(3){grid-column:10/13;grid-row:1;align-self:end;margin-bottom:-40px}
+.mq-made>div:nth-child(4){grid-column:7/13;grid-row:2;margin-top:40px}
+.mq-made>div:nth-child(5){grid-column:2/8;grid-row:3;margin-top:56px}
+.mq-made>div:nth-child(6){grid-column:8/12;grid-row:3;align-self:center;margin-top:56px}
+@media (max-width:960px){
+  .mq,.mq-made{grid-template-columns:1fr;gap:48px}
+  .mq>div{grid-column:1!important;grid-row:auto!important;margin:0!important}
+  .mq .legende,.mq-3>div:nth-child(2) .legende,.mq-2>div:nth-child(2) .legende{margin:-40px 12px 0;max-width:none}
+  .mq.mq-1>div>.ph{width:100%}
+  .mq.mq-1 .legende{position:relative;right:auto;top:auto;transform:none;width:auto;margin:-40px 12px 0}
+}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Literie", "item": "https://fony.be/literie"}]}</script>
 </head>
@@ -449,8 +488,8 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
   <section class="proofs">
     <div class="wrap">
       <h2>La chambre autour</h2>
-      <div class="duo">
-        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-900.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><h3>Lits, chevets, armoires</h3><p>Lits, chevets et armoires Tomasella, entre autres. <a class="ilink" href="living#chambre">Voir la chambre</a></p></div>
+      <div class="duo mq mq-1">
+        <div><div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/tom-armoire-600.avif 600w, assets/img/tom-armoire-900.avif 900w, assets/img/tom-armoire-1400.avif 1400w, assets/img/tom-armoire-1900.avif 1900w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:22% 50%" src="assets/img/tom-armoire-900.webp" srcset="assets/img/tom-armoire-600.webp 600w, assets/img/tom-armoire-900.webp 900w, assets/img/tom-armoire-1400.webp 1400w, assets/img/tom-armoire-1900.webp 1900w" sizes="(max-width:960px) 100vw, 50vw" alt="Armoire Tomasella Carmen à portes battantes laquées" width="1900" height="1153" loading="lazy" decoding="async" data-credit="Tomasella Carmen"></picture></div><div class="legende"><h3>Lits, chevets, armoires</h3><p>Lits, chevets et armoires Tomasella, entre autres. <a class="ilink" href="living#chambre">Voir la chambre</a></p></div></div>
       </div>
     </div>
   </section>

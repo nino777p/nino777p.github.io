@@ -486,6 +486,44 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
   .echantillons li:nth-child(2),.echantillons li:nth-child(5){transform:none}
 }
 @media (prefers-reduced-motion:reduce){.raison{transition:none}}
+/* 24/09 — nino : « c'est ici que votre projet commence, les photos sont normales ; après, tu as fait un beau
+   montage ». Les six cartes des pièces prennent le même montage : texte dans une carte en relief posée à
+   cheval sur la photo, rangée du bas décalée. */
+#amenagements .space{position:relative}
+#amenagements .space .ph{box-shadow:0 22px 44px rgba(27,24,21,.10)}
+#amenagements .space-body{position:relative;z-index:2;background:#FAF8F4;margin:-56px 0 0 24px;padding:20px 24px 22px;
+  max-width:calc(100% - 48px);box-shadow:0 18px 40px rgba(27,24,21,.12)}
+#amenagements .space-living .space-body{max-width:min(460px,calc(100% - 48px))}
+#amenagements .spaces2{margin-top:72px;align-items:start}
+#amenagements .spaces2>.space:nth-child(2){margin-top:88px}
+#amenagements .spaces2>.space:nth-child(3){margin-top:32px}
+@media (max-width:960px){
+  #amenagements .space-body{margin:-40px 12px 0;max-width:none}
+  #amenagements .spaces2{margin-top:40px}
+  #amenagements .spaces2>.space:nth-child(n){margin-top:0}
+}
+#amenagements .space-body{display:flex;flex-direction:column;align-items:flex-start;gap:12px}
+
+/* 24/09 — nino : les horaires ne mettaient en valeur que le lundi, et « un bloc travertin écrit en doré » serait
+   plus original que le noir. Les deux lignes d'horaires sont au même niveau ; le fond imite un travertin par des
+   veines horizontales en dégradés CSS (aucune image) ; le doré du texte est foncé pour rester lisible (contraste ≥ 4,9). */
+.raison-travertin{background-color:#E9E0D0;border-top-color:#C9A45C;color:#5E4518;
+  background-image:
+    radial-gradient(ellipse 9px 2px at 18% 28%,rgba(130,100,62,.30),transparent 70%),
+    radial-gradient(ellipse 14px 2.5px at 64% 58%,rgba(130,100,62,.26),transparent 70%),
+    radial-gradient(ellipse 6px 1.5px at 42% 84%,rgba(130,100,62,.32),transparent 70%),
+    radial-gradient(ellipse 11px 2px at 86% 14%,rgba(130,100,62,.24),transparent 70%),
+    linear-gradient(177deg,transparent 0 16%,rgba(170,140,95,.16) 16% 19%,transparent 19% 41%,rgba(255,255,255,.35) 41% 45%,
+      transparent 45% 61%,rgba(160,128,86,.13) 61% 69%,transparent 69% 84%,rgba(170,140,95,.12) 84% 86%,transparent 86%),
+    linear-gradient(180deg,#EEE6D8,#E2D6C2);
+  background-size:130px 84px,170px 110px,90px 70px,150px 96px,100% 100%,100% 100%;
+  background-repeat:repeat,repeat,repeat,repeat,no-repeat,no-repeat}
+.raison-travertin h2{color:#6B5020}
+.raison-travertin p{color:#5E4518}
+.raison-travertin .raison-num{color:#6B5020}
+.raison-travertin .link{color:#6B5020}
+.raison .horaires{display:flex;flex-direction:column;gap:2px;margin:0}
+.raison .horaires b{font-weight:600}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FurnitureStore","name":"Fony Meubles","legalName":"FONY — MEUBLES SRL",
@@ -563,8 +601,8 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
   <section class="raisons" aria-label="Pourquoi venir au magasin">
     <div class="wrap raisons-grid">
       <a class="raison" href="salon"><span class="raison-num">01</span><h2>Une trentaine de salons</h2><p>Exposés, du classique au contemporain.</p><span class="link">Voir les salons</span></a>
-      <a class="raison" href="tendances#saison-titre"><span class="raison-num">02</span><h2>La palette en main</h2><p>Bois, laques, tissus : les échantillons sont au magasin.</p><span class="link">Voir les matières</span></a>
-      <a class="raison raison-sombre" href="https://www.google.com/maps/search/?api=1&amp;query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener"><span class="raison-num">03</span><h2>Lundi 13h30 – 18h30</h2><p>Mardi au samedi 10h30 – 18h30. Leval-Trahegnies, près de Binche.</p><span class="link">Itinéraire</span></a>
+      <a class="raison" href="tendances#saison-titre"><span class="raison-num">02</span><h2>Toucher avant de choisir</h2><p>Bois, laques, tissus : les échantillons sont au magasin.</p><span class="link">Voir les matières</span></a>
+      <a class="raison raison-travertin" href="https://www.google.com/maps/search/?api=1&amp;query=160+Route+de+Charleroi+7134+Leval-Trahegnies" target="_blank" rel="noopener"><span class="raison-num">03</span><h2>Du lundi au samedi</h2><p class="horaires"><span>Lundi <b>13h30 – 18h30</b></span><span>Mardi au samedi <b>10h30 – 18h30</b></span></p><p>Leval-Trahegnies, près de Binche.</p><span class="link">Itinéraire</span></a>
     </div>
   </section>
 
