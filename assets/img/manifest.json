@@ -1703,5 +1703,33 @@
    945,
    850
   ]
+ },
+ "cu-classique": {
+  "id": "cu-classique",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Cuisine classique crème en angle, façades à cadre, sol en bois clair",
+  "source": "cu-classique.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "cu-classique-600.webp",
+   "900": "cu-classique-900.webp",
+   "1400": "cu-classique-1400.webp",
+   "2000": "cu-classique-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-classique-600.avif",
+   "900": "cu-classique-900.avif",
+   "1400": "cu-classique-1400.avif",
+   "2000": "cu-classique-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
  }
 }
