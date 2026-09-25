@@ -447,6 +447,107 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
 .teintes .legende{padding:14px 18px;margin:-36px 0 0 16px}
 .teintes .legende h3{margin:0;font-size:17px}
 @media (max-width:960px){.teintes .legende{margin:-28px 12px 0}}
+/* 25/09 — « Le design accessible italien » : une carte en relief posée sous la mosaïque, plus une bande plate */
+.art{position:relative;z-index:2;max-width:760px;margin:-8px 0 0 auto;background:#FFFFFF;box-shadow:0 18px 40px rgba(27,24,21,.10);border-top:3px solid #C9A45C}
+@media (max-width:960px){.art{margin:32px 0 0}}
+/* ==========================================================================
+   REFONTE 25/09/2026 — un seul paramétrage pour tout le site (demande de nino :
+   « les anciens blocs paraissent vétustes, refonds tout le site sur le nouveau paramétrage »).
+   Chargé par toutes les pages après leur feuille propre (marqueur « style:refonte » dans chaque page).
+   Trois briques :
+   1. .relief   — une grille de textes devient des cartes en relief (carte claire, ombre douce,
+                  filet terracotta en tête, cartes légèrement décalées) ;
+      .relief-sombre — la même chose sur fond sombre (filet laiton) ;
+   2. .final-photo — le bloc final de chaque page porte une photo ;
+   3. .carte-photo — une carte posée à cheval sur une grande photo (comme les mosaïques).
+   ========================================================================== */
+
+.relief{display:grid;grid-template-columns:repeat(var(--cols,3),minmax(0,1fr));gap:28px;align-items:start}
+.relief>*{background:#FFFFFF;padding:28px 28px 26px;margin:0;border-top:3px solid #9E4A2C!important;
+  box-shadow:0 18px 40px rgba(27,24,21,.08);border-left:0;border-right:0;border-bottom:0}
+.relief>*:nth-child(3n+2){margin-top:40px}
+.relief>*:nth-child(3n+3){margin-top:80px}
+.relief.relief-2>*:nth-child(2n){margin-top:40px}
+.relief.relief-2>*:nth-child(2n+1){margin-top:0}
+.relief h3{margin:0 0 8px}
+.relief p{margin:0;color:#5B534B}
+.relief p+p,.relief p+.tag,.relief p+a{margin-top:10px}
+.relief .tag{display:inline-block;margin-top:10px}
+.relief-2{--cols:2}
+.relief-4{--cols:4}
+.relief-4>*:nth-child(n){margin-top:0}
+.relief-4>*:nth-child(2n){margin-top:40px}
+
+.relief-sombre>*{background:#2A2521;box-shadow:0 18px 40px rgba(0,0,0,.28);border-top-color:#C9A45C!important;color:#FAF8F4}
+.relief-sombre p{color:#D9D2C6}
+.relief-sombre h3{color:#FAF8F4}
+
+@media (max-width:960px){
+  .relief,.relief-2,.relief-4{grid-template-columns:1fr;gap:18px}
+  .relief>*{margin-top:0!important;padding:22px 20px}
+}
+
+/* le bloc final avec sa photo, sur toutes les pages */
+.final .final-grid{align-items:center}
+.final-photo{position:relative;overflow:hidden;height:340px;margin:0;box-shadow:0 30px 60px rgba(0,0,0,.35)}
+.final-photo picture,.final-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+@media (max-width:960px){.final-photo{height:240px}}
+
+/* une carte posée à cheval sur une grande photo */
+.carte-photo{position:relative;display:grid;grid-template-columns:repeat(12,1fr);align-items:center}
+.carte-photo>.ph{grid-column:1/9;grid-row:1;position:relative;overflow:hidden;aspect-ratio:16/10;height:auto;margin:0;
+  box-shadow:0 22px 44px rgba(27,24,21,.10)}
+.carte-photo>.ph picture,.carte-photo>.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.carte-photo>.carte{grid-column:7/13;grid-row:1;position:relative;z-index:2;background:#FFFFFF;padding:36px 36px 32px;
+  border-top:3px solid #9E4A2C;box-shadow:0 22px 50px rgba(27,24,21,.12)}
+.carte-photo.inverse>.ph{grid-column:5/13}
+.carte-photo.inverse>.carte{grid-column:1/7}
+.carte-photo .carte h2,.carte-photo .carte h3{margin-top:0}
+.carte-photo .carte p{color:#5B534B}
+@media (max-width:960px){
+  .carte-photo{display:block}
+  .carte-photo>.carte{margin:-40px 12px 0;padding:24px 22px}
+}
+
+/* titres des cartes posées sur photo */
+.carte-photo .carte-titre{font-family:var(--serif);font-size:clamp(26px,2.6vw,36px);font-weight:500;line-height:1.1;margin:0 0 12px}
+.carte-photo .carte .second{margin-top:22px}
+.carte-photo .carte .actions{margin-top:18px}
+.carte-photo.visite .visit-card{background:#FFFFFF;box-shadow:0 22px 50px rgba(27,24,21,.12);max-width:none;margin:0}
+.carte-photo.visite>.ph{aspect-ratio:4/3}
+
+
+/* Tendances : l'ouverture en carte sur photo, les trois familles en cartes */
+.tend-tete{padding:40px 0 72px}
+.tend-tete .carte h1{font-size:clamp(40px,5vw,68px);line-height:1.02;margin:6px 0 14px}
+.materials-3.relief{list-style:none;padding:0}
+.materials-3.relief>li{display:flex;flex-direction:column;gap:8px}
+.materials-3.relief .mat{display:block;width:100%;aspect-ratio:4/3;height:auto;margin:0 0 8px;position:relative;overflow:hidden}
+.materials-3.relief .mat picture,.materials-3.relief .mat img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.materials-3.relief b{font-family:var(--serif);font-size:24px;font-weight:500}
+.materials-3.relief small{font-size:15px;line-height:1.55;color:#5B534B}
+
+/* Accueil : le bandeau réseaux devient une carte */
+.social-band .social-grid{background:#FFFFFF;padding:28px 32px;box-shadow:0 18px 40px rgba(27,24,21,.08);border-top:3px solid #9E4A2C}
+
+/* Magasin & contact : le formulaire dans une carte */
+.tops .form{background:#FFFFFF;padding:32px;box-shadow:0 18px 40px rgba(27,24,21,.08);border-top:3px solid #9E4A2C}
+.info-grid.relief .map-card{min-height:0}
+@media (max-width:960px){.tops .form{padding:22px 18px}.tend-tete{padding:24px 0 48px}}
+
+/* titres en Bodoni : mêmes réglages que les h2 du site (sinon la police s'affiche espacée) */
+.carte-photo .carte-titre,.materials-3.relief b{font-family:"Bodoni Moda",Georgia,serif;font-optical-sizing:none;font-variation-settings:"opsz" 11;letter-spacing:-0.01em}
+/* un mot en gras dans une carte reste du texte courant (l'ancienne règle .proof-grid strong le grossissait) */
+.relief p strong{display:inline;font:inherit;font-weight:600;letter-spacing:0;margin:0;color:inherit}
+/* Magasin : la carte « Pour venir » prend la hauteur de son contenu */
+.info-grid.relief .map-card{height:auto;aspect-ratio:auto;display:flex;flex-direction:column;justify-content:center;gap:12px}
+/* Accueil : la carte « Nous rendre visite » ne dépasse plus au-dessus de la photo */
+.carte-photo.visite{align-items:start}
+.carte-photo.visite>.carte{margin-top:48px}
+@media (max-width:960px){
+  .carte-photo.visite>.carte{margin-top:-40px}
+  .materials-3.relief .mat{aspect-ratio:16/9}
+}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Cuisines italiennes Stosa sur mesure", "item": "https://fony.be/cuisine"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Combien de temps faut-il prévoir ?", "acceptedAnswer": {"@type": "Answer", "text": "Environ huit semaines entre la commande signée, l'acompte versé, et la pose, selon le fabricant et la saison."}}, {"@type": "Question", "name": "Puis-je voir une cuisine en vrai ?", "acceptedAnswer": {"@type": "Answer", "text": "Pas encore de cuisine exposée, mais tous les échantillons sont au magasin : façades, coloris, plans de travail."}}]}</script>
@@ -525,7 +626,7 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
     <div class="wrap">
       <h2>Visez l’intemporel.</h2>
       <p class="intro">Deux questions, et le style vient tout seul.</p>
-      <div class="deux-q">
+      <div class="deux-q relief relief-2">
         <div>
           <p class="num">1</p>
           <h3>La porte</h3>
@@ -553,7 +654,7 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
           </div>
         </div>
         <div>
-          <div class="ph has-img ph-oak ph-short" data-label="Visuel à venir : cuisine classique en bois"><picture><source type="image/avif" srcset="assets/img/stosa-bois-600.avif 600w, assets/img/stosa-bois-900.avif 900w, assets/img/stosa-bois-1200.avif 1200w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 52%" src="assets/img/stosa-bois-900.webp" srcset="assets/img/stosa-bois-600.webp 600w, assets/img/stosa-bois-900.webp 900w, assets/img/stosa-bois-1200.webp 1200w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine en bois, façades à cadre" width="1200" height="1200" loading="lazy" decoding="async" data-credit="Fabricant italien"></picture></div>
+          <div class="ph has-img ph-oak ph-short" data-label="Visuel à venir : cuisine classique en bois"><picture><source type="image/avif" srcset="assets/img/cu-classique-600.avif 600w, assets/img/cu-classique-900.avif 900w, assets/img/cu-classique-1400.avif 1400w, assets/img/cu-classique-2000.avif 2000w" sizes="(max-width:960px) 100vw, 50vw"><img src="assets/img/cu-classique-1400.webp" srcset="assets/img/cu-classique-600.webp 600w, assets/img/cu-classique-900.webp 900w, assets/img/cu-classique-1400.webp 1400w, assets/img/cu-classique-2000.webp 2000w" sizes="(max-width:960px) 100vw, 50vw" alt="Cuisine classique crème en angle, façades à cadre, sol en bois clair" width="2500" height="2500" loading="lazy" decoding="async" data-credit="Fabricant italien"></picture></div>
           <div class="style-body legende">
             <h3>Cuisines classiques</h3>
           </div>
@@ -584,7 +685,7 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
   <section class="proofs">
     <div class="wrap">
       <h2>Ce qui fait la différence, dans le temps</h2>
-      <div class="proof-grid">
+      <div class="proof-grid relief">
         <div><strong>Fabriquée en Italie</strong><p>Conçue et produite en Italie.</p></div>
         <div><strong>Un seul interlocuteur</strong><p>De la première mesure à la dernière poignée, la même personne suit votre projet.</p></div>
         <div><strong>Garantie 5 ans</strong><p>Stosa certifie ses cuisines et les garantit cinq ans.</p></div>
@@ -596,7 +697,7 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
 
   <section id="parcours" style="padding-top:0">
     <div class="wrap">
-      <h2>Vous la rêvez. Nous la dessinons.</h2><div class="triade"><div><h3>Vous la rêvez</h3><p>Vos habitudes, vos envies, votre budget : on écoute avant de dessiner.</p></div><div><h3>Nous la dessinons</h3><p>Nous relevons les cotes chez vous, puis nous composons : plan, façades, plan de travail, teintes.</p></div><div><h3>Nous la posons</h3><p>Livraison par nos soins, pose par notre équipe ou un professionnel partenaire, réglages et finitions. Nous restons joignables ensuite.</p></div></div></div></section>
+      <h2>Vous la rêvez. Nous la dessinons.</h2><div class="triade relief"><div><h3>Vous la rêvez</h3><p>Vos habitudes, vos envies, votre budget : on écoute avant de dessiner.</p></div><div><h3>Nous la dessinons</h3><p>Nous relevons les cotes chez vous, puis nous composons : plan, façades, plan de travail, teintes.</p></div><div><h3>Nous la posons</h3><p>Livraison par nos soins, pose par notre équipe ou un professionnel partenaire, réglages et finitions. Nous restons joignables ensuite.</p></div></div></div></section>
 
   <section class="tops">
     <div class="wrap">
@@ -631,7 +732,7 @@ details[open]>:not(summary){animation:pli-ouvre .22s cubic-bezier(.23,1,.32,1) b
           <a class="btn btn-ghost" href="tel:+3264460772">064 46 07 72</a>
         </div>
       </div>
-      <div class="ph has-img ph-oak" style="height:320px" data-label="Visuel à venir : détail de façade et poignée"><picture><source type="image/avif" srcset="assets/img/stosa-detail-600.avif 600w, assets/img/stosa-detail-900.avif 900w, assets/img/stosa-detail-1200.avif 1200w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 50%" src="assets/img/stosa-detail-900.webp" srcset="assets/img/stosa-detail-600.webp 600w, assets/img/stosa-detail-900.webp 900w, assets/img/stosa-detail-1200.webp 1200w" sizes="(max-width:960px) 100vw, 50vw" alt="Détail de façade et de poignée" width="1200" height="1200" loading="lazy" decoding="async" data-credit="Fabricant italien"></picture></div>
+      <div class="ph has-img final-photo ph-oak" data-label="Visuel à venir : détail de façade et poignée"><picture><source type="image/avif" srcset="assets/img/stosa-detail-600.avif 600w, assets/img/stosa-detail-900.avif 900w, assets/img/stosa-detail-1200.avif 1200w" sizes="(max-width:960px) 100vw, 50vw"><img style="object-position:50% 50%" src="assets/img/stosa-detail-900.webp" srcset="assets/img/stosa-detail-600.webp 600w, assets/img/stosa-detail-900.webp 900w, assets/img/stosa-detail-1200.webp 1200w" sizes="(max-width:960px) 100vw, 50vw" alt="Détail de façade et de poignée" width="1200" height="1200" loading="lazy" decoding="async" data-credit="Fabricant italien"></picture></div>
     </div>
   </section>
 

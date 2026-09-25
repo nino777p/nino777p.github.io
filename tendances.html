@@ -366,6 +366,104 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
   .mq.mq-1>div>.ph{width:100%}
   .mq.mq-1 .legende{position:relative;right:auto;top:auto;transform:none;width:auto;margin:-40px 12px 0}
 }
+/* ==========================================================================
+   REFONTE 25/09/2026 — un seul paramétrage pour tout le site (demande de nino :
+   « les anciens blocs paraissent vétustes, refonds tout le site sur le nouveau paramétrage »).
+   Chargé par toutes les pages après leur feuille propre (marqueur « style:refonte » dans chaque page).
+   Trois briques :
+   1. .relief   — une grille de textes devient des cartes en relief (carte claire, ombre douce,
+                  filet terracotta en tête, cartes légèrement décalées) ;
+      .relief-sombre — la même chose sur fond sombre (filet laiton) ;
+   2. .final-photo — le bloc final de chaque page porte une photo ;
+   3. .carte-photo — une carte posée à cheval sur une grande photo (comme les mosaïques).
+   ========================================================================== */
+
+.relief{display:grid;grid-template-columns:repeat(var(--cols,3),minmax(0,1fr));gap:28px;align-items:start}
+.relief>*{background:#FFFFFF;padding:28px 28px 26px;margin:0;border-top:3px solid #9E4A2C!important;
+  box-shadow:0 18px 40px rgba(27,24,21,.08);border-left:0;border-right:0;border-bottom:0}
+.relief>*:nth-child(3n+2){margin-top:40px}
+.relief>*:nth-child(3n+3){margin-top:80px}
+.relief.relief-2>*:nth-child(2n){margin-top:40px}
+.relief.relief-2>*:nth-child(2n+1){margin-top:0}
+.relief h3{margin:0 0 8px}
+.relief p{margin:0;color:#5B534B}
+.relief p+p,.relief p+.tag,.relief p+a{margin-top:10px}
+.relief .tag{display:inline-block;margin-top:10px}
+.relief-2{--cols:2}
+.relief-4{--cols:4}
+.relief-4>*:nth-child(n){margin-top:0}
+.relief-4>*:nth-child(2n){margin-top:40px}
+
+.relief-sombre>*{background:#2A2521;box-shadow:0 18px 40px rgba(0,0,0,.28);border-top-color:#C9A45C!important;color:#FAF8F4}
+.relief-sombre p{color:#D9D2C6}
+.relief-sombre h3{color:#FAF8F4}
+
+@media (max-width:960px){
+  .relief,.relief-2,.relief-4{grid-template-columns:1fr;gap:18px}
+  .relief>*{margin-top:0!important;padding:22px 20px}
+}
+
+/* le bloc final avec sa photo, sur toutes les pages */
+.final .final-grid{align-items:center}
+.final-photo{position:relative;overflow:hidden;height:340px;margin:0;box-shadow:0 30px 60px rgba(0,0,0,.35)}
+.final-photo picture,.final-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+@media (max-width:960px){.final-photo{height:240px}}
+
+/* une carte posée à cheval sur une grande photo */
+.carte-photo{position:relative;display:grid;grid-template-columns:repeat(12,1fr);align-items:center}
+.carte-photo>.ph{grid-column:1/9;grid-row:1;position:relative;overflow:hidden;aspect-ratio:16/10;height:auto;margin:0;
+  box-shadow:0 22px 44px rgba(27,24,21,.10)}
+.carte-photo>.ph picture,.carte-photo>.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.carte-photo>.carte{grid-column:7/13;grid-row:1;position:relative;z-index:2;background:#FFFFFF;padding:36px 36px 32px;
+  border-top:3px solid #9E4A2C;box-shadow:0 22px 50px rgba(27,24,21,.12)}
+.carte-photo.inverse>.ph{grid-column:5/13}
+.carte-photo.inverse>.carte{grid-column:1/7}
+.carte-photo .carte h2,.carte-photo .carte h3{margin-top:0}
+.carte-photo .carte p{color:#5B534B}
+@media (max-width:960px){
+  .carte-photo{display:block}
+  .carte-photo>.carte{margin:-40px 12px 0;padding:24px 22px}
+}
+
+/* titres des cartes posées sur photo */
+.carte-photo .carte-titre{font-family:var(--serif);font-size:clamp(26px,2.6vw,36px);font-weight:500;line-height:1.1;margin:0 0 12px}
+.carte-photo .carte .second{margin-top:22px}
+.carte-photo .carte .actions{margin-top:18px}
+.carte-photo.visite .visit-card{background:#FFFFFF;box-shadow:0 22px 50px rgba(27,24,21,.12);max-width:none;margin:0}
+.carte-photo.visite>.ph{aspect-ratio:4/3}
+
+
+/* Tendances : l'ouverture en carte sur photo, les trois familles en cartes */
+.tend-tete{padding:40px 0 72px}
+.tend-tete .carte h1{font-size:clamp(40px,5vw,68px);line-height:1.02;margin:6px 0 14px}
+.materials-3.relief{list-style:none;padding:0}
+.materials-3.relief>li{display:flex;flex-direction:column;gap:8px}
+.materials-3.relief .mat{display:block;width:100%;aspect-ratio:4/3;height:auto;margin:0 0 8px;position:relative;overflow:hidden}
+.materials-3.relief .mat picture,.materials-3.relief .mat img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.materials-3.relief b{font-family:var(--serif);font-size:24px;font-weight:500}
+.materials-3.relief small{font-size:15px;line-height:1.55;color:#5B534B}
+
+/* Accueil : le bandeau réseaux devient une carte */
+.social-band .social-grid{background:#FFFFFF;padding:28px 32px;box-shadow:0 18px 40px rgba(27,24,21,.08);border-top:3px solid #9E4A2C}
+
+/* Magasin & contact : le formulaire dans une carte */
+.tops .form{background:#FFFFFF;padding:32px;box-shadow:0 18px 40px rgba(27,24,21,.08);border-top:3px solid #9E4A2C}
+.info-grid.relief .map-card{min-height:0}
+@media (max-width:960px){.tops .form{padding:22px 18px}.tend-tete{padding:24px 0 48px}}
+
+/* titres en Bodoni : mêmes réglages que les h2 du site (sinon la police s'affiche espacée) */
+.carte-photo .carte-titre,.materials-3.relief b{font-family:"Bodoni Moda",Georgia,serif;font-optical-sizing:none;font-variation-settings:"opsz" 11;letter-spacing:-0.01em}
+/* un mot en gras dans une carte reste du texte courant (l'ancienne règle .proof-grid strong le grossissait) */
+.relief p strong{display:inline;font:inherit;font-weight:600;letter-spacing:0;margin:0;color:inherit}
+/* Magasin : la carte « Pour venir » prend la hauteur de son contenu */
+.info-grid.relief .map-card{height:auto;aspect-ratio:auto;display:flex;flex-direction:column;justify-content:center;gap:12px}
+/* Accueil : la carte « Nous rendre visite » ne dépasse plus au-dessus de la photo */
+.carte-photo.visite{align-items:start}
+.carte-photo.visite>.carte{margin-top:48px}
+@media (max-width:960px){
+  .carte-photo.visite>.carte{margin-top:-40px}
+  .materials-3.relief .mat{aspect-ratio:16/9}
+}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Tendances", "item": "https://fony.be/tendances"}]}</script>
 </head>
@@ -411,10 +509,16 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
 
 <main id="contenu">
 
-  <section style="padding-bottom:48px">
+  <section class="tend-tete">
     <div class="wrap">
-      <h1 style="max-width:15ch">Beige, pierre veinée et bois</h1>
-      <p class="intro" style="margin-bottom:0">Chaque saison apporte ses teintes. Nous en gardons ce qui tient.</p>
+      <div class="carte-photo inverse">
+        <div class="ph has-img"><picture><source type="image/avif" srcset="assets/img/cu-marbre-600.avif 600w, assets/img/cu-marbre-900.avif 900w, assets/img/cu-marbre-1400.avif 1400w, assets/img/cu-marbre-2000.avif 2000w" sizes="(max-width:960px) 100vw, 62vw"><img src="assets/img/cu-marbre-1400.webp" srcset="assets/img/cu-marbre-600.webp 600w, assets/img/cu-marbre-900.webp 900w, assets/img/cu-marbre-1400.webp 1400w, assets/img/cu-marbre-2000.webp 2000w" sizes="(max-width:960px) 100vw, 62vw" alt="Îlot effet marbre clair et murs en bois, cuisine lumineuse" width="2500" height="2500" loading="eager" decoding="async" fetchpriority="high" data-credit="Fabricant italien"></picture></div>
+        <div class="carte">
+          <p class="kicker">Tendances</p>
+          <h1>Beige, pierre veinée et bois</h1>
+          <p class="intro">Chaque saison apporte ses teintes. Nous en gardons ce qui tient.</p>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -429,7 +533,7 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
     <div class="wrap">
       <p class="kicker">Ce qui revient cette saison</p>
       <h2 id="saison-titre">Trois familles, et ce qu’on en fait.</h2>
-      <ul class="materials materials-3">
+      <ul class="materials materials-3 relief">
         <li><span class="mat has-img"><picture><source type="image/avif" srcset="assets/img/mat-laque-480.avif 480w, assets/img/mat-laque-960.avif 960w" sizes="(max-width:760px) 45vw, 22vw"><img src="assets/img/mat-laque-960.webp" srcset="assets/img/mat-laque-480.webp 480w, assets/img/mat-laque-960.webp 960w" sizes="(max-width:760px) 45vw, 22vw" alt="Échantillon Tomasella : laque mate Arena" width="1900" height="1900" loading="lazy" decoding="async" data-credit="Tomasella · Laccato"></picture></span><b>Les beiges</b><small>Sable, lin, écru, grège — ici une laque mate Arena. Sans risque sur les grandes surfaces : le beige ne se démode pas, il change de nuance.</small></li>
         <li><span class="mat has-img"><picture><source type="image/avif" srcset="assets/img/mat-pierre-480.avif 480w, assets/img/mat-pierre-960.avif 960w" sizes="(max-width:760px) 45vw, 22vw"><img src="assets/img/mat-pierre-960.webp" srcset="assets/img/mat-pierre-480.webp 480w, assets/img/mat-pierre-960.webp 960w" sizes="(max-width:760px) 45vw, 22vw" alt="Échantillon Tomasella : pierre piasentina" width="1900" height="1900" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Les pierres veinées</b><small>Travertin côté clair, piasentina — la pierre ci-contre — côté sombre. Pour un plateau ou une table basse ; sur toute une pièce, on s’en lasse.</small></li>
         <li><span class="mat has-img"><picture><source type="image/avif" srcset="assets/img/mat-noyer-480.avif 480w, assets/img/mat-noyer-960.avif 960w" sizes="(max-width:760px) 45vw, 22vw"><img src="assets/img/mat-noyer-960.webp" srcset="assets/img/mat-noyer-480.webp 480w, assets/img/mat-noyer-960.webp 960w" sizes="(max-width:760px) 45vw, 22vw" alt="Échantillon Tomasella : noyer ambré" width="1900" height="1900" loading="lazy" decoding="async" data-credit="Tomasella · Materico"></picture></span><b>Les bois chaleureux</b><small>Noyer ambré, chêne cognac, cannelures. Le moins risqué : le bois n’est pas revenu à la mode, il n’en est jamais sorti.</small></li>
@@ -459,6 +563,7 @@ button,.btn,summary{user-select:none;-webkit-user-select:none}
           <a class="btn btn-ghost" href="living">Voir le living</a>
         </div>
       </div>
+      <div class="ph has-img final-photo"><picture><source type="image/avif" srcset="assets/img/sd-gold-ambiance-600.avif 600w, assets/img/sd-gold-ambiance-900.avif 900w, assets/img/sd-gold-ambiance-1400.avif 1400w, assets/img/sd-gold-ambiance-1440.avif 1440w" sizes="(max-width:960px) 100vw, 50vw"><img src="assets/img/sd-gold-ambiance-1400.webp" srcset="assets/img/sd-gold-ambiance-600.webp 600w, assets/img/sd-gold-ambiance-900.webp 900w, assets/img/sd-gold-ambiance-1400.webp 1400w, assets/img/sd-gold-ambiance-1440.webp 1440w" sizes="(max-width:960px) 100vw, 50vw" alt="Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée" width="1440" height="840" loading="lazy" decoding="async" data-credit="Sedit Gold"></picture></div>
     </div>
   </section>
 
