@@ -1066,5 +1066,642 @@
    1772,
    814
   ]
+ },
+ "ct-napoleon-ambiance": {
+  "id": "ct-napoleon-ambiance",
+  "use": [
+   "tables-cattelan:hero"
+  ],
+  "credit": "Cattelan Italia Napoleon Keramik",
+  "alt": "Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse",
+  "source": "ct-napoleon-ambiance.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-napoleon-ambiance-600.webp",
+   "900": "ct-napoleon-ambiance-900.webp",
+   "1400": "ct-napoleon-ambiance-1400.webp",
+   "2000": "ct-napoleon-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-napoleon-ambiance-600.avif",
+   "900": "ct-napoleon-ambiance-900.avif",
+   "1400": "ct-napoleon-ambiance-1400.avif",
+   "2000": "ct-napoleon-ambiance-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ],
+  "og": "ct-napoleon-ambiance-og.jpg"
+ },
+ "ct-napoleon-salle": {
+  "id": "ct-napoleon-salle",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Napoleon Keramik",
+  "alt": "Table ovale en céramique claire sur pied central, fauteuils écrus, devant de grandes fenêtres",
+  "source": "ct-napoleon-salle.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-napoleon-salle-600.webp",
+   "900": "ct-napoleon-salle-900.webp",
+   "1400": "ct-napoleon-salle-1400.webp",
+   "2000": "ct-napoleon-salle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-napoleon-salle-600.avif",
+   "900": "ct-napoleon-salle-900.avif",
+   "1400": "ct-napoleon-salle-1400.avif",
+   "2000": "ct-napoleon-salle-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ]
+ },
+ "ct-napoleon-detail": {
+  "id": "ct-napoleon-detail",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Napoleon Keramik",
+  "alt": "Plateau en céramique claire vu de dessus, avec un bouquet et une coupe en bois",
+  "source": "ct-napoleon-detail.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-napoleon-detail-600.webp",
+   "900": "ct-napoleon-detail-900.webp",
+   "1400": "ct-napoleon-detail-1400.webp",
+   "2000": "ct-napoleon-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-napoleon-detail-600.avif",
+   "900": "ct-napoleon-detail-900.avif",
+   "1400": "ct-napoleon-detail-1400.avif",
+   "2000": "ct-napoleon-detail-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ]
+ },
+ "ct-botero-ambiance": {
+  "id": "ct-botero-ambiance",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Botero Keramik",
+  "alt": "Table ovale sur pied central arrondi, chaises écrues, sous des suspensions en verre",
+  "source": "ct-botero-ambiance.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-botero-ambiance-600.webp",
+   "900": "ct-botero-ambiance-900.webp",
+   "1400": "ct-botero-ambiance-1400.webp",
+   "2000": "ct-botero-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-botero-ambiance-600.avif",
+   "900": "ct-botero-ambiance-900.avif",
+   "1400": "ct-botero-ambiance-1400.avif",
+   "2000": "ct-botero-ambiance-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ]
+ },
+ "ct-botero-rond": {
+  "id": "ct-botero-rond",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Botero Keramik",
+  "alt": "Table ronde sur pied central galbé, posée sur un tapis rond",
+  "source": "ct-botero-rond.jpg",
+  "w": 2362,
+  "h": 2779,
+  "files": {
+   "600": "ct-botero-rond-600.webp",
+   "900": "ct-botero-rond-900.webp",
+   "1400": "ct-botero-rond-1400.webp",
+   "2000": "ct-botero-rond-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-botero-rond-600.avif",
+   "900": "ct-botero-rond-900.avif",
+   "1400": "ct-botero-rond-1400.avif",
+   "2000": "ct-botero-rond-2000.avif"
+  },
+  "ratio": [
+   2362,
+   2779
+  ]
+ },
+ "ct-tyron-ambiance": {
+  "id": "ct-tyron-ambiance",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Tyron Keramik",
+  "alt": "Grande table en céramique marbrée sur piètement croisé en métal, dans un séjour clair",
+  "source": "ct-tyron-ambiance.jpg",
+  "w": 3543,
+  "h": 2657,
+  "files": {
+   "600": "ct-tyron-ambiance-600.webp",
+   "900": "ct-tyron-ambiance-900.webp",
+   "1400": "ct-tyron-ambiance-1400.webp",
+   "2000": "ct-tyron-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-tyron-ambiance-600.avif",
+   "900": "ct-tyron-ambiance-900.avif",
+   "1400": "ct-tyron-ambiance-1400.avif",
+   "2000": "ct-tyron-ambiance-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2657
+  ]
+ },
+ "ct-tyron-salle": {
+  "id": "ct-tyron-salle",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Tyron Keramik",
+  "alt": "Table sur piètement croisé, chaises cognac, devant une baie vitrée",
+  "source": "ct-tyron-salle.jpg",
+  "w": 2657,
+  "h": 3543,
+  "files": {
+   "600": "ct-tyron-salle-600.webp",
+   "900": "ct-tyron-salle-900.webp",
+   "1400": "ct-tyron-salle-1400.webp",
+   "2000": "ct-tyron-salle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-tyron-salle-600.avif",
+   "900": "ct-tyron-salle-900.avif",
+   "1400": "ct-tyron-salle-1400.avif",
+   "2000": "ct-tyron-salle-2000.avif"
+  },
+  "ratio": [
+   2657,
+   3543
+  ]
+ },
+ "ct-tyron-detail": {
+  "id": "ct-tyron-detail",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Tyron Keramik",
+  "alt": "Plateau en céramique marbrée blanc et brun, vu de dessus, avec trois coupes en cuivre",
+  "source": "ct-tyron-detail.jpg",
+  "w": 3543,
+  "h": 2657,
+  "files": {
+   "600": "ct-tyron-detail-600.webp",
+   "900": "ct-tyron-detail-900.webp",
+   "1400": "ct-tyron-detail-1400.webp",
+   "2000": "ct-tyron-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-tyron-detail-600.avif",
+   "900": "ct-tyron-detail-900.avif",
+   "1400": "ct-tyron-detail-1400.avif",
+   "2000": "ct-tyron-detail-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2657
+  ]
+ },
+ "sd-gold-ambiance": {
+  "id": "sd-gold-ambiance",
+  "use": [
+   "tables-sedit:hero"
+  ],
+  "credit": "Sedit Gold",
+  "alt": "Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée",
+  "source": "sd-gold-ambiance.jpg",
+  "w": 1440,
+  "h": 840,
+  "files": {
+   "600": "sd-gold-ambiance-600.webp",
+   "900": "sd-gold-ambiance-900.webp",
+   "1400": "sd-gold-ambiance-1400.webp",
+   "1440": "sd-gold-ambiance-1440.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-gold-ambiance-600.avif",
+   "900": "sd-gold-ambiance-900.avif",
+   "1400": "sd-gold-ambiance-1400.avif",
+   "1440": "sd-gold-ambiance-1440.avif"
+  },
+  "ratio": [
+   1440,
+   840
+  ],
+  "og": "sd-gold-ambiance-og.jpg"
+ },
+ "sd-gold-salle": {
+  "id": "sd-gold-salle",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Gold",
+  "alt": "Table en céramique marbrée sur piètement croisé, chaises vertes, lumière du soir",
+  "source": "sd-gold-salle.jpg",
+  "w": 1200,
+  "h": 1440,
+  "files": {
+   "600": "sd-gold-salle-600.webp",
+   "900": "sd-gold-salle-900.webp",
+   "1200": "sd-gold-salle-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-gold-salle-600.avif",
+   "900": "sd-gold-salle-900.avif",
+   "1200": "sd-gold-salle-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1440
+  ]
+ },
+ "sd-gold-detail": {
+  "id": "sd-gold-detail",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Gold",
+  "alt": "Coin du plateau en céramique marbrée, vu de dessus, avec une chaise en velours vert",
+  "source": "sd-gold-detail.jpg",
+  "w": 1200,
+  "h": 1440,
+  "files": {
+   "600": "sd-gold-detail-600.webp",
+   "900": "sd-gold-detail-900.webp",
+   "1200": "sd-gold-detail-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-gold-detail-600.avif",
+   "900": "sd-gold-detail-900.avif",
+   "1200": "sd-gold-detail-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1440
+  ]
+ },
+ "sd-arcus-ambiance": {
+  "id": "sd-arcus-ambiance",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Arcus",
+  "alt": "Table au plateau céramique noir marbré sur pied en arc, chaises cognac, devant un jardin",
+  "source": "sd-arcus-ambiance.jpg",
+  "w": 1613,
+  "h": 1075,
+  "files": {
+   "600": "sd-arcus-ambiance-600.webp",
+   "900": "sd-arcus-ambiance-900.webp",
+   "1400": "sd-arcus-ambiance-1400.webp",
+   "1613": "sd-arcus-ambiance-1613.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-arcus-ambiance-600.avif",
+   "900": "sd-arcus-ambiance-900.avif",
+   "1400": "sd-arcus-ambiance-1400.avif",
+   "1613": "sd-arcus-ambiance-1613.avif"
+  },
+  "ratio": [
+   1613,
+   1075
+  ]
+ },
+ "sd-arcus-salle": {
+  "id": "sd-arcus-salle",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Arcus",
+  "alt": "Table au plateau en bois foncé sur pied en arc, dans une pièce en béton clair",
+  "source": "sd-arcus-salle.jpg",
+  "w": 1920,
+  "h": 1280,
+  "files": {
+   "600": "sd-arcus-salle-600.webp",
+   "900": "sd-arcus-salle-900.webp",
+   "1400": "sd-arcus-salle-1400.webp",
+   "1920": "sd-arcus-salle-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-arcus-salle-600.avif",
+   "900": "sd-arcus-salle-900.avif",
+   "1400": "sd-arcus-salle-1400.avif",
+   "1920": "sd-arcus-salle-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1280
+  ]
+ },
+ "sd-arcus-detail": {
+  "id": "sd-arcus-detail",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Arcus",
+  "alt": "Plateau en céramique marbrée vu de dessus, chaises jaune moutarde",
+  "source": "sd-arcus-detail.jpg",
+  "w": 1075,
+  "h": 1613,
+  "files": {
+   "600": "sd-arcus-detail-600.webp",
+   "900": "sd-arcus-detail-900.webp",
+   "1075": "sd-arcus-detail-1075.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-arcus-detail-600.avif",
+   "900": "sd-arcus-detail-900.avif",
+   "1075": "sd-arcus-detail-1075.avif"
+  },
+  "ratio": [
+   1075,
+   1613
+  ]
+ },
+ "ak-impulsion-ambiance": {
+  "id": "ak-impulsion-ambiance",
+  "use": [
+   "tables-akante:hero"
+  ],
+  "credit": "Akante Impulsion",
+  "alt": "Table à rallonge au plateau effet bois clair sur pied métal noir, dans un séjour lumineux",
+  "source": "ak-impulsion-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-impulsion-ambiance-600.webp",
+   "900": "ak-impulsion-ambiance-900.webp",
+   "1400": "ak-impulsion-ambiance-1400.webp",
+   "2000": "ak-impulsion-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-impulsion-ambiance-600.avif",
+   "900": "ak-impulsion-ambiance-900.avif",
+   "1400": "ak-impulsion-ambiance-1400.avif",
+   "2000": "ak-impulsion-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ],
+  "og": "ak-impulsion-ambiance-og.jpg"
+ },
+ "ak-impulsion-salle": {
+  "id": "ak-impulsion-salle",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Impulsion",
+  "alt": "Table à rallonge au plateau céramique clair, chaises grises, murs à moulures",
+  "source": "ak-impulsion-salle.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-impulsion-salle-600.webp",
+   "900": "ak-impulsion-salle-900.webp",
+   "1400": "ak-impulsion-salle-1400.webp",
+   "2000": "ak-impulsion-salle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-impulsion-salle-600.avif",
+   "900": "ak-impulsion-salle-900.avif",
+   "1400": "ak-impulsion-salle-1400.avif",
+   "2000": "ak-impulsion-salle-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-phoenix-ambiance": {
+  "id": "ak-phoenix-ambiance",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Phoenix",
+  "alt": "Table à rallonge au plateau céramique clair sur pied central en étoile, chaises grises",
+  "source": "ak-phoenix-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-phoenix-ambiance-600.webp",
+   "900": "ak-phoenix-ambiance-900.webp",
+   "1400": "ak-phoenix-ambiance-1400.webp",
+   "2000": "ak-phoenix-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-phoenix-ambiance-600.avif",
+   "900": "ak-phoenix-ambiance-900.avif",
+   "1400": "ak-phoenix-ambiance-1400.avif",
+   "2000": "ak-phoenix-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-missouri-ambiance": {
+  "id": "ak-missouri-ambiance",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Missouri",
+  "alt": "Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois",
+  "source": "ak-missouri-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-missouri-ambiance-600.webp",
+   "900": "ak-missouri-ambiance-900.webp",
+   "1400": "ak-missouri-ambiance-1400.webp",
+   "2000": "ak-missouri-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-missouri-ambiance-600.avif",
+   "900": "ak-missouri-ambiance-900.avif",
+   "1400": "ak-missouri-ambiance-1400.avif",
+   "2000": "ak-missouri-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "cu-sauge": {
+  "id": "cu-sauge",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Cuisine classique vert sauge, façades à cadre et hotte claire",
+  "source": "cu-sauge.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "cu-sauge-600.webp",
+   "900": "cu-sauge-900.webp",
+   "1400": "cu-sauge-1400.webp",
+   "2000": "cu-sauge-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-sauge-600.avif",
+   "900": "cu-sauge-900.avif",
+   "1400": "cu-sauge-1400.avif",
+   "2000": "cu-sauge-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "cu-terre": {
+  "id": "cu-terre",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Cuisine aux colonnes couleur terre cuite, sous une charpente blanche",
+  "source": "cu-terre.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "cu-terre-600.webp",
+   "900": "cu-terre-900.webp",
+   "1400": "cu-terre-1400.webp",
+   "2000": "cu-terre-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-terre-600.avif",
+   "900": "cu-terre-900.avif",
+   "1400": "cu-terre-1400.avif",
+   "2000": "cu-terre-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "cu-bleu": {
+  "id": "cu-bleu",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Cuisine bleu profond avec table en chêne et vitrines éclairées",
+  "source": "cu-bleu.jpg",
+  "w": 945,
+  "h": 850,
+  "files": {
+   "600": "cu-bleu-600.webp",
+   "900": "cu-bleu-900.webp",
+   "945": "cu-bleu-945.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-bleu-600.avif",
+   "900": "cu-bleu-900.avif",
+   "945": "cu-bleu-945.avif"
+  },
+  "ratio": [
+   945,
+   850
+  ]
+ },
+ "cu-marbre": {
+  "id": "cu-marbre",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Îlot effet marbre clair et murs en bois, cuisine lumineuse",
+  "source": "cu-marbre.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "cu-marbre-600.webp",
+   "900": "cu-marbre-900.webp",
+   "1400": "cu-marbre-1400.webp",
+   "2000": "cu-marbre-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-marbre-600.avif",
+   "900": "cu-marbre-900.avif",
+   "1400": "cu-marbre-1400.avif",
+   "2000": "cu-marbre-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "cu-anthracite": {
+  "id": "cu-anthracite",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Îlot anthracite mat au plan en bois, devant de grandes fenêtres",
+  "source": "cu-anthracite.jpg",
+  "w": 945,
+  "h": 850,
+  "files": {
+   "600": "cu-anthracite-600.webp",
+   "900": "cu-anthracite-900.webp",
+   "945": "cu-anthracite-945.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-anthracite-600.avif",
+   "900": "cu-anthracite-900.avif",
+   "945": "cu-anthracite-945.avif"
+  },
+  "ratio": [
+   945,
+   850
+  ]
  }
 }
