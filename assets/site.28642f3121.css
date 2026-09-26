@@ -235,6 +235,7 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 .visite-texte .titre-section{margin:0 0 20px}
 .visite-texte .chapo{max-width:40ch}
 .visite-texte .actions{margin-top:32px}
+.visite-note{margin:14px 0 0;padding-top:14px;border-top:1px solid var(--trait);font-size:var(--t-petit);color:var(--encre-2)}
 .visite-carte{grid-column:8/13;background:var(--carte);padding:36px 40px 30px;border-radius:var(--rayon);box-shadow:var(--ombre)}
 @media (max-width:960px){.visite{display:block}.visite-carte{margin-top:40px;padding:24px}}
 .moments{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--gout)}

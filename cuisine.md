@@ -1,4 +1,4 @@
-# Cuisines italiennes Stosa sur mesure à Binche — Fony Meubles
+# Cuisine italienne sur mesure à Binche, Stosa — Fony Meubles
 
 > Des cuisines Stosa fabriquées en Italie, dessinées avec vous de la mesure à la pose. Garantie 5 ans, échantillons au magasin près de Binche.
 
@@ -11,7 +11,7 @@ Adresse de la page : https://fony.be/cuisine
 1. [Accueil](https://fony.be/)
 2. Cuisine
 
-Cuisines Stosa, sur mesure
+Cuisine italienne sur mesure
 
 # Cuisines italiennes
 
@@ -171,3 +171,8 @@ Dimanche
 
 Téléphone
 :   [064 46 07 72](tel:+3264460772)
+
+Livraison
+:   Par nos soins, partout en Belgique
+
+Surtout dans le Hainaut et la province de Namur : Binche, Charleroi, Mons, La Louvière, Soignies et alentours.

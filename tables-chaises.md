@@ -1,6 +1,6 @@
 # Tables et chaises de salle à manger à Binche — Fony Meubles
 
-> Tables fixes et à rallonge, chaises et buffets : Cattelan Italia, Sedit, Akante, Movis, Modulax, Tomasella, à voir près de Binche.
+> Tables fixes et extensibles, chaises et buffets : Cattelan Italia, Sedit, Akante, Movis, Modulax, Tomasella, à voir près de Binche.
 
 Adresse de la page : https://fony.be/tables-chaises
 
@@ -19,7 +19,7 @@ Une grande table fixe italienne, à la ligne épurée : c’est ce que nous aim
 
 [Mon projet table](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
-- Tables fixes et à rallonge
+- Tables fixes et extensibles
 - Céramique, bois et laque
 - Première visite et conseil offerts
 
@@ -53,7 +53,7 @@ Essences, plateaux, dimensions : des salles à manger à comparer au magasin, a
 
    ### La rallonge en un geste
 
-   Des tables à rallonge, avec un excellent rapport qualité-prix.
+   Des tables extensibles, avec un excellent rapport qualité-prix.
 
    [Voir les tables Akante](https://fony.be/tables-akante)
 4. (Photo : Salle à manger : table ovale au plateau clair sur pied central en bois, chaises grises, buffet arrondi)
@@ -205,3 +205,8 @@ Dimanche
 
 Téléphone
 :   [064 46 07 72](tel:+3264460772)
+
+Livraison
+:   Par nos soins, partout en Belgique
+
+Surtout dans le Hainaut et la province de Namur : Binche, Charleroi, Mons, La Louvière, Soignies et alentours.

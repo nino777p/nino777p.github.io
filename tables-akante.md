@@ -88,3 +88,8 @@ Dimanche
 
 Téléphone
 :   [064 46 07 72](tel:+3264460772)
+
+Livraison
+:   Par nos soins, partout en Belgique
+
+Surtout dans le Hainaut et la province de Namur : Binche, Charleroi, Mons, La Louvière, Soignies et alentours.
