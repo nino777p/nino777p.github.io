@@ -40,10 +40,10 @@ fin :
 bandeau actif : non
 
 # Le texte affiché sur ordinateur (une phrase, sans point final obligatoire)
-bandeau texte : Journées Relax : venez essayer nos canapés relax, le café est offert.
+bandeau texte :
 
 # La version courte, affichée sur téléphone (6 à 8 mots maximum)
-bandeau texte court : Journées Relax : essayez nos relax.
+bandeau texte court :
 
 # Où mène le lien, et comment il s'appelle
 bandeau lien : offre-du-moment.html
@@ -60,8 +60,8 @@ bandeau libellé : Voir l'offre
 
 popup actif : non
 
-popup titre : Journées Relax
-popup texte : Venez essayer nos canapés et fauteuils relax. Nous vous montrons les fonctions et vous aidons à trouver la bonne position. Le café est offert.
+popup titre :
+popup texte :
 popup bouton : Réserver un moment
 popup lien : offre-du-moment.html
 
@@ -83,12 +83,12 @@ popup repos : 7
 
 campagne active : non
 
-campagne titre : Journées Relax
-campagne accroche : Le confort se choisit assis.
-campagne texte : Pendant deux semaines, venez essayer nos canapés et fauteuils relax, italiens et européens. Nous vous montrons les différentes fonctions et nous vous aidons à trouver la bonne position. Le café est offert.
+campagne titre :
+campagne accroche :
+campagne texte :
 
 # Les trois arguments, séparés par une barre verticale |
-campagne arguments : Une trentaine de salons exposés | Essai libre, sans rendez-vous | Conseil par quelqu'un qui connaît les produits
+campagne arguments :
 
 # Le bouton principal, et ce qu'on demande dans le formulaire
 campagne bouton : Réserver un moment
