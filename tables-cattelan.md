@@ -100,4 +100,4 @@ Téléphone
 Livraison
 :   Par nos soins, partout en Belgique
 
-Surtout dans le Hainaut et la province de Namur : Binche, Charleroi, Mons, La Louvière, Soignies et alentours.
+Surtout dans le Hainaut et la province de Namur : Charleroi, Namur, Mons, La Louvière, Binche, Châtelet, Courcelles, Soignies et alentours.
