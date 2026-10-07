@@ -28,7 +28,7 @@ Au magasin et sur catalogue
 
 ## Quelques modèles.
 
-1. (Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
+1. (Photo : Table en céramique noire veinée sur pied central, chaises en cuir orange, lumière du soir)
 
    (Photo : Table ovale en céramique claire sur pied central, fauteuils écrus, devant de grandes fenêtres)
 
@@ -36,7 +36,7 @@ Au magasin et sur catalogue
 
    01
 
-   Plateau en céramique et pied central assorti, dans les tons du travertin.
+   Plateau en céramique, travertin clair ou marbre sombre, et pied central assorti.
 2. (Photo : Table ovale sur pied central arrondi, chaises écrues, sous des suspensions en verre)
 
    (Photo : Table ronde sur pied central galbé, posée sur un tapis rond)

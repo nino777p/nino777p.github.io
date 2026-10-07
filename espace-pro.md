@@ -4,7 +4,7 @@
 
 Adresse de la page : https://fony.be/espace-pro
 
-(Photo : Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée)
+(Photo : Grande table ovale en céramique claire sur pied central, chaises grises, dans une salle sombre ouverte sur une baie vitrée)
 
 1. [Accueil](https://fony.be/)
 2. Espace pro
@@ -27,7 +27,7 @@ Chaque espace a son usage
 
 Un bureau occupé huit heures par jour, une chambre d’hôtel qui change d’occupant chaque nuit : le mobilier ne se choisit pas pareil.
 
-(Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+(Photo : Longue table en céramique claire sur piètement croisé, dix chaises en cuir brun, vue en plongée)
 
 Bureaux
 

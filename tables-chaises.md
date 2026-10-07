@@ -38,7 +38,7 @@ Essences, plateaux, dimensions : des salles à manger à comparer au magasin, a
    Plateaux en céramique, pieds sculptés.
 
    [Voir les tables Cattelan](https://fony.be/tables-cattelan)
-2. (Photo : Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée)
+2. (Photo : Table en céramique marbrée sur piètement croisé doré, chaises en bois, devant une cheminée)
 
    Sedit
 
@@ -168,7 +168,7 @@ Dans la pièce
 
 ## Ce qui va avec la table.
 
-- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+- (Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
   ### [Avec le séjour](https://fony.be/living)
 

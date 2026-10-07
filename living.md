@@ -72,7 +72,7 @@ Autour du séjour
   Table fixe italienne ou à rallonge, et les chaises qui vont avec.
 
   Voir la salle à manger
-- (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+- (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
 
   ### [Le salon](https://fony.be/salon)
 

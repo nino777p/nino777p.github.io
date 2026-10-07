@@ -76,7 +76,7 @@ Comment se passe votre projet
 
 ## De la visite à la pose.
 
-1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+1. (Photo : Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée)
 
    01
 
@@ -105,7 +105,7 @@ Comment se passe votre projet
 
    Livraison par nos soins, pose par notre équipe ou un professionnel partenaire, finitions ; nous restons joignables. Démontage et évacuation de l’ancien mobilier sur demande, modalités au magasin.
 
-(Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
+(Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
 Vous êtes professionnel ?
 
