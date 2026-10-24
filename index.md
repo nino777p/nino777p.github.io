@@ -10,7 +10,7 @@ Adresse de la page : https://fony.be/
 
 (Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
 
-Meubles, cuisines, sur mesure — Leval-Trahegnies, depuis 1993
+Meubles, cuisines, sur mesure — Leval-Trahegnies, depuis 1991
 
 # Le bon meuble au bon moment.
 

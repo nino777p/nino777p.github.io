@@ -7,7 +7,7 @@ Adresse de la page : https://fony.be/magasin-contact
 1. [Accueil](https://fony.be/)
 2. Le magasin
 
-Depuis 1993
+Depuis 1991
 
 # Le magasin, à Leval-Trahegnies.
 
