@@ -24,7 +24,7 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <link rel="stylesheet" href="assets/site.b5dd1241ae.css">
-<script src="assets/site.1b121888f4.js" defer></script>
+<script src="assets/site.121ec01495.js" defer></script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://fony.be/magasin-contact#page", "url": "https://fony.be/magasin-contact", "name": "Le magasin à Leval-Trahegnies (Binche) — Fony Meubles", "description": "Fony Meubles, 160/1 route de Charleroi, 7134 Leval-Trahegnies. Ouvert du lundi au samedi. Préparez votre visite ou demandez une visite chez vous.", "inLanguage": "fr-BE", "isPartOf": {"@id": "https://fony.be/#site"}, "about": {"@id": "https://fony.be/#magasin"}, "breadcrumb": {"@id": "https://fony.be/magasin-contact#ariane"}}, {"@type": "BreadcrumbList", "@id": "https://fony.be/magasin-contact#ariane", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://fony.be/"}, {"@type": "ListItem", "position": 2, "name": "Le magasin", "item": "https://fony.be/magasin-contact"}]}]}</script>
 </head>
 <body>
@@ -93,7 +93,7 @@
     <div class="formulaire-texte">
       <div class="tete-section"><p class="surtitre">Mon projet</p><h2 class="titre-section">Préparer votre visite.</h2><p class="chapo">Dites-nous en quelques mots ce que vous cherchez : nous vous recontactons pour convenir d’un moment.</p></div>
 <ul class="formulaire-aide"><li>Vos mesures : longueur, largeur et hauteur du mur.</li><li>Une photo de la pièce, si vous l’avez.</li></ul>    </div>
-    <form class="formulaire" action="https://formsubmit.co/fonymeubles@gmail.com" method="post" data-formulaire>
+    <form class="formulaire" action="https://formsubmit.co/fonymeubles@gmail.com" method="post" enctype="multipart/form-data" data-formulaire>
       <input type="hidden" name="_subject" value="Demande via fony.be">
       <input type="hidden" name="_captcha" value="false">
       <input type="hidden" name="_next" value="https://fony.be/merci">
@@ -112,7 +112,9 @@
         <select id="f-interet" name="interet"><option>Salon et relax</option><option>Séjour</option><option>Salle à manger</option><option>Chambre et literie</option><option>Sur mesure</option><option>Cuisine</option><option>Projet complet</option><option>Professionnel</option></select></div>
       <div class="champ"><label for="f-contact">Vous préférez</label>
         <select id="f-contact" name="contact" data-telephone-si="Une visite chez vous|Être rappelé"><option>Venir au magasin</option><option>Une visite chez vous</option><option>Être rappelé</option></select></div>
+      <div class="champ champ--large"><label for="f-photo">Une photo de la pièce (facultatif)</label><input id="f-photo" name="attachment" type="file" accept="image/jpeg,image/png" aria-describedby="f-photo-aide"><p class="formulaire-note" id="f-photo-aide">Une seule image, JPG ou PNG, 10 Mo maximum.</p></div>
       <div class="champ champ--large"><label for="f-message">Votre projet en quelques mots</label><textarea id="f-message" name="message" rows="5"></textarea></div>
+      <p class="formulaire-erreur champ--large" data-erreur-photo role="alert" hidden>La photo dépasse 10 Mo : choisissez-en une plus légère ou envoyez-la-nous par e-mail.</p>
       <div class="champ champ--large champ--case"><input id="f-consentement" name="consentement" type="checkbox" required><label for="f-consentement">J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. <a href="confidentialite">Politique de confidentialité</a></label></div>
       <p class="formulaire-erreur champ--large" role="alert" hidden>Indiquez un e-mail ou un téléphone pour que nous puissions vous répondre.</p>
       <div class="champ--large"><button class="bouton bouton--plein" type="submit">Envoyer ma demande</button></div>

@@ -46,7 +46,8 @@ bandeau texte :
 bandeau texte court :
 
 # Où mène le lien, et comment il s'appelle
-bandeau lien : offre-du-moment.html
+# Le lien doit mener à une page qui existe : magasin-contact#visite, cuisine, salon…
+bandeau lien : magasin-contact#visite
 bandeau libellé : Voir l'offre
 
 
@@ -63,7 +64,7 @@ popup actif : non
 popup titre :
 popup texte :
 popup bouton : Réserver un moment
-popup lien : offre-du-moment.html
+popup lien : magasin-contact#visite
 
 # Secondes avant qu'il puisse apparaître (25 est un bon réglage)
 popup délai : 25
