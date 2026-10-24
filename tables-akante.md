@@ -26,7 +26,7 @@ Des tables à rallonge qui s’ouvrent en un geste. Un excellent rapport qualit�
 
 Au magasin et sur catalogue
 
-## Quelques modèles.
+## Une sélection de modèles.
 
 1. (Photo : Table à rallonge au plateau effet bois clair sur pied métal noir, dans un séjour lumineux)
 
@@ -52,7 +52,7 @@ Voir aussi
 
 - ### Cattelan Italia
 
-  La belle table en céramique.
+  Des tables en céramique au design affirmé.
 
   [Voir les tables Cattelan](https://fony.be/tables-cattelan)
 - ### Sedit
@@ -66,9 +66,9 @@ Voir aussi
 
   [Voir la salle à manger](https://fony.be/tables-chaises)
 
-## Venez vous y attabler.
+## Venez voir nos tables au magasin.
 
-Ouvrez la rallonge vous-même au magasin : c’est là qu’on juge un mécanisme.
+Au magasin, ouvrez la rallonge vous-même : c’est la meilleure façon de juger le mécanisme.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

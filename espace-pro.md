@@ -11,7 +11,7 @@ Adresse de la page : https://fony.be/espace-pro
 
 Espace pro
 
-# Des espaces qui travaillent pour vous.
+# Aménagement d’espaces professionnels.
 
 Un seul interlocuteur, du plan à la pose. Indépendant, entreprise, établissement ou promoteur.
 
@@ -23,7 +23,7 @@ Un seul interlocuteur, du plan à la pose. Indépendant, entreprise, établissem
 
 Chaque espace a son usage
 
-## Quatre métiers, quatre façons de meubler.
+## Un mobilier adapté à chaque activité.
 
 Un bureau occupé huit heures par jour, une chambre d’hôtel qui change d’occupant chaque nuit : le mobilier ne se choisit pas pareil.
 
@@ -41,7 +41,7 @@ Le poste de travail intégré à la pièce, les rangements, la salle de réunion
 
 Hôtels et restaurants
 
-### Ce qui garde son allure
+### Un mobilier qui dure
 
 Tables et chaises, meubles de rangement, literie et matelas, bureau de chambre.
 
@@ -71,7 +71,7 @@ Comment nous travaillons
 
 ## Du plan à la pose.
 
-Trois choses nous aident : les dimensions ou un plan, l’usage — qui s’y installe, combien de temps — et une idée du volume. Nous faisons le reste sur place.
+Pour préparer la visite, trois informations nous aident : les dimensions ou un plan, l’usage prévu (qui occupe l’espace, et pour combien de temps) et une idée du volume. Nous complétons le reste sur place.
 
 - 01
 

@@ -1,4 +1,4 @@
-# Fony Meubles — le bon meuble au bon moment, à Binche
+# Fony Meubles — meubles, cuisines et sur mesure à Binche
 
 > Magasin de meubles à Leval-Trahegnies (Binche) : salons, séjour, chambre, tables, cuisines italiennes et sur mesure. Conseil et première visite offerts.
 
@@ -12,7 +12,7 @@ Adresse de la page : https://fony.be/
 
 Meubles, cuisines, sur mesure — Leval-Trahegnies, depuis 1991
 
-# Le bon meuble au bon moment.
+# Votre intérieur, de la première idée à la pose.
 
 Salons, séjour, chambre, tables, cuisines italiennes et sur mesure. Fabrication européenne, conseil au magasin.
 
@@ -22,19 +22,19 @@ Salons, séjour, chambre, tables, cuisines italiennes et sur mesure. Fabrication
 - Première visite et conseil offerts
 - Du lundi au samedi
 
-Où en êtes-vous ?
+Selon votre projet
 
-## Trois moments, une même façon de faire.
+## Un premier logement, une maison à embellir, un intérieur plus pratique.
 
-Ce qu’on met chez soi change avec la vie. Nous accompagnons chaque étape, sans jamais brider l’envie de monter en gamme.
+Les besoins évoluent au fil des années. Nous vous conseillons à chaque étape, quel que soit votre budget.
 
 1. (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 
    01
 
-   ### On s’installe
+   ### Un premier logement
 
-   Un premier logement se meuble avec ce qui dure. Un salon solide, une table à rallonge en céramique, une cuisine italienne accessible. Et si vous ne savez pas par où commencer, la première visite et le conseil sont offerts.
+   Pour un premier logement, nous privilégions des meubles qui durent : un salon solide, une table à rallonge en céramique, une cuisine italienne d’entrée de gamme. La première visite et le conseil sont offerts.
 
    - [Salon](https://fony.be/salon)
    - [Salle à manger](https://fony.be/tables-chaises)
@@ -43,9 +43,9 @@ Ce qu’on met chez soi change avec la vie. Nous accompagnons chaque étape, san
 
    02
 
-   ### On s’établit
+   ### Une maison à embellir
 
-   La maison qu’on veut plus belle. La cuisine repensée, le salon assorti, la table dont on rêvait, le placard sur mesure dessiné ensemble. Le design italien, à la mesure de votre pièce.
+   Une cuisine repensée, un salon assorti, une table de caractère, un placard conçu sur mesure : le design italien, adapté aux dimensions de votre pièce.
 
    - [Cuisine](https://fony.be/cuisine)
    - [Salon](https://fony.be/salon)
@@ -55,9 +55,9 @@ Ce qu’on met chez soi change avec la vie. Nous accompagnons chaque étape, san
 
    03
 
-   ### On se simplifie la vie
+   ### Un intérieur plus pratique
 
-   Le confort, sans compromis sur le style. Le relax qui ne se remarque pas, le lit électrique, les rangements qu’on atteint sans se baisser, la cuisine et la pièce de vie repensées pour la mobilité — quel que soit l’âge.
+   Un relax discret, un lit électrique, des rangements accessibles sans se baisser, une cuisine et une pièce de vie adaptées à la mobilité : le confort au quotidien, à tout âge, sans renoncer au style.
 
    - [Salon](https://fony.be/salon)
    - [Chambre](https://fony.be/literie)
@@ -66,50 +66,50 @@ Ce qu’on met chez soi change avec la vie. Nous accompagnons chaque étape, san
 
 Les pièces
 
-## C’est ici que votre projet d’aménagement commence.
+## Choisissez la pièce à aménager.
 
-Chaque projet part de votre pièce et de votre budget.
+Chaque projet part des dimensions de votre pièce et de votre budget.
 
 - (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
   ### [Salon](https://fony.be/salon)
 
-  Canapés et relax, du classique au contemporain.
+  Canapés et fauteuils relax, du classique au contemporain.
 
   Voir les salons
 - (Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
 
   ### [Salle à manger](https://fony.be/tables-chaises)
 
-  La grande table fixe italienne, la rallonge quand la place manque, les chaises qui vont avec.
+  Tables fixes en céramique ou en bois, tables à rallonge et chaises assorties.
 
   Voir les tables
 - (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
   ### [Séjour](https://fony.be/living)
 
-  Meuble TV, bibliothèque, buffet, à la mesure de votre mur.
+  Meubles TV, bibliothèques et buffets composés selon les dimensions de votre mur.
 
   Voir le séjour
 - (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
   ### [Chambre](https://fony.be/literie)
 
-  Boxsprings et matelas belges, fixes ou électriques. Lits et armoires.
+  Boxsprings et matelas de fabrication belge, fixes ou électriques, lits et armoires.
 
   Voir la chambre
 - (Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
 
   ### [Cuisine](https://fony.be/cuisine)
 
-  Dessinée chez vous, posée par nous.
+  Cuisines italiennes conçues avec vous, livrées et installées.
 
   Voir la cuisine
 - (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
   ### [Sur mesure](https://fony.be/sur-mesure)
 
-  Dressing, sous-pente, bibliothèque, dessinés au centimètre.
+  Dressings, sous-pentes et bibliothèques conçus au centimètre près.
 
   Voir le sur mesure
 
@@ -121,11 +121,11 @@ Chaque projet part de votre pièce et de votre budget.
 
 (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
-Composé chez nous
+Nos fabricants
 
-## Le design de l’un, la robustesse de l’autre.
+## Des fabricants européens, choisis pour leur design et leur solidité.
 
-Le tout pour un intérieur qui vous convient. Vous choisissez parmi nos fabricants européens, nous accordons les teintes et les matières, pièce par pièce. Une partie est exposée, le reste sur catalogue.
+Vous choisissez vos meubles parmi nos fabricants européens ; nous vous aidons à accorder les teintes et les matières d’une pièce à l’autre. Une partie des modèles est exposée, les autres se commandent sur catalogue.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 
@@ -144,46 +144,46 @@ Le tout pour un intérieur qui vous convient. Vous choisissez parmi nos fabrican
 - [ModulaxChaises et tabourets de bar](https://fony.be/tables-chaises#chaises-modulax)
 - [Di LazzaroTables et chaises contemporaines](https://fony.be/tables-chaises#fabricants)
 
-Notre façon de faire
+Notre méthode
 
-## Vous le pensez, nous le créons.
+## Un seul interlocuteur, du premier croquis à la pose.
 
-Un seul interlocuteur, du premier croquis à la pose. C’est un plaisir de le faire avec vous.
+Le même conseiller suit votre projet à chaque étape.
 
 1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
    01
 
-   ### On écoute
+   ### Écoute
 
-   Au magasin ou chez vous. Ce que vous rangez, comment vous vivez la pièce, ce qui vous plaît déjà.
+   Au magasin ou chez vous, nous faisons le point sur ce que vous rangez, sur votre façon d’utiliser la pièce et sur ce qui vous plaît déjà.
 2. (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
    02
 
-   ### On mesure
+   ### Mesures
 
-   Relevé complet sur place, murs, pentes, prises, plinthes. La première visite est offerte.
+   Nous relevons sur place les murs, les pentes, les prises et les plinthes. La première visite est offerte.
 3. (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
    03
 
-   ### On dessine
+   ### Plan
 
-   Plan, façades, teintes et matières, ajustés ensemble, échantillons en main.
+   Plan, façades, teintes et matières : nous ajustons le projet avec vous, échantillons en main.
 4. (Photo : Îlot anthracite mat au plan en bois, devant de grandes fenêtres)
 
    04
 
-   ### On pose
+   ### Livraison et pose
 
-   Livraison par nos soins, pose par notre équipe ou un professionnel partenaire. Nous restons joignables ensuite.
+   Nous livrons nous-mêmes ; la pose est assurée par notre équipe ou par un professionnel partenaire. Nous restons disponibles après l’installation.
 
-À toucher
+Matières et finitions
 
-## La palette est au magasin.
+## Les échantillons sont au magasin.
 
-Posez l’échantillon à côté d’une photo de votre pièce : c’est là que le choix se fait.
+Comparez-les avec une photo de votre pièce : c’est la meilleure façon de choisir.
 
 [Voir les tendances](https://fony.be/tendances)
 
@@ -206,9 +206,9 @@ Posez l’échantillon à côté d’une photo de votre pièce : c’est là qu
 
    06Laiton
 
-## Parlons de votre projet, autour d’un café.
+## Parlons de votre projet.
 
-Du salon à la table, nous composons votre intérieur avec vous, au magasin, à Leval-Trahegnies. Sans rendez-vous.
+Nous vous recevons au magasin de Leval-Trahegnies, du lundi au samedi, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

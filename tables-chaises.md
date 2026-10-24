@@ -15,7 +15,7 @@ Salle à manger
 
 # Tables et chaises
 
-Une grande table fixe italienne, à la ligne épurée : c’est ce que nous aimons vendre. Et la rallonge, quand la place manque.
+Des tables fixes italiennes aux lignes épurées, et des tables à rallonge lorsque la place est comptée.
 
 [Mon projet table](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -25,9 +25,9 @@ Une grande table fixe italienne, à la ligne épurée : c’est ce que nous aim
 
 Les tables
 
-## La table, pour longtemps.
+## Nos tables.
 
-Essences, plateaux, dimensions : des salles à manger à comparer au magasin, avec les cotes de votre pièce.
+Plateaux, matières et dimensions se comparent au magasin : apportez les mesures de votre pièce.
 
 1. (Photo : Grande table en céramique marbrée sur piètement croisé en métal, dans un séjour clair)
 
@@ -51,16 +51,16 @@ Essences, plateaux, dimensions : des salles à manger à comparer au magasin, a
 
    Akante
 
-   ### La rallonge en un geste
+   ### Les tables extensibles
 
-   Des tables extensibles, avec un excellent rapport qualité-prix.
+   Des tables à rallonge faciles à ouvrir, avec un excellent rapport qualité-prix.
 
    [Voir les tables Akante](https://fony.be/tables-akante)
 4. (Photo : Salle à manger : table ovale au plateau clair sur pied central en bois, chaises grises, buffet arrondi)
 
    Movis
 
-   ### La table et son buffet
+   ### Table, chaises et buffet assortis
 
    Au magasin, les tables Egg et Cahors, et les buffets Radius et Riga.
 
@@ -71,15 +71,15 @@ Essences, plateaux, dimensions : des salles à manger à comparer au magasin, a
 
    ### La table et le buffet assortis
 
-   Dans les bois et les laques du séjour, pour que la pièce se tienne.
+   Dans les mêmes bois et laques que le séjour, pour une pièce cohérente.
 
    [Voir le séjour](https://fony.be/living)
 
 Movis
 
-## La pièce entière.
+## Une salle à manger complète.
 
-La table, les chaises, le buffet et le vaisselier dessinés ensemble. Images du fabricant.
+Table, chaises, buffet et vaisselier conçus comme un ensemble. Photos du fabricant.
 
 - (Photo : Table ovale au plateau en céramique veinée d’or sur pied en bois, vue de près)
 
@@ -104,17 +104,17 @@ La table, les chaises, le buffet et le vaisselier dessinés ensemble. Images du 
 
 Les chaises
 
-## Elles datent une salle à manger.
+## Le choix des chaises.
 
-La tendance a sa place ici : bois, tissu, cuir, microfibre, pied métal. Modulax — ici la Bari, en trois coloris —, et Di Lazzaro, tables et chaises contemporaines fabriquées en Italie depuis plus de soixante ans, en font partie.
+Bois, tissu, cuir, microfibre ou piétement métal : c’est sur les chaises que la tendance s’exprime le mieux. Nous travaillons notamment avec Modulax (ici le modèle Bari, en trois coloris) et Di Lazzaro, qui fabrique des tables et des chaises contemporaines en Italie depuis plus de soixante ans.
 
-Une table se choisit avec ses chaises — les hauteurs vont ensemble — et le nombre de convives avant la longueur.
+Choisissez la table et les chaises ensemble, pour que les hauteurs s’accordent, et partez du nombre de convives plutôt que de la longueur.
 
 Modulax
 
-## La chaise d’abord.
+## Le confort avant tout.
 
-Choisissez-la pour vous y asseoir longtemps ; la table vient ensuite.
+Une chaise se juge assis, sur la durée d’un repas.
 
 - (Photo : Chaise en tissu chiné gris vert, accoudoir enveloppant, vue de près)
 
@@ -139,9 +139,9 @@ Choisissez-la pour vous y asseoir longtemps ; la table vient ensuite.
 
 Modulax
 
-## Avec leur table.
+## Mises en situation.
 
-Chaque chaise dans une salle à manger complète, pour voir comment elle accompagne une table.
+Chaque modèle présenté autour d’une table, dans une salle à manger complète.
 
 - (Photo : Salle à manger lumineuse : chaises à accoudoirs en tissu gris clair autour d’une table rectangulaire claire)
 
@@ -166,7 +166,7 @@ Chaque chaise dans une salle à manger complète, pour voir comment elle accompa
 
 Dans la pièce
 
-## Ce qui va avec la table.
+## À associer à votre table.
 
 - (Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
@@ -183,9 +183,9 @@ Dans la pièce
 
   Voir la cuisine
 
-## Venez vous asseoir à la table.
+## Venez essayer nos tables et nos chaises.
 
-Sans rendez-vous. Pour un conseil au calme, prenez-en un.
+Le magasin vous accueille sans rendez-vous. Pour un conseil plus approfondi, vous pouvez en prendre un.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

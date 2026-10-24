@@ -26,7 +26,7 @@ Fabriquées en Italie. Céramique ou bois, fixes ou à rallonge.
 
 Au magasin et sur catalogue
 
-## Quelques modèles.
+## Une sélection de modèles.
 
 1. (Photo : Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée)
 
@@ -51,7 +51,7 @@ Voir aussi
 
 - ### Cattelan Italia
 
-  La belle table en céramique.
+  Des tables en céramique au design affirmé.
 
   [Voir les tables Cattelan](https://fony.be/tables-cattelan)
 - ### Akante
@@ -65,7 +65,7 @@ Voir aussi
 
   [Voir la salle à manger](https://fony.be/tables-chaises)
 
-## Venez vous y attabler.
+## Venez voir nos tables au magasin.
 
 Une partie est exposée, le reste sur catalogue : dimensions, plateaux et couleurs du pied au choix.
 

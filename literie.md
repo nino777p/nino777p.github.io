@@ -31,19 +31,19 @@ Des couchages d’essai avec différents matelas couvrent la plupart des confort
 
 - 01
 
-  ### Le boxspring d’abord
+  ### Le boxspring
 
-  Châssis plus résistant, accueil plus souple. Le sommier reste disponible, un peu plus ferme.
+  Son châssis est plus résistant et son accueil plus souple. Le sommier classique reste disponible, pour un couchage un peu plus ferme.
 - 02
 
   ### Le matelas
 
-  Ressorts ensachés en priorité ; aussi latex, mousse haute résilience, mémoire de forme, selon votre position et votre corpulence.
+  Les ressorts ensachés en priorité, mais aussi le latex, la mousse haute résilience ou la mémoire de forme, selon votre position de sommeil et votre corpulence.
 - 03
 
   ### Fixe ou électrique
 
-  L’électrique relève la tête et les pieds : pour lire, ou pour se relever plus facilement.
+  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement.
 
 Au magasin
 
@@ -60,7 +60,7 @@ Les modèles exposés se déclinent en d’autres tailles, tissus, coloris, têt
 
 Velda
 
-## De plus près.
+## Quelques modèles Velda.
 
 Tissus, têtes de lit, pieds, fixe ou électrique : chaque lit se compose. Les modèles exposés se voient et s’essaient au magasin.
 
@@ -74,9 +74,9 @@ Tissus, têtes de lit, pieds, fixe ou électrique : chaque lit se compose. Les 
 
   Tissu chiné et tête de lit arrondie.
 
-Les mots du matelas
+Comprendre les matelas
 
-## Ce qu’il y a dedans.
+## Les principaux garnissages.
 
 Ressorts ensachés
 :   Chaque ressort dans sa poche : soutien point par point, sans sentir l’autre bouger.
@@ -90,7 +90,7 @@ Mousse haute résilience
 Mémoire de forme
 :   Elle se moule au corps sous la chaleur ; la version gel garde la fraîcheur.
 
-La chambre autour
+Autour du lit
 
 ## Lits, chevets, armoires.
 
@@ -111,9 +111,9 @@ La chambre autour
 
    [Voir le sur mesure](https://fony.be/sur-mesure)
 
-## Venez vous allonger.
+## Venez essayer nos literies.
 
-Dans votre position habituelle : c’est le seul test qui vaut. Sans rendez-vous.
+Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Le magasin vous accueille sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

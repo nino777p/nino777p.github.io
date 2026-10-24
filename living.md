@@ -25,9 +25,9 @@ Meubles TV, bibliothèques et buffets Tomasella, composés par modules à la mes
 
 Le séjour
 
-## Composé autour de vous.
+## Un séjour composé selon vos besoins.
 
-Ce que vous rangez, ce que vous montrez : la composition part de là.
+La composition dépend de ce que vous souhaitez ranger et de ce que vous voulez exposer.
 
 1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
@@ -40,9 +40,9 @@ Ce que vous rangez, ce que vous montrez : la composition part de là.
 
    Tomasella Time
 
-   ### Un système qui résiste au quotidien
+   ### Un système modulable et résistant
 
-   Un système modulable, avec une surface qui résiste au quotidien.
+   Des modules aux surfaces conçues pour un usage quotidien.
 3. (Photo : Meuble TV Tomasella avec rangements suspendus dans un salon)
 
    Rangements
@@ -53,23 +53,23 @@ Ce que vous rangez, ce que vous montrez : la composition part de là.
 
 (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
-À toucher
+Matières et finitions
 
-## Les finitions se choisissent au magasin.
+## Les finitions se choisissent au magasin, échantillons en main.
 
-Posez l’échantillon à côté d’une photo de votre pièce. Les buffets existent dans les mêmes finitions que le meuble TV.
+Comparez les échantillons avec une photo de votre pièce. Les buffets existent dans les mêmes finitions que le meuble TV.
 
 [Voir les matières](https://fony.be/tendances)
 
 Autour du séjour
 
-## Le reste de la pièce.
+## Pour compléter la pièce.
 
 - (Photo : Table et buffet Tomasella dans un séjour urbain)
 
   ### [La table et les chaises](https://fony.be/tables-chaises)
 
-  Table fixe italienne ou à rallonge, et les chaises qui vont avec.
+  Tables fixes italiennes ou à rallonge, et chaises assorties.
 
   Voir la salle à manger
 - (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
@@ -83,13 +83,13 @@ Autour du séjour
 
   ### [Le sur mesure](https://fony.be/sur-mesure)
 
-  Quand le mur a un recoin ou une pente, on le dessine au centimètre.
+  Pour un mur avec un recoin ou une pente, nous concevons le meuble au centimètre près.
 
   Voir le sur mesure
 
 ## Composons votre séjour.
 
-Une photo de la pièce, les cotes du mur : on compose ensemble, module par module.
+Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

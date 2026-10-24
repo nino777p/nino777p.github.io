@@ -15,7 +15,7 @@ Canapés et relax
 
 # Salon
 
-Canapés et relax italiens et européens, du classique au contemporain. Assis, sans qu’on vous presse.
+Canapés et fauteuils relax italiens et européens, du classique au contemporain, à essayer au magasin en prenant votre temps.
 
 [Mon projet salon](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -23,46 +23,46 @@ Canapés et relax italiens et européens, du classique au contemporain. Assis, s
 - Chaque modèle en d’autres tissus et cuirs
 - Première visite et conseil offerts
 
-Avant de choisir
+Bien choisir
 
-## Ce qu’on regarde avant de choisir.
+## Les points à vérifier.
 
-Les fermetés, les matières et les fonctions relax. C’est au magasin que ça se juge, assis.
+Fermeté, matières, fonctions relax : ces critères se jugent au magasin, assis.
 
 1. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
 
    01
 
-   ### Le relax qui ne se remarque pas
+   ### Un relax discret
 
-   Des places relax dans un canapé aux lignes de salon. Fermé, on ne devine rien.
+   Des places relax intégrées à un canapé aux lignes classiques : une fois fermé, rien ne le distingue d’un salon traditionnel.
 2. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
    02
 
-   ### La plupart des modèles se déclinent
+   ### De nombreuses configurations
 
-   En angle, en trois places, en deux places, et dans un large choix de tissus, de cuirs et de coloris. Un salon, deux couleurs, c’est deux ambiances.
+   En angle, en trois ou en deux places, dans un large choix de tissus, de cuirs et de coloris. Le même modèle change d’allure selon la couleur choisie.
 3. (Photo : Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris)
 
    03
 
-   ### Ce qu’il y a dans l’assise
+   ### La qualité de l’assise
 
-   Mousse haute résilience ou ressort ensaché : une assise qui garde sa forme. Ça ne se voit pas sur une photo, ça se sent au bout de quelques années.
+   Mousse haute résilience ou ressorts ensachés : l’assise garde sa forme. La différence ne se voit pas en photo, elle se sent avec les années.
 4. (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
 
    04
 
-   ### Le relax, en deux nombres
+   ### Places et moteurs
 
-   Combien de places s’inclinent — un trois places n’a pas forcément trois relax — et combien de moteurs par place : avec trois, jambes, appui-tête et lombaires se règlent séparément.
+   Vérifiez combien de places s’inclinent (un trois places n’a pas forcément trois relax) et combien de moteurs équipent chaque place : avec trois moteurs, les jambes, l’appui-tête et les lombaires se règlent séparément.
 
 Les fabricants
 
-## Qui fabrique ce que vous allez essayer.
+## Nos fabricants de salons.
 
-Ce qui est exposé n’est qu’un point de départ. Chaque modèle se commande dans d’autres tailles, tissus, cuirs et coloris, à tous les budgets.
+Les modèles exposés ne sont qu’un point de départ : chacun se commande dans d’autres tailles, tissus, cuirs et coloris, pour tous les budgets.
 
 - ### Max Divani
 
@@ -81,9 +81,9 @@ Ce qui est exposé n’est qu’un point de départ. Chaque modèle se commande 
 
 Nicoletti, le relax Cozy³
 
-## Trois moteurs, une place à la fois.
+## Trois moteurs par place.
 
-Au magasin, le Memphis et l’Oakland. Chaque place se règle seule : l’une s’allonge, l’autre reste assise.
+Au magasin : les modèles Memphis et Oakland. Chaque place se règle indépendamment ; l’une peut s’allonger pendant que l’autre reste assise.
 
 (Photo : Canapé relax deux places en cuir beige, en position assise)
 
@@ -109,9 +109,9 @@ Composés par modules, à la mesure de votre mur.
 
 [Voir le séjour](https://fony.be/living)
 
-## Venez vous asseoir.
+## Venez essayer nos salons.
 
-Sans rendez-vous. Pour un conseil au calme, prenez-en un.
+Le magasin vous accueille sans rendez-vous. Pour un conseil plus approfondi, vous pouvez en prendre un.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

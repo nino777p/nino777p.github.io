@@ -26,7 +26,7 @@ Fabriqués en Italie. Cuir, éco-cuir ou tissu.
 
 Au magasin et sur catalogue
 
-## Quelques modèles.
+## Une sélection de modèles.
 
 1. (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 
@@ -80,9 +80,9 @@ Voir aussi
 
   [Voir au salon](https://fony.be/salon#fab-europe)
 
-## Venez vous y asseoir.
+## Venez essayer les salons Max Divani.
 
-Une partie est exposée, le reste sur catalogue. La plupart des modèles se déclinent en angle, en trois ou deux places, et dans un large choix de tissus et de cuirs.
+Une partie est exposée, le reste sur catalogue. De nombreuses configurations en angle, en trois ou deux places, et dans un large choix de tissus et de cuirs.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

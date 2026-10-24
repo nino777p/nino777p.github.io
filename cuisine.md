@@ -15,7 +15,7 @@ Cuisine italienne sur mesure
 
 # Cuisines italiennes
 
-Dessinées chez vous, fabriquées en Italie, posées par nous.
+Conçues avec vous à partir des mesures de votre pièce, fabriquées en Italie, livrées et installées.
 
 [Mon projet cuisine](https://fony.be/magasin-contact#visite)[Voir comment ça se passe](https://fony.be/cuisine#parcours)
 
@@ -25,36 +25,36 @@ Dessinées chez vous, fabriquées en Italie, posées par nous.
 
 (Photo : Cuisine Stosa Infinity et séjour dans la même pièce)
 
-Un seul espace à penser
+Cuisine et pièce de vie
 
-## On finit de cuisiner, on s’assied.
+## La cuisine et la pièce de vie, pensées ensemble.
 
-Nous tenons la cuisine et les meubles : l’accord se compose devant vous, et toute la maison se meuble au même endroit.
+Nous proposons à la fois la cuisine et le mobilier : les teintes s’accordent d’une pièce à l’autre, et toute la maison se prépare au même endroit.
 
-Salon, séjour, table et rangements sur mesure : tout se choisit au même endroit.
+Salon, séjour, table et rangements sur mesure se choisissent dans des finitions assorties.
 
 [Voir le séjour](https://fony.be/living)
 
-Visez l’intemporel
+Choisir un style
 
-## Deux questions, et le style vient tout seul.
+## Deux choix déterminent le style.
 
 - 01
 
   ### La porte
 
-  Lisse, sans cadre : contemporaine. À cadre, avec moulure : classique. Le seul choix qui ne se change plus.
+  Lisse et sans cadre pour un style contemporain, à cadre et moulure pour un style classique. C’est le choix qui engage le plus.
 - 02
 
-  ### La température
+  ### Les teintes
 
-  Chaude — bois, beige, terre — ou froide — blanc, gris, laque, anthracite.
+  Chaudes (bois, beige, terre) ou froides (blanc, gris, laque, anthracite).
 
-Les portes et le plan de travail restent quinze ans : on les choisit sobres. La tendance va sur ce qui se change en un week-end.
+Les façades et le plan de travail se gardent une quinzaine d’années : mieux vaut les choisir sobres et réserver la tendance aux éléments faciles à remplacer.
 
 Teintes et matières
 
-## Moderne ou classique, à votre image.
+## Moderne ou classique.
 
 Toutes les collections Stosa, sur commande, de l’entrée de gamme au haut de gamme. Du vert sauge au terracotta, du bois clair à l’anthracite : les façades se choisissent au magasin, échantillons en main.
 
@@ -79,9 +79,9 @@ Toutes les collections Stosa, sur commande, de l’entrée de gamme au haut de g
 
 [Mon projet cuisine](https://fony.be/magasin-contact#visite)
 
-Dans le temps
+Nos engagements
 
-## Ce qui fait la différence.
+## Une cuisine qui dure.
 
 - ### Conçue en Italie
 
@@ -93,35 +93,35 @@ Dans le temps
 
   Stosa certifie ses cuisines et les garantit cinq ans.
 
-Comment ça se passe
+Les étapes
 
-## Vous la rêvez. Nous la dessinons.
+## De la première rencontre à la pose.
 
 1. (Photo : Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé)
 
    01
 
-   ### Vous la rêvez
+   ### Votre projet
 
-   Vos habitudes, vos envies, votre budget : on écoute avant de dessiner.
+   Nous prenons le temps de comprendre vos habitudes, vos envies et votre budget avant de dessiner.
 2. (Photo : Détail de façade et de poignée d’une cuisine Stosa Natural)
 
    02
 
-   ### Nous la dessinons
+   ### Conception
 
-   Nous relevons les cotes chez vous, puis nous composons : plan, façades, plan de travail, teintes.
+   Nous relevons les cotes chez vous, puis composons le plan, les façades, le plan de travail et les teintes.
 3. (Photo : Cuisine Stosa Natural en bois, façades à cadre)
 
    03
 
-   ### Nous la posons
+   ### Pose
 
-   Livraison par nos soins, pose par notre équipe ou un professionnel partenaire, réglages et finitions. Nous restons joignables ensuite.
+   Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, réglages et finitions compris. Nous restons disponibles après l’installation.
 
 Le plan de travail
 
-## Selon votre usage.
+## À choisir selon votre usage.
 
 L’élément qui travaille le plus, et qui fait le plus varier un budget.
 
@@ -151,7 +151,7 @@ Pas encore de cuisine exposée, mais tous les échantillons sont au magasin : f
 
 ## Parlons de votre cuisine.
 
-Racontez-nous votre projet en quelques mots : nous venons prendre les mesures et la dessiner avec vous.
+Décrivez votre projet en quelques lignes : nous convenons d’un rendez-vous pour prendre les mesures chez vous et concevoir la cuisine avec vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

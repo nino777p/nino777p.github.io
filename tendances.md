@@ -15,7 +15,7 @@ Tendances
 
 # Beige, pierre veinée et bois.
 
-Chaque saison apporte ses teintes. Nous en gardons ce qui tient.
+Chaque saison apporte ses teintes ; nous retenons celles qui durent.
 
 [Mon projet](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -25,7 +25,7 @@ Chaque saison apporte ses teintes. Nous en gardons ce qui tient.
 
 Ce qui revient cette saison
 
-## Trois familles, et ce qu’on en fait.
+## Trois familles de teintes.
 
 1. (Photo : Échantillon Tomasella : laque mate Arena)
 
@@ -33,25 +33,25 @@ Ce qui revient cette saison
 
    ### Sable, lin, écru, grège
 
-   Ici une laque mate Arena. Sans risque sur les grandes surfaces : le beige ne se démode pas, il change de nuance.
+   Ici, une laque mate Arena. Le beige convient aux grandes surfaces : il ne se démode pas, seule sa nuance évolue.
 2. (Photo : Échantillon Tomasella : pierre piasentina)
 
    Les pierres veinées
 
    ### Travertin, piasentina
 
-   Le travertin côté clair, la piasentina — la pierre ci-contre — côté sombre. Pour un plateau ou une table basse ; sur toute une pièce, on s’en lasse.
+   Le travertin pour les tons clairs, la piasentina (la pierre ci-contre) pour les tons sombres. Idéales pour un plateau ou une table basse, elles lassent vite sur toute une pièce.
 3. (Photo : Échantillon Tomasella : noyer ambré)
 
    Les bois chaleureux
 
    ### Noyer ambré, chêne cognac, cannelures
 
-   Le moins risqué : le bois n’est pas revenu à la mode, il n’en est jamais sorti.
+   Le choix le plus sûr : le bois n’a jamais quitté la mode.
 
 Pièce par pièce
 
-## Où mettre la tendance, et où ne pas la mettre.
+## Où placer la tendance, pièce par pièce.
 
 1. (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
 
@@ -77,15 +77,15 @@ Pièce par pièce
 
    ### Des façades sobres, un intérieur qui change
 
-   **La base, pour longtemps.** Les façades dans un ton sobre, assorti au sol et aux portes. On les garde vingt ans, et on ne les regarde pas : on regarde ce qu’il y a derrière. **La tendance, en petit.** L’intérieur, les poignées, l’éclairage des penderies : démontables.
+   **La base, pour longtemps.** Les façades dans un ton sobre, assorti au sol et aux portes. Elles se gardent une vingtaine d’années : c’est l’aménagement intérieur qui fait la différence au quotidien. **La tendance, en petit.** L’intérieur, les poignées, l’éclairage des penderies : démontables.
 
    [Voir la chambre](https://fony.be/literie)
 
-À toucher
+Matières et finitions
 
-## Le plus sûr reste de les poser côte à côte.
+## Comparez les échantillons côte à côte.
 
-Un beige n’est pas un beige tant qu’il n’a pas vu votre sol et votre lumière. Venez avec une photo de la pièce : les échantillons sont ici.
+Une teinte change selon votre sol et votre lumière. Apportez une photo de la pièce : les échantillons sont au magasin.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 

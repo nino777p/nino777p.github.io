@@ -25,9 +25,9 @@ Dessinés au centimètre, fabriqués par un atelier partenaire en Belgique et pa
 
 Ce que nous réalisons
 
-## Ce qui se mesure se dessine.
+## Des rangements adaptés à chaque pièce.
 
-Murs biscornus, pentes de toit, recoins : on part de la pièce telle qu’elle est.
+Murs irréguliers, pentes de toit, recoins : nous partons de la pièce telle qu’elle est.
 
 - ### Dressing
 
@@ -49,7 +49,7 @@ Murs biscornus, pentes de toit, recoins : on part de la pièce telle qu’elle 
   Tiroirs, placards ou bibliothèque sous les marches.
 - ### Confort et mobilité
 
-  Nous repensons l’aménagement pour le confort et la mobilité : des rangements qu’on atteint sans se baisser.
+  Nous repensons l’aménagement pour le confort et la mobilité : des rangements accessibles sans se baisser.
 
 - (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
@@ -80,30 +80,30 @@ Comment se passe votre projet
 
    01
 
-   ### On se rencontre
+   ### Rencontre
 
-   Au magasin ou chez vous : ce que vous rangez, comment vous vivez la pièce.
+   Au magasin ou chez vous, nous faisons le point sur ce que vous rangez et sur votre façon d’utiliser la pièce.
 2. (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
    02
 
-   ### On mesure
+   ### Mesures
 
-   Relevé complet sur place : murs, pentes, prises, plinthes.
+   Nous relevons sur place les murs, les pentes, les prises et les plinthes.
 3. (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
    03
 
-   ### On dessine
+   ### Plan
 
-   Plan, façades, poignées, teintes et matières, ajustés ensemble.
+   Plan, façades, poignées, teintes et matières : nous ajustons le projet avec vous.
 4. (Photo : Armoire Tomasella Carmen à portes battantes laquées)
 
    04
 
-   ### On installe
+   ### Installation
 
-   Livraison par nos soins, pose par notre équipe ou un professionnel partenaire, finitions ; nous restons joignables. Démontage et évacuation de l’ancien mobilier sur demande, modalités au magasin.
+   Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, finitions comprises ; nous restons disponibles ensuite. Démontage et évacuation de l’ancien mobilier sur demande, modalités au magasin.
 
 (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
@@ -129,7 +129,7 @@ Visite et mesures dans la semaine, parfois le jour même ; puis huit à dix se
 
 ### Puis-je assortir le sur mesure à mes meubles existants ?
 
-Oui : on part de ce que vous avez déjà.
+Oui : nous partons de ce que vous avez déjà.
 
 ## Parlons de votre projet sur mesure.
 
