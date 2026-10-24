@@ -60,7 +60,7 @@ Les modèles exposés se déclinent en d’autres tailles, tissus, coloris, têt
 
 Velda
 
-## Fabriqué en Belgique.
+## De plus près.
 
 Tissus, têtes de lit, pieds, fixe ou électrique : chaque lit se compose. Les modèles exposés se voient et s’essaient au magasin.
 

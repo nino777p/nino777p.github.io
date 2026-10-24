@@ -41,7 +41,7 @@ Réseaux
 
 ### Services
 
-Livraison, installation, démontage et évacuation de l’ancien mobilier : sur demande, modalités au magasin.
+Livraison et installation par nos soins, partout en Belgique. Démontage et évacuation de l’ancien mobilier sur demande. Conditions au magasin.
 
 ### Paiement
 
