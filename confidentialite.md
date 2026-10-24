@@ -19,7 +19,7 @@ FONY — MEUBLES SRL, Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche), 
 
 ## Qui d’autre intervient
 
-L’hébergement du site est assuré par GitHub, Inc. (États-Unis). Quand vous envoyez un formulaire, son contenu est acheminé par le service FormSubmit ([formsubmit.co](https://formsubmit.co), prestataire établi hors de l’Union européenne) vers notre boîte e-mail, hébergée par Google (Gmail, Google LLC, États-Unis, qui participe au cadre de protection des données UE–États-Unis). Ces deux prestataires n’interviennent que pour transporter et stocker votre message ; nous ne leur confions aucune autre donnée. Aucune autre société n’a accès à ce que vous nous envoyez : ni régie publicitaire, ni outil de statistiques — le site n’en utilise aucun.
+L’hébergement du site est assuré par GitHub, Inc. (États-Unis). Quand vous envoyez un formulaire, son contenu est acheminé par le service FormSubmit ([formsubmit.co](https://formsubmit.co), prestataire établi hors de l’Union européenne) vers notre boîte e-mail, hébergée par Google (Gmail, Google LLC, États-Unis, qui participe au cadre de protection des données UE–États-Unis). Ces deux prestataires n’interviennent que pour transporter et stocker votre message ; nous ne leur confions aucune autre donnée. Aucune autre société n’a accès à ce que vous nous envoyez : ni régie publicitaire, ni réseau social.
 
 ## Quelles données nous collectons, et pourquoi
 
@@ -40,6 +40,10 @@ Vos informations sont accessibles aux seules personnes de FONY — MEUBLES qui t
 ## Combien de temps nous les conservons
 
 Trois ans à compter de notre dernier échange, si votre demande ne débouche pas sur une commande. En cas de commande, les documents liés sont conservés le temps imposé par nos obligations comptables et légales.
+
+## Mesure d’audience
+
+Pour savoir quelles pages sont lues et d’où viennent nos visiteurs, le site utilise GoatCounter (goatcounter.com), un outil de mesure d’audience sans cookie. Il enregistre des statistiques globales : pages consultées, page de provenance, navigateur, système, langue, largeur d’écran et pays. Il ne conserve pas votre adresse IP, ne dépose rien dans votre navigateur et ne permet pas de vous identifier. Les données sont hébergées dans l’Union européenne, en Finlande et en Allemagne.
 
 ## Cookies
 
