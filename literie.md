@@ -21,7 +21,7 @@ Boxsprings et matelas de fabrication belge, fixes ou électriques. Et autour, le
 
 - Des couchages à essayer allongé
 - Fixe ou électrique
-- Livraison et installation par nos soins
+- Livraison, installation et reprise de l’ancien matelas
 
 Choisir
 
@@ -43,7 +43,7 @@ Des couchages d’essai avec différents matelas couvrent la plupart des confort
 
   ### Fixe ou électrique
 
-  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement.
+  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement. À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
 
 Au magasin
 
@@ -113,7 +113,7 @@ Autour du lit
 
 ## Venez essayer nos literies.
 
-Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Le magasin vous accueille sans rendez-vous.
+Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Le magasin vous accueille sans rendez-vous, à dix minutes de La Louvière et moins de trente minutes de Mons.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
@@ -135,6 +135,6 @@ Téléphone
 :   [064 46 07 72](tel:+3264460772)
 
 Livraison
-:   Par nos soins, partout en Belgique
+:   Par nos soins, dans le Hainaut et la province de Namur
 
 Surtout dans le Hainaut et la province de Namur : Charleroi, Namur, Mons, La Louvière, Binche, Châtelet, Courcelles, Soignies et alentours.

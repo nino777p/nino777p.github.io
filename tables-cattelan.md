@@ -98,6 +98,6 @@ Téléphone
 :   [064 46 07 72](tel:+3264460772)
 
 Livraison
-:   Par nos soins, partout en Belgique
+:   Par nos soins, dans le Hainaut et la province de Namur
 
 Surtout dans le Hainaut et la province de Namur : Charleroi, Namur, Mons, La Louvière, Binche, Châtelet, Courcelles, Soignies et alentours.

@@ -179,32 +179,6 @@ Le même conseiller suit votre projet à chaque étape.
 
    Nous livrons nous-mêmes ; la pose est assurée par notre équipe ou par un professionnel partenaire. Nous restons disponibles après l’installation.
 
-Matières et finitions
-
-## Les échantillons sont au magasin.
-
-Comparez-les avec une photo de votre pièce : c’est la meilleure façon de choisir.
-
-[Voir les tendances](https://fony.be/tendances)
-
-1. (Photo : Échantillon Tomasella : noyer ambré)
-
-   01Noyer ambré
-2. (Photo : Échantillon Tomasella : chêne cannelé cognac)
-
-   02Chêne cannelé
-3. (Photo : Échantillon Tomasella : laque mate Arena)
-
-   03Laque mate
-4. (Photo : Échantillon Tomasella : lin texturé)
-
-   04Lin texturé
-5. (Photo : Échantillon Tomasella : pierre piasentina)
-
-   05Pierre veinée
-6. (Photo : Échantillon Tomasella : laque métallisée laiton)
-
-   06Laiton
 
 ## Parlons de votre projet.
 
@@ -230,6 +204,6 @@ Téléphone
 :   [064 46 07 72](tel:+3264460772)
 
 Livraison
-:   Par nos soins, partout en Belgique
+:   Par nos soins, dans le Hainaut et la province de Namur
 
 Surtout dans le Hainaut et la province de Namur : Charleroi, Namur, Mons, La Louvière, Binche, Châtelet, Courcelles, Soignies et alentours.

@@ -13,7 +13,7 @@ Informations
 
 ## Éditeur du site
 
-FONY — MEUBLES SRL — Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche), Belgique — Numéro d’entreprise et TVA : BE 0449.562.534 — Téléphone : [+32 64 46 07 72](tel:+3264460772) — E-mail : [fonymeubles@gmail.com](mailto:fonymeubles@gmail.com)
+FONY — MEUBLES SRL — Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche), Belgique — Numéro d’entreprise et TVA : BE 0449.562.534 — Téléphone : [+32 64 46 07 72](tel:+3264460772) — E-mail : [fonymeubles@hotmail.com](mailto:fonymeubles@hotmail.com)
 
 ## Hébergement
 

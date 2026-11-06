@@ -15,7 +15,7 @@ Dernière mise à jour : octobre 2026
 
 ## Qui traite vos données
 
-FONY — MEUBLES SRL, Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche), Belgique. Numéro d’entreprise et TVA : BE 0449.562.534. Contact : [fonymeubles@gmail.com](mailto:fonymeubles@gmail.com) — [+32 64 46 07 72](tel:+3264460772).
+FONY — MEUBLES SRL, Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche), Belgique. Numéro d’entreprise et TVA : BE 0449.562.534. Contact : [fonymeubles@hotmail.com](mailto:fonymeubles@hotmail.com) — [+32 64 46 07 72](tel:+3264460772).
 
 ## Qui d’autre intervient
 
@@ -53,6 +53,6 @@ Deux mécanismes techniques travaillent dans votre navigateur, sans nous transme
 
 ## Vos droits
 
-Vous pouvez à tout moment demander à consulter les informations que nous détenons sur vous, les faire corriger, les faire supprimer, en limiter l’usage, ou vous opposer à leur traitement. Une demande par e-mail à [fonymeubles@gmail.com](mailto:fonymeubles@gmail.com) suffit, et nous y répondons dans un délai d’un mois.
+Vous pouvez à tout moment demander à consulter les informations que nous détenons sur vous, les faire corriger, les faire supprimer, en limiter l’usage, ou vous opposer à leur traitement. Une demande par e-mail à [fonymeubles@hotmail.com](mailto:fonymeubles@hotmail.com) suffit, et nous y répondons dans un délai d’un mois.
 
 Si notre réponse ne vous satisfait pas, vous pouvez introduire une réclamation auprès de l’Autorité de protection des données, Rue de la Presse 35, 1000 Bruxelles — [www.autoriteprotectiondonnees.be](https://www.autoriteprotectiondonnees.be).
