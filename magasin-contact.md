@@ -41,7 +41,7 @@ Réseaux
 
 ### Services
 
-Livraison et installation par nos soins, dans le Hainaut et la province de Namur. Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en. Démontage et évacuation de l’ancien mobilier sur demande. Conditions au magasin.
+Livraison et installation par nos soins, dans le Hainaut et la province de Namur. Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en. Démontage et évacuation de l’ancien mobilier sur demande. Conditions au magasin.
 
 ### Paiement
 

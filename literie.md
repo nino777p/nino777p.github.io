@@ -43,7 +43,7 @@ Des couchages d’essai avec différents matelas couvrent la plupart des confort
 
   ### Fixe ou électrique
 
-  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement. À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
+  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement. À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
 
 Au magasin
 
@@ -137,4 +137,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut et la province de Namur
 
-Surtout dans le Hainaut et la province de Namur : Charleroi, Namur, Mons, La Louvière, Binche, Châtelet, Courcelles, Soignies et alentours.
+Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.

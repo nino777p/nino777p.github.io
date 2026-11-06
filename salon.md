@@ -135,4 +135,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut et la province de Namur
 
-Surtout dans le Hainaut et la province de Namur : Charleroi, Namur, Mons, La Louvière, Binche, Châtelet, Courcelles, Soignies et alentours.
+Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
