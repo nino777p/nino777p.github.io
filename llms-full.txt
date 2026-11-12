@@ -4,7 +4,7 @@
 
 FONY — MEUBLES SRL, magasin de meubles depuis 1991. Adresse : 160/1 route de Charleroi, 7134 Leval-Trahegnies (Hainaut, Belgique). Téléphone : 064 46 07 72. E-mail : fonymeubles@hotmail.com.
 Horaires : lundi 13h30–18h30 ; mardi au samedi 10h30–18h30 ; fermé le dimanche.
-Livraison et installation par nos soins dans le Hainaut et la province de Namur (Charleroi, Namur, Mons, La Louvière, Châtelet, Binche, Courcelles, Soignies, Sambreville, Manage, Morlanwelz, Fontaine-l'Évêque, Chapelle-lez-Herlaimont, Thuin, Anderlues et alentours). Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Livraison et installation par nos soins dans le Hainaut et la province de Namur (Charleroi, Namur, Mons, La Louvière, Châtelet, Binche, Courcelles, Soignies, Sambreville, Manage, Morlanwelz, Fontaine-l'Évêque, Chapelle-lez-Herlaimont, Thuin, Anderlues et alentours). Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
 Aucun prix n’est publié en ligne.
 
 ## À savoir
@@ -169,7 +169,7 @@ Nos fabricants
 
 ## Des fabricants européens, choisis pour leur design et leur solidité.
 
-Vous choisissez vos meubles parmi nos fabricants européens ; nous vous aidons à accorder les teintes et les matières d’une pièce à l’autre. Une partie des modèles est exposée, les autres se commandent sur catalogue.
+Vous choisissez vos meubles parmi nos fabricants européens ; nous vous aidons à accorder les teintes et les matières d’une pièce à l’autre. Une partie des modèles est exposée, les autres se commandent sur catalogue.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 
@@ -178,7 +178,9 @@ Vous choisissez vos meubles parmi nos fabricants européens ; nous vous aidons 
 - [Max DivaniSalons](https://fony.be/salon-max-divani)
 - [NicolettiLe relax à trois moteurs](https://fony.be/salon#relax)
 - [TomasellaSéjour et chambre](https://fony.be/living)
+- [StosaCuisines italiennes](https://fony.be/cuisine)
 - [VeldaLiterie de fabrication belge](https://fony.be/literie)
+- [Van LandschootBoxsprings Axelsson, fabrication belge](https://fony.be/literie#fab-van-landschoot)
 - [Cattelan ItaliaTables en céramique](https://fony.be/tables-cattelan)
 - [SeditTables en céramique ou en bois](https://fony.be/tables-sedit)
 - [AkanteTables à rallonge](https://fony.be/tables-akante)
@@ -219,8 +221,23 @@ Le même conseiller suit votre projet à chaque étape.
 
    ### Livraison et pose
 
-   Nous livrons nous-mêmes ; la pose est assurée par notre équipe ou par un professionnel partenaire. Nous restons disponibles après l’installation.
+   Nous livrons nous-mêmes ; la pose est assurée par notre équipe ou par un professionnel partenaire. Nous restons disponibles après l’installation.
 
+Avis clients
+
+## Ce que nos clients en disent.
+
+[4,6/5★★★★★84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
+
+- > « […] Patron à l’écoute… La livraison et l’installation au top ! Ne pousse pas à l’achat mais vous conseille dans un showroom varié à l’atmosphère sereine… »
+
+  Mirco P. · avis Google
+- > « L’accueil du patron comme de ses fils est parfait. Le service est top. Les conseils sont très clairs. Je reviendrai »
+
+  Françoise D. · avis Google
+- > « Parfait, bons conseils, délais respectés, livreurs efficaces, rapides pros. »
+
+  Chantal F. · avis Google
 
 ## Parlons de votre projet.
 
@@ -272,7 +289,7 @@ Canapés et relax
 
 Canapés et fauteuils relax italiens et européens, du classique au contemporain, à essayer au magasin en prenant votre temps.
 
-[Mon projet salon](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des salons et des relax à essayer
 - Chaque modèle en d’autres tissus et cuirs
@@ -338,7 +355,7 @@ Nicoletti, le relax Cozy³
 
 ## Trois moteurs par place.
 
-Au magasin : les modèles Memphis et Oakland. Chaque place se règle indépendamment ; l’une peut s’allonger pendant que l’autre reste assise.
+Au magasin : les modèles Memphis et Oakland. Chaque place se règle indépendamment ; l’une peut s’allonger pendant que l’autre reste assise.
 
 (Photo : Canapé relax deux places en cuir beige, en position assise)
 
@@ -366,9 +383,9 @@ Composés par modules, à la mesure de votre mur.
 
 ## Venez essayer nos salons.
 
-Le magasin vous accueille sans rendez-vous, à dix minutes de La Louvière et moins de trente minutes de Mons. Pour un conseil plus approfondi, vous pouvez en prendre un.
+Le magasin vous accueille sans rendez-vous. Pour un conseil plus approfondi, vous pouvez en prendre un.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
@@ -414,7 +431,7 @@ Salle à manger
 
 Des tables fixes italiennes aux lignes épurées, et des tables à rallonge lorsque la place est comptée.
 
-[Mon projet table](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Tables fixes et extensibles
 - Céramique, bois et laque
@@ -582,9 +599,9 @@ Dans la pièce
 
 ## Venez essayer nos tables et nos chaises.
 
-Le magasin vous accueille sans rendez-vous, à dix minutes de La Louvière et moins de trente minutes de Mons. Pour un conseil plus approfondi, vous pouvez en prendre un.
+Le magasin vous accueille sans rendez-vous. Pour un conseil plus approfondi, vous pouvez en prendre un.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
@@ -630,7 +647,7 @@ Meuble TV, bibliothèque, buffet
 
 Meubles TV, bibliothèques et buffets Tomasella, composés par modules à la mesure de votre mur.
 
-[Mon projet séjour](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Composé par modules
 - À la mesure de votre mur
@@ -704,7 +721,7 @@ Autour du séjour
 
 Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
@@ -750,7 +767,7 @@ Literie, lits et armoires
 
 Boxsprings et matelas de fabrication belge, fixes ou électriques. Et autour, les lits, les chevets et les armoires.
 
-[Mon projet chambre](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des couchages à essayer allongé
 - Fixe ou électrique
@@ -776,7 +793,7 @@ Des couchages d’essai avec différents matelas couvrent la plupart des confort
 
   ### Fixe ou électrique
 
-  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement. À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
+  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement. À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
 
 Au magasin
 
@@ -793,7 +810,7 @@ Les modèles exposés se déclinent en d’autres tailles, tissus, coloris, têt
 
 Velda
 
-## Fabriqué en Belgique.
+## Quelques modèles Velda.
 
 Tissus, têtes de lit, pieds, fixe ou électrique : chaque lit se compose. Les modèles exposés se voient et s’essaient au magasin.
 
@@ -848,7 +865,7 @@ Autour du lit
 
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Le magasin vous accueille sans rendez-vous, à dix minutes de La Louvière et moins de trente minutes de Mons.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
@@ -894,7 +911,7 @@ Cuisine italienne sur mesure
 
 Conçues avec vous à partir des mesures de votre pièce, fabriquées en Italie, livrées et installées.
 
-[Mon projet cuisine](https://fony.be/magasin-contact#visite)[Voir comment ça se passe](https://fony.be/cuisine#parcours)
+[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite)[Voir comment ça se passe](https://fony.be/cuisine#parcours)
 
 - Première visite, mesures et devis offerts
 - Conçue et produite en Italie
@@ -954,7 +971,7 @@ Toutes les collections Stosa, sur commande, de l’entrée de gamme au haut de g
 
   Crème, façades à cadre
 
-[Mon projet cuisine](https://fony.be/magasin-contact#visite)
+[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite)
 
 Nos engagements
 
@@ -1030,7 +1047,7 @@ Pas encore de cuisine exposée, mais tous les échantillons sont au magasin : f
 
 Décrivez votre projet en quelques lignes : nous convenons d’un rendez-vous pour prendre les mesures chez vous et concevoir la cuisine avec vous.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=cuisine#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
@@ -1076,7 +1093,7 @@ Dressing, sous-pente, bibliothèque
 
 Dessinés au centimètre, fabriqués par un atelier partenaire en Belgique et par Tomasella.
 
-[Mon projet sur mesure](https://fony.be/magasin-contact#visite)[Voir ce que nous réalisons](https://fony.be/sur-mesure#realisations)
+[Mon projet sur mesure](https://fony.be/magasin-contact?projet=sur-mesure#visite)[Voir ce que nous réalisons](https://fony.be/sur-mesure#realisations)
 
 - Nous venons chez vous
 - Première visite, mesures et devis offerts
@@ -1162,7 +1179,7 @@ Comment se passe votre projet
 
    ### Installation
 
-   Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, finitions comprises ; nous restons disponibles ensuite. Démontage et évacuation de l’ancien mobilier sur demande, modalités au magasin.
+   Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, finitions comprises ; nous restons disponibles ensuite. Démontage et évacuation de l’ancien mobilier sur demande, modalités au magasin.
 
 (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
@@ -1194,7 +1211,7 @@ Oui : nous partons de ce que vous avez déjà.
 
 Remplissez la fiche ou appelez-nous : nous convenons d’une visite, ou nous vous aiguillons par téléphone.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
@@ -1221,11 +1238,9 @@ Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en
 
 ---
 
-# Offres, déstockage et soldes à Binche — Fony Meubles
+# Offres, déstockage et soldes
 
-> Déstockage de l’exposition, Black Friday le 27 novembre 2026 et soldes d’hiver du 2 au 31 janvier 2027 au magasin Fony Meubles de Leval-Trahegnies (Binche).
-
-Adresse de la page : https://fony.be/offres
+Déstockage de l’exposition, Black Friday le 27 novembre 2026 et soldes d’hiver du 2 au 31 janvier 2027 au magasin Fony Meubles de Leval-Trahegnies (Binche).
 
 ## Le calendrier
 
@@ -1263,7 +1278,7 @@ Tendances
 
 # Beige, pierre veinée et bois.
 
-Chaque saison apporte ses teintes ; nous retenons celles qui durent.
+Chaque saison apporte ses teintes ; nous retenons celles qui durent.
 
 [Mon projet](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -1507,7 +1522,13 @@ Téléphone
 
 E-mail ou téléphone, au choix.
 
+Une photo ou un plan (facultatif)
+
+Une seule image, JPG ou PNG, 10 Mo maximum.
+
 Votre projet
+
+La photo dépasse 10 Mo : choisissez-en une plus légère ou envoyez-la-nous par e-mail.
 
 J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. [Politique de confidentialité](https://fony.be/confidentialite)
 
@@ -1559,7 +1580,7 @@ Réseaux
 
 ### Services
 
-Livraison, installation, démontage et évacuation de l’ancien mobilier : sur demande, modalités au magasin.
+Livraison et installation par nos soins, dans le Hainaut et la province de Namur. Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en. Démontage et évacuation de l’ancien mobilier sur demande. Conditions au magasin.
 
 ### Paiement
 
@@ -1570,6 +1591,22 @@ Modalités à discuter au magasin.
 160/1 route de Charleroi, 7134 Leval-Trahegnies (Binche).
 
 [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+
+Avis clients
+
+## Ce que nos clients en disent.
+
+[4,6/5★★★★★84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
+
+- > « Parfait de A à Z, accueil, service, gentillesse, choix des produits, qualité des meubles et livraison parfaite, allez y les yeux fermés ! »
+
+  Doriana · avis Google
+- > « […] Nous sommes tombé sur Nicolas qui est un très bon vendeur et qui a réussi à comprendre ce que nous voulions. Très à l’écoute et professionnel, nous recommandons vivement ce magasin! »
+
+  Alessio D. · avis Google
+- > « […] super contente de mon achat acheté un meuble tv avec un gain pas négligeable de 150€ par rapport a une grosse enseigne bien connue […] »
+
+  Caroline H. · avis Google
 
 Mon projet
 
@@ -1598,7 +1635,13 @@ Votre projet concerne
 
 Vous préférez
 
+Une photo de la pièce (facultatif)
+
+Une seule image, JPG ou PNG, 10 Mo maximum.
+
 Votre projet en quelques mots
+
+La photo dépasse 10 Mo : choisissez-en une plus légère ou envoyez-la-nous par e-mail.
 
 J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. [Politique de confidentialité](https://fony.be/confidentialite)
 
@@ -1627,7 +1670,7 @@ Salons fabriqués en Italie
 
 Fabriqués en Italie. Cuir, éco-cuir ou tissu.
 
-[Mon projet salon](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Fabriqués en Italie
 - Cuir, éco-cuir ou tissu
@@ -1693,7 +1736,7 @@ Voir aussi
 
 Une partie est exposée, le reste sur catalogue. De nombreuses configurations en angle, en trois ou deux places, et dans un large choix de tissus et de cuirs.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
@@ -1740,7 +1783,7 @@ Tables à rallonge
 
 Des tables à rallonge qui s’ouvrent en un geste. Un excellent rapport qualité-prix.
 
-[Mon projet table](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Tables à rallonge
 - Plateaux en céramique
@@ -1792,7 +1835,7 @@ Voir aussi
 
 Au magasin, ouvrez la rallonge vous-même : c’est la meilleure façon de juger le mécanisme.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
@@ -1839,7 +1882,7 @@ Tables fabriquées en Italie
 
 Fabriquées en Italie, avec des plateaux en céramique et des piètements sculptés.
 
-[Mon projet table](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Fabriquées en Italie
 - Plateaux en céramique
@@ -1899,7 +1942,7 @@ Voir aussi
 
 Une partie est exposée, le reste sur catalogue : dimensions, plateaux et finitions du pied au choix.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
@@ -1946,7 +1989,7 @@ Tables fabriquées en Italie
 
 Fabriquées en Italie. Céramique ou bois, fixes ou à rallonge.
 
-[Mon projet table](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Fabriquées en Italie
 - Céramique ou bois
@@ -1997,7 +2040,7 @@ Voir aussi
 
 Une partie est exposée, le reste sur catalogue : dimensions, plateaux et couleurs du pied au choix.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse

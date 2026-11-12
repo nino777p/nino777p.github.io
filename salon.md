@@ -17,7 +17,7 @@ Canapés et relax
 
 Canapés et fauteuils relax italiens et européens, du classique au contemporain, à essayer au magasin en prenant votre temps.
 
-[Mon projet salon](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des salons et des relax à essayer
 - Chaque modèle en d’autres tissus et cuirs
@@ -83,7 +83,7 @@ Nicoletti, le relax Cozy³
 
 ## Trois moteurs par place.
 
-Au magasin : les modèles Memphis et Oakland. Chaque place se règle indépendamment ; l’une peut s’allonger pendant que l’autre reste assise.
+Au magasin : les modèles Memphis et Oakland. Chaque place se règle indépendamment ; l’une peut s’allonger pendant que l’autre reste assise.
 
 (Photo : Canapé relax deux places en cuir beige, en position assise)
 
@@ -113,7 +113,7 @@ Composés par modules, à la mesure de votre mur.
 
 Le magasin vous accueille sans rendez-vous. Pour un conseil plus approfondi, vous pouvez en prendre un.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse

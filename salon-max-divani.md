@@ -18,7 +18,7 @@ Salons fabriqués en Italie
 
 Fabriqués en Italie. Cuir, éco-cuir ou tissu.
 
-[Mon projet salon](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Fabriqués en Italie
 - Cuir, éco-cuir ou tissu
@@ -84,7 +84,7 @@ Voir aussi
 
 Une partie est exposée, le reste sur catalogue. De nombreuses configurations en angle, en trois ou deux places, et dans un large choix de tissus et de cuirs.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse

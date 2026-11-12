@@ -23,7 +23,7 @@ L’hébergement du site est assuré par GitHub, Inc. (États-Unis). Quand vous 
 
 ## Quelles données nous collectons, et pourquoi
 
-Nous collectons uniquement les informations que vous nous transmettez volontairement via les formulaires du site : votre nom, votre adresse e-mail, votre numéro de téléphone si vous le communiquez, et les éléments de votre projet d’aménagement. Pour une demande professionnelle, nous collectons également, si vous l’indiquez, le nom de votre société, le type d’espace et la localisation du projet.
+Nous collectons uniquement les informations que vous nous transmettez volontairement via les formulaires du site : votre nom, votre adresse e-mail, votre numéro de téléphone si vous le communiquez, les éléments de votre projet d’aménagement et, si vous en joignez une, la photo ou le plan de votre pièce. Pour une demande professionnelle, nous collectons également, si vous l’indiquez, le nom de votre société, le type d’espace et la localisation du projet.
 
 Ces informations servent exclusivement à vous répondre, à préparer votre visite en magasin et à établir votre projet ou votre devis. Elles ne servent à rien d’autre.
 
@@ -43,7 +43,7 @@ Trois ans à compter de notre dernier échange, si votre demande ne débouche pa
 
 ## Mesure d’audience
 
-Pour savoir quelles pages sont lues et d’où viennent nos visiteurs, le site utilise GoatCounter (goatcounter.com), un outil de mesure d’audience sans cookie. Il enregistre des statistiques globales : pages consultées, page de provenance, navigateur, système, langue, largeur d’écran et pays. Il ne conserve pas votre adresse IP, ne dépose rien dans votre navigateur et ne permet pas de vous identifier. Les données sont hébergées dans l’Union européenne, en Finlande et en Allemagne.
+Pour savoir quelles pages sont lues et d’où viennent nos visiteurs, le site utilise GoatCounter (goatcounter.com), un outil de mesure d’audience sans cookie. Il enregistre des statistiques globales : pages consultées, page de provenance, navigateur, système, langue, largeur d’écran et pays. Il ne conserve pas votre adresse IP, ne dépose rien dans votre navigateur et ne permet pas de vous identifier. Les données sont hébergées dans l’Union européenne, en Finlande et en Allemagne.
 
 ## Cookies
 

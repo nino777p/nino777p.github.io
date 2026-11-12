@@ -17,7 +17,7 @@ Literie, lits et armoires
 
 Boxsprings et matelas de fabrication belge, fixes ou électriques. Et autour, les lits, les chevets et les armoires.
 
-[Mon projet chambre](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des couchages à essayer allongé
 - Fixe ou électrique
@@ -43,7 +43,7 @@ Des couchages d’essai avec différents matelas couvrent la plupart des confort
 
   ### Fixe ou électrique
 
-  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement. À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
+  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement. À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
 
 Au magasin
 
@@ -115,7 +115,7 @@ Autour du lit
 
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Le magasin vous accueille sans rendez-vous, à dix minutes de La Louvière et moins de trente minutes de Mons.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse

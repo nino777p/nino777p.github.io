@@ -53,6 +53,22 @@ Modalités à discuter au magasin.
 
 [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
+Avis clients
+
+## Ce que nos clients en disent.
+
+[4,6/5★★★★★84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
+
+- > « Parfait de A à Z, accueil, service, gentillesse, choix des produits, qualité des meubles et livraison parfaite, allez y les yeux fermés ! »
+
+  Doriana · avis Google
+- > « […] Nous sommes tombé sur Nicolas qui est un très bon vendeur et qui a réussi à comprendre ce que nous voulions. Très à l’écoute et professionnel, nous recommandons vivement ce magasin! »
+
+  Alessio D. · avis Google
+- > « […] super contente de mon achat acheté un meuble tv avec un gain pas négligeable de 150€ par rapport a une grosse enseigne bien connue […] »
+
+  Caroline H. · avis Google
+
 Mon projet
 
 ## Préparer votre visite.
@@ -80,7 +96,13 @@ Votre projet concerne
 
 Vous préférez
 
+Une photo de la pièce (facultatif)
+
+Une seule image, JPG ou PNG, 10 Mo maximum.
+
 Votre projet en quelques mots
+
+La photo dépasse 10 Mo : choisissez-en une plus légère ou envoyez-la-nous par e-mail.
 
 J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. [Politique de confidentialité](https://fony.be/confidentialite)
 

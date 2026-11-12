@@ -118,7 +118,13 @@ Téléphone
 
 E-mail ou téléphone, au choix.
 
+Une photo ou un plan (facultatif)
+
+Une seule image, JPG ou PNG, 10 Mo maximum.
+
 Votre projet
+
+La photo dépasse 10 Mo : choisissez-en une plus légère ou envoyez-la-nous par e-mail.
 
 J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. [Politique de confidentialité](https://fony.be/confidentialite)
 

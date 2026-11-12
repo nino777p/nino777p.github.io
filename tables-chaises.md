@@ -17,7 +17,7 @@ Salle à manger
 
 Des tables fixes italiennes aux lignes épurées, et des tables à rallonge lorsque la place est comptée.
 
-[Mon projet table](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Tables fixes et extensibles
 - Céramique, bois et laque
@@ -187,7 +187,7 @@ Dans la pièce
 
 Le magasin vous accueille sans rendez-vous. Pour un conseil plus approfondi, vous pouvez en prendre un.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse

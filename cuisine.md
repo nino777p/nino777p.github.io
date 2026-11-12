@@ -17,7 +17,7 @@ Cuisine italienne sur mesure
 
 Conçues avec vous à partir des mesures de votre pièce, fabriquées en Italie, livrées et installées.
 
-[Mon projet cuisine](https://fony.be/magasin-contact#visite)[Voir comment ça se passe](https://fony.be/cuisine#parcours)
+[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite)[Voir comment ça se passe](https://fony.be/cuisine#parcours)
 
 - Première visite, mesures et devis offerts
 - Conçue et produite en Italie
@@ -77,7 +77,7 @@ Toutes les collections Stosa, sur commande, de l’entrée de gamme au haut de g
 
   Crème, façades à cadre
 
-[Mon projet cuisine](https://fony.be/magasin-contact#visite)
+[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite)
 
 Nos engagements
 
@@ -153,7 +153,7 @@ Pas encore de cuisine exposée, mais tous les échantillons sont au magasin : f
 
 Décrivez votre projet en quelques lignes : nous convenons d’un rendez-vous pour prendre les mesures chez vous et concevoir la cuisine avec vous.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=cuisine#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse

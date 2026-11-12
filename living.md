@@ -17,7 +17,7 @@ Meuble TV, bibliothèque, buffet
 
 Meubles TV, bibliothèques et buffets Tomasella, composés par modules à la mesure de votre mur.
 
-[Mon projet séjour](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Composé par modules
 - À la mesure de votre mur
@@ -91,7 +91,7 @@ Autour du séjour
 
 Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse

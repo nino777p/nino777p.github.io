@@ -125,7 +125,7 @@ Nos fabricants
 
 ## Des fabricants européens, choisis pour leur design et leur solidité.
 
-Vous choisissez vos meubles parmi nos fabricants européens ; nous vous aidons à accorder les teintes et les matières d’une pièce à l’autre. Une partie des modèles est exposée, les autres se commandent sur catalogue.
+Vous choisissez vos meubles parmi nos fabricants européens ; nous vous aidons à accorder les teintes et les matières d’une pièce à l’autre. Une partie des modèles est exposée, les autres se commandent sur catalogue.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 
@@ -177,8 +177,23 @@ Le même conseiller suit votre projet à chaque étape.
 
    ### Livraison et pose
 
-   Nous livrons nous-mêmes ; la pose est assurée par notre équipe ou par un professionnel partenaire. Nous restons disponibles après l’installation.
+   Nous livrons nous-mêmes ; la pose est assurée par notre équipe ou par un professionnel partenaire. Nous restons disponibles après l’installation.
 
+Avis clients
+
+## Ce que nos clients en disent.
+
+[4,6/5★★★★★84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
+
+- > « […] Patron à l’écoute… La livraison et l’installation au top ! Ne pousse pas à l’achat mais vous conseille dans un showroom varié à l’atmosphère sereine… »
+
+  Mirco P. · avis Google
+- > « L’accueil du patron comme de ses fils est parfait. Le service est top. Les conseils sont très clairs. Je reviendrai »
+
+  Françoise D. · avis Google
+- > « Parfait, bons conseils, délais respectés, livreurs efficaces, rapides pros. »
+
+  Chantal F. · avis Google
 
 ## Parlons de votre projet.
 

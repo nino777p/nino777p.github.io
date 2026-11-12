@@ -18,7 +18,7 @@ Tables fabriquées en Italie
 
 Fabriquées en Italie. Céramique ou bois, fixes ou à rallonge.
 
-[Mon projet table](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Fabriquées en Italie
 - Céramique ou bois
@@ -69,7 +69,7 @@ Voir aussi
 
 Une partie est exposée, le reste sur catalogue : dimensions, plateaux et couleurs du pied au choix.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse

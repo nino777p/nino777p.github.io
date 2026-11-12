@@ -17,7 +17,7 @@ Dressing, sous-pente, bibliothèque
 
 Dessinés au centimètre, fabriqués par un atelier partenaire en Belgique et par Tomasella.
 
-[Mon projet sur mesure](https://fony.be/magasin-contact#visite)[Voir ce que nous réalisons](https://fony.be/sur-mesure#realisations)
+[Mon projet sur mesure](https://fony.be/magasin-contact?projet=sur-mesure#visite)[Voir ce que nous réalisons](https://fony.be/sur-mesure#realisations)
 
 - Nous venons chez vous
 - Première visite, mesures et devis offerts
@@ -103,7 +103,7 @@ Comment se passe votre projet
 
    ### Installation
 
-   Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, finitions comprises ; nous restons disponibles ensuite. Démontage et évacuation de l’ancien mobilier sur demande, modalités au magasin.
+   Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, finitions comprises ; nous restons disponibles ensuite. Démontage et évacuation de l’ancien mobilier sur demande, modalités au magasin.
 
 (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
@@ -135,7 +135,7 @@ Oui : nous partons de ce que vous avez déjà.
 
 Remplissez la fiche ou appelez-nous : nous convenons d’une visite, ou nous vous aiguillons par téléphone.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
