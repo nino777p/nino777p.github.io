@@ -468,3 +468,14 @@ background:var(--fond);color:var(--encre)}
 /* Accueil : la ligne du haut reste lisible quelle que soit la photo qui passe */
 .ouverture-texte .surtitre{text-shadow:0 1px 2px rgba(0,0,0,.6),0 0 18px rgba(0,0,0,.45);text-wrap:balance}
 .ouverture:not(.ouverture--page) .ouverture-voile{background:linear-gradient(90deg,rgba(0,0,0,.42) 0%,rgba(0,0,0,.18) 50%,rgba(0,0,0,0) 75%),linear-gradient(to top,rgba(0,0,0,.72) 0%,rgba(0,0,0,.35) 45%,rgba(0,0,0,.08) 100%)}
+
+/* 95-ouverture-mobile — Sur téléphone et tablette, la photo d'ouverture n'occupe que la bande libre
+   au-dessus du texte (au lieu de passer dessous) : le meuble reste visible. Le texte repose sur le fond nuit.
+   Recadrage propre au mobile, image par image : style="object-position:… ; --pos-mobile:50% 60%" sur l'img. */
+@media (max-width:960px){
+.ouverture{--zone-photo:min(56vh,420px)}
+.ouverture--page{--zone-photo:min(46vh,340px)}
+.ouverture-photos{bottom:auto;height:calc(var(--zone-photo) + 96px)}
+.ouverture-photos::after{content:"";position:absolute;left:0;right:0;bottom:0;height:150px;z-index:1;pointer-events:none;background:linear-gradient(to bottom,rgba(20,18,16,0),var(--nuit))}
+.ouverture-photo img[style*="--pos-mobile"]{object-position:var(--pos-mobile)!important}
+}
