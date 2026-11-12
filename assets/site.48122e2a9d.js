@@ -36,7 +36,7 @@
 })();
 
 /* 30-operations.js */
-/* Opérations : le bandeau et la fenêtre sont commandés par campagne.txt, que nino modifie lui-même dans GitHub.
+/* Opérations : le bandeau et la fenêtre sont commandés par campagne.txt.
    Un fichier absent ou mal rempli n'affiche rien ; passé la date de fin, tout s'éteint seul. */
 (function () {
   var P = document.getElementById('promo'), M = document.getElementById('fenetre');
