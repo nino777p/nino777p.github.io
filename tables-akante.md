@@ -1,6 +1,6 @@
-# Akante, tables à rallonge à Binche — Fony Meubles
+# Akante, tables extensibles à Binche — Fony Meubles
 
-> Tables à rallonge Akante, plateaux en céramique : à voir au magasin de Leval-Trahegnies, près de Binche.
+> Tables extensibles Akante, à rallonge intégrée et plateaux en céramique : à voir au magasin de Leval-Trahegnies, près de Binche.
 
 Adresse de la page : https://fony.be/tables-akante
 

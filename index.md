@@ -1,6 +1,6 @@
-# Fony Meubles — meubles, cuisines et sur mesure à Binche
+# Fony Meubles — magasin de meubles entre Binche et La Louvière
 
-> Magasin de meubles à Leval-Trahegnies (Binche) : salons, séjour, chambre, tables, cuisines italiennes et sur mesure. Conseil et première visite offerts.
+> Magasin de meubles à Leval-Trahegnies, entre Binche et La Louvière : salons et relax, tables, literie, cuisines italiennes, sur mesure, livrés dans le Hainaut.
 
 Adresse de la page : https://fony.be/
 
@@ -18,7 +18,7 @@ Salons, séjour, chambre, tables, cuisines italiennes et sur mesure. Fabrication
 
 [Mon projet](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
-- Des salons à essayer, en tissu ou en cuir
+- Salons, relax et literie à essayer
 - Première visite et conseil offerts
 - Du lundi au samedi
 
@@ -197,7 +197,7 @@ Avis clients
 
 ## Parlons de votre projet.
 
-Nous vous recevons au magasin de Leval-Trahegnies, du lundi au samedi, avec ou sans rendez-vous.
+Nous vous recevons au magasin de Leval-Trahegnies, entre Binche et La Louvière, du lundi au samedi, avec ou sans rendez-vous. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

@@ -139,7 +139,7 @@ Le relax incline le dos et relève les jambes. Le releveur fait la même chose e
 
 ## Venez essayer nos salons.
 
-Le magasin vous accueille sans rendez-vous, à quelques minutes de Morlanwelz et d’Anderlues, à dix minutes de La Louvière. Parking facile d’accès. Pour un conseil plus approfondi, vous pouvez prendre rendez-vous.
+Le magasin vous accueille sans rendez-vous, à quelques minutes de Morlanwelz et d’Anderlues, à un quart d’heure de La Louvière. Parking facile d’accès. Pour un conseil plus approfondi, vous pouvez prendre rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

@@ -1,6 +1,6 @@
 # Le magasin à Leval-Trahegnies (Binche) — Fony Meubles
 
-> Fony Meubles, 160/1 route de Charleroi, 7134 Leval-Trahegnies. Ouvert du lundi au samedi. Préparez votre visite ou demandez une visite chez vous.
+> Fony Meubles, 160/1 route de Charleroi, 7134 Leval-Trahegnies, entre Binche et La Louvière. Ouvert du lundi au samedi, parking. Préparez votre visite.
 
 Adresse de la page : https://fony.be/magasin-contact
 
@@ -11,7 +11,7 @@ Depuis 1991
 
 # Le magasin, à Leval-Trahegnies.
 
-Salons, séjour, chambre, tables, cuisines et sur mesure, sur la route de Charleroi. Sans rendez-vous, du lundi au samedi.
+Salons, séjour, chambre, tables, cuisines et sur mesure, sur la route de Charleroi, entre Binche et La Louvière. Sans rendez-vous, du lundi au samedi.
 
 [Mon projet](https://fony.be/magasin-contact#visite)[Appeler](tel:+3264460772)
 
@@ -41,7 +41,7 @@ Réseaux
 
 ### Services
 
-Livraison et installation par nos soins, dans le Hainaut et la province de Namur. Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en. Démontage et évacuation de l’ancien mobilier sur demande. Conditions au magasin.
+Livraison et installation par nos soins : Binche, La Louvière, Charleroi, Mons et alentours, dans le Hainaut et la province de Namur. Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en. Démontage et évacuation de l’ancien mobilier sur demande. Conditions au magasin.
 
 ### Paiement
 
@@ -49,7 +49,11 @@ Modalités à discuter au magasin.
 
 ### Pour venir
 
-160/1 route de Charleroi, 7134 Leval-Trahegnies (Binche).
+160/1 route de Charleroi, 7134 Leval-Trahegnies (Binche). Environ un quart d’heure de La Louvière, vingt-cinq minutes de Charleroi et de Mons. Parking facile d’accès.
+
+### Sur place
+
+Salons, relax et literie à essayer ; tables à rallonge à ouvrir vous-même. Une partie des modèles est exposée, les autres se commandent sur catalogue.
 
 [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -68,6 +72,18 @@ Avis clients
 - > « Service incroyable ! Déplacement à domicile pour mesurer et donner de très bons conseils. Service après vente parfait. Je recommande les yeux fermés […] »
 
   Clara L. · avis Google
+
+Vos questions
+
+## Avant de venir.
+
+### Faut-il prendre rendez-vous ?
+
+Non. Le magasin vous accueille du lundi au samedi, sans rendez-vous. Pour un projet de cuisine ou de sur mesure, un rendez-vous permet de vous consacrer plus de temps.
+
+### Jusqu’où livrez-vous ?
+
+Nous livrons et installons nous-mêmes dans le Hainaut et la province de Namur : Binche, La Louvière, Charleroi, Mons, Nivelles et leurs alentours. Pour un projet plus loin, parlons-en.
 
 Mon projet
 

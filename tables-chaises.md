@@ -1,6 +1,6 @@
 # Tables et chaises de salle à manger à Binche — Fony Meubles
 
-> Tables fixes et extensibles, chaises et buffets : Cattelan Italia, Sedit, Akante, Movis, Modulax, Tomasella, à voir près de Binche.
+> Tables fixes et extensibles en céramique ou en bois, chaises et buffets : Cattelan Italia, Sedit, Akante, Movis, Modulax, à voir près de Binche.
 
 Adresse de la page : https://fony.be/tables-chaises
 
@@ -22,6 +22,22 @@ Des tables fixes italiennes aux lignes épurées, et des tables à rallonge lors
 - Tables fixes et extensibles
 - Céramique, bois et laque
 - Première visite et conseil offerts
+
+Tables extensibles
+
+## Céramique, bois, rallonge intégrée.
+
+Différents modèles, dans différentes qualités, à comparer au magasin : ouvrez la rallonge vous-même.
+
+- ### La forme et le plateau
+
+  Ronde, ovale ou aux bords arrondis ; plateau en céramique, en bois ou effet bois ; pied central ou piètement.
+- ### La rallonge
+
+  Rangée dans la table, elle s’ouvre en un geste. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
+- ### Le nombre de convives
+
+  Partez du nombre de personnes à table au quotidien et les jours de fête : certains grands plateaux accueillent jusqu’à douze convives, rallonge ouverte.
 
 Les tables
 
@@ -164,6 +180,18 @@ Chaque modèle présenté autour d’une table, dans une salle à manger complè
 
 [Choisir la table](https://fony.be/tables-chaises#fabricants)
 
+Vos questions
+
+## Avant de choisir.
+
+### Peut-on voir une table extensible ouverte au magasin ?
+
+Oui. Des tables à rallonge sont exposées : ouvrez-les vous-même pour juger le mécanisme. Les autres modèles se commandent sur catalogue, dans les dimensions et finitions choisies.
+
+### Céramique ou bois ?
+
+La céramique supporte bien la chaleur, les taches et les rayures du quotidien. Le bois est plus chaleureux et se patine avec le temps. Les deux se comparent au magasin.
+
 Dans la pièce
 
 ## À associer à votre table.
@@ -185,7 +213,7 @@ Dans la pièce
 
 ## Venez essayer nos tables et nos chaises.
 
-Le magasin vous accueille sans rendez-vous. Pour un conseil plus approfondi, vous pouvez en prendre un.
+Le magasin vous accueille sans rendez-vous, entre Binche et La Louvière. Parking facile d’accès. Pour un conseil plus approfondi, vous pouvez prendre rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
