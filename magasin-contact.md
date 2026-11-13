@@ -65,9 +65,9 @@ Avis clients
 - > « […] Nous sommes tombé sur Nicolas qui est un très bon vendeur et qui a réussi à comprendre ce que nous voulions. Très à l’écoute et professionnel, nous recommandons vivement ce magasin! »
 
   Alessio D. · avis Google
-- > « […] super contente de mon achat acheté un meuble tv avec un gain pas négligeable de 150€ par rapport a une grosse enseigne bien connue […] »
+- > « Service incroyable ! Déplacement à domicile pour mesurer et donner de très bons conseils. Service après vente parfait. Je recommande les yeux fermés […] »
 
-  Caroline H. · avis Google
+  Clara L. · avis Google
 
 Mon projet
 
