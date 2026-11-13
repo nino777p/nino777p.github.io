@@ -31,7 +31,7 @@ Différents modèles, dans différentes qualités, à comparer au magasin : ouv
 
 - ### La forme et le plateau
 
-  Ronde, ovale ou aux bords arrondis ; plateau en céramique, en bois ou effet bois ; pied central ou piètement.
+  Ronde, ovale ou rectangulaire ; plateau en céramique, en bois ou effet bois ; pied central ou piètement.
 - ### La rallonge
 
   Rangée dans la table, elle s’ouvre en un geste. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
@@ -235,6 +235,6 @@ Téléphone
 :   [064 46 07 72](tel:+3264460772)
 
 Livraison
-:   Par nos soins, dans le Hainaut et la province de Namur
+:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
 Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
