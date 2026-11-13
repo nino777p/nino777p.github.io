@@ -1,6 +1,6 @@
-# Chambre, boxsprings et matelas belges à Binche — Fony Meubles
+# Literie à Binche, boxsprings et matelas belges — Fony Meubles
 
-> Boxsprings et matelas de fabrication belge, Velda et Van Landschoot, fixes ou électriques, lits et armoires : à essayer allongé, près de Binche.
+> Magasin de literie près de Binche : boxsprings, matelas et sommiers belges Velda, Axelsson et Polypreen, fixes ou électriques, à essayer allongé.
 
 Adresse de la page : https://fony.be/literie
 
@@ -21,13 +21,13 @@ Boxsprings et matelas de fabrication belge, fixes ou électriques. Et autour, le
 
 - Des couchages à essayer allongé
 - Fixe ou électrique
-- Livraison, installation et reprise de l’ancien matelas
+- Livraison et installation
 
 Choisir
 
 ## Boxspring, sommier, matelas.
 
-Des couchages d’essai avec différents matelas couvrent la plupart des conforts. Le reste se commande au catalogue.
+Des couchages d’essai, avec différents matelas et dans différentes qualités, couvrent la plupart des conforts. Le reste se commande au catalogue.
 
 - 01
 
@@ -47,7 +47,7 @@ Des couchages d’essai avec différents matelas couvrent la plupart des confort
 
 Au magasin
 
-## Deux fabricants belges.
+## Trois fabricants belges.
 
 Les modèles exposés se déclinent en d’autres tailles, tissus, coloris, têtes de lit et pieds.
 
@@ -57,6 +57,9 @@ Les modèles exposés se déclinent en d’autres tailles, tissus, coloris, têt
 - ### Van Landschoot
 
   Les boxsprings Axelsson, entièrement fabriqués en Belgique, en plusieurs hauteurs, fixes ou électriques.
+- ### Polypreen
+
+  Fabriqués à Lommel, en Belgique. Matelas, sommiers à lattes et boxsprings.
 
 Velda
 
@@ -111,9 +114,25 @@ Autour du lit
 
    [Voir le sur mesure](https://fony.be/sur-mesure)
 
+Vos questions
+
+## Avant de choisir.
+
+### Peut-on essayer un matelas ou un boxspring avant de l’acheter ?
+
+Oui. Des couchages sont installés au magasin : allongez-vous, sans rendez-vous, et comparez plusieurs matelas.
+
+### Boxspring ou sommier à lattes ?
+
+Le boxspring offre un accueil plus souple et un châssis plus résistant ; le sommier à lattes donne un couchage un peu plus ferme. Les deux se voient au magasin.
+
+### Quelles tailles pour un boxspring électrique ?
+
+À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
+
 ## Venez essayer nos literies.
 
-Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Le magasin vous accueille sans rendez-vous, à dix minutes de La Louvière et moins de trente minutes de Mons.
+Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Notre magasin de literie, à Leval-Trahegnies (Binche), vous accueille sans rendez-vous, à quelques minutes d’Anderlues, à dix minutes de La Louvière et moins de trente minutes de Mons. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
