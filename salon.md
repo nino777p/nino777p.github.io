@@ -1,6 +1,6 @@
 # Salons et canapés relax à Binche — Fony Meubles
 
-> Canapés et relax italiens et européens à Leval-Trahegnies (Binche), à essayer au magasin, en tissu ou en cuir. Conseil et première visite offerts.
+> Canapés et salons relax électriques, fauteuils relax et releveurs, canapés convertibles : italiens et européens, à essayer au magasin près de Binche.
 
 Adresse de la page : https://fony.be/salon
 
@@ -58,6 +58,22 @@ Fermeté, matières, fonctions relax : ces critères se jugent au magasin, assi
 
    Vérifiez combien de places s’inclinent (un trois places n’a pas forcément trois relax) et combien de moteurs équipent chaque place : avec trois moteurs, les jambes, l’appui-tête et les lombaires se règlent séparément.
 
+Selon votre usage
+
+## Relax, releveur, convertible.
+
+Tous se voient et s’essaient au magasin, en tissu ou en cuir, dans différentes qualités.
+
+- ### Le canapé relax électrique
+
+  Une, deux ou trois places relax intégrées au canapé, commandées par un bouton. Fermé, il garde l’allure d’un salon classique.
+- ### Le fauteuil relax et le fauteuil releveur
+
+  Le fauteuil relax incline le dos et relève les jambes, pour une seule personne. Le releveur, en plus, se soulève doucement pour aider à se mettre debout.
+- ### Le canapé convertible et le canapé-lit
+
+  Un salon le jour, un couchage la nuit : pour les invités ou pour un usage plus régulier, selon le mécanisme et le matelas choisis.
+
 Les fabricants
 
 ## Nos fabricants de salons.
@@ -109,9 +125,21 @@ Composés par modules, à la mesure de votre mur.
 
 [Voir le séjour](https://fony.be/living)
 
+Vos questions
+
+## Avant de choisir.
+
+### Peut-on essayer un relax électrique au magasin ?
+
+Oui. Des salons et des fauteuils relax électriques sont exposés : asseyez-vous, inclinez, comparez, sans rendez-vous.
+
+### Quelle différence entre un fauteuil relax et un fauteuil releveur ?
+
+Le relax incline le dos et relève les jambes. Le releveur fait la même chose et se soulève aussi, pour aider à se lever sans effort.
+
 ## Venez essayer nos salons.
 
-Le magasin vous accueille sans rendez-vous. Pour un conseil plus approfondi, vous pouvez en prendre un.
+Le magasin vous accueille sans rendez-vous, à quelques minutes de Morlanwelz et d’Anderlues, à dix minutes de La Louvière. Parking facile d’accès. Pour un conseil plus approfondi, vous pouvez prendre rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
