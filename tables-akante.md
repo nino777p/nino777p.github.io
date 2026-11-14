@@ -64,6 +64,50 @@ Au magasin et sur catalogue
    Grand plateau en céramique marbrée : jusqu’à douze convives, rallonges ouvertes.
 
    [Dimensions et versions de Missouri](https://fony.be/tables-akante-missouri)
+5. (Photo : Table ronde Akante New Austin au plateau marbré, entourée de quatre chaises vertes, vue de dessus)
+
+   05
+
+   ### Austin
+
+   Oblongue fermée, ronde ouverte : de 135 à 190 cm de diamètre.
+
+   [Dimensions et versions de Austin](https://fony.be/tables-akante-austin)
+
+Devant le canapé
+
+## Les tables basses Akante.
+
+En céramique ou en verre, pour accompagner le canapé.
+
+- (Photo : Table basse Akante Goliath sur fond blanc : plateau ovale en céramique marbrée blanche, deux pieds en acier noir)
+
+  ### [Goliath](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+
+  Plateau ovale en céramique, 140 × 70 cm, hauteur 38 cm.
+
+  En parler au magasin
+- (Photo : Table basse Akante Galet sur fond blanc : plateau en céramique marbrée noire en forme de galet, trois pieds noirs)
+
+  ### [Galet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+
+  Plateau en céramique en forme de galet, 92 × 76 cm, hauteur 33 cm.
+
+  En parler au magasin
+- (Photo : Table basse ronde Akante Tamara sur fond blanc : plateau en céramique marbrée blanche, structure en acier poli)
+
+  ### [Tamara](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+
+  Ronde, plateau en céramique de 90 cm, structure en acier poli.
+
+  En parler au magasin
+- (Photo : Table basse ronde Akante Venezia sur fond blanc : plateau en verre fumé, piétement fin en acier noir)
+
+  ### [Venezia](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+
+  Ronde, plateau en verre trempé fumé de 90 cm, piétement en acier noir.
+
+  En parler au magasin
 
 Voir aussi
 

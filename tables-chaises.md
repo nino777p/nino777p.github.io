@@ -39,6 +39,14 @@ Une table à rallonge adapte l’espace au nombre de convives. Au magasin, compa
 
   Pensez à vos repas quotidiens et aux occasions où vous recevez. Certaines grandes tables atteignent trois mètres et accueillent plus de douze convives.
 
+Modèle par modèle
+
+## Comparer les dimensions.
+
+Les tables à rallonge, avec leurs mesures fermée et ouverte.
+
+- [Tables extensibles en céramique : 5 modèles Voir](https://fony.be/tables-extensibles-ceramique)
+
 Les tables
 
 ## Des collections aux styles différents.

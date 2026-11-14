@@ -66,6 +66,34 @@ Canvas et Onyx en photos. Nous proposons aussi Vienna, dans les petits formats 
 
    Un pied central croisé. Ronde de 100 à 140 cm, ovale de 150 à 220 cm, rectangulaire de 180 ou 200 cm, en hauteur de table ou en table haute.
 
+Autour de la table
+
+## Chaises et tabourets Perfecta.
+
+Le pied et le revêtement se choisissent pour s’accorder à la table. Nous proposons aussi la chaise Sunny.
+
+- (Photo : Chaises Perfecta Claudio à coque, en rouge et en vert anis, autour de deux tables rondes)
+
+  ### [Claudio](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+
+  Chaise à coque, déclinée aussi en tabouret de bar.
+
+  En parler au magasin
+- (Photo : Tabourets de bar Perfecta BarElite en revêtement cognac autour d’une table haute, devant une baie vitrée)
+
+  ### [Elite](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+
+  Tabouret de bar à dossier, pour une table haute.
+
+  En parler au magasin
+- (Photo : Tabourets de bar Perfecta BarGirona gris autour d’une table haute sombre, dans une cuisine)
+
+  ### [Girona](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+
+  Tabouret de bar pivotant.
+
+  En parler au magasin
+
 Vos questions
 
 ## Avant de composer.

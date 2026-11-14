@@ -6,7 +6,8 @@ Adresse de la page : https://fony.be/tables-akante-missouri
 
 1. [Accueil](https://fony.be/)
 2. [Salle à manger](https://fony.be/tables-chaises)
-3. Akante Missouri
+3. [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+4. Akante Missouri
 
 Akante · Table de repas extensible
 
@@ -93,6 +94,7 @@ Voir aussi
 ## Continuer la visite.
 
 - [Toutes nos tables](https://fony.be/tables-chaises)
+- [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
 - [Les tables Akante](https://fony.be/tables-akante)
 - [Akante Phoenix](https://fony.be/tables-akante-phoenix)
 - [Akante Kheops](https://fony.be/tables-akante-kheops)

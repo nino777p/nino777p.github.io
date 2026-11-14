@@ -3796,5 +3796,533 @@
    1600,
    1600
   ]
+ },
+ "ak-vancouver-fermee": {
+  "id": "ak-vancouver-fermee",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Vancouver",
+  "alt": "Table Akante Vancouver fermée sur fond blanc : plateau en céramique marbrée blanche, pied central à branches en acier noir",
+  "source": "ak-vancouver-fermee.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-vancouver-fermee-600.webp",
+   "900": "ak-vancouver-fermee-900.webp",
+   "1400": "ak-vancouver-fermee-1400.webp",
+   "2000": "ak-vancouver-fermee-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-vancouver-fermee-600.avif",
+   "900": "ak-vancouver-fermee-900.avif",
+   "1400": "ak-vancouver-fermee-1400.avif",
+   "2000": "ak-vancouver-fermee-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-vancouver-ouverte": {
+  "id": "ak-vancouver-ouverte",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Vancouver",
+  "alt": "Table Akante Vancouver rallonge ouverte sur fond blanc, plateau en céramique marbrée blanche",
+  "source": "ak-vancouver-ouverte.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-vancouver-ouverte-600.webp",
+   "900": "ak-vancouver-ouverte-900.webp",
+   "1400": "ak-vancouver-ouverte-1400.webp",
+   "2000": "ak-vancouver-ouverte-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-vancouver-ouverte-600.avif",
+   "900": "ak-vancouver-ouverte-900.avif",
+   "1400": "ak-vancouver-ouverte-1400.avif",
+   "2000": "ak-vancouver-ouverte-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-vancouver-chene": {
+  "id": "ak-vancouver-chene",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Vancouver",
+  "alt": "Table Akante Vancouver sur fond blanc, plateau en céramique chêne clair",
+  "source": "ak-vancouver-chene.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-vancouver-chene-600.webp",
+   "900": "ak-vancouver-chene-900.webp",
+   "1400": "ak-vancouver-chene-1400.webp",
+   "2000": "ak-vancouver-chene-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-vancouver-chene-600.avif",
+   "900": "ak-vancouver-chene-900.avif",
+   "1400": "ak-vancouver-chene-1400.avif",
+   "2000": "ak-vancouver-chene-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-influence-fermee": {
+  "id": "ak-influence-fermee",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Influence",
+  "alt": "Table Akante Influence fermée sur fond blanc : plateau rectangulaire en céramique marbrée, pied central à branches en acier noir",
+  "source": "ak-influence-fermee.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-influence-fermee-600.webp",
+   "900": "ak-influence-fermee-900.webp",
+   "1400": "ak-influence-fermee-1400.webp",
+   "2000": "ak-influence-fermee-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-influence-fermee-600.avif",
+   "900": "ak-influence-fermee-900.avif",
+   "1400": "ak-influence-fermee-1400.avif",
+   "2000": "ak-influence-fermee-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-influence-ouverte": {
+  "id": "ak-influence-ouverte",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Influence",
+  "alt": "Table Akante Influence rallonges ouvertes sur fond blanc, plateau en céramique marbrée",
+  "source": "ak-influence-ouverte.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-influence-ouverte-600.webp",
+   "900": "ak-influence-ouverte-900.webp",
+   "1400": "ak-influence-ouverte-1400.webp",
+   "2000": "ak-influence-ouverte-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-influence-ouverte-600.avif",
+   "900": "ak-influence-ouverte-900.avif",
+   "1400": "ak-influence-ouverte-1400.avif",
+   "2000": "ak-influence-ouverte-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-influence-chene": {
+  "id": "ak-influence-chene",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Influence",
+  "alt": "Table Akante Influence sur fond blanc, plateau en céramique chêne clair",
+  "source": "ak-influence-chene.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-influence-chene-600.webp",
+   "900": "ak-influence-chene-900.webp",
+   "1400": "ak-influence-chene-1400.webp",
+   "2000": "ak-influence-chene-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-influence-chene-600.avif",
+   "900": "ak-influence-chene-900.avif",
+   "1400": "ak-influence-chene-1400.avif",
+   "2000": "ak-influence-chene-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-ontario-fermee": {
+  "id": "ak-ontario-fermee",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Grande Ontario",
+  "alt": "Table Akante Grande Ontario fermée sur fond blanc : plateau en céramique marbrée, quatre pieds inclinés en acier noir",
+  "source": "ak-ontario-fermee.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-ontario-fermee-600.webp",
+   "900": "ak-ontario-fermee-900.webp",
+   "1400": "ak-ontario-fermee-1400.webp",
+   "2000": "ak-ontario-fermee-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-ontario-fermee-600.avif",
+   "900": "ak-ontario-fermee-900.avif",
+   "1400": "ak-ontario-fermee-1400.avif",
+   "2000": "ak-ontario-fermee-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-ontario-ouverte": {
+  "id": "ak-ontario-ouverte",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Grande Ontario",
+  "alt": "Table Akante Grande Ontario rallonges ouvertes sur fond blanc, plateau en céramique marbrée",
+  "source": "ak-ontario-ouverte.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-ontario-ouverte-600.webp",
+   "900": "ak-ontario-ouverte-900.webp",
+   "1400": "ak-ontario-ouverte-1400.webp",
+   "2000": "ak-ontario-ouverte-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-ontario-ouverte-600.avif",
+   "900": "ak-ontario-ouverte-900.avif",
+   "1400": "ak-ontario-ouverte-1400.avif",
+   "2000": "ak-ontario-ouverte-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-ontario-ambiance": {
+  "id": "ak-ontario-ambiance",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Grande Ontario",
+  "alt": "Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges",
+  "source": "ak-ontario-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-ontario-ambiance-600.webp",
+   "900": "ak-ontario-ambiance-900.webp",
+   "1400": "ak-ontario-ambiance-1400.webp",
+   "2000": "ak-ontario-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-ontario-ambiance-600.avif",
+   "900": "ak-ontario-ambiance-900.avif",
+   "1400": "ak-ontario-ambiance-1400.avif",
+   "2000": "ak-ontario-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-goliath-basse": {
+  "id": "ak-goliath-basse",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Goliath",
+  "alt": "Table basse Akante Goliath sur fond blanc : plateau ovale en céramique marbrée blanche, deux pieds en acier noir",
+  "source": "ak-goliath-basse.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-goliath-basse-600.webp",
+   "900": "ak-goliath-basse-900.webp",
+   "1400": "ak-goliath-basse-1400.webp",
+   "2000": "ak-goliath-basse-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-goliath-basse-600.avif",
+   "900": "ak-goliath-basse-900.avif",
+   "1400": "ak-goliath-basse-1400.avif",
+   "2000": "ak-goliath-basse-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-venezia-basse": {
+  "id": "ak-venezia-basse",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Venezia",
+  "alt": "Table basse ronde Akante Venezia sur fond blanc : plateau en verre fumé, piétement fin en acier noir",
+  "source": "ak-venezia-basse.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-venezia-basse-600.webp",
+   "900": "ak-venezia-basse-900.webp",
+   "1400": "ak-venezia-basse-1400.webp",
+   "2000": "ak-venezia-basse-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-venezia-basse-600.avif",
+   "900": "ak-venezia-basse-900.avif",
+   "1400": "ak-venezia-basse-1400.avif",
+   "2000": "ak-venezia-basse-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-tamara-basse": {
+  "id": "ak-tamara-basse",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Tamara",
+  "alt": "Table basse ronde Akante Tamara sur fond blanc : plateau en céramique marbrée blanche, structure en acier poli",
+  "source": "ak-tamara-basse.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-tamara-basse-600.webp",
+   "900": "ak-tamara-basse-900.webp",
+   "1400": "ak-tamara-basse-1400.webp",
+   "2000": "ak-tamara-basse-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-tamara-basse-600.avif",
+   "900": "ak-tamara-basse-900.avif",
+   "1400": "ak-tamara-basse-1400.avif",
+   "2000": "ak-tamara-basse-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-galet-basse": {
+  "id": "ak-galet-basse",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Galet",
+  "alt": "Table basse Akante Galet sur fond blanc : plateau en céramique marbrée noire en forme de galet, trois pieds noirs",
+  "source": "ak-galet-basse.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-galet-basse-600.webp",
+   "900": "ak-galet-basse-900.webp",
+   "1400": "ak-galet-basse-1400.webp",
+   "2000": "ak-galet-basse-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-galet-basse-600.avif",
+   "900": "ak-galet-basse-900.avif",
+   "1400": "ak-galet-basse-1400.avif",
+   "2000": "ak-galet-basse-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-austin-fermee": {
+  "id": "ak-austin-fermee",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante New Austin",
+  "alt": "Table Akante New Austin fermée sur fond blanc : plateau oblong en céramique marbrée, quatre pieds inclinés en acier noir",
+  "source": "ak-austin-fermee.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-austin-fermee-600.webp",
+   "900": "ak-austin-fermee-900.webp",
+   "1400": "ak-austin-fermee-1400.webp",
+   "2000": "ak-austin-fermee-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-austin-fermee-600.avif",
+   "900": "ak-austin-fermee-900.avif",
+   "1400": "ak-austin-fermee-1400.avif",
+   "2000": "ak-austin-fermee-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-austin-ouverte": {
+  "id": "ak-austin-ouverte",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante New Austin",
+  "alt": "Table Akante New Austin ouverte sur fond blanc : le plateau en céramique marbrée est devenu rond",
+  "source": "ak-austin-ouverte.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-austin-ouverte-600.webp",
+   "900": "ak-austin-ouverte-900.webp",
+   "1400": "ak-austin-ouverte-1400.webp",
+   "2000": "ak-austin-ouverte-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-austin-ouverte-600.avif",
+   "900": "ak-austin-ouverte-900.avif",
+   "1400": "ak-austin-ouverte-1400.avif",
+   "2000": "ak-austin-ouverte-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-austin-ambiance": {
+  "id": "ak-austin-ambiance",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante New Austin",
+  "alt": "Table ronde Akante New Austin au plateau marbré, entourée de quatre chaises vertes, vue de dessus",
+  "source": "ak-austin-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-austin-ambiance-600.webp",
+   "900": "ak-austin-ambiance-900.webp",
+   "1400": "ak-austin-ambiance-1400.webp",
+   "2000": "ak-austin-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-austin-ambiance-600.avif",
+   "900": "ak-austin-ambiance-900.avif",
+   "1400": "ak-austin-ambiance-1400.avif",
+   "2000": "ak-austin-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "pf-barelite": {
+  "id": "pf-barelite",
+  "use": [
+   "tables-perfecta"
+  ],
+  "credit": "Perfecta BarElite",
+  "alt": "Tabourets de bar Perfecta BarElite en revêtement cognac autour d’une table haute, devant une baie vitrée",
+  "source": "pf-barelite.jpg",
+  "w": 1200,
+  "h": 600,
+  "files": {
+   "600": "pf-barelite-600.webp",
+   "900": "pf-barelite-900.webp",
+   "1200": "pf-barelite-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "pf-barelite-600.avif",
+   "900": "pf-barelite-900.avif",
+   "1200": "pf-barelite-1200.avif"
+  },
+  "ratio": [
+   1200,
+   600
+  ]
+ },
+ "pf-bargirona": {
+  "id": "pf-bargirona",
+  "use": [
+   "tables-perfecta"
+  ],
+  "credit": "Perfecta BarGirona",
+  "alt": "Tabourets de bar Perfecta BarGirona gris autour d’une table haute sombre, dans une cuisine",
+  "source": "pf-bargirona.jpg",
+  "w": 1973,
+  "h": 986,
+  "files": {
+   "600": "pf-bargirona-600.webp",
+   "900": "pf-bargirona-900.webp",
+   "1400": "pf-bargirona-1400.webp",
+   "1973": "pf-bargirona-1973.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "pf-bargirona-600.avif",
+   "900": "pf-bargirona-900.avif",
+   "1400": "pf-bargirona-1400.avif",
+   "1973": "pf-bargirona-1973.avif"
+  },
+  "ratio": [
+   1973,
+   986
+  ]
+ },
+ "pf-claudio": {
+  "id": "pf-claudio",
+  "use": [
+   "tables-perfecta"
+  ],
+  "credit": "Perfecta Claudio",
+  "alt": "Chaises Perfecta Claudio à coque, en rouge et en vert anis, autour de deux tables rondes",
+  "source": "pf-claudio.jpg",
+  "w": 1200,
+  "h": 600,
+  "files": {
+   "600": "pf-claudio-600.webp",
+   "900": "pf-claudio-900.webp",
+   "1200": "pf-claudio-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "pf-claudio-600.avif",
+   "900": "pf-claudio-900.avif",
+   "1200": "pf-claudio-1200.avif"
+  },
+  "ratio": [
+   1200,
+   600
+  ]
  }
 }
