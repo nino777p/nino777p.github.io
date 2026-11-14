@@ -161,6 +161,14 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     var pieces = { salon: 'Salon et relax', sejour: 'Séjour', 'salle-a-manger': 'Salle à manger', chambre: 'Chambre et literie',
       'sur-mesure': 'Sur mesure', cuisine: 'Cuisine', complet: 'Projet complet', pro: 'Professionnel' };
     if (interet && pieces[projet]) interet.value = pieces[projet];
+    // (14/11/2026) une fiche produit précise le modèle et la demande (?modele=…&demande=essai|devis) : le message est
+    // prérempli en clair, le visiteur le voit et peut le changer. Rien n'est ajouté si le message est déjà commencé.
+    var message = f.querySelector('textarea[name=message]'), modele = null, demande = null;
+    try { var q = new URLSearchParams(location.search); modele = q.get('modele'); demande = q.get('demande'); } catch (e) {}
+    if (message && modele && !message.value.trim()) {
+      modele = modele.replace(/[^\wÀ-ÿ’' .\-³]/g, '').slice(0, 80);
+      message.value = (demande === 'devis' ? 'Je souhaite un devis pour : ' : 'Je souhaite venir essayer : ') + modele + '.\n';
+    }
     // FormSubmit refuse les envois de plus de 10 Mo : on prévient avant plutôt qu'après
     var photo = f.querySelector('input[type=file]'), erreurPhoto = f.querySelector('[data-erreur-photo]');
     function tropLourde() { return photo && photo.files && photo.files[0] && photo.files[0].size > 10 * 1024 * 1024; }

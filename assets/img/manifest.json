@@ -1,0 +1,3324 @@
+{
+ "tom-living-panorama": {
+  "id": "tom-living-panorama",
+  "use": [
+   "living.html:hero"
+  ],
+  "credit": "Tomasella",
+  "alt": "Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée",
+  "source": "tom-living-panorama.png",
+  "w": 1900,
+  "h": 950,
+  "files": {
+   "600": "tom-living-panorama-600.webp",
+   "900": "tom-living-panorama-900.webp",
+   "1400": "tom-living-panorama-1400.webp",
+   "1900": "tom-living-panorama-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-living-panorama-600.avif",
+   "900": "tom-living-panorama-900.avif",
+   "1400": "tom-living-panorama-1400.avif",
+   "1900": "tom-living-panorama-1900.avif"
+  },
+  "ratio": [
+   1900,
+   950
+  ],
+  "og": "tom-living-panorama-og.jpg"
+ },
+ "tom-atlante-villa": {
+  "id": "tom-atlante-villa",
+  "use": [
+   "living.html:atlante"
+  ],
+  "credit": "Tomasella Atlante",
+  "alt": "Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair",
+  "source": "tom-atlante-villa.png",
+  "w": 1900,
+  "h": 917,
+  "files": {
+   "600": "tom-atlante-villa-600.webp",
+   "900": "tom-atlante-villa-900.webp",
+   "1400": "tom-atlante-villa-1400.webp",
+   "1900": "tom-atlante-villa-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-atlante-villa-600.avif",
+   "900": "tom-atlante-villa-900.avif",
+   "1400": "tom-atlante-villa-1400.avif",
+   "1900": "tom-atlante-villa-1900.avif"
+  },
+  "ratio": [
+   1900,
+   917
+  ]
+ },
+ "tom-time": {
+  "id": "tom-time",
+  "use": [
+   "living.html:time"
+  ],
+  "credit": "Tomasella Time",
+  "alt": "Séjour Tomasella Time : composition murale en laque et bois",
+  "source": "tom-time.png",
+  "w": 1900,
+  "h": 891,
+  "files": {
+   "600": "tom-time-600.webp",
+   "900": "tom-time-900.webp",
+   "1400": "tom-time-1400.webp",
+   "1900": "tom-time-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-time-600.avif",
+   "900": "tom-time-900.avif",
+   "1400": "tom-time-1400.avif",
+   "1900": "tom-time-1900.avif"
+  },
+  "ratio": [
+   1900,
+   891
+  ],
+  "og": "tom-time-og.jpg"
+ },
+ "tom-table": {
+  "id": "tom-table",
+  "use": [
+   "living.html:buffets"
+  ],
+  "credit": "Tomasella",
+  "alt": "Table et buffet Tomasella dans un séjour urbain",
+  "source": "tom-table.png",
+  "w": 1651,
+  "h": 1900,
+  "files": {
+   "600": "tom-table-600.webp",
+   "900": "tom-table-900.webp",
+   "1400": "tom-table-1400.webp",
+   "1651": "tom-table-1651.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-table-600.avif",
+   "900": "tom-table-900.avif",
+   "1400": "tom-table-1400.avif",
+   "1651": "tom-table-1651.avif"
+  },
+  "ratio": [
+   1651,
+   1900
+  ],
+  "og": "tom-table-og.jpg"
+ },
+ "tom-chambre": {
+  "id": "tom-chambre",
+  "use": [
+   "living.html:chambre"
+  ],
+  "credit": "Tomasella Corinto",
+  "alt": "Chambre Tomasella Corinto : lit tapissé et chevets assortis",
+  "source": "tom-chambre.png",
+  "w": 1900,
+  "h": 1153,
+  "files": {
+   "600": "tom-chambre-600.webp",
+   "900": "tom-chambre-900.webp",
+   "1400": "tom-chambre-1400.webp",
+   "1900": "tom-chambre-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-chambre-600.avif",
+   "900": "tom-chambre-900.avif",
+   "1400": "tom-chambre-1400.avif",
+   "1900": "tom-chambre-1900.avif"
+  },
+  "ratio": [
+   1900,
+   1153
+  ],
+  "og": "tom-chambre-og.jpg"
+ },
+ "tom-walkin": {
+  "id": "tom-walkin",
+  "use": [
+   "sur-mesure.html:hero",
+   "index.html:dressing"
+  ],
+  "credit": "Tomasella",
+  "alt": "Dressing ouvert Tomasella : penderies et tiroirs en bois chaud",
+  "source": "tom-walkin.png",
+  "w": 1431,
+  "h": 1900,
+  "files": {
+   "600": "tom-walkin-600.webp",
+   "900": "tom-walkin-900.webp",
+   "1400": "tom-walkin-1400.webp",
+   "1431": "tom-walkin-1431.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-walkin-600.avif",
+   "900": "tom-walkin-900.avif",
+   "1400": "tom-walkin-1400.avif",
+   "1431": "tom-walkin-1431.avif"
+  },
+  "ratio": [
+   1431,
+   1900
+  ],
+  "og": "tom-walkin-og.jpg"
+ },
+ "tom-dressing": {
+  "id": "tom-dressing",
+  "use": [
+   "sur-mesure.html:dressing"
+  ],
+  "credit": "Tomasella Doxa",
+  "alt": "Armoire-dressing Tomasella Doxa à portes coulissantes",
+  "source": "tom-dressing.png",
+  "w": 1900,
+  "h": 999,
+  "files": {
+   "600": "tom-dressing-600.webp",
+   "900": "tom-dressing-900.webp",
+   "1400": "tom-dressing-1400.webp",
+   "1900": "tom-dressing-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-dressing-600.avif",
+   "900": "tom-dressing-900.avif",
+   "1400": "tom-dressing-1400.avif",
+   "1900": "tom-dressing-1900.avif"
+  },
+  "ratio": [
+   1900,
+   999
+  ]
+ },
+ "tom-bibliotheque": {
+  "id": "tom-bibliotheque",
+  "use": [
+   "sur-mesure.html:bibliotheque"
+  ],
+  "credit": "Tomasella",
+  "alt": "Bibliothèque murale Tomasella avec niches et éclairage intégré",
+  "source": "tom-bibliotheque.png",
+  "w": 1900,
+  "h": 1193,
+  "files": {
+   "600": "tom-bibliotheque-600.webp",
+   "900": "tom-bibliotheque-900.webp",
+   "1400": "tom-bibliotheque-1400.webp",
+   "1900": "tom-bibliotheque-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-bibliotheque-600.avif",
+   "900": "tom-bibliotheque-900.avif",
+   "1400": "tom-bibliotheque-1400.avif",
+   "1900": "tom-bibliotheque-1900.avif"
+  },
+  "ratio": [
+   1900,
+   1193
+  ]
+ },
+ "tom-meuble-tv": {
+  "id": "tom-meuble-tv",
+  "use": [
+   "sur-mesure.html:meuble-tv"
+  ],
+  "credit": "Tomasella",
+  "alt": "Meuble TV Tomasella avec rangements suspendus dans un salon",
+  "source": "tom-meuble-tv.png",
+  "w": 1900,
+  "h": 825,
+  "files": {
+   "600": "tom-meuble-tv-600.webp",
+   "900": "tom-meuble-tv-900.webp",
+   "1400": "tom-meuble-tv-1400.webp",
+   "1900": "tom-meuble-tv-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-meuble-tv-600.avif",
+   "900": "tom-meuble-tv-900.avif",
+   "1400": "tom-meuble-tv-1400.avif",
+   "1900": "tom-meuble-tv-1900.avif"
+  },
+  "ratio": [
+   1900,
+   825
+  ]
+ },
+ "tom-armoire": {
+  "id": "tom-armoire",
+  "use": [
+   "sur-mesure.html:tomasella-armoire"
+  ],
+  "credit": "Tomasella Carmen",
+  "alt": "Armoire Tomasella Carmen à portes battantes laquées",
+  "source": "tom-armoire.png",
+  "w": 1900,
+  "h": 1153,
+  "files": {
+   "600": "tom-armoire-600.webp",
+   "900": "tom-armoire-900.webp",
+   "1400": "tom-armoire-1400.webp",
+   "1900": "tom-armoire-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-armoire-600.avif",
+   "900": "tom-armoire-900.avif",
+   "1400": "tom-armoire-1400.avif",
+   "1900": "tom-armoire-1900.avif"
+  },
+  "ratio": [
+   1900,
+   1153
+  ]
+ },
+ "tom-finition": {
+  "id": "tom-finition",
+  "use": [
+   "sur-mesure.html:final"
+  ],
+  "credit": "Tomasella",
+  "alt": "Détail de finition Tomasella : façade laquée et poignée intégrée",
+  "source": "tom-finition.png",
+  "w": 1900,
+  "h": 1142,
+  "files": {
+   "600": "tom-finition-600.webp",
+   "900": "tom-finition-900.webp",
+   "1400": "tom-finition-1400.webp",
+   "1900": "tom-finition-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-finition-600.avif",
+   "900": "tom-finition-900.avif",
+   "1400": "tom-finition-1400.avif",
+   "1900": "tom-finition-1900.avif"
+  },
+  "ratio": [
+   1900,
+   1142
+  ],
+  "og": "tom-finition-og.jpg"
+ },
+ "tom-appartement": {
+  "id": "tom-appartement",
+  "use": [
+   "index.html:hero",
+   "espace-pro.html:appartement"
+  ],
+  "credit": "Tomasella",
+  "alt": "Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure",
+  "source": "tom-appartement.png",
+  "w": 1920,
+  "h": 928,
+  "files": {
+   "600": "tom-appartement-600.webp",
+   "900": "tom-appartement-900.webp",
+   "1400": "tom-appartement-1400.webp",
+   "1920": "tom-appartement-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-appartement-600.avif",
+   "900": "tom-appartement-900.avif",
+   "1400": "tom-appartement-1400.avif",
+   "1920": "tom-appartement-1920.avif"
+  },
+  "ratio": [
+   1920,
+   928
+  ],
+  "og": "tom-appartement-og.jpg"
+ },
+ "mat-noyer": {
+  "id": "mat-noyer",
+  "use": [
+   "index.html:mat-noyer"
+  ],
+  "credit": "Tomasella · Materico",
+  "alt": "Échantillon Tomasella : noyer ambré",
+  "source": "mat-noyer.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-noyer-960.webp",
+   "480": "mat-noyer-480.webp"
+  },
+  "avif": {
+   "960": "mat-noyer-960.avif",
+   "480": "mat-noyer-480.avif"
+  },
+  "ratio": [
+   960,
+   1200
+  ],
+  "og": "mat-noyer-og.jpg"
+ },
+ "mat-chene": {
+  "id": "mat-chene",
+  "use": [
+   "index.html:mat-chene"
+  ],
+  "credit": "Tomasella · Legno",
+  "alt": "Échantillon Tomasella : chêne sable",
+  "source": "mat-chene.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-chene-960.webp",
+   "480": "mat-chene-480.webp"
+  },
+  "avif": {
+   "960": "mat-chene-960.avif",
+   "480": "mat-chene-480.avif"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-cannele": {
+  "id": "mat-cannele",
+  "use": [
+   "index.html:mat-boucle"
+  ],
+  "credit": "Tomasella · Legno",
+  "alt": "Échantillon Tomasella : chêne cannelé cognac",
+  "source": "mat-cannele.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-cannele-960.webp",
+   "480": "mat-cannele-480.webp"
+  },
+  "avif": {
+   "960": "mat-cannele-960.avif",
+   "480": "mat-cannele-480.avif"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-laque": {
+  "id": "mat-laque",
+  "use": [
+   "index.html:mat-laque"
+  ],
+  "credit": "Tomasella · Laccato",
+  "alt": "Échantillon Tomasella : laque mate Arena",
+  "source": "mat-laque.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-laque-960.webp",
+   "480": "mat-laque-480.webp"
+  },
+  "avif": {
+   "960": "mat-laque-960.avif",
+   "480": "mat-laque-480.avif"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-lin": {
+  "id": "mat-lin",
+  "use": [
+   "index.html:mat-cuir"
+  ],
+  "credit": "Tomasella · Materico",
+  "alt": "Échantillon Tomasella : lin texturé",
+  "source": "mat-lin.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-lin-960.webp",
+   "480": "mat-lin-480.webp"
+  },
+  "avif": {
+   "960": "mat-lin-960.avif",
+   "480": "mat-lin-480.avif"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-pierre": {
+  "id": "mat-pierre",
+  "use": [
+   "index.html:mat-pierre"
+  ],
+  "credit": "Tomasella · Materico",
+  "alt": "Échantillon Tomasella : pierre piasentina",
+  "source": "mat-pierre.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-pierre-960.webp",
+   "480": "mat-pierre-480.webp"
+  },
+  "avif": {
+   "960": "mat-pierre-960.avif",
+   "480": "mat-pierre-480.avif"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-ciment": {
+  "id": "mat-ciment",
+  "use": [
+   "index.html:mat-fenix"
+  ],
+  "credit": "Tomasella · Materico",
+  "alt": "Échantillon Tomasella : ciment cava",
+  "source": "mat-ciment.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-ciment-960.webp",
+   "480": "mat-ciment-480.webp"
+  },
+  "avif": {
+   "960": "mat-ciment-960.avif",
+   "480": "mat-ciment-480.avif"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "mat-laiton": {
+  "id": "mat-laiton",
+  "use": [
+   "index.html:mat-laiton"
+  ],
+  "credit": "Tomasella · Laccato",
+  "alt": "Échantillon Tomasella : laque métallisée laiton",
+  "source": "mat-laiton.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "960": "mat-laiton-960.webp",
+   "480": "mat-laiton-480.webp"
+  },
+  "avif": {
+   "960": "mat-laiton-960.avif",
+   "480": "mat-laiton-480.avif"
+  },
+  "ratio": [
+   960,
+   1200
+  ]
+ },
+ "stosa-hero": {
+  "id": "stosa-hero",
+  "use": [
+   "cuisine.html:moderne"
+  ],
+  "credit": "Stosa Metropolis",
+  "alt": "Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé",
+  "source": "stosa-hero.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "600": "stosa-hero-600.webp",
+   "900": "stosa-hero-900.webp",
+   "1400": "stosa-hero-1400.webp",
+   "1900": "stosa-hero-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "stosa-hero-600.avif",
+   "900": "stosa-hero-900.avif",
+   "1400": "stosa-hero-1400.avif",
+   "1900": "stosa-hero-1900.avif"
+  },
+  "ratio": [
+   1900,
+   1900
+  ],
+  "og": "stosa-hero-og.jpg"
+ },
+ "stosa-ilot": {
+  "id": "stosa-ilot",
+  "use": [
+   "cuisine.html:hero"
+  ],
+  "credit": "Stosa Metropolis",
+  "alt": "Cuisine moderne Stosa Metropolis avec îlot central",
+  "source": "stosa-ilot.png",
+  "w": 1900,
+  "h": 861,
+  "files": {
+   "600": "stosa-ilot-600.webp",
+   "900": "stosa-ilot-900.webp",
+   "1400": "stosa-ilot-1400.webp",
+   "1900": "stosa-ilot-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "stosa-ilot-600.avif",
+   "900": "stosa-ilot-900.avif",
+   "1400": "stosa-ilot-1400.avif",
+   "1900": "stosa-ilot-1900.avif"
+  },
+  "ratio": [
+   1900,
+   861
+  ],
+  "og": "stosa-ilot-og.jpg"
+ },
+ "stosa-bois": {
+  "id": "stosa-bois",
+  "use": [
+   "cuisine.html:classique"
+  ],
+  "credit": "Stosa Natural",
+  "alt": "Cuisine Stosa Natural en bois, façades à cadre",
+  "source": "stosa-bois.png",
+  "w": 1200,
+  "h": 1200,
+  "files": {
+   "600": "stosa-bois-600.webp",
+   "900": "stosa-bois-900.webp",
+   "1200": "stosa-bois-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "stosa-bois-600.avif",
+   "900": "stosa-bois-900.avif",
+   "1200": "stosa-bois-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1200
+  ]
+ },
+ "stosa-living": {
+  "id": "stosa-living",
+  "use": [
+   "cuisine.html:living"
+  ],
+  "credit": "Stosa Infinity",
+  "alt": "Cuisine Stosa Infinity et séjour dans la même pièce",
+  "source": "stosa-living.png",
+  "w": 1900,
+  "h": 861,
+  "files": {
+   "600": "stosa-living-600.webp",
+   "900": "stosa-living-900.webp",
+   "1400": "stosa-living-1400.webp",
+   "1900": "stosa-living-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "stosa-living-600.avif",
+   "900": "stosa-living-900.avif",
+   "1400": "stosa-living-1400.avif",
+   "1900": "stosa-living-1900.avif"
+  },
+  "ratio": [
+   1900,
+   861
+  ]
+ },
+ "stosa-detail": {
+  "id": "stosa-detail",
+  "use": [
+   "cuisine.html:final"
+  ],
+  "credit": "Stosa Natural",
+  "alt": "Détail de façade et de poignée d’une cuisine Stosa Natural",
+  "source": "stosa-detail.png",
+  "w": 1200,
+  "h": 1200,
+  "files": {
+   "600": "stosa-detail-600.webp",
+   "900": "stosa-detail-900.webp",
+   "1200": "stosa-detail-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "stosa-detail-600.avif",
+   "900": "stosa-detail-900.avif",
+   "1200": "stosa-detail-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1200
+  ]
+ },
+ "stosa-accueil": {
+  "id": "stosa-accueil",
+  "use": [
+   "index.html:cuisine-card"
+  ],
+  "credit": "Stosa Metropolis",
+  "alt": "Cuisine Stosa Metropolis : façades sombres et plan de travail clair",
+  "source": "stosa-accueil.png",
+  "w": 1900,
+  "h": 861,
+  "files": {
+   "600": "stosa-accueil-600.webp",
+   "900": "stosa-accueil-900.webp",
+   "1400": "stosa-accueil-1400.webp",
+   "1900": "stosa-accueil-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "stosa-accueil-600.avif",
+   "900": "stosa-accueil-900.avif",
+   "1400": "stosa-accueil-1400.avif",
+   "1900": "stosa-accueil-1900.avif"
+  },
+  "ratio": [
+   1900,
+   861
+  ]
+ },
+ "stosa-bois-macro": {
+  "id": "stosa-bois-macro",
+  "use": [
+   "cuisine.html:plan-bois"
+  ],
+  "credit": "Stosa",
+  "alt": "Plan de travail en chêne noueux Stosa, vue rapprochée",
+  "source": "stosa-bois-macro.png",
+  "w": 1900,
+  "h": 1900,
+  "files": {
+   "600": "stosa-bois-macro-600.webp",
+   "900": "stosa-bois-macro-900.webp",
+   "1400": "stosa-bois-macro-1400.webp",
+   "1900": "stosa-bois-macro-1900.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "stosa-bois-macro-600.avif",
+   "900": "stosa-bois-macro-900.avif",
+   "1400": "stosa-bois-macro-1400.avif",
+   "1900": "stosa-bois-macro-1900.avif"
+  },
+  "ratio": [
+   1900,
+   1900
+  ]
+ },
+ "stosa-hpl": {
+  "id": "stosa-hpl",
+  "use": [
+   "cuisine.html:plan-stratifie"
+  ],
+  "credit": "Stosa",
+  "alt": "Plan de travail stratifié HPL Stosa, vue rapprochée",
+  "source": "stosa-hpl.png",
+  "w": 1648,
+  "h": 1236,
+  "files": {
+   "600": "stosa-hpl-600.webp",
+   "900": "stosa-hpl-900.webp",
+   "1400": "stosa-hpl-1400.webp",
+   "1648": "stosa-hpl-1648.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "stosa-hpl-600.avif",
+   "900": "stosa-hpl-900.avif",
+   "1400": "stosa-hpl-1400.avif",
+   "1648": "stosa-hpl-1648.avif"
+  },
+  "ratio": [
+   1648,
+   1236
+  ]
+ },
+ "md-coffee-ambiance": {
+  "id": "md-coffee-ambiance",
+  "use": [
+   "salon.html:hero"
+  ],
+  "credit": "Max Divani Coffee",
+  "alt": "Canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre",
+  "source": "md-coffee-ambiance.jpg",
+  "w": 4800,
+  "h": 3432,
+  "files": {
+   "600": "md-coffee-ambiance-600.webp",
+   "900": "md-coffee-ambiance-900.webp",
+   "1400": "md-coffee-ambiance-1400.webp",
+   "2000": "md-coffee-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-coffee-ambiance-600.avif",
+   "900": "md-coffee-ambiance-900.avif",
+   "1400": "md-coffee-ambiance-1400.avif",
+   "2000": "md-coffee-ambiance-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3432
+  ],
+  "og": "md-coffee-ambiance-og.jpg"
+ },
+ "md-coffee-angle": {
+  "id": "md-coffee-angle",
+  "use": [],
+  "credit": "Max Divani Coffee",
+  "alt": "Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf",
+  "source": "md-coffee-angle.jpg",
+  "w": 4800,
+  "h": 2983,
+  "files": {
+   "600": "md-coffee-angle-600.webp",
+   "900": "md-coffee-angle-900.webp",
+   "1400": "md-coffee-angle-1400.webp",
+   "2000": "md-coffee-angle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-coffee-angle-600.avif",
+   "900": "md-coffee-angle-900.avif",
+   "1400": "md-coffee-angle-1400.avif",
+   "2000": "md-coffee-angle-2000.avif"
+  },
+  "ratio": [
+   4800,
+   2983
+  ]
+ },
+ "md-osaka-relax": {
+  "id": "md-osaka-relax",
+  "use": [
+   "index.html:living-card"
+  ],
+  "credit": "Max Divani Osaka",
+  "alt": "Deux canapés relax en cuir brun foncé face à face dans un séjour",
+  "source": "md-osaka-relax.jpg",
+  "w": 4800,
+  "h": 3032,
+  "files": {
+   "600": "md-osaka-relax-600.webp",
+   "900": "md-osaka-relax-900.webp",
+   "1400": "md-osaka-relax-1400.webp",
+   "2000": "md-osaka-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-osaka-relax-600.avif",
+   "900": "md-osaka-relax-900.avif",
+   "1400": "md-osaka-relax-1400.avif",
+   "2000": "md-osaka-relax-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3032
+  ]
+ },
+ "md-zebra-relax": {
+  "id": "md-zebra-relax",
+  "use": [],
+  "credit": "Max Divani Zebra",
+  "alt": "Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables",
+  "source": "md-zebra-relax.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-zebra-relax-600.webp",
+   "900": "md-zebra-relax-900.webp",
+   "1400": "md-zebra-relax-1400.webp",
+   "2000": "md-zebra-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-relax-600.avif",
+   "900": "md-zebra-relax-900.avif",
+   "1400": "md-zebra-relax-1400.avif",
+   "2000": "md-zebra-relax-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-zebra-angle": {
+  "id": "md-zebra-angle",
+  "use": [],
+  "credit": "Max Divani Zebra",
+  "alt": "Canapé d’angle en tissu gris, têtières réglables, piètement métal noir",
+  "source": "md-zebra-angle.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-zebra-angle-600.webp",
+   "900": "md-zebra-angle-900.webp",
+   "1400": "md-zebra-angle-1400.webp",
+   "2000": "md-zebra-angle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-angle-600.avif",
+   "900": "md-zebra-angle-900.avif",
+   "1400": "md-zebra-angle-1400.avif",
+   "2000": "md-zebra-angle-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-zebra-detail": {
+  "id": "md-zebra-detail",
+  "use": [],
+  "credit": "Max Divani Zebra",
+  "alt": "Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris",
+  "source": "md-zebra-detail.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-zebra-detail-600.webp",
+   "900": "md-zebra-detail-900.webp",
+   "1400": "md-zebra-detail-1400.webp",
+   "2000": "md-zebra-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-detail-600.avif",
+   "900": "md-zebra-detail-900.avif",
+   "1400": "md-zebra-detail-1400.avif",
+   "2000": "md-zebra-detail-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-gala-ambiance": {
+  "id": "md-gala-ambiance",
+  "use": [],
+  "credit": "Max Divani Gala",
+  "alt": "Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée",
+  "source": "md-gala-ambiance.jpg",
+  "w": 4800,
+  "h": 2809,
+  "files": {
+   "600": "md-gala-ambiance-600.webp",
+   "900": "md-gala-ambiance-900.webp",
+   "1400": "md-gala-ambiance-1400.webp",
+   "2000": "md-gala-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-gala-ambiance-600.avif",
+   "900": "md-gala-ambiance-900.avif",
+   "1400": "md-gala-ambiance-1400.avif",
+   "2000": "md-gala-ambiance-2000.avif"
+  },
+  "ratio": [
+   4800,
+   2809
+  ]
+ },
+ "md-curry-relax": {
+  "id": "md-curry-relax",
+  "use": [],
+  "credit": "Max Divani Curry",
+  "alt": "Canapés trois places et deux places en tissu gris clair, une place relax ouverte",
+  "source": "md-curry-relax.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-curry-relax-600.webp",
+   "900": "md-curry-relax-900.webp",
+   "1400": "md-curry-relax-1400.webp",
+   "2000": "md-curry-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-curry-relax-600.avif",
+   "900": "md-curry-relax-900.avif",
+   "1400": "md-curry-relax-1400.avif",
+   "2000": "md-curry-relax-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "eu-chaises-quatre": {
+  "id": "eu-chaises-quatre",
+  "use": [],
+  "credit": "Fabricant européen",
+  "alt": "Quatre chaises en tissu, gris, ocre, taupe et écru, sur pied métal",
+  "source": "eu-chaises-quatre.jpg",
+  "w": 4961,
+  "h": 1800,
+  "files": {
+   "600": "eu-chaises-quatre-600.webp",
+   "900": "eu-chaises-quatre-900.webp",
+   "1400": "eu-chaises-quatre-1400.webp",
+   "2000": "eu-chaises-quatre-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "eu-chaises-quatre-600.avif",
+   "900": "eu-chaises-quatre-900.avif",
+   "1400": "eu-chaises-quatre-1400.avif",
+   "2000": "eu-chaises-quatre-2000.avif"
+  },
+  "ratio": [
+   4961,
+   1800
+  ]
+ },
+ "eu-chaise-vues": {
+  "id": "eu-chaise-vues",
+  "use": [],
+  "credit": "Fabricant européen",
+  "alt": "Chaise en tissu bouclé gris sur pied métal, vue de face, de dos et de profil",
+  "source": "eu-chaise-vues.jpg",
+  "w": 3768,
+  "h": 3018,
+  "files": {
+   "600": "eu-chaise-vues-600.webp",
+   "900": "eu-chaise-vues-900.webp",
+   "1400": "eu-chaise-vues-1400.webp",
+   "2000": "eu-chaise-vues-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "eu-chaise-vues-600.avif",
+   "900": "eu-chaise-vues-900.avif",
+   "1400": "eu-chaise-vues-1400.avif",
+   "2000": "eu-chaise-vues-2000.avif"
+  },
+  "ratio": [
+   3768,
+   3018
+  ]
+ },
+ "eu-salon-arrondi": {
+  "id": "eu-salon-arrondi",
+  "use": [],
+  "credit": "Fabricant européen",
+  "alt": "Salon aux formes arrondies en tissu texturé beige, dans un séjour aux tons chauds",
+  "source": "eu-salon-arrondi.jpg",
+  "w": 2400,
+  "h": 1600,
+  "files": {
+   "600": "eu-salon-arrondi-600.webp",
+   "900": "eu-salon-arrondi-900.webp",
+   "1400": "eu-salon-arrondi-1400.webp",
+   "2000": "eu-salon-arrondi-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "eu-salon-arrondi-600.avif",
+   "900": "eu-salon-arrondi-900.avif",
+   "1400": "eu-salon-arrondi-1400.avif",
+   "2000": "eu-salon-arrondi-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1600
+  ]
+ },
+ "eu-salon-arrondi-pack": {
+  "id": "eu-salon-arrondi-pack",
+  "use": [],
+  "credit": "Fabricant européen",
+  "alt": "Canapé aux formes arrondies en tissu texturé brun, avec méridienne ronde",
+  "source": "eu-salon-arrondi-pack.jpg",
+  "w": 1772,
+  "h": 814,
+  "files": {
+   "600": "eu-salon-arrondi-pack-600.webp",
+   "900": "eu-salon-arrondi-pack-900.webp",
+   "1400": "eu-salon-arrondi-pack-1400.webp",
+   "1772": "eu-salon-arrondi-pack-1772.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "eu-salon-arrondi-pack-600.avif",
+   "900": "eu-salon-arrondi-pack-900.avif",
+   "1400": "eu-salon-arrondi-pack-1400.avif",
+   "1772": "eu-salon-arrondi-pack-1772.avif"
+  },
+  "ratio": [
+   1772,
+   814
+  ]
+ },
+ "ct-napoleon-ambiance": {
+  "id": "ct-napoleon-ambiance",
+  "use": [
+   "tables-cattelan:hero"
+  ],
+  "credit": "Cattelan Italia Napoleon Keramik",
+  "alt": "Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse",
+  "source": "ct-napoleon-ambiance.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-napoleon-ambiance-600.webp",
+   "900": "ct-napoleon-ambiance-900.webp",
+   "1400": "ct-napoleon-ambiance-1400.webp",
+   "2000": "ct-napoleon-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-napoleon-ambiance-600.avif",
+   "900": "ct-napoleon-ambiance-900.avif",
+   "1400": "ct-napoleon-ambiance-1400.avif",
+   "2000": "ct-napoleon-ambiance-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ],
+  "og": "ct-napoleon-ambiance-og.jpg"
+ },
+ "ct-napoleon-salle": {
+  "id": "ct-napoleon-salle",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Napoleon Keramik",
+  "alt": "Table ovale en céramique claire sur pied central, fauteuils écrus, devant de grandes fenêtres",
+  "source": "ct-napoleon-salle.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-napoleon-salle-600.webp",
+   "900": "ct-napoleon-salle-900.webp",
+   "1400": "ct-napoleon-salle-1400.webp",
+   "2000": "ct-napoleon-salle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-napoleon-salle-600.avif",
+   "900": "ct-napoleon-salle-900.avif",
+   "1400": "ct-napoleon-salle-1400.avif",
+   "2000": "ct-napoleon-salle-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ]
+ },
+ "ct-napoleon-detail": {
+  "id": "ct-napoleon-detail",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Napoleon Keramik",
+  "alt": "Plateau en céramique claire vu de dessus, avec un bouquet et une coupe en bois",
+  "source": "ct-napoleon-detail.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-napoleon-detail-600.webp",
+   "900": "ct-napoleon-detail-900.webp",
+   "1400": "ct-napoleon-detail-1400.webp",
+   "2000": "ct-napoleon-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-napoleon-detail-600.avif",
+   "900": "ct-napoleon-detail-900.avif",
+   "1400": "ct-napoleon-detail-1400.avif",
+   "2000": "ct-napoleon-detail-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ]
+ },
+ "ct-botero-ambiance": {
+  "id": "ct-botero-ambiance",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Botero Keramik",
+  "alt": "Table ovale sur pied central arrondi, chaises écrues, sous des suspensions en verre",
+  "source": "ct-botero-ambiance.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-botero-ambiance-600.webp",
+   "900": "ct-botero-ambiance-900.webp",
+   "1400": "ct-botero-ambiance-1400.webp",
+   "2000": "ct-botero-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-botero-ambiance-600.avif",
+   "900": "ct-botero-ambiance-900.avif",
+   "1400": "ct-botero-ambiance-1400.avif",
+   "2000": "ct-botero-ambiance-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ]
+ },
+ "ct-botero-rond": {
+  "id": "ct-botero-rond",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Botero Keramik",
+  "alt": "Table ronde sur pied central galbé, posée sur un tapis rond",
+  "source": "ct-botero-rond.jpg",
+  "w": 2362,
+  "h": 2779,
+  "files": {
+   "600": "ct-botero-rond-600.webp",
+   "900": "ct-botero-rond-900.webp",
+   "1400": "ct-botero-rond-1400.webp",
+   "2000": "ct-botero-rond-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-botero-rond-600.avif",
+   "900": "ct-botero-rond-900.avif",
+   "1400": "ct-botero-rond-1400.avif",
+   "2000": "ct-botero-rond-2000.avif"
+  },
+  "ratio": [
+   2362,
+   2779
+  ]
+ },
+ "ct-tyron-ambiance": {
+  "id": "ct-tyron-ambiance",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Tyron Keramik",
+  "alt": "Grande table en céramique marbrée sur piètement croisé en métal, dans un séjour clair",
+  "source": "ct-tyron-ambiance.jpg",
+  "w": 3543,
+  "h": 2657,
+  "files": {
+   "600": "ct-tyron-ambiance-600.webp",
+   "900": "ct-tyron-ambiance-900.webp",
+   "1400": "ct-tyron-ambiance-1400.webp",
+   "2000": "ct-tyron-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-tyron-ambiance-600.avif",
+   "900": "ct-tyron-ambiance-900.avif",
+   "1400": "ct-tyron-ambiance-1400.avif",
+   "2000": "ct-tyron-ambiance-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2657
+  ]
+ },
+ "ct-tyron-salle": {
+  "id": "ct-tyron-salle",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Tyron Keramik",
+  "alt": "Table sur piètement croisé, chaises cognac, devant une baie vitrée",
+  "source": "ct-tyron-salle.jpg",
+  "w": 2657,
+  "h": 3543,
+  "files": {
+   "600": "ct-tyron-salle-600.webp",
+   "900": "ct-tyron-salle-900.webp",
+   "1400": "ct-tyron-salle-1400.webp",
+   "2000": "ct-tyron-salle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-tyron-salle-600.avif",
+   "900": "ct-tyron-salle-900.avif",
+   "1400": "ct-tyron-salle-1400.avif",
+   "2000": "ct-tyron-salle-2000.avif"
+  },
+  "ratio": [
+   2657,
+   3543
+  ]
+ },
+ "ct-tyron-detail": {
+  "id": "ct-tyron-detail",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Tyron Keramik",
+  "alt": "Plateau en céramique marbrée blanc et brun, vu de dessus, avec trois coupes en cuivre",
+  "source": "ct-tyron-detail.jpg",
+  "w": 3543,
+  "h": 2657,
+  "files": {
+   "600": "ct-tyron-detail-600.webp",
+   "900": "ct-tyron-detail-900.webp",
+   "1400": "ct-tyron-detail-1400.webp",
+   "2000": "ct-tyron-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-tyron-detail-600.avif",
+   "900": "ct-tyron-detail-900.avif",
+   "1400": "ct-tyron-detail-1400.avif",
+   "2000": "ct-tyron-detail-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2657
+  ]
+ },
+ "sd-gold-ambiance": {
+  "id": "sd-gold-ambiance",
+  "use": [
+   "tables-sedit:hero"
+  ],
+  "credit": "Sedit Gold",
+  "alt": "Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée",
+  "source": "sd-gold-ambiance.jpg",
+  "w": 1440,
+  "h": 840,
+  "files": {
+   "600": "sd-gold-ambiance-600.webp",
+   "900": "sd-gold-ambiance-900.webp",
+   "1400": "sd-gold-ambiance-1400.webp",
+   "1440": "sd-gold-ambiance-1440.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-gold-ambiance-600.avif",
+   "900": "sd-gold-ambiance-900.avif",
+   "1400": "sd-gold-ambiance-1400.avif",
+   "1440": "sd-gold-ambiance-1440.avif"
+  },
+  "ratio": [
+   1440,
+   840
+  ],
+  "og": "sd-gold-ambiance-og.jpg"
+ },
+ "sd-gold-salle": {
+  "id": "sd-gold-salle",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Gold",
+  "alt": "Table en céramique marbrée sur piètement croisé, chaises vertes, lumière du soir",
+  "source": "sd-gold-salle.jpg",
+  "w": 1200,
+  "h": 1440,
+  "files": {
+   "600": "sd-gold-salle-600.webp",
+   "900": "sd-gold-salle-900.webp",
+   "1200": "sd-gold-salle-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-gold-salle-600.avif",
+   "900": "sd-gold-salle-900.avif",
+   "1200": "sd-gold-salle-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1440
+  ]
+ },
+ "sd-gold-detail": {
+  "id": "sd-gold-detail",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Gold",
+  "alt": "Coin du plateau en céramique marbrée, vu de dessus, avec une chaise en velours vert",
+  "source": "sd-gold-detail.jpg",
+  "w": 1200,
+  "h": 1440,
+  "files": {
+   "600": "sd-gold-detail-600.webp",
+   "900": "sd-gold-detail-900.webp",
+   "1200": "sd-gold-detail-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-gold-detail-600.avif",
+   "900": "sd-gold-detail-900.avif",
+   "1200": "sd-gold-detail-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1440
+  ]
+ },
+ "sd-arcus-ambiance": {
+  "id": "sd-arcus-ambiance",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Arcus",
+  "alt": "Table au plateau céramique noir marbré sur pied en arc, chaises cognac, devant un jardin",
+  "source": "sd-arcus-ambiance.jpg",
+  "w": 1613,
+  "h": 1075,
+  "files": {
+   "600": "sd-arcus-ambiance-600.webp",
+   "900": "sd-arcus-ambiance-900.webp",
+   "1400": "sd-arcus-ambiance-1400.webp",
+   "1613": "sd-arcus-ambiance-1613.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-arcus-ambiance-600.avif",
+   "900": "sd-arcus-ambiance-900.avif",
+   "1400": "sd-arcus-ambiance-1400.avif",
+   "1613": "sd-arcus-ambiance-1613.avif"
+  },
+  "ratio": [
+   1613,
+   1075
+  ]
+ },
+ "sd-arcus-salle": {
+  "id": "sd-arcus-salle",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Arcus",
+  "alt": "Table au plateau en bois foncé sur pied en arc, dans une pièce en béton clair",
+  "source": "sd-arcus-salle.jpg",
+  "w": 1920,
+  "h": 1280,
+  "files": {
+   "600": "sd-arcus-salle-600.webp",
+   "900": "sd-arcus-salle-900.webp",
+   "1400": "sd-arcus-salle-1400.webp",
+   "1920": "sd-arcus-salle-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-arcus-salle-600.avif",
+   "900": "sd-arcus-salle-900.avif",
+   "1400": "sd-arcus-salle-1400.avif",
+   "1920": "sd-arcus-salle-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1280
+  ]
+ },
+ "sd-arcus-detail": {
+  "id": "sd-arcus-detail",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Arcus",
+  "alt": "Plateau en céramique marbrée vu de dessus, chaises jaune moutarde",
+  "source": "sd-arcus-detail.jpg",
+  "w": 1075,
+  "h": 1613,
+  "files": {
+   "600": "sd-arcus-detail-600.webp",
+   "900": "sd-arcus-detail-900.webp",
+   "1075": "sd-arcus-detail-1075.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-arcus-detail-600.avif",
+   "900": "sd-arcus-detail-900.avif",
+   "1075": "sd-arcus-detail-1075.avif"
+  },
+  "ratio": [
+   1075,
+   1613
+  ]
+ },
+ "ak-impulsion-ambiance": {
+  "id": "ak-impulsion-ambiance",
+  "use": [
+   "tables-akante:hero"
+  ],
+  "credit": "Akante Impulsion",
+  "alt": "Table à rallonge au plateau effet bois clair sur pied métal noir, dans un séjour lumineux",
+  "source": "ak-impulsion-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-impulsion-ambiance-600.webp",
+   "900": "ak-impulsion-ambiance-900.webp",
+   "1400": "ak-impulsion-ambiance-1400.webp",
+   "2000": "ak-impulsion-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-impulsion-ambiance-600.avif",
+   "900": "ak-impulsion-ambiance-900.avif",
+   "1400": "ak-impulsion-ambiance-1400.avif",
+   "2000": "ak-impulsion-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ],
+  "og": "ak-impulsion-ambiance-og.jpg"
+ },
+ "ak-impulsion-salle": {
+  "id": "ak-impulsion-salle",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Impulsion",
+  "alt": "Table à rallonge au plateau céramique clair, chaises grises, murs à moulures",
+  "source": "ak-impulsion-salle.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-impulsion-salle-600.webp",
+   "900": "ak-impulsion-salle-900.webp",
+   "1400": "ak-impulsion-salle-1400.webp",
+   "2000": "ak-impulsion-salle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-impulsion-salle-600.avif",
+   "900": "ak-impulsion-salle-900.avif",
+   "1400": "ak-impulsion-salle-1400.avif",
+   "2000": "ak-impulsion-salle-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-phoenix-ambiance": {
+  "id": "ak-phoenix-ambiance",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Phoenix",
+  "alt": "Table à rallonge au plateau céramique clair sur pied central en étoile, chaises grises",
+  "source": "ak-phoenix-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-phoenix-ambiance-600.webp",
+   "900": "ak-phoenix-ambiance-900.webp",
+   "1400": "ak-phoenix-ambiance-1400.webp",
+   "2000": "ak-phoenix-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-phoenix-ambiance-600.avif",
+   "900": "ak-phoenix-ambiance-900.avif",
+   "1400": "ak-phoenix-ambiance-1400.avif",
+   "2000": "ak-phoenix-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-missouri-ambiance": {
+  "id": "ak-missouri-ambiance",
+  "use": [
+   "tables-akante"
+  ],
+  "credit": "Akante Missouri",
+  "alt": "Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois",
+  "source": "ak-missouri-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-missouri-ambiance-600.webp",
+   "900": "ak-missouri-ambiance-900.webp",
+   "1400": "ak-missouri-ambiance-1400.webp",
+   "2000": "ak-missouri-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-missouri-ambiance-600.avif",
+   "900": "ak-missouri-ambiance-900.avif",
+   "1400": "ak-missouri-ambiance-1400.avif",
+   "2000": "ak-missouri-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "cu-sauge": {
+  "id": "cu-sauge",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Cuisine classique vert sauge, façades à cadre et hotte claire",
+  "source": "cu-sauge.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "cu-sauge-600.webp",
+   "900": "cu-sauge-900.webp",
+   "1400": "cu-sauge-1400.webp",
+   "2000": "cu-sauge-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-sauge-600.avif",
+   "900": "cu-sauge-900.avif",
+   "1400": "cu-sauge-1400.avif",
+   "2000": "cu-sauge-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "cu-terre": {
+  "id": "cu-terre",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Cuisine aux colonnes couleur terracotta, sous une charpente blanche",
+  "source": "cu-terre.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "cu-terre-600.webp",
+   "900": "cu-terre-900.webp",
+   "1400": "cu-terre-1400.webp",
+   "2000": "cu-terre-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-terre-600.avif",
+   "900": "cu-terre-900.avif",
+   "1400": "cu-terre-1400.avif",
+   "2000": "cu-terre-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "cu-bleu": {
+  "id": "cu-bleu",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Cuisine bleu profond avec table en chêne et vitrines éclairées",
+  "source": "cu-bleu.jpg",
+  "w": 945,
+  "h": 850,
+  "files": {
+   "600": "cu-bleu-600.webp",
+   "900": "cu-bleu-900.webp",
+   "945": "cu-bleu-945.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-bleu-600.avif",
+   "900": "cu-bleu-900.avif",
+   "945": "cu-bleu-945.avif"
+  },
+  "ratio": [
+   945,
+   850
+  ]
+ },
+ "cu-marbre": {
+  "id": "cu-marbre",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Îlot effet marbre clair et murs en bois, cuisine lumineuse",
+  "source": "cu-marbre.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "cu-marbre-600.webp",
+   "900": "cu-marbre-900.webp",
+   "1400": "cu-marbre-1400.webp",
+   "2000": "cu-marbre-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-marbre-600.avif",
+   "900": "cu-marbre-900.avif",
+   "1400": "cu-marbre-1400.avif",
+   "2000": "cu-marbre-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "cu-anthracite": {
+  "id": "cu-anthracite",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Îlot anthracite mat au plan en bois, devant de grandes fenêtres",
+  "source": "cu-anthracite.jpg",
+  "w": 945,
+  "h": 850,
+  "files": {
+   "600": "cu-anthracite-600.webp",
+   "900": "cu-anthracite-900.webp",
+   "945": "cu-anthracite-945.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-anthracite-600.avif",
+   "900": "cu-anthracite-900.avif",
+   "945": "cu-anthracite-945.avif"
+  },
+  "ratio": [
+   945,
+   850
+  ]
+ },
+ "cu-classique": {
+  "id": "cu-classique",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Fabricant italien",
+  "alt": "Cuisine classique crème en angle, façades à cadre, sol en bois clair",
+  "source": "cu-classique.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "cu-classique-600.webp",
+   "900": "cu-classique-900.webp",
+   "1400": "cu-classique-1400.webp",
+   "2000": "cu-classique-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cu-classique-600.avif",
+   "900": "cu-classique-900.avif",
+   "1400": "cu-classique-1400.avif",
+   "2000": "cu-classique-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "ve-chambre-pierre": {
+  "id": "ve-chambre-pierre",
+  "use": [
+   "literie:hero"
+  ],
+  "credit": "Velda",
+  "alt": "Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé",
+  "source": "ve-chambre-pierre.jpg",
+  "w": 2400,
+  "h": 1631,
+  "files": {
+   "600": "ve-chambre-pierre-600.webp",
+   "900": "ve-chambre-pierre-900.webp",
+   "1400": "ve-chambre-pierre-1400.webp",
+   "2000": "ve-chambre-pierre-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ve-chambre-pierre-600.avif",
+   "900": "ve-chambre-pierre-900.avif",
+   "1400": "ve-chambre-pierre-1400.avif",
+   "2000": "ve-chambre-pierre-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1631
+  ],
+  "og": "ve-chambre-pierre-og.jpg"
+ },
+ "ve-chambre-claire": {
+  "id": "ve-chambre-claire",
+  "use": [
+   "literie"
+  ],
+  "credit": "Velda",
+  "alt": "Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois",
+  "source": "ve-chambre-claire.jpg",
+  "w": 1600,
+  "h": 1067,
+  "files": {
+   "600": "ve-chambre-claire-600.webp",
+   "900": "ve-chambre-claire-900.webp",
+   "1400": "ve-chambre-claire-1400.webp",
+   "1600": "ve-chambre-claire-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ve-chambre-claire-600.avif",
+   "900": "ve-chambre-claire-900.avif",
+   "1400": "ve-chambre-claire-1400.avif",
+   "1600": "ve-chambre-claire-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1067
+  ]
+ },
+ "ve-chambre-rose": {
+  "id": "ve-chambre-rose",
+  "use": [
+   "literie"
+  ],
+  "credit": "Velda",
+  "alt": "Boxspring en tissu gris chiné, coussins vieux rose et gris bleu, chevet rond en bois clair",
+  "source": "ve-chambre-rose.jpg",
+  "w": 1600,
+  "h": 1067,
+  "files": {
+   "600": "ve-chambre-rose-600.webp",
+   "900": "ve-chambre-rose-900.webp",
+   "1400": "ve-chambre-rose-1400.webp",
+   "1600": "ve-chambre-rose-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ve-chambre-rose-600.avif",
+   "900": "ve-chambre-rose-900.avif",
+   "1400": "ve-chambre-rose-1400.avif",
+   "1600": "ve-chambre-rose-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1067
+  ]
+ },
+ "ve-fly-poche": {
+  "id": "ve-fly-poche",
+  "use": [
+   "literie"
+  ],
+  "credit": "Velda",
+  "alt": "Tête de lit Fly en tissu, avec sa poche latérale où glisser un magazine",
+  "source": "ve-fly-poche.jpg",
+  "w": 1600,
+  "h": 1067,
+  "files": {
+   "600": "ve-fly-poche-600.webp",
+   "900": "ve-fly-poche-900.webp",
+   "1400": "ve-fly-poche-1400.webp",
+   "1600": "ve-fly-poche-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ve-fly-poche-600.avif",
+   "900": "ve-fly-poche-900.avif",
+   "1400": "ve-fly-poche-1400.avif",
+   "1600": "ve-fly-poche-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1067
+  ]
+ },
+ "ni-relax-ferme": {
+  "id": "ni-relax-ferme",
+  "use": [
+   "salon"
+  ],
+  "credit": "Nicoletti",
+  "alt": "Canapé relax deux places en cuir beige, en position assise",
+  "source": "ni-relax-ferme.jpg",
+  "w": 2400,
+  "h": 1599,
+  "files": {
+   "600": "ni-relax-ferme-600.webp",
+   "900": "ni-relax-ferme-900.webp",
+   "1400": "ni-relax-ferme-1400.webp",
+   "2000": "ni-relax-ferme-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-relax-ferme-600.avif",
+   "900": "ni-relax-ferme-900.avif",
+   "1400": "ni-relax-ferme-1400.avif",
+   "2000": "ni-relax-ferme-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1599
+  ]
+ },
+ "ni-relax-ouvert": {
+  "id": "ni-relax-ouvert",
+  "use": [
+   "salon"
+  ],
+  "credit": "Nicoletti",
+  "alt": "Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise",
+  "source": "ni-relax-ouvert.jpg",
+  "w": 2400,
+  "h": 1599,
+  "files": {
+   "600": "ni-relax-ouvert-600.webp",
+   "900": "ni-relax-ouvert-900.webp",
+   "1400": "ni-relax-ouvert-1400.webp",
+   "2000": "ni-relax-ouvert-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-relax-ouvert-600.avif",
+   "900": "ni-relax-ouvert-900.avif",
+   "1400": "ni-relax-ouvert-1400.avif",
+   "2000": "ni-relax-ouvert-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1599
+  ]
+ },
+ "ni-relax-profil": {
+  "id": "ni-relax-profil",
+  "use": [
+   "salon"
+  ],
+  "credit": "Nicoletti",
+  "alt": "Canapé relax en cuir beige vu de trois quarts, une place ouverte, commande sur l’accoudoir",
+  "source": "ni-relax-profil.jpg",
+  "w": 2400,
+  "h": 1599,
+  "files": {
+   "600": "ni-relax-profil-600.webp",
+   "900": "ni-relax-profil-900.webp",
+   "1400": "ni-relax-profil-1400.webp",
+   "2000": "ni-relax-profil-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-relax-profil-600.avif",
+   "900": "ni-relax-profil-900.avif",
+   "1400": "ni-relax-profil-1400.avif",
+   "2000": "ni-relax-profil-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1599
+  ]
+ },
+ "ni-oakland-ouvert": {
+  "id": "ni-oakland-ouvert",
+  "use": [
+   "salon"
+  ],
+  "credit": "Nicoletti",
+  "alt": "Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris",
+  "source": "ni-oakland-ouvert.jpg",
+  "w": 2400,
+  "h": 1600,
+  "files": {
+   "600": "ni-oakland-ouvert-600.webp",
+   "900": "ni-oakland-ouvert-900.webp",
+   "1400": "ni-oakland-ouvert-1400.webp",
+   "2000": "ni-oakland-ouvert-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-oakland-ouvert-600.avif",
+   "900": "ni-oakland-ouvert-900.avif",
+   "1400": "ni-oakland-ouvert-1400.avif",
+   "2000": "ni-oakland-ouvert-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1600
+  ]
+ },
+ "mv-egg": {
+  "id": "mv-egg",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Movis",
+  "alt": "Salle à manger : table ovale au plateau clair sur pied central en bois, chaises grises, buffet arrondi",
+  "source": "mv-egg.jpg",
+  "w": 2400,
+  "h": 1350,
+  "files": {
+   "600": "mv-egg-600.webp",
+   "900": "mv-egg-900.webp",
+   "1400": "mv-egg-1400.webp",
+   "2000": "mv-egg-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mv-egg-600.avif",
+   "900": "mv-egg-900.avif",
+   "1400": "mv-egg-1400.avif",
+   "2000": "mv-egg-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1350
+  ]
+ },
+ "mv-egg-detail": {
+  "id": "mv-egg-detail",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Movis",
+  "alt": "Table ovale au plateau en céramique veinée d’or sur pied en bois, vue de près",
+  "source": "mv-egg-detail.jpg",
+  "w": 1920,
+  "h": 2400,
+  "files": {
+   "600": "mv-egg-detail-600.webp",
+   "900": "mv-egg-detail-900.webp",
+   "1400": "mv-egg-detail-1400.webp",
+   "1920": "mv-egg-detail-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mv-egg-detail-600.avif",
+   "900": "mv-egg-detail-900.avif",
+   "1400": "mv-egg-detail-1400.avif",
+   "1920": "mv-egg-detail-1920.avif"
+  },
+  "ratio": [
+   1920,
+   2400
+  ]
+ },
+ "mv-cahors": {
+  "id": "mv-cahors",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Movis",
+  "alt": "Table au plateau sombre sur pieds en bois clair, chaises grises, buffet vert d’eau",
+  "source": "mv-cahors.jpg",
+  "w": 1439,
+  "h": 1093,
+  "files": {
+   "600": "mv-cahors-600.webp",
+   "900": "mv-cahors-900.webp",
+   "1400": "mv-cahors-1400.webp",
+   "1439": "mv-cahors-1439.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mv-cahors-600.avif",
+   "900": "mv-cahors-900.avif",
+   "1400": "mv-cahors-1400.avif",
+   "1439": "mv-cahors-1439.avif"
+  },
+  "ratio": [
+   1439,
+   1093
+  ]
+ },
+ "mv-radius": {
+  "id": "mv-radius",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Movis",
+  "alt": "Buffet aux angles arrondis, laque gris clair et plateau bois, poignée lumineuse",
+  "source": "mv-radius.jpg",
+  "w": 2400,
+  "h": 2400,
+  "files": {
+   "600": "mv-radius-600.webp",
+   "900": "mv-radius-900.webp",
+   "1400": "mv-radius-1400.webp",
+   "2000": "mv-radius-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mv-radius-600.avif",
+   "900": "mv-radius-900.avif",
+   "1400": "mv-radius-1400.avif",
+   "2000": "mv-radius-2000.avif"
+  },
+  "ratio": [
+   2400,
+   2400
+  ]
+ },
+ "mv-radius-vert": {
+  "id": "mv-radius-vert",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Movis",
+  "alt": "Buffet aux angles arrondis, laque vert sapin et plateau en noyer, poignée lumineuse",
+  "source": "mv-radius-vert.jpg",
+  "w": 2400,
+  "h": 2400,
+  "files": {
+   "600": "mv-radius-vert-600.webp",
+   "900": "mv-radius-vert-900.webp",
+   "1400": "mv-radius-vert-1400.webp",
+   "2000": "mv-radius-vert-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mv-radius-vert-600.avif",
+   "900": "mv-radius-vert-900.avif",
+   "1400": "mv-radius-vert-1400.avif",
+   "2000": "mv-radius-vert-2000.avif"
+  },
+  "ratio": [
+   2400,
+   2400
+  ]
+ },
+ "mv-riga-buffet": {
+  "id": "mv-riga-buffet",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Movis",
+  "alt": "Buffet en chêne noueux, niche centrale et tiroirs gris",
+  "source": "mv-riga-buffet.jpg",
+  "w": 2400,
+  "h": 1350,
+  "files": {
+   "600": "mv-riga-buffet-600.webp",
+   "900": "mv-riga-buffet-900.webp",
+   "1400": "mv-riga-buffet-1400.webp",
+   "2000": "mv-riga-buffet-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mv-riga-buffet-600.avif",
+   "900": "mv-riga-buffet-900.avif",
+   "1400": "mv-riga-buffet-1400.avif",
+   "2000": "mv-riga-buffet-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1350
+  ]
+ },
+ "mv-riga-vaisselier": {
+  "id": "mv-riga-vaisselier",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Movis",
+  "alt": "Vaisselier en chêne noueux, vitrine centrale éclairée",
+  "source": "mv-riga-vaisselier.jpg",
+  "w": 2400,
+  "h": 1350,
+  "files": {
+   "600": "mv-riga-vaisselier-600.webp",
+   "900": "mv-riga-vaisselier-900.webp",
+   "1400": "mv-riga-vaisselier-1400.webp",
+   "2000": "mv-riga-vaisselier-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mv-riga-vaisselier-600.avif",
+   "900": "mv-riga-vaisselier-900.avif",
+   "1400": "mv-riga-vaisselier-1400.avif",
+   "2000": "mv-riga-vaisselier-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1350
+  ]
+ },
+ "mv-walk": {
+  "id": "mv-walk",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Movis",
+  "alt": "Chaise en tissu vert au dossier piqué, pieds noirs en étoile",
+  "source": "mv-walk.jpg",
+  "w": 1920,
+  "h": 2400,
+  "files": {
+   "600": "mv-walk-600.webp",
+   "900": "mv-walk-900.webp",
+   "1400": "mv-walk-1400.webp",
+   "1920": "mv-walk-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mv-walk-600.avif",
+   "900": "mv-walk-900.avif",
+   "1400": "mv-walk-1400.avif",
+   "1920": "mv-walk-1920.avif"
+  },
+  "ratio": [
+   1920,
+   2400
+  ]
+ },
+ "mx-bari-collection": {
+  "id": "mx-bari-collection",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Trois chaises à accoudoirs enveloppantes, en tissu beige, gris et vert sauge, pieds noirs",
+  "source": "mx-bari-collection.jpg",
+  "w": 2400,
+  "h": 1698,
+  "files": {
+   "600": "mx-bari-collection-600.webp",
+   "900": "mx-bari-collection-900.webp",
+   "1400": "mx-bari-collection-1400.webp",
+   "2000": "mx-bari-collection-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-bari-collection-600.avif",
+   "900": "mx-bari-collection-900.avif",
+   "1400": "mx-bari-collection-1400.avif",
+   "2000": "mx-bari-collection-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1698
+  ]
+ },
+ "mx-bari-detail": {
+  "id": "mx-bari-detail",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Chaise en tissu chiné gris vert, accoudoir enveloppant, vue de près",
+  "source": "mx-bari-detail.jpg",
+  "w": 2048,
+  "h": 2048,
+  "files": {
+   "600": "mx-bari-detail-600.webp",
+   "900": "mx-bari-detail-900.webp",
+   "1400": "mx-bari-detail-1400.webp",
+   "2000": "mx-bari-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-bari-detail-600.avif",
+   "900": "mx-bari-detail-900.avif",
+   "1400": "mx-bari-detail-1400.avif",
+   "2000": "mx-bari-detail-2000.avif"
+  },
+  "ratio": [
+   2048,
+   2048
+  ]
+ },
+ "mx-bari-bar": {
+  "id": "mx-bari-bar",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Tabouret de bar enveloppant en tissu gris clair, pieds noirs et repose-pieds, devant un îlot en marbre",
+  "source": "mx-bari-bar.jpg",
+  "w": 2400,
+  "h": 1792,
+  "files": {
+   "600": "mx-bari-bar-600.webp",
+   "900": "mx-bari-bar-900.webp",
+   "1400": "mx-bari-bar-1400.webp",
+   "2000": "mx-bari-bar-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-bari-bar-600.avif",
+   "900": "mx-bari-bar-900.avif",
+   "1400": "mx-bari-bar-1400.avif",
+   "2000": "mx-bari-bar-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1792
+  ]
+ },
+ "mx-flavia": {
+  "id": "mx-flavia",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Chaise en tissu clair, dossier haut, piétement métal en étoile, devant un bureau",
+  "source": "mx-flavia.jpg",
+  "w": 2400,
+  "h": 1792,
+  "files": {
+   "600": "mx-flavia-600.webp",
+   "900": "mx-flavia-900.webp",
+   "1400": "mx-flavia-1400.webp",
+   "2000": "mx-flavia-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-flavia-600.avif",
+   "900": "mx-flavia-900.avif",
+   "1400": "mx-flavia-1400.avif",
+   "2000": "mx-flavia-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1792
+  ]
+ },
+ "mx-lecce": {
+  "id": "mx-lecce",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Chaise pivotante en tissu rayé crème, piétement noir en étoile",
+  "source": "mx-lecce.jpg",
+  "w": 1792,
+  "h": 2400,
+  "files": {
+   "600": "mx-lecce-600.webp",
+   "900": "mx-lecce-900.webp",
+   "1400": "mx-lecce-1400.webp",
+   "1792": "mx-lecce-1792.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-lecce-600.avif",
+   "900": "mx-lecce-900.avif",
+   "1400": "mx-lecce-1400.avif",
+   "1792": "mx-lecce-1792.avif"
+  },
+  "ratio": [
+   1792,
+   2400
+  ]
+ },
+ "mx-lazio-bar": {
+  "id": "mx-lazio-bar",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Deux tabourets de bar arrondis, tissu gris et tissu blanc, piétement noir",
+  "source": "mx-lazio-bar.jpg",
+  "w": 2400,
+  "h": 1726,
+  "files": {
+   "600": "mx-lazio-bar-600.webp",
+   "900": "mx-lazio-bar-900.webp",
+   "1400": "mx-lazio-bar-1400.webp",
+   "2000": "mx-lazio-bar-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-lazio-bar-600.avif",
+   "900": "mx-lazio-bar-900.avif",
+   "1400": "mx-lazio-bar-1400.avif",
+   "2000": "mx-lazio-bar-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1726
+  ]
+ },
+ "mx-messina-bar": {
+  "id": "mx-messina-bar",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Tabouret de bar en tissu beige capitonné, piétement noir, devant une cuisine sombre",
+  "source": "mx-messina-bar.jpg",
+  "w": 2400,
+  "h": 1695,
+  "files": {
+   "600": "mx-messina-bar-600.webp",
+   "900": "mx-messina-bar-900.webp",
+   "1400": "mx-messina-bar-1400.webp",
+   "2000": "mx-messina-bar-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-messina-bar-600.avif",
+   "900": "mx-messina-bar-900.avif",
+   "1400": "mx-messina-bar-1400.avif",
+   "2000": "mx-messina-bar-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1695
+  ]
+ },
+ "mx-bari-table": {
+  "id": "mx-bari-table",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Salle à manger lumineuse : chaises à accoudoirs en tissu gris clair autour d’une table rectangulaire claire",
+  "source": "mx-bari-table.jpg",
+  "w": 2400,
+  "h": 1792,
+  "files": {
+   "600": "mx-bari-table-600.webp",
+   "900": "mx-bari-table-900.webp",
+   "1400": "mx-bari-table-1400.webp",
+   "2000": "mx-bari-table-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-bari-table-600.avif",
+   "900": "mx-bari-table-900.avif",
+   "1400": "mx-bari-table-1400.avif",
+   "2000": "mx-bari-table-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1792
+  ]
+ },
+ "mx-flavia-table": {
+  "id": "mx-flavia-table",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Chaises pivotantes en tissu beige, piétement en étoile, autour d’une table au pied central en X",
+  "source": "mx-flavia-table.jpg",
+  "w": 2400,
+  "h": 1792,
+  "files": {
+   "600": "mx-flavia-table-600.webp",
+   "900": "mx-flavia-table-900.webp",
+   "1400": "mx-flavia-table-1400.webp",
+   "2000": "mx-flavia-table-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-flavia-table-600.avif",
+   "900": "mx-flavia-table-900.avif",
+   "1400": "mx-flavia-table-1400.avif",
+   "2000": "mx-flavia-table-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1792
+  ]
+ },
+ "mx-harmony-table": {
+  "id": "mx-harmony-table",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Chaises aux dossiers ronds en bois et tissu écru autour d’une table ovale en bois foncé",
+  "source": "mx-harmony-table.jpg",
+  "w": 2400,
+  "h": 1920,
+  "files": {
+   "600": "mx-harmony-table-600.webp",
+   "900": "mx-harmony-table-900.webp",
+   "1400": "mx-harmony-table-1400.webp",
+   "2000": "mx-harmony-table-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-harmony-table-600.avif",
+   "900": "mx-harmony-table-900.avif",
+   "1400": "mx-harmony-table-1400.avif",
+   "2000": "mx-harmony-table-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1920
+  ]
+ },
+ "mx-julien-table": {
+  "id": "mx-julien-table",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Chaises pivotantes en cuir noir autour d’une table au plateau blanc sur pieds croisés",
+  "source": "mx-julien-table.jpg",
+  "w": 2400,
+  "h": 1792,
+  "files": {
+   "600": "mx-julien-table-600.webp",
+   "900": "mx-julien-table-900.webp",
+   "1400": "mx-julien-table-1400.webp",
+   "2000": "mx-julien-table-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-julien-table-600.avif",
+   "900": "mx-julien-table-900.avif",
+   "1400": "mx-julien-table-1400.avif",
+   "2000": "mx-julien-table-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1792
+  ]
+ },
+ "mx-gabrielle-table": {
+  "id": "mx-gabrielle-table",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Chaises en tissu moutarde sur pieds en bois autour d’une table ronde au pied central en bois",
+  "source": "mx-gabrielle-table.jpg",
+  "w": 2400,
+  "h": 1792,
+  "files": {
+   "600": "mx-gabrielle-table-600.webp",
+   "900": "mx-gabrielle-table-900.webp",
+   "1400": "mx-gabrielle-table-1400.webp",
+   "2000": "mx-gabrielle-table-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-gabrielle-table-600.avif",
+   "900": "mx-gabrielle-table-900.avif",
+   "1400": "mx-gabrielle-table-1400.avif",
+   "2000": "mx-gabrielle-table-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1792
+  ]
+ },
+ "mx-pavia-table": {
+  "id": "mx-pavia-table",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Modulax",
+  "alt": "Chaises enveloppantes en tissu écru autour d’une table ronde au plateau marbré",
+  "source": "mx-pavia-table.jpg",
+  "w": 2400,
+  "h": 1792,
+  "files": {
+   "600": "mx-pavia-table-600.webp",
+   "900": "mx-pavia-table-900.webp",
+   "1400": "mx-pavia-table-1400.webp",
+   "2000": "mx-pavia-table-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mx-pavia-table-600.avif",
+   "900": "mx-pavia-table-900.avif",
+   "1400": "mx-pavia-table-1400.avif",
+   "2000": "mx-pavia-table-2000.avif"
+  },
+  "ratio": [
+   2400,
+   1792
+  ]
+ },
+ "ct-botero-nuit": {
+  "id": "ct-botero-nuit",
+  "use": [
+   "espace-pro:hero"
+  ],
+  "credit": "Cattelan Italia Botero Keramik",
+  "alt": "Grande table ovale en céramique claire sur pied central, chaises grises, dans une salle sombre ouverte sur une baie vitrée",
+  "source": "ct-botero-nuit.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-botero-nuit-600.webp",
+   "900": "ct-botero-nuit-900.webp",
+   "1400": "ct-botero-nuit-1400.webp",
+   "2000": "ct-botero-nuit-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-botero-nuit-600.avif",
+   "900": "ct-botero-nuit-900.avif",
+   "1400": "ct-botero-nuit-1400.avif",
+   "2000": "ct-botero-nuit-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ],
+  "og": "ct-botero-nuit-og.jpg"
+ },
+ "ct-napoleon-nuit": {
+  "id": "ct-napoleon-nuit",
+  "use": [
+   "tables-cattelan"
+  ],
+  "credit": "Cattelan Italia Napoleon Keramik",
+  "alt": "Table en céramique noire veinée sur pied central, chaises en cuir orange, lumière du soir",
+  "source": "ct-napoleon-nuit.jpg",
+  "w": 3543,
+  "h": 2362,
+  "files": {
+   "600": "ct-napoleon-nuit-600.webp",
+   "900": "ct-napoleon-nuit-900.webp",
+   "1400": "ct-napoleon-nuit-1400.webp",
+   "2000": "ct-napoleon-nuit-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-napoleon-nuit-600.avif",
+   "900": "ct-napoleon-nuit-900.avif",
+   "1400": "ct-napoleon-nuit-1400.avif",
+   "2000": "ct-napoleon-nuit-2000.avif"
+  },
+  "ratio": [
+   3543,
+   2362
+  ]
+ },
+ "ct-tyron-reunion": {
+  "id": "ct-tyron-reunion",
+  "use": [
+   "espace-pro"
+  ],
+  "credit": "Cattelan Italia Tyron Keramik",
+  "alt": "Longue table en céramique claire sur piètement croisé, dix chaises en cuir brun, vue en plongée",
+  "source": "ct-tyron-reunion.jpg",
+  "w": 2657,
+  "h": 3543,
+  "files": {
+   "600": "ct-tyron-reunion-600.webp",
+   "900": "ct-tyron-reunion-900.webp",
+   "1400": "ct-tyron-reunion-1400.webp",
+   "2000": "ct-tyron-reunion-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ct-tyron-reunion-600.avif",
+   "900": "ct-tyron-reunion-900.avif",
+   "1400": "ct-tyron-reunion-1400.avif",
+   "2000": "ct-tyron-reunion-2000.avif"
+  },
+  "ratio": [
+   2657,
+   3543
+  ]
+ },
+ "sd-gold-cheminee": {
+  "id": "sd-gold-cheminee",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Sedit Gold",
+  "alt": "Table en céramique marbrée sur piètement croisé doré, chaises en bois, devant une cheminée",
+  "source": "sd-gold-cheminee.jpg",
+  "w": 1440,
+  "h": 840,
+  "files": {
+   "600": "sd-gold-cheminee-600.webp",
+   "900": "sd-gold-cheminee-900.webp",
+   "1400": "sd-gold-cheminee-1400.webp",
+   "1440": "sd-gold-cheminee-1440.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-gold-cheminee-600.avif",
+   "900": "sd-gold-cheminee-900.avif",
+   "1400": "sd-gold-cheminee-1400.avif",
+   "1440": "sd-gold-cheminee-1440.avif"
+  },
+  "ratio": [
+   1440,
+   840
+  ]
+ },
+ "ni-memphis-trois-quarts": {
+  "id": "ni-memphis-trois-quarts",
+  "use": [
+   "salon-nicoletti-memphis"
+  ],
+  "credit": "Nicoletti Memphis",
+  "alt": "Canapé relax deux places en cuir beige vu de trois quarts, têtières abaissées, commande sur l’accoudoir",
+  "source": "ni-memphis-trois-quarts.jpg",
+  "w": 2560,
+  "h": 1706,
+  "files": {
+   "600": "ni-memphis-trois-quarts-600.webp",
+   "900": "ni-memphis-trois-quarts-900.webp",
+   "1400": "ni-memphis-trois-quarts-1400.webp",
+   "2000": "ni-memphis-trois-quarts-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-memphis-trois-quarts-600.avif",
+   "900": "ni-memphis-trois-quarts-900.avif",
+   "1400": "ni-memphis-trois-quarts-1400.avif",
+   "2000": "ni-memphis-trois-quarts-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1706
+  ]
+ },
+ "ni-memphis-tissu": {
+  "id": "ni-memphis-tissu",
+  "use": [
+   "salon-nicoletti-memphis"
+  ],
+  "credit": "Nicoletti Memphis",
+  "alt": "Canapé relax deux places en tissu grège, une place ouverte et sa têtière relevée",
+  "source": "ni-memphis-tissu.jpg",
+  "w": 2048,
+  "h": 1338,
+  "files": {
+   "600": "ni-memphis-tissu-600.webp",
+   "900": "ni-memphis-tissu-900.webp",
+   "1400": "ni-memphis-tissu-1400.webp",
+   "2000": "ni-memphis-tissu-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-memphis-tissu-600.avif",
+   "900": "ni-memphis-tissu-900.avif",
+   "1400": "ni-memphis-tissu-1400.avif",
+   "2000": "ni-memphis-tissu-2000.avif"
+  },
+  "ratio": [
+   2048,
+   1338
+  ]
+ },
+ "ni-oakland-relax": {
+  "id": "ni-oakland-relax",
+  "use": [
+   "salon-nicoletti-oakland"
+  ],
+  "credit": "Nicoletti Oakland",
+  "alt": "Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris",
+  "source": "ni-oakland-relax.jpg",
+  "w": 2560,
+  "h": 1707,
+  "files": {
+   "600": "ni-oakland-relax-600.webp",
+   "900": "ni-oakland-relax-900.webp",
+   "1400": "ni-oakland-relax-1400.webp",
+   "2000": "ni-oakland-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-oakland-relax-600.avif",
+   "900": "ni-oakland-relax-900.avif",
+   "1400": "ni-oakland-relax-1400.avif",
+   "2000": "ni-oakland-relax-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1707
+  ]
+ },
+ "ni-oakland-commande": {
+  "id": "ni-oakland-commande",
+  "use": [
+   "salon-nicoletti-oakland"
+  ],
+  "credit": "Nicoletti Oakland",
+  "alt": "Gros plan sur la commande à boutons intégrée au flanc de l’accoudoir d’un canapé blanc",
+  "source": "ni-oakland-commande.jpg",
+  "w": 2560,
+  "h": 1707,
+  "files": {
+   "600": "ni-oakland-commande-600.webp",
+   "900": "ni-oakland-commande-900.webp",
+   "1400": "ni-oakland-commande-1400.webp",
+   "2000": "ni-oakland-commande-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-oakland-commande-600.avif",
+   "900": "ni-oakland-commande-900.avif",
+   "1400": "ni-oakland-commande-1400.avif",
+   "2000": "ni-oakland-commande-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1707
+  ]
+ },
+ "ni-oakland-dos": {
+  "id": "ni-oakland-dos",
+  "use": [
+   "salon-nicoletti-oakland"
+  ],
+  "credit": "Nicoletti Oakland",
+  "alt": "Les deux canapés vus de dos : le deux places en tissu gris et le canapé relax blanc",
+  "source": "ni-oakland-dos.jpg",
+  "w": 2560,
+  "h": 1707,
+  "files": {
+   "600": "ni-oakland-dos-600.webp",
+   "900": "ni-oakland-dos-900.webp",
+   "1400": "ni-oakland-dos-1400.webp",
+   "2000": "ni-oakland-dos-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-oakland-dos-600.avif",
+   "900": "ni-oakland-dos-900.avif",
+   "1400": "ni-oakland-dos-1400.avif",
+   "2000": "ni-oakland-dos-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1707
+  ]
+ },
+ "ni-oakland-tissu": {
+  "id": "ni-oakland-tissu",
+  "use": [
+   "salon-nicoletti-oakland"
+  ],
+  "credit": "Nicoletti Oakland",
+  "alt": "Gros plan sur l’accoudoir et l’assise d’un canapé en tissu gris chiné",
+  "source": "ni-oakland-tissu.jpg",
+  "w": 2560,
+  "h": 1707,
+  "files": {
+   "600": "ni-oakland-tissu-600.webp",
+   "900": "ni-oakland-tissu-900.webp",
+   "1400": "ni-oakland-tissu-1400.webp",
+   "2000": "ni-oakland-tissu-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-oakland-tissu-600.avif",
+   "900": "ni-oakland-tissu-900.avif",
+   "1400": "ni-oakland-tissu-1400.avif",
+   "2000": "ni-oakland-tissu-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1707
+  ]
+ },
+ "md-kuma": {
+  "id": "md-kuma",
+  "use": [
+   "salon-max-divani-kuma"
+  ],
+  "credit": "Max Divani Kuma",
+  "alt": "Canapé relax deux places en cuir gris-bleu à passepoil clair, une place relax ouverte",
+  "source": "md-kuma.png",
+  "w": 1897,
+  "h": 1000,
+  "files": {
+   "600": "md-kuma-600.webp",
+   "900": "md-kuma-900.webp",
+   "1400": "md-kuma-1400.webp",
+   "1897": "md-kuma-1897.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-kuma-600.avif",
+   "900": "md-kuma-900.avif",
+   "1400": "md-kuma-1400.avif",
+   "1897": "md-kuma-1897.avif"
+  },
+  "ratio": [
+   1897,
+   1000
+  ]
+ },
+ "md-nest": {
+  "id": "md-nest",
+  "use": [
+   "salon-max-divani-nest"
+  ],
+  "credit": "Max Divani Nest",
+  "alt": "Canapé relax en tissu ocre sur pieds métal, deux places ouvertes, à côté d’un deux places assorti",
+  "source": "md-nest.png",
+  "w": 1897,
+  "h": 1000,
+  "files": {
+   "600": "md-nest-600.webp",
+   "900": "md-nest-900.webp",
+   "1400": "md-nest-1400.webp",
+   "1897": "md-nest-1897.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-nest-600.avif",
+   "900": "md-nest-900.avif",
+   "1400": "md-nest-1400.avif",
+   "1897": "md-nest-1897.avif"
+  },
+  "ratio": [
+   1897,
+   1000
+  ]
+ },
+ "md-tata": {
+  "id": "md-tata",
+  "use": [
+   "salon-max-divani-tata"
+  ],
+  "credit": "Max Divani Tata",
+  "alt": "Grand canapé d’angle arrondi en tissu brun, appuie-têtes relevés",
+  "source": "md-tata.png",
+  "w": 1897,
+  "h": 953,
+  "files": {
+   "600": "md-tata-600.webp",
+   "900": "md-tata-900.webp",
+   "1400": "md-tata-1400.webp",
+   "1897": "md-tata-1897.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-tata-600.avif",
+   "900": "md-tata-900.avif",
+   "1400": "md-tata-1400.avif",
+   "1897": "md-tata-1897.avif"
+  },
+  "ratio": [
+   1897,
+   953
+  ]
+ },
+ "md-willy": {
+  "id": "md-willy",
+  "use": [
+   "salon-max-divani-willy"
+  ],
+  "credit": "Max Divani Willy",
+  "alt": "Canapé relax en cuir gris à accoudoirs soulignés de noir, une place ouverte, à côté d’un deux places assorti",
+  "source": "md-willy.png",
+  "w": 1897,
+  "h": 1000,
+  "files": {
+   "600": "md-willy-600.webp",
+   "900": "md-willy-900.webp",
+   "1400": "md-willy-1400.webp",
+   "1897": "md-willy-1897.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-willy-600.avif",
+   "900": "md-willy-900.avif",
+   "1400": "md-willy-1400.avif",
+   "1897": "md-willy-1897.avif"
+  },
+  "ratio": [
+   1897,
+   1000
+  ]
+ },
+ "md-curry-face": {
+  "id": "md-curry-face",
+  "use": [
+   "salon-max-divani-curry"
+  ],
+  "credit": "Max Divani Curry",
+  "alt": "Canapé en tissu gris clair vu de face et de profil, appuie-têtes relevés",
+  "source": "md-curry-face.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-curry-face-600.webp",
+   "900": "md-curry-face-900.webp",
+   "1400": "md-curry-face-1400.webp",
+   "2000": "md-curry-face-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-curry-face-600.avif",
+   "900": "md-curry-face-900.avif",
+   "1400": "md-curry-face-1400.avif",
+   "2000": "md-curry-face-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-curry-ferme": {
+  "id": "md-curry-ferme",
+  "use": [
+   "salon-max-divani-curry"
+  ],
+  "credit": "Max Divani Curry",
+  "alt": "Canapés trois places et deux places en tissu gris clair, refermés, sur pieds en métal",
+  "source": "md-curry-ferme.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-curry-ferme-600.webp",
+   "900": "md-curry-ferme-900.webp",
+   "1400": "md-curry-ferme-1400.webp",
+   "2000": "md-curry-ferme-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-curry-ferme-600.avif",
+   "900": "md-curry-ferme-900.avif",
+   "1400": "md-curry-ferme-1400.avif",
+   "2000": "md-curry-ferme-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-gala-chaise-longue": {
+  "id": "md-gala-chaise-longue",
+  "use": [
+   "salon-max-divani-gala"
+  ],
+  "credit": "Max Divani Gala",
+  "alt": "Canapé en tissu écru aux formes souples, avec chaise longue, vu de face",
+  "source": "md-gala-chaise-longue.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-gala-chaise-longue-600.webp",
+   "900": "md-gala-chaise-longue-900.webp",
+   "1400": "md-gala-chaise-longue-1400.webp",
+   "2000": "md-gala-chaise-longue-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-gala-chaise-longue-600.avif",
+   "900": "md-gala-chaise-longue-900.avif",
+   "1400": "md-gala-chaise-longue-1400.avif",
+   "2000": "md-gala-chaise-longue-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-gala-profil": {
+  "id": "md-gala-profil",
+  "use": [
+   "salon-max-divani-gala"
+  ],
+  "credit": "Max Divani Gala",
+  "alt": "Le même canapé écru vu de trois quarts : coussins généreux et accoudoirs en forme de pétale",
+  "source": "md-gala-profil.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-gala-profil-600.webp",
+   "900": "md-gala-profil-900.webp",
+   "1400": "md-gala-profil-1400.webp",
+   "2000": "md-gala-profil-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-gala-profil-600.avif",
+   "900": "md-gala-profil-900.avif",
+   "1400": "md-gala-profil-1400.avif",
+   "2000": "md-gala-profil-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-osaka-duo": {
+  "id": "md-osaka-duo",
+  "use": [
+   "salon-max-divani-osaka"
+  ],
+  "credit": "Max Divani Osaka",
+  "alt": "Canapés deux places et trois places en cuir gris anthracite, sur fond blanc",
+  "source": "md-osaka-duo.jpg",
+  "w": 4800,
+  "h": 3200,
+  "files": {
+   "600": "md-osaka-duo-600.webp",
+   "900": "md-osaka-duo-900.webp",
+   "1400": "md-osaka-duo-1400.webp",
+   "2000": "md-osaka-duo-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-osaka-duo-600.avif",
+   "900": "md-osaka-duo-900.avif",
+   "1400": "md-osaka-duo-1400.avif",
+   "2000": "md-osaka-duo-2000.avif"
+  },
+  "ratio": [
+   4800,
+   3200
+  ]
+ },
+ "md-osaka-salon": {
+  "id": "md-osaka-salon",
+  "use": [
+   "salon-max-divani-osaka"
+  ],
+  "credit": "Max Divani Osaka",
+  "alt": "Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte",
+  "source": "md-osaka-salon.jpg",
+  "w": 4800,
+  "h": 2918,
+  "files": {
+   "600": "md-osaka-salon-600.webp",
+   "900": "md-osaka-salon-900.webp",
+   "1400": "md-osaka-salon-1400.webp",
+   "2000": "md-osaka-salon-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-osaka-salon-600.avif",
+   "900": "md-osaka-salon-900.avif",
+   "1400": "md-osaka-salon-1400.avif",
+   "2000": "md-osaka-salon-2000.avif"
+  },
+  "ratio": [
+   4800,
+   2918
+  ]
+ },
+ "ni-charleston-angle": {
+  "id": "ni-charleston-angle",
+  "use": [
+   "salon-nicoletti-charleston"
+  ],
+  "credit": "Nicoletti Charleston",
+  "alt": "Canapé d’angle en cuir noir avec chaise longue, une place relax ouverte, pieds en métal",
+  "source": "ni-charleston-angle.jpg",
+  "w": 2560,
+  "h": 1707,
+  "files": {
+   "600": "ni-charleston-angle-600.webp",
+   "900": "ni-charleston-angle-900.webp",
+   "1400": "ni-charleston-angle-1400.webp",
+   "2000": "ni-charleston-angle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-charleston-angle-600.avif",
+   "900": "ni-charleston-angle-900.avif",
+   "1400": "ni-charleston-angle-1400.avif",
+   "2000": "ni-charleston-angle-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1707
+  ]
+ },
+ "ni-charleston-dos": {
+  "id": "ni-charleston-dos",
+  "use": [
+   "salon-nicoletti-charleston"
+  ],
+  "credit": "Nicoletti Charleston",
+  "alt": "Le canapé d’angle en cuir noir vu de l’arrière, commande sur le flanc de l’accoudoir",
+  "source": "ni-charleston-dos.jpg",
+  "w": 2560,
+  "h": 1707,
+  "files": {
+   "600": "ni-charleston-dos-600.webp",
+   "900": "ni-charleston-dos-900.webp",
+   "1400": "ni-charleston-dos-1400.webp",
+   "2000": "ni-charleston-dos-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-charleston-dos-600.avif",
+   "900": "ni-charleston-dos-900.avif",
+   "1400": "ni-charleston-dos-1400.avif",
+   "2000": "ni-charleston-dos-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1707
+  ]
+ },
+ "ni-charleston-detail": {
+  "id": "ni-charleston-detail",
+  "use": [
+   "salon-nicoletti-charleston"
+  ],
+  "credit": "Nicoletti Charleston",
+  "alt": "Gros plan sur l’assise capitonnée en cuir noir",
+  "source": "ni-charleston-detail.jpg",
+  "w": 2560,
+  "h": 1707,
+  "files": {
+   "600": "ni-charleston-detail-600.webp",
+   "900": "ni-charleston-detail-900.webp",
+   "1400": "ni-charleston-detail-1400.webp",
+   "2000": "ni-charleston-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ni-charleston-detail-600.avif",
+   "900": "ni-charleston-detail-900.avif",
+   "1400": "ni-charleston-detail-1400.avif",
+   "2000": "ni-charleston-detail-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1707
+  ]
+ },
+ "md-dana": {
+  "id": "md-dana",
+  "use": [
+   "salon-max-divani-dana"
+  ],
+  "credit": "Max Divani Dana",
+  "alt": "Fauteuil rond en tissu clair, vu de face",
+  "source": "md-dana.webp",
+  "w": 2560,
+  "h": 933,
+  "files": {
+   "600": "md-dana-600.webp",
+   "900": "md-dana-900.webp",
+   "1400": "md-dana-1400.webp",
+   "2000": "md-dana-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-dana-600.avif",
+   "900": "md-dana-900.avif",
+   "1400": "md-dana-1400.avif",
+   "2000": "md-dana-2000.avif"
+  },
+  "ratio": [
+   2560,
+   933
+  ]
+ },
+ "md-dana-cuir": {
+  "id": "md-dana-cuir",
+  "use": [
+   "salon-max-divani-dana"
+  ],
+  "credit": "Max Divani Dana",
+  "alt": "Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée",
+  "source": "md-dana-cuir.webp",
+  "w": 1200,
+  "h": 800,
+  "files": {
+   "600": "md-dana-cuir-600.webp",
+   "900": "md-dana-cuir-900.webp",
+   "1200": "md-dana-cuir-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-dana-cuir-600.avif",
+   "900": "md-dana-cuir-900.avif",
+   "1200": "md-dana-cuir-1200.avif"
+  },
+  "ratio": [
+   1200,
+   800
+  ]
+ },
+ "md-dana-chambre": {
+  "id": "md-dana-chambre",
+  "use": [
+   "salon-max-divani-dana"
+  ],
+  "credit": "Max Divani Dana",
+  "alt": "Fauteuil rond en tissu clair à bande de cuir sombre, avec ses poufs, dans une chambre",
+  "source": "md-dana-chambre.webp",
+  "w": 1200,
+  "h": 800,
+  "files": {
+   "600": "md-dana-chambre-600.webp",
+   "900": "md-dana-chambre-900.webp",
+   "1200": "md-dana-chambre-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-dana-chambre-600.avif",
+   "900": "md-dana-chambre-900.avif",
+   "1200": "md-dana-chambre-1200.avif"
+  },
+  "ratio": [
+   1200,
+   800
+  ]
+ },
+ "md-emu-angle": {
+  "id": "md-emu-angle",
+  "use": [
+   "salon-max-divani-emu"
+  ],
+  "credit": "Max Divani Emu",
+  "alt": "Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour",
+  "source": "md-emu-angle.jpg",
+  "w": 1127,
+  "h": 573,
+  "files": {
+   "600": "md-emu-angle-600.webp",
+   "900": "md-emu-angle-900.webp",
+   "1127": "md-emu-angle-1127.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-emu-angle-600.avif",
+   "900": "md-emu-angle-900.avif",
+   "1127": "md-emu-angle-1127.avif"
+  },
+  "ratio": [
+   1127,
+   573
+  ]
+ },
+ "md-emu-relax": {
+  "id": "md-emu-relax",
+  "use": [
+   "salon-max-divani-emu"
+  ],
+  "credit": "Max Divani Emu",
+  "alt": "Gros plan sur une place relax ouverte du canapé en cuir cognac, appui-tête relevé",
+  "source": "md-emu-relax.jpg",
+  "w": 666,
+  "h": 613,
+  "files": {
+   "600": "md-emu-relax-600.webp",
+   "666": "md-emu-relax-666.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-emu-relax-600.avif",
+   "666": "md-emu-relax-666.avif"
+  },
+  "ratio": [
+   666,
+   613
+  ]
+ }
+}

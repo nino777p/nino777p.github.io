@@ -1,0 +1,190 @@
+# Nicoletti Oakland, canapé relax électrique — Fony Meubles
+
+> Canapé relax Nicoletti Oakland : trois versions électriques, en fauteuil, 2 ou 3 places, cuir fin ou tissu. À essayer au magasin près de Binche.
+
+Adresse de la page : https://fony.be/salon-nicoletti-oakland
+
+1. [Accueil](https://fony.be/)
+2. [Salon](https://fony.be/salon)
+3. [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+4. Nicoletti Oakland
+
+Nicoletti Home · Canapé relax électrique
+
+# Nicoletti Oakland
+
+- (Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)
+
+  Relax ouvert, à côté du deux places en tissu.
+- (Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
+
+  Une place en position relax.
+- (Photo : Gros plan sur la commande à boutons intégrée au flanc de l’accoudoir d’un canapé blanc)
+
+  La commande, sur le flanc de l’accoudoir.
+- (Photo : Les deux canapés vus de dos : le deux places en tissu gris et le canapé relax blanc)
+
+  Vus de dos.
+- (Photo : Gros plan sur l’accoudoir et l’assise d’un canapé en tissu gris chiné)
+
+  En tissu.
+
+Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
+
+Un canapé relax en fauteuil, deux ou trois places, ou composé d’éléments. Trois versions électriques au choix, en cuir fin, en tissu ou en microfibre.
+
+- Trois versions électriques : relax, relax avec têtière, Comfort avec soutien lombaire
+- Commande sur le flanc de l’accoudoir, avec prise USB-C
+- Assise en mousse, dossier en flocons de fibre
+- En fauteuil, deux places ou trois places
+- Fabriqué en Italie
+
+- Exposé au magasin de Leval-Trahegnies
+- Sur commande : composition et revêtement au choix
+- Garantie du fabricant Nicoletti, conditions détaillées au magasin.
+
+La composition exposée change au fil des arrivages : les moteurs s’essaient toujours. Cuir et tissu à voir au magasin.
+
+[Venir l’essayer](https://fony.be/magasin-contact?projet=salon&modele=Nicoletti%20Oakland&demande=essai#visite)
+[Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Nicoletti%20Oakland&demande=devis#visite)
+
+Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
+
+[Caractéristiques](https://fony.be/salon-nicoletti-oakland#caracteristiques) [Composition et revêtements](https://fony.be/salon-nicoletti-oakland#composition) [Questions](https://fony.be/salon-nicoletti-oakland#questions)
+
+Présentation
+
+## Oakland, en détail.
+
+Oakland est un canapé relax de Nicoletti Home, dessiné par le bureau d’études de la maison. Il fait partie de la gamme Cozy³, les relax électriques du fabricant.
+
+Il existe en trois versions électriques. La première incline le dossier et l’assise. La deuxième y ajoute une têtière motorisée. La version Comfort ajoute encore un soutien lombaire. La commande, placée sur le flanc de l’accoudoir, comporte une prise USB-C ; sur les deux versions les plus équipées, un bouton ramène le relax en position initiale.
+
+Oakland se choisit en fauteuil, en deux ou en trois places, ou se compose à partir d’éléments avec ou sans accoudoir. Nous dessinons avec vous la composition adaptée à votre pièce.
+
+Caractéristiques
+
+## Fiche technique.
+
+D’après la fiche du fabricant. Dimensions en centimètres, relax fermé, sauf mention.
+
+Dimensions communes aux éléments
+
+|  |  |
+| --- | --- |
+| Hauteur | 101 cm |
+| Profondeur | 100 cm |
+| Hauteur d’assise | 46 cm |
+| Profondeur d’assise | 52 cm |
+| Profondeur relax ouvert | 157 cm |
+
+Fabrication
+
+|  |  |
+| --- | --- |
+| Structure | Sapin, multiplis et aggloméré, recouverts de mousse polyuréthane |
+| Suspension | Sangles élastiques |
+| Assise | Mousse polyuréthane, ouate 100 % polyester |
+| Dossier et têtières | Flocons de fibre synthétique |
+| Accoudoirs | Mousse polyuréthane, ouate 100 % polyester |
+| Densité de la mousse d’assise | 30 kg/m³ |
+| Pieds | PVC noir, hauteur 4 cm |
+| Déhoussable | Non |
+
+Mécanismes
+
+|  |  |
+| --- | --- |
+| Relax électrique | Dossier et assise motorisés |
+| Relax et têtière électriques | Dossier, assise et têtière motorisés |
+| Version Comfort | Dossier, assise, têtière et soutien lombaire motorisés |
+| Commande | Sur le flanc de l’accoudoir, prise USB-C ; bouton de retour sur les versions avec têtière électrique et Comfort |
+
+Usage
+
+|  |  |
+| --- | --- |
+| Charge recommandée | Fauteuil 120 kg, deux places 200 kg, trois places 240 kg |
+
+Composition et revêtements
+
+## Composez votre Oakland.
+
+Quelques éléments parmi les 24 proposés par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
+
+- ### Fauteuil fixe
+
+  L 98 × P 100 × H 101 cm
+- ### Fauteuil relax électrique
+
+  L 98 × P 100 × H 101 cm
+- ### Canapé deux places
+
+  L 156 × P 100 × H 101 cm
+- ### Canapé trois places
+
+  L 198 × P 100 × H 101 cm
+
+### Revêtements possibles
+
+- Cuirs fins et souples
+- Tissu
+- Microfibre
+
+Le modèle n’étant pas déhoussable, le tissu est d’une seule couleur.
+
+[Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Nicoletti%20Oakland&demande=devis#visite)
+
+Vos questions
+
+## Avant de choisir Oakland.
+
+### Quelle place prévoir pour le relax ?
+
+Relax ouvert, Oakland mesure 157 cm de profondeur, contre 100 cm refermé. Prévoyez ce dégagement devant le canapé.
+
+### Quelles sont les différences entre les trois versions électriques ?
+
+La première motorise le dossier et l’assise. La deuxième ajoute une têtière électrique. La version Comfort ajoute un soutien lombaire.
+
+### Oakland existe-t-il en tissu ?
+
+Oui : en cuir fin et souple, en tissu ou en microfibre. Les housses ne s’enlèvent pas, et le tissu est d’une seule couleur.
+
+Voir aussi
+
+## Continuer la visite.
+
+- [Tous nos salons](https://fony.be/salon)
+- [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+- [Les salons Nicoletti](https://fony.be/salon-nicoletti)
+- [Nicoletti Memphis](https://fony.be/salon-nicoletti-memphis)
+- [Les salons Max Divani](https://fony.be/salon-max-divani)
+
+## Venez essayer Oakland.
+
+Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
+
+[Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+
+Adresse
+:   [Route de Charleroi 160/1
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+
+Lundi
+:   13h30 – 18h30
+
+Mardi au samedi
+:   10h30 – 18h30
+
+Dimanche
+:   Fermé
+
+Téléphone
+:   [064 46 07 72](tel:+3264460772)
+
+Livraison
+:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
+
+Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.

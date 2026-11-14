@@ -74,6 +74,17 @@ Trois usages différents, à choisir selon votre espace et vos habitudes. Tous s
 
   Un canapé le jour, un couchage la nuit. Le mécanisme et le matelas se choisissent selon la fréquence d’utilisation et l’espace disponible.
 
+Par besoin
+
+## Trouver votre canapé.
+
+Les modèles, avec leurs dimensions et leurs versions.
+
+- [Canapés relax électriques : 6 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
+- [Canapés d’angle : 4 modèles Voir](https://fony.be/salon-canapes-angle)
+- [Canapés en cuir italiens : 8 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
+- [Nicoletti : 2 modèles Voir](https://fony.be/salon-nicoletti)
+
 Les fabricants
 
 ## Notre sélection de salons.
@@ -99,7 +110,7 @@ Nicoletti, le relax Cozy³
 
 ## Un confort réglable, place par place.
 
-Au magasin, découvrez les modèles Memphis et Oakland. Chaque place relax se règle indépendamment, pour que chacun choisisse sa position. Trois moteurs règlent séparément le dossier, le repose-jambes et l’appui-tête.
+Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place relax a sa propre commande, pour que chacun choisisse sa position. Le système Cozy³ de Nicoletti réunit trois moteurs indépendants.
 
 (Photo : Canapé relax deux places en cuir beige, en position assise)
 
@@ -109,9 +120,9 @@ Au magasin, découvrez les modèles Memphis et Oakland. Chaque place relax se r�
 
 02 Une place ouverte : jambes relevées, appui-tête redressé.
 
-- **Le dos** Il s’incline sans entraîner les jambes.
-- **Les jambes** Le repose-jambes sort à la hauteur voulue.
-- **La tête** L’appui-tête se redresse pour lire ou regarder l’écran. Le dossier intègre aussi un soutien lombaire, qui soulage le bas du dos.
+- **Le relax** Le dossier s’incline et le repose-jambes se relève, ensemble ou séparément selon le modèle.
+- **La tête** L’appui-tête se redresse séparément, pour lire ou regarder l’écran.
+- **Le bas du dos** Un soutien lombaire réglable soulage le bas du dos (sur Memphis : version Comfort).
 
 [Venir l’essayer](https://fony.be/salon#visite)
 

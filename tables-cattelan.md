@@ -1,6 +1,6 @@
 # Cattelan Italia, tables en céramique à Binche — Fony Meubles
 
-> Tables Cattelan Italia fabriquées en Italie, plateaux en céramique : à voir au magasin de Leval-Trahegnies, près de Binche.
+> Tables Cattelan Italia fabriquées en Italie, plateaux en céramique : à choisir sur catalogue au magasin de Leval-Trahegnies, près de Binche.
 
 Adresse de la page : https://fony.be/tables-cattelan
 
@@ -24,7 +24,7 @@ Fabriquées en Italie, avec des plateaux en céramique et des piètements sculpt
 - Plateaux en céramique
 - Première visite et conseil offerts
 
-Au magasin et sur catalogue
+Sur catalogue
 
 ## Une sélection de modèles.
 
@@ -76,7 +76,7 @@ Voir aussi
 
 ## Venez voir nos tables au magasin.
 
-Une partie est exposée, le reste sur catalogue : dimensions, plateaux et finitions du pied au choix.
+Les tables Cattelan Italia se choisissent sur catalogue : dimensions, plateaux et finitions du pied au choix.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

@@ -34,12 +34,20 @@ Au magasin et sur catalogue
 
    01
 
-   En cuir, en angle avec son pouf ou en deux places, dossiers réglables.
+   ### Coffee
+
+   En cuir, en angle avec son pouf ou en deux places. Dossiers avance-recule.
+
+   [Dimensions et versions de Coffee](https://fony.be/salon-max-divani-coffee)
 2. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
    02
 
+   ### Gala
+
    Des formes souples en tissu : canapé et fauteuils assortis.
+
+   [Dimensions et versions de Gala](https://fony.be/salon-max-divani-gala)
 3. (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
 
    (Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
@@ -48,17 +56,29 @@ Au magasin et sur catalogue
 
    03
 
+   ### Zebra
+
    En tissu, en angle, têtières réglables et place relax.
+
+   [Dimensions et versions de Zebra](https://fony.be/salon-max-divani-zebra)
 4. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
 
    04
 
+   ### Osaka
+
    Deux canapés relax en cuir, face à face.
+
+   [Dimensions et versions de Osaka](https://fony.be/salon-max-divani-osaka)
 5. (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
 
    05
 
+   ### Curry
+
    Trois places et deux places en tissu, avec une place relax.
+
+   [Dimensions et versions de Curry](https://fony.be/salon-max-divani-curry)
 
 Voir aussi
 
