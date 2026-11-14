@@ -16,6 +16,17 @@ Découvrez les canapés fabriqués en Italie qui se déclinent en cuir. Au magas
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
+- (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
+
+  Canapé avance-recule, droit ou en angle
+
+  ## [Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
+
+  Un canapé avance-recule sur piètement en métal : le dossier se recule pour approfondir l’assise.
+
+  Exposé au magasin
+
+  Voir la fiche
 - (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
 
   Canapé et fauteuil, relax en option
@@ -91,17 +102,6 @@ Découvrez les canapés fabriqués en Italie qui se déclinent en cuir. Au magas
   Un canapé relax en fauteuil, deux ou trois places, ou composé d’éléments.
 
   Exposé au magasin
-
-  Voir la fiche
-- (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
-
-  Canapé avance-recule, droit ou en angle
-
-  ## [Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
-
-  Un canapé avance-recule sur piètement en métal : le dossier se recule pour approfondir l’assise.
-
-  Prochainement dans notre collection
 
   Voir la fiche
 

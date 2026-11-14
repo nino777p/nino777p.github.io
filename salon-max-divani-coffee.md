@@ -29,10 +29,11 @@ Un canapé avance-recule sur piètement en métal : le dossier se recule pour a
 - Pouf assorti
 - Fabriqué en Italie
 
-- Prochainement dans notre collection
+- Exposé au magasin de Leval-Trahegnies
 - Sur commande : composition et revêtement au choix
 - Garantie du fabricant Max Divani, conditions détaillées au magasin.
 
+[Venir l’essayer](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Coffee&demande=essai#visite)
 [Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Coffee&demande=devis#visite)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
@@ -131,7 +132,7 @@ Voir aussi
 - [Les salons Max Divani](https://fony.be/salon-max-divani)
 - [Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
 
-## Parlons de votre projet.
+## Venez essayer Coffee.
 
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
