@@ -24,7 +24,7 @@ Des tables à rallonge qui s’ouvrent en un geste. Un excellent rapport qualit�
 - Plateaux en céramique
 - Première visite et conseil offerts
 
-Au magasin et sur catalogue
+La collection
 
 ## Une sélection de modèles.
 
@@ -73,6 +73,33 @@ Au magasin et sur catalogue
    Oblongue fermée, ronde ouverte : de 135 à 190 cm de diamètre.
 
    [Dimensions et versions de Austin](https://fony.be/tables-akante-austin)
+6. (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)
+
+   06
+
+   ### Ontario
+
+   Rectangulaire, deux rallonges indépendantes : jusqu’à 3 mètres en Grande Ontario.
+
+   [Dimensions et versions de Ontario](https://fony.be/tables-akante-ontario)
+7. (Photo : Table Akante Influence fermée sur fond blanc : plateau rectangulaire en céramique marbrée, pied central à branches en acier noir)
+
+   07
+
+   ### Influence
+
+   Rectangulaire sur pied central, deux rallonges indépendantes, pied noir ou taupe.
+
+   [Dimensions et versions de Influence](https://fony.be/tables-akante-influence)
+8. (Photo : Table Akante Vancouver fermée sur fond blanc : plateau en céramique marbrée blanche, pied central à branches en acier noir)
+
+   08
+
+   ### Vancouver
+
+   Rallonge centrale automatique, bords arrondis, pied central à branches.
+
+   [Dimensions et versions de Vancouver](https://fony.be/tables-akante-vancouver)
 
 Devant le canapé
 

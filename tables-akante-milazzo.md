@@ -35,9 +35,10 @@ Une table dont le plateau pivote pour libérer deux rallonges latérales. Platea
 - Deux longueurs : 120 ou 130 cm, 180 ou 190 cm ouverte
 - Douze finitions de plateau
 
-- Sur commande : dimensions et finitions au choix
+- Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Milazzo&demande=devis#visite)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 

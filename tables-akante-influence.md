@@ -1,0 +1,129 @@
+# Akante Influence, table céramique à deux rallonges — Fony
+
+> Table Akante Influence : plateau rectangulaire en céramique, deux rallonges indépendantes, 150 ou 190 cm fermée, 230 ou 270 cm ouverte. Fony, près de Binche.
+
+Adresse de la page : https://fony.be/tables-akante-influence
+
+1. [Accueil](https://fony.be/)
+2. [Salle à manger](https://fony.be/tables-chaises)
+3. [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+4. Akante Influence
+
+Akante · Table de repas extensible
+
+# Akante Influence
+
+- (Photo : Table Akante Influence fermée sur fond blanc : plateau rectangulaire en céramique marbrée, pied central à branches en acier noir)
+
+  Fermée, plateau en céramique marbrée.
+- (Photo : Table Akante Influence rallonges ouvertes sur fond blanc, plateau en céramique marbrée)
+
+  Rallonges ouvertes.
+- (Photo : Table Akante Influence sur fond blanc, plateau en céramique chêne clair)
+
+  Plateau chêne clair.
+
+Photos : Akante. Visuels du fabricant, coloris non contractuels.
+
+Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied central à branches. Plateau en céramique, en deux longueurs : 150 ou 190 cm fermée.
+
+- Deux rallonges latérales indépendantes de 40 cm
+- Deux longueurs : 150 ou 190 cm, 230 ou 270 cm ouverte
+- Piétement en acier laqué noir ou taupe
+- Plateau en céramique collée sur verre
+
+- Dimensions, plateau et finitions au choix
+
+[Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Influence&demande=devis#visite)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+
+Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
+
+[Caractéristiques](https://fony.be/tables-akante-influence#caracteristiques) [Questions](https://fony.be/tables-akante-influence#questions)
+
+Présentation
+
+## Influence, en détail.
+
+Influence est une table de repas Akante au plateau rectangulaire en céramique, portée par un pied central à branches en acier. Ses deux rallonges latérales de 40 cm s’ouvrent indépendamment l’une de l’autre.
+
+Elle existe en 150 et 190 cm de long pour 100 cm de large ; ouverte, elle mesure 230 ou 270 cm. Le piétement se choisit en noir, ou en taupe avec les plateaux Marbre mat et Argile.
+
+Caractéristiques
+
+## Fiche technique.
+
+D’après la fiche du fabricant. Dimensions en centimètres.
+
+Formats
+
+|  |  |
+| --- | --- |
+| 150 cm | 150 × 100 cm, 230 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
+| 190 cm | 190 × 100 cm, 270 × 100 cm ouverte — jusqu’à 8 places, 10 ouverte |
+| Hauteur | 76 cm |
+
+Fabrication
+
+|  |  |
+| --- | --- |
+| Mécanisme | Deux rallonges latérales indépendantes de 40 cm |
+| Plateau | Céramique de 3 et 6 mm collée sur un verre de 8 mm |
+| Piétement | Acier thermolaqué, patins réglables |
+| Poids net | 128 kg (150 cm) ou 138 kg (190 cm) |
+
+Finitions du plateau
+
+|  |  |
+| --- | --- |
+| Céramique | Acier, Titane, Argile, Chêne clair, Silver, Travertin, Marbre Calcatta, Marbre Fiorentino, Marbre mat, Marbre Doro |
+
+Vos questions
+
+## Avant de choisir Influence.
+
+### Quelles sont les dimensions de la table Influence ?
+
+150 × 100 cm ou 190 × 100 cm fermée ; 230 ou 270 cm de long, rallonges ouvertes.
+
+### Le pied existe-t-il en une autre couleur que le noir ?
+
+Oui, en taupe, avec les plateaux Marbre mat et Argile.
+
+Voir aussi
+
+## Continuer la visite.
+
+- [Toutes nos tables](https://fony.be/tables-chaises)
+- [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+- [Les tables Akante](https://fony.be/tables-akante)
+- [Akante Ontario](https://fony.be/tables-akante-ontario)
+- [Akante Vancouver](https://fony.be/tables-akante-vancouver)
+
+## Parlons de votre projet.
+
+Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
+
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+
+Adresse
+:   [Route de Charleroi 160/1
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+
+Lundi
+:   13h30 – 18h30
+
+Mardi au samedi
+:   10h30 – 18h30
+
+Dimanche
+:   Fermé
+
+Téléphone
+:   [064 46 07 72](tel:+3264460772)
+
+Livraison
+:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
+
+Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.

@@ -32,9 +32,10 @@ Une table oblongue qui devient ronde : deux rallonges latérales sortent ensemb
 - Trois tailles : ronde de 135, 150 ou 190 cm ouverte
 - Plateau en céramique collée sur verre
 
-- Sur commande : dimensions et finitions au choix
+- Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Austin&demande=devis#visite)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 

@@ -24,7 +24,14 @@ Nos tables à rallonge au plateau en céramique. Chaque fiche donne les dimensio
 
   Une table oblongue qui devient ronde : deux rallonges latérales sortent ensemble et ferment le cercle.
 
-  Sur commande
+  Voir la fiche
+- (Photo : Table Akante Influence fermée sur fond blanc : plateau rectangulaire en céramique marbrée, pied central à branches en acier noir)
+
+  Table de repas extensible
+
+  ## [Akante Influence](https://fony.be/tables-akante-influence)
+
+  Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied central à branches.
 
   Voir la fiche
 - (Photo : Table Akante Kheops fermée sur fond blanc : plateau en céramique travertin, piétement croisé en acier noir)
@@ -35,8 +42,6 @@ Nos tables à rallonge au plateau en céramique. Chaque fiche donne les dimensio
 
   Une table à deux rallonges latérales synchronisées, sur un piétement croisé en acier noir.
 
-  Sur commande
-
   Voir la fiche
 - (Photo : Table Akante Milazzo fermée sur fond blanc : plateau en céramique chêne clair, piétement en acier noir)
 
@@ -45,8 +50,6 @@ Nos tables à rallonge au plateau en céramique. Chaque fiche donne les dimensio
   ## [Akante Milazzo](https://fony.be/tables-akante-milazzo)
 
   Une table dont le plateau pivote pour libérer deux rallonges latérales.
-
-  Sur commande
 
   Voir la fiche
 - (Photo : Table Akante Missouri sur fond blanc : grand plateau en céramique marbrée blanche, quatre pieds inclinés noirs)
@@ -57,7 +60,14 @@ Nos tables à rallonge au plateau en céramique. Chaque fiche donne les dimensio
 
   Une grande table à deux rallonges latérales indépendantes, pour dix à douze convives.
 
-  Sur commande
+  Voir la fiche
+- (Photo : Table Akante Grande Ontario fermée sur fond blanc : plateau en céramique marbrée, quatre pieds inclinés en acier noir)
+
+  Table de repas extensible
+
+  ## [Akante Ontario](https://fony.be/tables-akante-ontario)
+
+  Une table rectangulaire à deux rallonges latérales indépendantes, sur quatre pieds inclinés en acier noir.
 
   Voir la fiche
 - (Photo : Table Akante Phoenix sur fond blanc : plateau en céramique claire aux bords arrondis, pied central en étoile noir)
@@ -68,7 +78,14 @@ Nos tables à rallonge au plateau en céramique. Chaque fiche donne les dimensio
 
   Une table à rallonge centrale, sur un pied en étoile en acier noir.
 
-  Sur commande
+  Voir la fiche
+- (Photo : Table Akante Vancouver fermée sur fond blanc : plateau en céramique marbrée blanche, pied central à branches en acier noir)
+
+  Table de repas extensible
+
+  ## [Akante Vancouver](https://fony.be/tables-akante-vancouver)
+
+  Une table à rallonge centrale automatique, sur un pied central à branches en acier noir.
 
   Voir la fiche
 
@@ -78,7 +95,7 @@ Vos questions
 
 ### Quelle longueur de table choisir ?
 
-Partez de la table fermée, celle de tous les jours : de 120 à 200 cm selon le modèle. Ouverte, elle mesure de 180 à 270 cm, ou devient ronde pour le modèle Austin. Apportez les dimensions de votre pièce, nous vérifions avec vous.
+Partez de la table fermée, celle de tous les jours : de 120 à 200 cm selon le modèle. Ouverte, elle mesure de 180 à 300 cm, ou devient ronde pour le modèle Austin. Apportez les dimensions de votre pièce, nous vérifions avec vous.
 
 ### Rallonge centrale ou rallonges latérales ?
 

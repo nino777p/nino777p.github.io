@@ -32,9 +32,10 @@ Une grande table à deux rallonges latérales indépendantes, pour dix à douze 
 - Plateau en céramique de 6 mm collée sur verre
 - Quatre finitions marbre
 
-- Sur commande : dimensions et finitions au choix
+- Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Missouri&demande=devis#visite)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 

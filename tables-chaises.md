@@ -45,7 +45,7 @@ Modèle par modèle
 
 Les tables à rallonge, avec leurs mesures fermée et ouverte.
 
-- [Tables extensibles en céramique : 5 modèles Voir](https://fony.be/tables-extensibles-ceramique)
+- [Tables extensibles en céramique : 8 modèles Voir](https://fony.be/tables-extensibles-ceramique)
 
 Les tables
 
