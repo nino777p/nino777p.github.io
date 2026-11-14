@@ -15,9 +15,9 @@ Literie, lits et armoires
 
 # Chambre
 
-Boxsprings et matelas de fabrication belge, fixes ou électriques. Et autour, les lits, les chevets et les armoires.
+Boxsprings belges, fixes ou électriques, matelas et sommiers à essayer. Découvrez aussi les lits, chevets, armoires et dressings qui complètent votre chambre.
 
-[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des couchages à essayer allongé
 - Fixe ou électrique
@@ -25,25 +25,25 @@ Boxsprings et matelas de fabrication belge, fixes ou électriques. Et autour, le
 
 Choisir
 
-## Boxspring, sommier, matelas.
+## Trouver le couchage qui vous convient.
 
-Des couchages d’essai, avec différents matelas et dans différentes qualités, couvrent la plupart des conforts. Le reste se commande au catalogue.
+Plusieurs couchages sont disponibles à l’essai. Comparez le soutien, l’accueil et les niveaux de fermeté en vous allongeant dans votre position habituelle. Le reste se commande au catalogue.
 
 - 01
 
   ### Le boxspring
 
-  Son châssis est plus résistant et son accueil plus souple. Le sommier classique reste disponible, pour un couchage un peu plus ferme.
+  Un ensemble composé d’une base et d’un matelas, parfois complété d’un surmatelas : le confort dépend de la combinaison choisie. Nous proposons aussi des sommiers à lattes.
 - 02
 
   ### Le matelas
 
-  Les ressorts ensachés en priorité, mais aussi le latex, la mousse haute résilience ou la mémoire de forme, selon votre position de sommeil et votre corpulence.
+  Ressorts ensachés, latex, mousse haute résilience ou mémoire de forme : les sensations et le soutien varient selon les matériaux et la construction. Nous vous aidons à choisir selon votre position de sommeil et votre corpulence.
 - 03
 
   ### Fixe ou électrique
 
-  Le modèle électrique relève la tête et les pieds, pour lire confortablement ou se relever plus facilement. À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
+  Un sommier électrique relève la tête ou les jambes, pour lire confortablement ou se relever plus facilement. À deux, des éléments indépendants permettent à chacun de choisir sa position : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 cm ; pour une personne : 120 cm. En 200, 210 ou 220 cm de long selon le modèle.
 
 Au magasin
 
@@ -53,19 +53,19 @@ Les modèles exposés se déclinent en d’autres tailles, tissus, coloris, têt
 
 - ### Velda
 
-  Fabriqués en Belgique. Au magasin : le Fly, au dessin aérien, et l’Imagine, en version fixe ou électrique, avec un matelas haut de gamme.
+  Fabriqués en Belgique. Au magasin, découvrez notamment le Fly et l’Imagine, en version fixe ou électrique, dans les configurations proposées par le fabricant.
 - ### Van Landschoot
 
-  Les boxsprings Axelsson, entièrement fabriqués en Belgique, en plusieurs hauteurs, fixes ou électriques.
+  Les boxsprings Axelsson, fabriqués en Belgique, en plusieurs hauteurs, en versions fixes ou électriques.
 - ### Polypreen
 
-  Fabriqués à Lommel, en Belgique. Matelas, sommiers à lattes et boxsprings.
+  Matelas, sommiers à lattes et boxsprings fabriqués à Lommel, en Belgique.
 
 Velda
 
 ## Quelques modèles Velda.
 
-Tissus, têtes de lit, pieds, fixe ou électrique : chaque lit se compose. Les modèles exposés se voient et s’essaient au magasin.
+Tissus, têtes de lit, pieds et fonctions : composez votre couchage selon les options disponibles. Les modèles exposés se voient et s’essaient au magasin.
 
 - (Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)
 
@@ -79,19 +79,19 @@ Tissus, têtes de lit, pieds, fixe ou électrique : chaque lit se compose. Les 
 
 Comprendre les matelas
 
-## Les principaux garnissages.
+## Comprendre les matières.
 
 Ressorts ensachés
-:   Chaque ressort dans sa poche : soutien point par point, sans sentir l’autre bouger.
+:   Les ressorts individuels offrent un soutien localisé ; l’indépendance de couchage dépend de la construction du matelas.
 
 Latex
-:   Élastique et aéré, il épouse le corps sans creuser.
+:   Un matériau élastique, à l’accueil souple ou plus ferme selon sa formulation.
 
 Mousse haute résilience
-:   Ferme, légère, elle reprend sa forme.
+:   Une mousse conçue pour retrouver sa forme, en différentes densités et fermetés.
 
 Mémoire de forme
-:   Elle se moule au corps sous la chaleur ; la version gel garde la fraîcheur.
+:   Une mousse qui épouse progressivement les contours du corps ; la sensation de chaleur varie selon la composition.
 
 Autour du lit
 
@@ -103,14 +103,14 @@ Autour du lit
 
    ### Le lit et les chevets assortis
 
-   Lits tapissés et chevets Tomasella, entre autres, dans les finitions du reste de la chambre.
+   Lits et chevets Tomasella, entre autres, dans des finitions qui s’accordent à votre chambre.
 2. (Photo : Armoire Tomasella Carmen à portes battantes laquées)
 
    Rangements
 
    ### Armoires et dressings
 
-   Portes battantes ou coulissantes. Et quand il y a un recoin, une sous-pente, un mur à la cote près : le sur mesure prend le relais.
+   Portes battantes ou coulissantes. Et quand il y a un recoin, une sous-pente, un mur aux dimensions particulières : le sur mesure prend le relais.
 
    [Voir le sur mesure](https://fony.be/sur-mesure)
 
@@ -120,17 +120,17 @@ Vos questions
 
 ### Peut-on essayer un matelas ou un boxspring avant de l’acheter ?
 
-Oui. Des couchages sont installés au magasin : allongez-vous, sans rendez-vous, et comparez plusieurs matelas.
+Oui. Plusieurs couchages sont installés au magasin : allongez-vous, sans rendez-vous, et comparez.
 
 ### Boxspring ou sommier à lattes ?
 
-Le boxspring offre un accueil plus souple et un châssis plus résistant ; le sommier à lattes donne un couchage un peu plus ferme. Les deux se voient au magasin.
+Les deux offrent des sensations différentes, selon le matelas et la base : essayez-les au magasin pour choisir.
 
 ### Quelles tailles pour un boxspring électrique ?
 
-À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 ; pour une personne : 120.
+À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 cm ; pour une personne : 120 cm. En 200, 210 ou 220 cm de long selon le modèle.
 
-## Venez essayer nos literies.
+## Venez essayer nos matelas et boxsprings.
 
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Notre magasin de literie, à Leval-Trahegnies (Binche), vous accueille sans rendez-vous, à quelques minutes d’Anderlues, à un quart d’heure de La Louvière et moins de trente minutes de Mons. Parking facile d’accès.
 
@@ -138,7 +138,7 @@ Allongez-vous dans votre position habituelle : c’est le test le plus fiable. 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
-:   [160/1 route de Charleroi
+:   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Lundi

@@ -15,11 +15,11 @@ Tendances
 
 # Beige, pierre veinée et bois.
 
-Chaque saison apporte ses teintes ; nous retenons celles qui durent.
+Chaque saison apporte ses teintes ; nous retenons celles qui durent.
 
-[Mon projet](https://fony.be/magasin-contact#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
-- Les grandes surfaces dans des tons qui ne se datent pas
+- Les grandes surfaces dans des tons qui ne se démodent pas
 - La tendance sur ce qui se remplace vite
 - Les échantillons au magasin
 
@@ -66,9 +66,9 @@ Pièce par pièce
 
    La salle à manger
 
-   ### La table franche, les chaises à la mode
+   ### La table qui dure, les chaises à la mode
 
-   **La base, pour longtemps.** La table, en bois massif ou plaqué, dans une essence franche. **La tendance, en petit.** Les chaises et la lumière, qui datent une salle à manger.
+   **La base, pour longtemps.** La table, en bois massif ou plaqué, dans une essence de bois naturelle. **La tendance, en petit.** Les chaises et la lumière, qui donnent son époque à une salle à manger.
 
    [Voir la salle à manger](https://fony.be/tables-chaises)
 3. (Photo : Armoire Tomasella Carmen à portes battantes laquées)
@@ -91,22 +91,22 @@ Une teinte change selon votre sol et votre lumière. Apportez une photo de la pi
 
 1. (Photo : Échantillon Tomasella : noyer ambré)
 
-   01Noyer ambré
+   01 Noyer ambré
 2. (Photo : Échantillon Tomasella : chêne cannelé cognac)
 
-   02Chêne cannelé
+   02 Chêne cannelé
 3. (Photo : Échantillon Tomasella : laque mate Arena)
 
-   03Laque mate
+   03 Laque mate
 4. (Photo : Échantillon Tomasella : lin texturé)
 
-   04Lin texturé
+   04 Lin texturé
 5. (Photo : Échantillon Tomasella : pierre piasentina)
 
-   05Pierre veinée
+   05 Pierre veinée
 6. (Photo : Échantillon Tomasella : laque métallisée laiton)
 
-   06Laiton
+   06 Laiton
 
 ## Venez composer votre palette.
 
@@ -116,7 +116,7 @@ Au magasin, à Leval-Trahegnies, du lundi au samedi. Sans rendez-vous.
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
-:   [160/1 route de Charleroi
+:   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Lundi
@@ -132,6 +132,6 @@ Téléphone
 :   [064 46 07 72](tel:+3264460772)
 
 Livraison
-:   Par nos soins, dans le Hainaut et la province de Namur
+:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
 Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.

@@ -18,7 +18,7 @@ Tables fabriquées en Italie
 
 Fabriquées en Italie, avec des plateaux en céramique et des piètements sculptés.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Fabriquées en Italie
 - Plateaux en céramique
@@ -36,7 +36,7 @@ Au magasin et sur catalogue
 
    01
 
-   Plateau en céramique, travertin clair ou marbre sombre, et pied central assorti.
+   Plateau en céramique effet travertin clair ou effet marbre sombre, et pied central assorti.
 2. (Photo : Table ovale sur pied central arrondi, chaises écrues, sous des suspensions en verre)
 
    (Photo : Table ronde sur pied central galbé, posée sur un tapis rond)
@@ -82,7 +82,7 @@ Une partie est exposée, le reste sur catalogue : dimensions, plateaux et finit
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
-:   [160/1 route de Charleroi
+:   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Lundi

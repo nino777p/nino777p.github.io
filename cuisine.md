@@ -17,10 +17,10 @@ Cuisine italienne sur mesure
 
 Conçues avec vous à partir des mesures de votre pièce, fabriquées en Italie, livrées et installées.
 
-[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite)[Voir comment ça se passe](https://fony.be/cuisine#parcours)
+[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite) [Voir comment ça se passe](https://fony.be/cuisine#parcours)
 
 - Première visite, mesures et devis offerts
-- Conçue et produite en Italie
+- Conçues et fabriquées en Italie
 - Garantie cinq ans
 
 (Photo : Cuisine Stosa Infinity et séjour dans la même pièce)
@@ -43,7 +43,7 @@ Choisir un style
 
   ### La porte
 
-  Lisse et sans cadre pour un style contemporain, à cadre et moulure pour un style classique. C’est le choix qui engage le plus.
+  Lisse et sans cadre pour un style contemporain, à cadre et moulure pour un style classique. C’est le choix qui donne son caractère à la cuisine.
 - 02
 
   ### Les teintes
@@ -83,9 +83,9 @@ Nos engagements
 
 ## Une cuisine qui dure.
 
-- ### Conçue en Italie
+- ### Fabriquée en Italie
 
-  Conçue et produite en Italie par Stosa.
+  Conçue et fabriquée en Italie par Stosa.
 - ### Un seul interlocuteur
 
   De la première mesure à la dernière poignée, la même personne suit votre projet.
@@ -143,7 +143,7 @@ Vos questions
 
 ### Combien de temps faut-il prévoir ?
 
-Environ huit semaines entre la commande signée, l’acompte versé, et la pose, selon le fabricant et la saison.
+Environ huit semaines entre la commande signée (acompte versé) et la pose, selon le fabricant et la saison.
 
 ### Puis-je voir une cuisine en vrai ?
 
@@ -157,7 +157,7 @@ Décrivez votre projet en quelques lignes : nous convenons d’un rendez-vous p
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
-:   [160/1 route de Charleroi
+:   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Lundi

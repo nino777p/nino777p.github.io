@@ -18,7 +18,7 @@ Tables à rallonge
 
 Des tables à rallonge qui s’ouvrent en un geste. Un excellent rapport qualité-prix.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Tables à rallonge
 - Plateaux en céramique
@@ -34,7 +34,7 @@ Au magasin et sur catalogue
 
    01
 
-   La rallonge est dans la table : plateau céramique ou effet bois, pied métal.
+   La rallonge est dans la table : plateau en céramique ou effet bois, pied en métal.
 2. (Photo : Table à rallonge au plateau céramique clair sur pied central en étoile, chaises grises)
 
    02
@@ -74,7 +74,7 @@ Au magasin, ouvrez la rallonge vous-même : c’est la meilleure façon de juge
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
-:   [160/1 route de Charleroi
+:   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Lundi

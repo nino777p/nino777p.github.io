@@ -468,3 +468,17 @@ background:var(--fond);color:var(--encre)}
 /* Accueil : la ligne du haut reste lisible quelle que soit la photo qui passe */
 .ouverture-texte .surtitre{text-shadow:0 1px 2px rgba(0,0,0,.6),0 0 18px rgba(0,0,0,.45);text-wrap:balance}
 .ouverture:not(.ouverture--page) .ouverture-voile{background:linear-gradient(90deg,rgba(0,0,0,.42) 0%,rgba(0,0,0,.18) 50%,rgba(0,0,0,0) 75%),linear-gradient(to top,rgba(0,0,0,.72) 0%,rgba(0,0,0,.35) 45%,rgba(0,0,0,.08) 100%)}
+/* Proposition UX du 14/11/2026 (audit ChatGPT design-navigation-ux, R1–R4) — à valider par nino.
+   Même identité : couleurs, polices, angles et photos inchangés. Seuls changent le rythme et les hauteurs. */
+/* R1 — rythme des sections un peu plus serré (128 → 104 px ; mobile 80 → 64 px) */
+:root{--rythme:104px}
+@media (max-width:960px){:root{--rythme:64px}}
+/* R2 — accueil : ouverture moins haute, titre un peu plus petit, pour voir plus vite les univers */
+.ouverture:not(.ouverture--page){min-height:clamp(560px,74vh,760px)}
+.ouverture:not(.ouverture--page) .titre-affiche{font-size:clamp(44px,6vw,88px)}
+@media (max-width:960px){
+  .ouverture:not(.ouverture--page) .ouverture-contenu{padding-top:min(38vh,300px)}
+  .ouverture--page .ouverture-contenu{padding-top:min(30vh,240px)}
+}
+/* R4 — petites cartes des univers : la description reste lisible sur petit téléphone (2 lignes) */
+@media (max-width:420px){.tuile .texte{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:14px}}

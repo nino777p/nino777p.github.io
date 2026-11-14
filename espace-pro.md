@@ -15,7 +15,7 @@ Espace pro
 
 Un seul interlocuteur, du plan à la pose. Indépendant, entreprise, établissement ou promoteur.
 
-[Mon projet pro](https://fony.be/espace-pro#projet-pro)[Voir les secteurs](https://fony.be/espace-pro#secteurs)
+[Mon projet pro](https://fony.be/espace-pro#projet-pro) [Voir les secteurs](https://fony.be/espace-pro#secteurs)
 
 - Visite du lieu et devis offerts
 - Sans engagement
@@ -87,7 +87,7 @@ Pour préparer la visite, trois informations nous aident : les dimensions ou un
 
   ### Fabrication
 
-  Chez nos fabricants et notre atelier partenaire, au planning convenu.
+  Chez nos fabricants et notre atelier partenaire, selon le calendrier convenu.
 - 04
 
   ### Livraison et pose
@@ -100,32 +100,4 @@ Mon projet pro
 
 Décrivez votre espace et son usage : nous organisons une visite, ou nous vous aiguillons par téléphone.
 
-Ne pas remplir
-
-Les champs marqués \*d’un astérisque sont obligatoires.
-
-Société (si vous en avez une)
-
-Votre espace
-
-Prénom ou nom \*
-
-Localisation du projet
-
-Adresse e-mail
-
-Téléphone
-
-E-mail ou téléphone, au choix.
-
-Une photo ou un plan (facultatif)
-
-Une seule image, JPG ou PNG, 10 Mo maximum.
-
-Votre projet
-
-La photo dépasse 10 Mo : choisissez-en une plus légère ou envoyez-la-nous par e-mail.
-
-J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. [Politique de confidentialité](https://fony.be/confidentialite)
-
-Indiquez un e-mail ou un téléphone pour que nous puissions vous répondre.
+(Formulaire de contact sur cette page.)

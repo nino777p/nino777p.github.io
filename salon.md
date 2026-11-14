@@ -15,91 +15,91 @@ Canapés et relax
 
 # Salon
 
-Canapés et fauteuils relax italiens et européens, du classique au contemporain, à essayer au magasin en prenant votre temps.
+Canapés et fauteuils relax italiens et européens, du classique au contemporain. Comparez les assises, les revêtements et les fonctions de confort dans notre showroom.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des salons et des relax à essayer
-- Chaque modèle en d’autres tissus et cuirs
+- Un choix de tissus et de cuirs
 - Première visite et conseil offerts
 
 Bien choisir
 
-## Les points à vérifier.
+## Un canapé qui vous correspond.
 
-Fermeté, matières, fonctions relax : ces critères se jugent au magasin, assis.
+La forme compte autant que le confort. Prenez le temps de vous asseoir, d’essayer les réglages et de comparer les matières.
 
 1. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
 
    01
 
-   ### Un relax discret
+   ### Le relax intégré
 
-   Des places relax intégrées à un canapé aux lignes classiques : une fois fermé, rien ne le distingue d’un salon traditionnel.
+   Une fonction relax peut s’intégrer discrètement dans les lignes d’un canapé. Une fois refermé, le repose-jambes laisse place à une silhouette classique.
 2. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
    02
 
-   ### De nombreuses configurations
+   ### La configuration
 
-   En angle, en trois ou en deux places, dans un large choix de tissus, de cuirs et de coloris. Le même modèle change d’allure selon la couleur choisie.
+   En angle, en deux ou trois places : choisissez une composition adaptée aux dimensions de votre séjour. Les tissus, cuirs et coloris permettent de personnaliser votre salon selon les collections.
 3. (Photo : Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris)
 
    03
 
-   ### La qualité de l’assise
+   ### Le confort de l’assise
 
-   Mousse haute résilience ou ressorts ensachés : l’assise garde sa forme. La différence ne se voit pas en photo, elle se sent avec les années.
+   Mousse haute résilience, ressorts ensachés, profondeur et hauteur d’assise : comparez les sensations plutôt que de vous fier uniquement à l’apparence.
 4. (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
 
    04
 
-   ### Places et moteurs
+   ### Les réglages
 
-   Vérifiez combien de places s’inclinent (un trois places n’a pas forcément trois relax) et combien de moteurs équipent chaque place : avec trois moteurs, les jambes, l’appui-tête et les lombaires se règlent séparément.
+   Vérifiez le nombre de places équipées d’une fonction relax (un trois places n’a pas forcément trois relax) et les réglages disponibles. Selon le mécanisme, le dossier, le repose-jambes et l’appui-tête se règlent séparément.
 
 Selon votre usage
 
 ## Relax, releveur, convertible.
 
-Tous se voient et s’essaient au magasin, en tissu ou en cuir, dans différentes qualités.
+Trois usages différents, à choisir selon votre espace et vos habitudes. Tous se voient et s’essaient au magasin.
 
 - ### Le canapé relax électrique
 
-  Une, deux ou trois places relax intégrées au canapé, commandées par un bouton. Fermé, il garde l’allure d’un salon classique.
+  Une ou plusieurs places s’inclinent à l’aide d’une commande électrique, pour profiter d’une position plus détendue tout en conservant l’allure d’un salon.
 - ### Le fauteuil relax et le fauteuil releveur
 
-  Le fauteuil relax incline le dos et relève les jambes, pour une seule personne. Le releveur, en plus, se soulève doucement pour aider à se mettre debout.
+  Le fauteuil relax permet de régler la position du corps. Le releveur ajoute une aide pour passer de la position assise à la position debout.
 - ### Le canapé convertible et le canapé-lit
 
-  Un salon le jour, un couchage la nuit : pour les invités ou pour un usage plus régulier, selon le mécanisme et le matelas choisis.
+  Un canapé le jour, un couchage la nuit. Le mécanisme et le matelas se choisissent selon la fréquence d’utilisation et l’espace disponible.
 
 Les fabricants
 
-## Nos fabricants de salons.
+## Notre sélection de salons.
 
-Les modèles exposés ne sont qu’un point de départ : chacun se commande dans d’autres tailles, tissus, cuirs et coloris, pour tous les budgets.
+Découvrez les modèles exposés et les possibilités de commande : configurations, revêtements et finitions varient selon les collections.
 
 - ### Max Divani
 
-  Fabriqués en Italie. Cuir, éco-cuir ou tissu.
+  Des salons fabriqués en Italie, en cuir, éco-cuir ou tissu.
 
   [Voir les salons Max Divani](https://fony.be/salon-max-divani)
 - ### Nicoletti
 
-  Fabriqués en Italie. Le relax Cozy³ : trois moteurs indépendants pour le dos, les jambes et la tête (voir plus bas).
+  Des canapés relax fabriqués en Italie, dont le système Cozy³ à trois moteurs (voir plus bas).
 - ### Les lignes arrondies
 
-  Des salons contemporains aux formes rondes, sans angle vif.
+  Des formes souples pour un intérieur contemporain.
 - ### Une sélection européenne
 
-  D’autres ateliers européens, pour élargir les styles et les budgets.
+  D’autres styles et niveaux de gamme pour répondre à différents projets.
 
 Nicoletti, le relax Cozy³
 
-## Trois moteurs par place.
+## Un confort réglable, place par place.
 
-Au magasin : les modèles Memphis et Oakland. Chaque place se règle indépendamment ; l’une peut s’allonger pendant que l’autre reste assise.
+Au magasin, découvrez les modèles Memphis et Oakland. Chaque place relax se règle indépendamment, pour que chacun choisisse sa position. Trois moteurs règlent séparément le dossier, le repose-jambes et l’appui-tête.
 
 (Photo : Canapé relax deux places en cuir beige, en position assise)
 
@@ -111,7 +111,7 @@ Au magasin : les modèles Memphis et Oakland. Chaque place se règle indépenda
 
 - **Le dos** Il s’incline sans entraîner les jambes.
 - **Les jambes** Le repose-jambes sort à la hauteur voulue.
-- **La tête** L’appui-tête se redresse pour lire ou regarder l’écran. Et un soutien lombaire.
+- **La tête** L’appui-tête se redresse pour lire ou regarder l’écran. Le dossier intègre aussi un soutien lombaire, qui soulage le bas du dos.
 
 [Venir l’essayer](https://fony.be/salon#visite)
 
@@ -121,7 +121,7 @@ Autour du canapé
 
 ## Le meuble TV et la bibliothèque.
 
-Composés par modules, à la mesure de votre mur.
+Complétez votre salon avec un meuble TV ou une bibliothèque adaptés à votre mur.
 
 [Voir le séjour](https://fony.be/living)
 
@@ -131,21 +131,21 @@ Vos questions
 
 ### Peut-on essayer un relax électrique au magasin ?
 
-Oui. Des salons et des fauteuils relax électriques sont exposés : asseyez-vous, inclinez, comparez, sans rendez-vous.
+Oui. Des salons et des fauteuils relax sont exposés au magasin : comparez leurs positions et leur confort, sans rendez-vous.
 
 ### Quelle différence entre un fauteuil relax et un fauteuil releveur ?
 
-Le relax incline le dos et relève les jambes. Le releveur fait la même chose et se soulève aussi, pour aider à se lever sans effort.
+Le fauteuil relax permet de s’incliner et de relever les jambes ; le releveur ajoute une aide pour se mettre debout.
 
 ## Venez essayer nos salons.
 
-Le magasin vous accueille sans rendez-vous, à quelques minutes de Morlanwelz et d’Anderlues, à un quart d’heure de La Louvière. Parking facile d’accès. Pour un conseil plus approfondi, vous pouvez prendre rendez-vous.
+Venez essayer nos salons à Leval-Trahegnies, à quelques minutes de Morlanwelz et d’Anderlues, à un quart d’heure de La Louvière. Notre équipe vous aide à choisir la configuration, les revêtements et les fonctions qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
-:   [160/1 route de Charleroi
+:   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Lundi

@@ -1,6 +1,6 @@
 # Sur mesure, dressing, sous-pente, bibliothèque — Fony Meubles
 
-> Dressings, sous-pentes, meubles d’entrée, bibliothèques et meubles TV dessinés pour votre pièce, fabriqués en Belgique. Visite et mesures offertes.
+> Dressings, sous-pentes, meubles d’entrée, bibliothèques et meubles TV dessinés pour votre pièce, fabriqués en Belgique ou en Italie. Visite et mesures offertes.
 
 Adresse de la page : https://fony.be/sur-mesure
 
@@ -17,7 +17,7 @@ Dressing, sous-pente, bibliothèque
 
 Dessinés au centimètre, fabriqués par un atelier partenaire en Belgique et par Tomasella.
 
-[Mon projet sur mesure](https://fony.be/magasin-contact?projet=sur-mesure#visite)[Voir ce que nous réalisons](https://fony.be/sur-mesure#realisations)
+[Mon projet sur mesure](https://fony.be/magasin-contact?projet=sur-mesure#visite) [Voir ce que nous réalisons](https://fony.be/sur-mesure#realisations)
 
 - Nous venons chez vous
 - Première visite, mesures et devis offerts
@@ -34,7 +34,7 @@ Murs irréguliers, pentes de toit, recoins : nous partons de la pièce telle qu
   Compartiments pensés pour votre garde-robe, finitions assorties à la chambre.
 - ### Bibliothèque
 
-  Un mur entier, pleins et vides dosés selon ce que vous montrez.
+  Un mur entier : niches ouvertes et rangements fermés, selon ce que vous voulez montrer.
 - ### Meuble TV
 
   Équipements intégrés, câbles cachés, et le lien avec le séjour.
@@ -44,7 +44,7 @@ Murs irréguliers, pentes de toit, recoins : nous partons de la pièce telle qu
 - ### Entrée et hall
 
   Manteaux, chaussures, clés : rangés dès la porte.
-- ### Sous escalier
+- ### Sous l’escalier
 
   Tiroirs, placards ou bibliothèque sous les marches.
 - ### Confort et mobilité
@@ -139,7 +139,7 @@ Remplissez la fiche ou appelez-nous : nous convenons d’une visite, ou nous vo
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
-:   [160/1 route de Charleroi
+:   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Lundi

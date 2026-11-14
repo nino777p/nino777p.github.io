@@ -15,9 +15,9 @@ Salle à manger
 
 # Tables et chaises
 
-Des tables fixes italiennes aux lignes épurées, et des tables à rallonge lorsque la place est comptée.
+Une table pour les repas de tous les jours, les grandes occasions et les moments partagés. Découvrez nos tables fixes et extensibles, en céramique ou en bois, et les chaises qui les accompagnent.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite)[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Tables fixes et extensibles
 - Céramique, bois et laque
@@ -25,23 +25,23 @@ Des tables fixes italiennes aux lignes épurées, et des tables à rallonge lors
 
 Tables extensibles
 
-## Céramique, bois, rallonge intégrée.
+## Des tables extensibles pensées pour votre quotidien.
 
-Différents modèles, dans différentes qualités, à comparer au magasin : ouvrez la rallonge vous-même.
+Une table à rallonge adapte l’espace au nombre de convives. Au magasin, comparez les formes, les matières et les mécanismes : ouvrez la rallonge vous-même.
 
-- ### La forme et le plateau
+- ### Forme et plateau
 
-  Ronde, ovale ou rectangulaire ; plateau en céramique, en bois ou effet bois ; pied central ou piètement.
-- ### La rallonge
+  Ronde, ovale ou rectangulaire, la table s’adapte à la circulation dans la pièce. Céramique, bois ou effet bois : comparez les finitions et les piètements.
+- ### Rallonge
 
-  Rangée dans la table, elle s’ouvre en un geste. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
-- ### Le nombre de convives
+  Selon le modèle, la rallonge se range dans la table ou se déploie à l’aide d’un mécanisme intégré. Venez essayer l’ouverture pour choisir celle qui vous convient. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
+- ### Nombre de convives
 
-  Partez du nombre de personnes à table au quotidien et les jours de fête : certains grands plateaux accueillent jusqu’à douze convives, rallonge ouverte.
+  Pensez à vos repas quotidiens et aux occasions où vous recevez. Certaines grandes tables atteignent trois mètres et accueillent plus de douze convives.
 
 Les tables
 
-## Nos tables.
+## Des collections aux styles différents.
 
 Plateaux, matières et dimensions se comparent au magasin : apportez les mesures de votre pièce.
 
@@ -51,7 +51,7 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
 
    ### La céramique italienne
 
-   Plateaux en céramique, pieds sculptés.
+   Plateaux en céramique et piètements sculptés, pour une table de caractère.
 
    [Voir les tables Cattelan](https://fony.be/tables-cattelan)
 2. (Photo : Table en céramique marbrée sur piètement croisé doré, chaises en bois, devant une cheminée)
@@ -60,7 +60,7 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
 
    ### Céramique ou bois
 
-   Fabriquées en Italie, fixes ou à rallonge.
+   Tables italiennes fixes ou extensibles, en céramique ou en bois.
 
    [Voir les tables Sedit](https://fony.be/tables-sedit)
 3. (Photo : Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois)
@@ -69,7 +69,7 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
 
    ### Les tables extensibles
 
-   Des tables à rallonge faciles à ouvrir, avec un excellent rapport qualité-prix.
+   Tables extensibles aux mécanismes pratiques, à découvrir au magasin.
 
    [Voir les tables Akante](https://fony.be/tables-akante)
 4. (Photo : Salle à manger : table ovale au plateau clair sur pied central en bois, chaises grises, buffet arrondi)
@@ -87,15 +87,15 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
 
    ### La table et le buffet assortis
 
-   Dans les mêmes bois et laques que le séjour, pour une pièce cohérente.
+   Tables et buffets dans les finitions du mobilier de séjour.
 
    [Voir le séjour](https://fony.be/living)
 
 Movis
 
-## Une salle à manger complète.
+## Une salle à manger, des meubles assortis.
 
-Table, chaises, buffet et vaisselier conçus comme un ensemble. Photos du fabricant.
+Table, chaises, buffet et vaisselier s’accordent dans un même ensemble. Photos du fabricant.
 
 - (Photo : Table ovale au plateau en céramique veinée d’or sur pied en bois, vue de près)
 
@@ -120,17 +120,17 @@ Table, chaises, buffet et vaisselier conçus comme un ensemble. Photos du fabric
 
 Les chaises
 
-## Le choix des chaises.
+## Le confort autour de la table.
 
-Bois, tissu, cuir, microfibre ou piétement métal : c’est sur les chaises que la tendance s’exprime le mieux. Nous travaillons notamment avec Modulax (ici le modèle Bari, en trois coloris) et Di Lazzaro, qui fabrique des tables et des chaises contemporaines en Italie depuis plus de soixante ans.
+Une chaise se choisit autant pour son assise que pour son allure : comparez les dossiers, les accoudoirs, les revêtements et les piètements. Notre sélection comprend notamment les chaises Modulax (ici le modèle Bari, en trois coloris).
 
 Choisissez la table et les chaises ensemble, pour que les hauteurs s’accordent, et partez du nombre de convives plutôt que de la longueur.
 
 Modulax
 
-## Le confort avant tout.
+## Des chaises à essayer.
 
-Une chaise se juge assis, sur la durée d’un repas.
+Assise enveloppante, dossier haut, piètement pivotant ou tabouret de bar : chaque modèle répond à un usage différent.
 
 - (Photo : Chaise en tissu chiné gris vert, accoudoir enveloppant, vue de près)
 
@@ -140,7 +140,7 @@ Une chaise se juge assis, sur la durée d’un repas.
   Bari existe aussi en tabouret de bar.
 - (Photo : Chaise en tissu clair, dossier haut, piétement métal en étoile, devant un bureau)
 
-  Flavia, dossier haut, piétement en étoile.
+  Flavia, dossier haut, piètement en étoile.
 - (Photo : Deux tabourets de bar arrondis, tissu gris et tissu blanc, piétement noir)
 
   Lazio en tabouret de bar, deux tissus.
@@ -157,7 +157,7 @@ Modulax
 
 ## Mises en situation.
 
-Chaque modèle présenté autour d’une table, dans une salle à manger complète.
+Découvrez comment les chaises s’accordent avec différents styles de tables.
 
 - (Photo : Salle à manger lumineuse : chaises à accoudoirs en tissu gris clair autour d’une table rectangulaire claire)
 
@@ -186,11 +186,11 @@ Vos questions
 
 ### Peut-on voir une table extensible ouverte au magasin ?
 
-Oui. Des tables à rallonge sont exposées : ouvrez-les vous-même pour juger le mécanisme. Les autres modèles se commandent sur catalogue, dans les dimensions et finitions choisies.
+Oui. Des tables à rallonge sont exposées ; vous pouvez manipuler leur mécanisme au magasin. Les autres modèles se commandent sur catalogue, dans les dimensions et finitions choisies.
 
 ### Céramique ou bois ?
 
-La céramique supporte bien la chaleur, les taches et les rayures du quotidien. Le bois est plus chaleureux et se patine avec le temps. Les deux se comparent au magasin.
+La céramique est appréciée pour sa facilité d’entretien et sa résistance au quotidien ; le bois offre des nuances et un toucher naturels. Les propriétés et l’entretien dépendent de la finition : nous vous aidons à comparer.
 
 Dans la pièce
 
@@ -213,13 +213,13 @@ Dans la pièce
 
 ## Venez essayer nos tables et nos chaises.
 
-Le magasin vous accueille sans rendez-vous, entre Binche et La Louvière. Parking facile d’accès. Pour un conseil plus approfondi, vous pouvez prendre rendez-vous.
+Apportez les dimensions de votre salle à manger et, si possible, une photo de la pièce. Venez essayer les chaises et ouvrir les rallonges au magasin, entre Binche et La Louvière, avec ou sans rendez-vous. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Adresse
-:   [160/1 route de Charleroi
+:   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Lundi

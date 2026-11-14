@@ -16,4 +16,4 @@ Déstockage de l’exposition, Black Friday le 27 novembre 2026 et soldes d’hi
 
 ## Le magasin
 
-Fony Meubles, 160/1 route de Charleroi, 7134 Leval-Trahegnies (Binche). Lundi 13h30–18h30, mardi au samedi 10h30–18h30, fermé le dimanche.
+Fony Meubles, Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche). Lundi 13h30–18h30, mardi au samedi 10h30–18h30, fermé le dimanche.

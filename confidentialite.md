@@ -19,7 +19,7 @@ FONY — MEUBLES SRL, Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche), 
 
 ## Qui d’autre intervient
 
-L’hébergement du site est assuré par GitHub, Inc. (États-Unis). Quand vous envoyez un formulaire, son contenu est acheminé par le service FormSubmit ([formsubmit.co](https://formsubmit.co), prestataire établi hors de l’Union européenne) vers notre boîte e-mail, hébergée par Google (Gmail, Google LLC, États-Unis, qui participe au cadre de protection des données UE–États-Unis). Ces deux prestataires n’interviennent que pour transporter et stocker votre message ; nous ne leur confions aucune autre donnée. Aucune autre société n’a accès à ce que vous nous envoyez : ni régie publicitaire, ni réseau social.
+L’hébergement du site est assuré par GitHub, Inc. (États-Unis). Quand vous envoyez un formulaire, son contenu est acheminé par le service FormSubmit ([formsubmit.co](https://formsubmit.co), prestataire établi hors de l’Union européenne) vers notre boîte e-mail Hotmail, hébergée par Microsoft (Microsoft Corporation, États-Unis, qui participe au cadre de protection des données UE–États-Unis). Ces deux prestataires n’interviennent que pour transporter et stocker votre message ; nous ne leur confions aucune autre donnée. En dehors des fournisseurs et poseurs concernés par votre commande (voir plus bas), aucune autre société n’a accès à ce que vous nous envoyez : ni régie publicitaire, ni réseau social.
 
 ## Quelles données nous collectons, et pourquoi
 
@@ -35,7 +35,7 @@ Nous ne vendons pas vos données. Nous ne les louons pas. Nous ne les transmetto
 
 ## Qui peut y accéder
 
-Vos informations sont accessibles aux seules personnes de FONY — MEUBLES qui traitent votre demande. Le site est hébergé par GitHub, Inc., qui agit comme sous-traitant technique ; les envois de formulaire transitent par FormSubmit et arrivent dans notre boîte Gmail (voir ci-dessus). Lorsque votre projet le nécessite — la fabrication d’un meuble sur mesure, une livraison, une pose — les seules informations strictement utiles sont transmises au fournisseur ou au poseur concerné.
+Vos informations sont accessibles aux seules personnes de FONY — MEUBLES qui traitent votre demande. Le site est hébergé par GitHub, Inc., qui agit comme sous-traitant technique ; les envois de formulaire transitent par FormSubmit et arrivent dans notre boîte Hotmail (voir ci-dessus). Lorsque votre projet le nécessite — la fabrication d’un meuble sur mesure, une livraison, une pose — les seules informations strictement utiles sont transmises au fournisseur ou au poseur concerné.
 
 ## Combien de temps nous les conservons
 

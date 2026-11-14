@@ -1,6 +1,6 @@
 # Le magasin à Leval-Trahegnies (Binche) — Fony Meubles
 
-> Fony Meubles, 160/1 route de Charleroi, 7134 Leval-Trahegnies, entre Binche et La Louvière. Ouvert du lundi au samedi, parking. Préparez votre visite.
+> Fony Meubles, Route de Charleroi 160/1, 7134 Leval-Trahegnies, entre Binche et La Louvière. Ouvert du lundi au samedi, parking. Préparez votre visite.
 
 Adresse de la page : https://fony.be/magasin-contact
 
@@ -9,16 +9,16 @@ Adresse de la page : https://fony.be/magasin-contact
 
 Depuis 1991
 
-# Le magasin, à Leval-Trahegnies.
+# Votre magasin à Leval-Trahegnies.
 
-Salons, séjour, chambre, tables, cuisines et sur mesure, sur la route de Charleroi, entre Binche et La Louvière. Sans rendez-vous, du lundi au samedi.
+FONY vous accompagne dans le choix de votre mobilier et l’aménagement de votre intérieur. Retrouvez notre showroom sur la route de Charleroi, entre Binche et La Louvière, du lundi au samedi.
 
-[Mon projet](https://fony.be/magasin-contact#visite)[Appeler](tel:+3264460772)
+[Mon projet](https://fony.be/magasin-contact#visite) [Appeler](tel:+3264460772)
 
 ## Infos pratiques
 
 Adresse
-:   [160/1 route de Charleroi
+:   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 Lundi
@@ -45,15 +45,15 @@ Livraison et installation par nos soins : Binche, La Louvière, Charleroi, Mons
 
 ### Paiement
 
-Modalités à discuter au magasin.
+Notre équipe vous renseigne au magasin sur les modalités de paiement.
 
 ### Pour venir
 
-160/1 route de Charleroi, 7134 Leval-Trahegnies (Binche). Environ un quart d’heure de La Louvière, vingt-cinq minutes de Charleroi et de Mons. Parking facile d’accès.
+Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche). Parking facile d’accès. Comptez environ un quart d’heure depuis La Louvière et vingt-cinq minutes depuis Mons ou Charleroi, selon la circulation.
 
 ### Sur place
 
-Salons, relax et literie à essayer ; tables à rallonge à ouvrir vous-même. Une partie des modèles est exposée, les autres se commandent sur catalogue.
+Essayez nos salons, fauteuils relax et couchages, comparez les matières et manipulez les tables à rallonge exposées. Notre équipe vous présente aussi les collections disponibles sur commande.
 
 [Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -61,7 +61,7 @@ Avis clients
 
 ## Ce que nos clients en disent.
 
-[4,6/5★★★★★84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
+[4,6/5 ★★★★★ 84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
 
 - > « Parfait de A à Z, accueil, service, gentillesse, choix des produits, qualité des meubles et livraison parfaite, allez y les yeux fermés ! »
 
@@ -79,7 +79,7 @@ Vos questions
 
 ### Faut-il prendre rendez-vous ?
 
-Non. Le magasin vous accueille du lundi au samedi, sans rendez-vous. Pour un projet de cuisine ou de sur mesure, un rendez-vous permet de vous consacrer plus de temps.
+Non, venez librement pendant les heures d’ouverture. Pour une cuisine ou un projet sur mesure, un rendez-vous permet de prendre davantage de temps avec vous.
 
 ### Jusqu’où livrez-vous ?
 
@@ -87,39 +87,11 @@ Nous livrons et installons nous-mêmes dans le Hainaut et la province de Namur 
 
 Mon projet
 
-## Préparer votre visite.
+## Préparons votre visite.
 
-Dites-nous en quelques mots ce que vous cherchez : nous vous recontactons pour convenir d’un moment.
+Dites-nous ce que vous recherchez. Nous vous recontacterons pour répondre à vos questions ou convenir d’un rendez-vous.
 
-- Vos mesures : longueur, largeur et hauteur du mur.
+- Si vous les avez : les dimensions utiles (largeur, hauteur, profondeur).
 - Une photo de la pièce, si vous l’avez.
 
-Ne pas remplir
-
-Les champs marqués \*d’un astérisque sont obligatoires.
-
-Prénom \*
-
-Nom (facultatif)
-
-Adresse e-mail
-
-Téléphone
-
-E-mail ou téléphone, au choix. Le téléphone est demandé si vous souhaitez être rappelé ou une visite chez vous.
-
-Votre projet concerne
-
-Vous préférez
-
-Une photo de la pièce (facultatif)
-
-Une seule image, JPG ou PNG, 10 Mo maximum.
-
-Votre projet en quelques mots
-
-La photo dépasse 10 Mo : choisissez-en une plus légère ou envoyez-la-nous par e-mail.
-
-J’accepte que Fony utilise ces informations pour me recontacter au sujet de ma demande. [Politique de confidentialité](https://fony.be/confidentialite)
-
-Indiquez un e-mail ou un téléphone pour que nous puissions vous répondre.
+(Formulaire de contact sur cette page.)
