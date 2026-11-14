@@ -16,17 +16,6 @@ En angle ou avec chaise longue, à gauche ou à droite. Chaque fiche donne les d
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
-- (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
-
-  Canapé avance-recule, droit ou en angle
-
-  ## [Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
-
-  Un canapé avance-recule sur piètement en métal : le dossier se recule pour approfondir l’assise.
-
-  Exposé au magasin
-
-  Voir la fiche
 - (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
 
   Canapé d’angle et canapé relax
@@ -58,6 +47,17 @@ En angle ou avec chaise longue, à gauche ou à droite. Chaque fiche donne les d
   Un canapé à appuie-têtes réglables, en angle avec chaise longue ou en deux et trois places.
 
   Exposé au magasin
+
+  Voir la fiche
+- (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
+
+  Canapé avance-recule, droit ou en angle
+
+  ## [Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
+
+  Un canapé avance-recule sur piètement en métal : le dossier se recule pour approfondir l’assise.
+
+  Prochainement dans notre collection
 
   Voir la fiche
 
