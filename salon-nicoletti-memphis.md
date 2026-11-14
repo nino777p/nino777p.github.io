@@ -40,7 +40,7 @@ Un canapé relax aux lignes droites, avec têtières réglables et commande int�
 - Fabriqué en Italie
 
 - Exposé au magasin de Leval-Trahegnies
-- Sur commande : composition et revêtement au choix
+- Sur commande : composition et revêtement au choix
 - Garantie du fabricant Nicoletti, conditions détaillées au magasin.
 
 La composition exposée change au fil des arrivages : les moteurs s’essaient toujours. Cuir et tissu à voir au magasin.

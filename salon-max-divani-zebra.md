@@ -34,7 +34,7 @@ Un canapé à appuie-têtes réglables, en angle avec chaise longue ou en deux e
 - Fabriqué en Italie
 
 - Exposé au magasin de Leval-Trahegnies
-- Sur commande : composition et revêtement au choix
+- Sur commande : composition et revêtement au choix
 - Garantie du fabricant Max Divani, conditions détaillées au magasin.
 
 La composition exposée change au fil des arrivages. Cuir et tissu à voir au magasin.

@@ -31,7 +31,7 @@ Un fauteuil rond, fixe ou pivotant à 360°, souligné d’une bande de cuir. En
 - Deux poufs assortis
 - Fabriqué en Italie
 
-- Sur commande : composition et revêtement au choix
+- Sur commande : composition et revêtement au choix
 - Garantie du fabricant Max Divani, conditions détaillées au magasin.
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Dana&demande=devis#visite)

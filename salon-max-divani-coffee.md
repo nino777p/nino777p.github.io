@@ -30,7 +30,7 @@ Un canapé avance-recule sur piètement en métal : le dossier se recule pour a
 - Fabriqué en Italie
 
 - Prochainement dans notre collection
-- Sur commande : composition et revêtement au choix
+- Sur commande : composition et revêtement au choix
 - Garantie du fabricant Max Divani, conditions détaillées au magasin.
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Coffee&demande=devis#visite)

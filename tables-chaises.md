@@ -1,6 +1,6 @@
 # Tables et chaises de salle à manger à Binche — Fony Meubles
 
-> Tables fixes et extensibles en céramique ou en bois, chaises et buffets : Cattelan Italia, Sedit, Akante, Movis, Modulax, à voir près de Binche.
+> Tables fixes et extensibles en céramique ou en bois, chaises et buffets : Cattelan Italia, Sedit, Akante, Perfecta, Movis, à voir près de Binche.
 
 Adresse de la page : https://fony.be/tables-chaises
 
@@ -72,7 +72,16 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
    Tables extensibles aux mécanismes pratiques, à découvrir au magasin.
 
    [Voir les tables Akante](https://fony.be/tables-akante)
-4. (Photo : Salle à manger : table ovale au plateau clair sur pied central en bois, chaises grises, buffet arrondi)
+4. (Photo : Table ovale Perfecta Canvas au plateau effet marbre sur deux pieds à lamelles, entourée de six chaises claires)
+
+   Perfecta
+
+   ### La table à composer
+
+   Forme, dimensions, plateau et pied au choix, avec les chaises assorties.
+
+   [Voir les tables Perfecta](https://fony.be/tables-perfecta)
+5. (Photo : Salle à manger : table ovale au plateau clair sur pied central en bois, chaises grises, buffet arrondi)
 
    Movis
 
@@ -81,7 +90,7 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
    Au magasin, les tables Egg et Cahors, et les buffets Radius et Riga.
 
    [Voir la collection Movis](https://fony.be/tables-chaises#movis)
-5. (Photo : Table et buffet Tomasella dans un séjour urbain)
+6. (Photo : Table et buffet Tomasella dans un séjour urbain)
 
    Tomasella
 

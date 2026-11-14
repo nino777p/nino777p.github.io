@@ -49,7 +49,7 @@ Notre équipe vous renseigne au magasin sur les modalités de paiement.
 
 ### Pour venir
 
-Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche). Parking facile d’accès. Comptez environ un quart d’heure depuis La Louvière et vingt-cinq minutes depuis Mons ou Charleroi, selon la circulation.
+Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche). Parking facile d’accès. Comptez environ un quart d’heure depuis La Louvière et vingt-cinq minutes depuis Mons ou Charleroi, selon la circulation. [Temps de trajet depuis votre commune](https://fony.be/magasin-meubles-pres-de-chez-vous).
 
 ### Sur place
 
@@ -83,7 +83,7 @@ Non, venez librement pendant les heures d’ouverture. Pour une cuisine ou un pr
 
 ### Jusqu’où livrez-vous ?
 
-Nous livrons et installons nous-mêmes dans le Hainaut et la province de Namur : Binche, La Louvière, Charleroi, Mons, Nivelles et leurs alentours. Pour un projet plus loin, parlons-en.
+Nous livrons et installons nous-mêmes dans le Hainaut et la province de Namur : Binche, La Louvière, Charleroi, Mons, Nivelles et leurs alentours. Pour un projet plus loin, parlons-en. Voir [les trajets et la livraison près de chez vous](https://fony.be/magasin-meubles-pres-de-chez-vous).
 
 Mon projet
 

@@ -33,7 +33,7 @@ Un canapé aux formes souples, garni de mousse et de plumes, à composer en cana
 - Fabriqué en Italie
 
 - Exposé au magasin de Leval-Trahegnies
-- Sur commande : composition et revêtement au choix
+- Sur commande : composition et revêtement au choix
 - Garantie du fabricant Max Divani, conditions détaillées au magasin.
 
 La composition exposée change au fil des arrivages. Cuir et tissu à voir au magasin.

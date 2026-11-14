@@ -167,7 +167,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     try { var q = new URLSearchParams(location.search); modele = q.get('modele'); demande = q.get('demande'); } catch (e) {}
     if (message && modele && !message.value.trim()) {
       modele = modele.replace(/[^\wÀ-ÿ’' .\-³]/g, '').slice(0, 80);
-      message.value = (demande === 'devis' ? 'Je souhaite un devis pour : ' : 'Je souhaite venir essayer : ') + modele + '.\n';
+      message.value = (demande === 'devis' ? 'Je souhaite un devis pour : ' : demande === 'voir' ? 'Je souhaite venir voir : ' : 'Je souhaite venir essayer : ') + modele + '.\n';
     }
     // FormSubmit refuse les envois de plus de 10 Mo : on prévient avant plutôt qu'après
     var photo = f.querySelector('input[type=file]'), erreurPhoto = f.querySelector('[data-erreur-photo]');

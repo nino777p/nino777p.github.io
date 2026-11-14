@@ -4,9 +4,9 @@
 
 Adresse de la page : https://fony.be/tables-akante
 
-(Photo : Table à rallonge au plateau effet bois clair sur pied métal noir, dans un séjour lumineux)
-
 (Photo : Table à rallonge au plateau céramique clair sur pied central en étoile, chaises grises)
+
+(Photo : Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois)
 
 1. [Accueil](https://fony.be/)
 2. [Salle à manger](https://fony.be/tables-chaises)
@@ -28,23 +28,42 @@ Au magasin et sur catalogue
 
 ## Une sélection de modèles.
 
-1. (Photo : Table à rallonge au plateau effet bois clair sur pied métal noir, dans un séjour lumineux)
-
-   (Photo : Table à rallonge au plateau céramique clair, chaises grises, murs à moulures)
+1. (Photo : Table à rallonge au plateau céramique clair sur pied central en étoile, chaises grises)
 
    01
 
-   La rallonge est dans la table : plateau en céramique ou effet bois, pied en métal.
-2. (Photo : Table à rallonge au plateau céramique clair sur pied central en étoile, chaises grises)
+   ### Phoenix
+
+   Plateau en céramique aux bords arrondis, pied central en étoile, rallonge au centre.
+
+   [Dimensions et versions de Phoenix](https://fony.be/tables-akante-phoenix)
+2. (Photo : Table Akante Kheops au plateau en céramique argile devant un mur vert, avec une chaise noire et un lampadaire)
 
    02
 
-   Plateau en céramique aux bords arrondis, pied central en étoile.
-3. (Photo : Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois)
+   ### Kheops
+
+   Deux rallonges latérales qui sortent ensemble : de 120 à 160 cm fermée.
+
+   [Dimensions et versions de Kheops](https://fony.be/tables-akante-kheops)
+3. (Photo : Table Akante Milazzo au plateau chêne clair entourée de quatre fauteuils en velours terracotta)
 
    03
 
-   Grand plateau en céramique marbrée : jusqu’à douze convives, rallonge ouverte.
+   ### Milazzo
+
+   Le format compact : 120 ou 130 cm fermée, deux rallonges sous le plateau.
+
+   [Dimensions et versions de Milazzo](https://fony.be/tables-akante-milazzo)
+4. (Photo : Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois)
+
+   04
+
+   ### Missouri
+
+   Grand plateau en céramique marbrée : jusqu’à douze convives, rallonges ouvertes.
+
+   [Dimensions et versions de Missouri](https://fony.be/tables-akante-missouri)
 
 Voir aussi
 

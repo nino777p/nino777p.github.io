@@ -3320,5 +3320,481 @@
    666,
    613
   ]
+ },
+ "ak-phoenix-face": {
+  "id": "ak-phoenix-face",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Phoenix",
+  "alt": "Table Akante Phoenix sur fond blanc : plateau en céramique claire aux bords arrondis, pied central en étoile noir",
+  "source": "ak-phoenix-face.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-phoenix-face-600.webp",
+   "900": "ak-phoenix-face-900.webp",
+   "1400": "ak-phoenix-face-1400.webp",
+   "2000": "ak-phoenix-face-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-phoenix-face-600.avif",
+   "900": "ak-phoenix-face-900.avif",
+   "1400": "ak-phoenix-face-1400.avif",
+   "2000": "ak-phoenix-face-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-phoenix-longue": {
+  "id": "ak-phoenix-longue",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Phoenix",
+  "alt": "Table Akante Phoenix sur fond blanc, plateau en céramique marbrée claire, vue dans sa longueur",
+  "source": "ak-phoenix-longue.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-phoenix-longue-600.webp",
+   "900": "ak-phoenix-longue-900.webp",
+   "1400": "ak-phoenix-longue-1400.webp",
+   "2000": "ak-phoenix-longue-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-phoenix-longue-600.avif",
+   "900": "ak-phoenix-longue-900.avif",
+   "1400": "ak-phoenix-longue-1400.avif",
+   "2000": "ak-phoenix-longue-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-phoenix-salle": {
+  "id": "ak-phoenix-salle",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Phoenix",
+  "alt": "Table Akante Phoenix au plateau clair dans une salle à manger, entourée de chaises grises",
+  "source": "ak-phoenix-salle.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-phoenix-salle-600.webp",
+   "900": "ak-phoenix-salle-900.webp",
+   "1400": "ak-phoenix-salle-1400.webp",
+   "2000": "ak-phoenix-salle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-phoenix-salle-600.avif",
+   "900": "ak-phoenix-salle-900.avif",
+   "1400": "ak-phoenix-salle-1400.avif",
+   "2000": "ak-phoenix-salle-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-kheops-fermee": {
+  "id": "ak-kheops-fermee",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Kheops",
+  "alt": "Table Akante Kheops fermée sur fond blanc : plateau en céramique travertin, piétement croisé en acier noir",
+  "source": "ak-kheops-fermee.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-kheops-fermee-600.webp",
+   "900": "ak-kheops-fermee-900.webp",
+   "1400": "ak-kheops-fermee-1400.webp",
+   "2000": "ak-kheops-fermee-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-kheops-fermee-600.avif",
+   "900": "ak-kheops-fermee-900.avif",
+   "1400": "ak-kheops-fermee-1400.avif",
+   "2000": "ak-kheops-fermee-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-kheops-ouverte": {
+  "id": "ak-kheops-ouverte",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Kheops",
+  "alt": "Table Akante Kheops rallonges ouvertes sur fond blanc, plateau en céramique travertin",
+  "source": "ak-kheops-ouverte.jpg",
+  "w": 4000,
+  "h": 3000,
+  "files": {
+   "600": "ak-kheops-ouverte-600.webp",
+   "900": "ak-kheops-ouverte-900.webp",
+   "1400": "ak-kheops-ouverte-1400.webp",
+   "2000": "ak-kheops-ouverte-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-kheops-ouverte-600.avif",
+   "900": "ak-kheops-ouverte-900.avif",
+   "1400": "ak-kheops-ouverte-1400.avif",
+   "2000": "ak-kheops-ouverte-2000.avif"
+  },
+  "ratio": [
+   4000,
+   3000
+  ]
+ },
+ "ak-kheops-ambiance": {
+  "id": "ak-kheops-ambiance",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Kheops",
+  "alt": "Table Akante Kheops au plateau en céramique argile devant un mur vert, avec une chaise noire et un lampadaire",
+  "source": "ak-kheops-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-kheops-ambiance-600.webp",
+   "900": "ak-kheops-ambiance-900.webp",
+   "1400": "ak-kheops-ambiance-1400.webp",
+   "2000": "ak-kheops-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-kheops-ambiance-600.avif",
+   "900": "ak-kheops-ambiance-900.avif",
+   "1400": "ak-kheops-ambiance-1400.avif",
+   "2000": "ak-kheops-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-milazzo-fermee": {
+  "id": "ak-milazzo-fermee",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Milazzo",
+  "alt": "Table Akante Milazzo fermée sur fond blanc : plateau en céramique chêne clair, piétement en acier noir",
+  "source": "ak-milazzo-fermee.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-milazzo-fermee-600.webp",
+   "900": "ak-milazzo-fermee-900.webp",
+   "1400": "ak-milazzo-fermee-1400.webp",
+   "2000": "ak-milazzo-fermee-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-milazzo-fermee-600.avif",
+   "900": "ak-milazzo-fermee-900.avif",
+   "1400": "ak-milazzo-fermee-1400.avif",
+   "2000": "ak-milazzo-fermee-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-milazzo-rotation": {
+  "id": "ak-milazzo-rotation",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Milazzo",
+  "alt": "Table Akante Milazzo en cours d’ouverture : le plateau pivote et découvre les deux rallonges latérales",
+  "source": "ak-milazzo-rotation.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-milazzo-rotation-600.webp",
+   "900": "ak-milazzo-rotation-900.webp",
+   "1400": "ak-milazzo-rotation-1400.webp",
+   "2000": "ak-milazzo-rotation-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-milazzo-rotation-600.avif",
+   "900": "ak-milazzo-rotation-900.avif",
+   "1400": "ak-milazzo-rotation-1400.avif",
+   "2000": "ak-milazzo-rotation-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-milazzo-ouverte": {
+  "id": "ak-milazzo-ouverte",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Milazzo",
+  "alt": "Table Akante Milazzo rallonges ouvertes sur fond blanc, plateau en céramique chêne clair",
+  "source": "ak-milazzo-ouverte.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-milazzo-ouverte-600.webp",
+   "900": "ak-milazzo-ouverte-900.webp",
+   "1400": "ak-milazzo-ouverte-1400.webp",
+   "2000": "ak-milazzo-ouverte-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-milazzo-ouverte-600.avif",
+   "900": "ak-milazzo-ouverte-900.avif",
+   "1400": "ak-milazzo-ouverte-1400.avif",
+   "2000": "ak-milazzo-ouverte-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-milazzo-ambiance": {
+  "id": "ak-milazzo-ambiance",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Milazzo",
+  "alt": "Table Akante Milazzo au plateau chêne clair entourée de quatre fauteuils en velours terracotta",
+  "source": "ak-milazzo-ambiance.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-milazzo-ambiance-600.webp",
+   "900": "ak-milazzo-ambiance-900.webp",
+   "1400": "ak-milazzo-ambiance-1400.webp",
+   "2000": "ak-milazzo-ambiance-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-milazzo-ambiance-600.avif",
+   "900": "ak-milazzo-ambiance-900.avif",
+   "1400": "ak-milazzo-ambiance-1400.avif",
+   "2000": "ak-milazzo-ambiance-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-missouri-face": {
+  "id": "ak-missouri-face",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Missouri",
+  "alt": "Table Akante Missouri sur fond blanc : grand plateau en céramique marbrée blanche, quatre pieds inclinés noirs",
+  "source": "ak-missouri-face.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-missouri-face-600.webp",
+   "900": "ak-missouri-face-900.webp",
+   "1400": "ak-missouri-face-1400.webp",
+   "2000": "ak-missouri-face-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-missouri-face-600.avif",
+   "900": "ak-missouri-face-900.avif",
+   "1400": "ak-missouri-face-1400.avif",
+   "2000": "ak-missouri-face-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-missouri-noire": {
+  "id": "ak-missouri-noire",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Missouri",
+  "alt": "Table Akante Missouri sur fond blanc, plateau en céramique marbrée noire",
+  "source": "ak-missouri-noire.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-missouri-noire-600.webp",
+   "900": "ak-missouri-noire-900.webp",
+   "1400": "ak-missouri-noire-1400.webp",
+   "2000": "ak-missouri-noire-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-missouri-noire-600.avif",
+   "900": "ak-missouri-noire-900.avif",
+   "1400": "ak-missouri-noire-1400.avif",
+   "2000": "ak-missouri-noire-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "ak-missouri-salle": {
+  "id": "ak-missouri-salle",
+  "use": [
+   "fiches-akante"
+  ],
+  "credit": "Akante Missouri",
+  "alt": "Table Akante Missouri au plateau marbré clair dans une salle à manger, chaises vertes, parquet en bois",
+  "source": "ak-missouri-salle.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "ak-missouri-salle-600.webp",
+   "900": "ak-missouri-salle-900.webp",
+   "1400": "ak-missouri-salle-1400.webp",
+   "2000": "ak-missouri-salle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ak-missouri-salle-600.avif",
+   "900": "ak-missouri-salle-900.avif",
+   "1400": "ak-missouri-salle-1400.avif",
+   "2000": "ak-missouri-salle-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "pf-canvas-ambiance": {
+  "id": "pf-canvas-ambiance",
+  "use": [
+   "tables-perfecta"
+  ],
+  "credit": "Perfecta Canvas",
+  "alt": "Table ovale Perfecta Canvas au plateau effet marbre sur deux pieds à lamelles, entourée de six chaises claires",
+  "source": "pf-canvas-ambiance.jpg",
+  "w": 1600,
+  "h": 800,
+  "files": {
+   "600": "pf-canvas-ambiance-600.webp",
+   "900": "pf-canvas-ambiance-900.webp",
+   "1400": "pf-canvas-ambiance-1400.webp",
+   "1600": "pf-canvas-ambiance-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "pf-canvas-ambiance-600.avif",
+   "900": "pf-canvas-ambiance-900.avif",
+   "1400": "pf-canvas-ambiance-1400.avif",
+   "1600": "pf-canvas-ambiance-1600.avif"
+  },
+  "ratio": [
+   1600,
+   800
+  ]
+ },
+ "pf-canvas-face": {
+  "id": "pf-canvas-face",
+  "use": [
+   "tables-perfecta"
+  ],
+  "credit": "Perfecta Canvas",
+  "alt": "Table Perfecta Canvas sur fond blanc : plateau ovale noir marbré, deux pieds cintrés à lamelles en acier noir",
+  "source": "pf-canvas-face.jpg",
+  "w": 1600,
+  "h": 1600,
+  "files": {
+   "600": "pf-canvas-face-600.webp",
+   "900": "pf-canvas-face-900.webp",
+   "1400": "pf-canvas-face-1400.webp",
+   "1600": "pf-canvas-face-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "pf-canvas-face-600.avif",
+   "900": "pf-canvas-face-900.avif",
+   "1400": "pf-canvas-face-1400.avif",
+   "1600": "pf-canvas-face-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1600
+  ]
+ },
+ "pf-onyx-ambiance": {
+  "id": "pf-onyx-ambiance",
+  "use": [
+   "tables-perfecta"
+  ],
+  "credit": "Perfecta Onyx",
+  "alt": "Table haute Perfecta Onyx au plateau effet marbre sur pied croisé clair, avec quatre tabourets orange",
+  "source": "pf-onyx-ambiance.jpg",
+  "w": 1800,
+  "h": 900,
+  "files": {
+   "600": "pf-onyx-ambiance-600.webp",
+   "900": "pf-onyx-ambiance-900.webp",
+   "1400": "pf-onyx-ambiance-1400.webp",
+   "1800": "pf-onyx-ambiance-1800.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "pf-onyx-ambiance-600.avif",
+   "900": "pf-onyx-ambiance-900.avif",
+   "1400": "pf-onyx-ambiance-1400.avif",
+   "1800": "pf-onyx-ambiance-1800.avif"
+  },
+  "ratio": [
+   1800,
+   900
+  ]
+ },
+ "pf-onyx-face": {
+  "id": "pf-onyx-face",
+  "use": [
+   "tables-perfecta"
+  ],
+  "credit": "Perfecta Onyx",
+  "alt": "Table Perfecta Onyx sur fond blanc : plateau en décor chêne aux angles arrondis, pied central croisé en acier noir",
+  "source": "pf-onyx-face.jpg",
+  "w": 1600,
+  "h": 1600,
+  "files": {
+   "600": "pf-onyx-face-600.webp",
+   "900": "pf-onyx-face-900.webp",
+   "1400": "pf-onyx-face-1400.webp",
+   "1600": "pf-onyx-face-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "pf-onyx-face-600.avif",
+   "900": "pf-onyx-face-900.avif",
+   "1400": "pf-onyx-face-1400.avif",
+   "1600": "pf-onyx-face-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1600
+  ]
  }
 }
