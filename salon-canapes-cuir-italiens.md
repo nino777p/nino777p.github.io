@@ -45,6 +45,24 @@ La sélection
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
    - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
 
+Comprendre le cuir
+
+## Pigmenté ou aniline : deux cuirs, deux caractères.
+
+Deux canapés en cuir peuvent ne pas vivre de la même façon. Tout dépend de la finition.
+
+- ### Le cuir pigmenté
+
+  D’usage facile, il supporte bien la vie de tous les jours. C’est le cuir le plus courant.
+- ### Le cuir aniline
+
+  Teinté dans la masse, il offre un toucher exceptionnel. Sans traitement anti-taches, il demande plus d’attention et peut se décolorer à la lumière.
+- ### Lequel pour vous ?
+
+  Enfants, animaux, pièce très ensoleillée : dites-nous comment vous vivez. Les échantillons se comparent au magasin, en main.
+
+  [Venir toucher les cuirs](https://fony.be/salon-canapes-cuir-italiens#visite)
+
 Vos questions
 
 ## Avant de choisir.

@@ -68,38 +68,55 @@ Un salon ne se choisit pas dans un tableau. On part de la pièce, de ceux qui s�
 
 Bien choisir
 
-## Un canapé qui vous correspond.
+## Six questions avant de choisir.
 
-La forme compte autant que le confort. Prenez le temps de vous asseoir, d’essayer les réglages et de comparer les matières.
+Ce sont celles que nous vous poserons au magasin. Choisissez une question : la réponse s’affiche aussitôt.
 
-1. (Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
+Votre canapé
 
-   01
+01 · La pièce
 
-   ### Le relax intégré
+### Où ira-t-il ?
 
-   Une fonction relax peut s’intégrer discrètement dans les lignes d’un canapé. Une fois refermé, le repose-jambes laisse place à une silhouette classique.
-2. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+Un salon de tous les jours ne se choisit pas comme une pièce où l’on reçoit. Regardez aussi la lumière : près d’une grande fenêtre, certains revêtements demandent plus d’attention que d’autres.
 
-   02
+02 · L’usage
 
-   ### La configuration
+### Pour quoi faire ?
 
-   En angle, en deux ou trois places : choisissez une composition adaptée aux dimensions de votre séjour. Les tissus, cuirs et coloris permettent de personnaliser votre salon selon les collections.
-3. (Photo : Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris)
+Regarder un film, faire la sieste, recevoir : ce n’est pas la même assise. Profonde et souple pour s’allonger, plus droite et plus ferme pour discuter. Asseyez-vous, comparez les sensations plutôt que les apparences.
 
-   03
+[Les canapés relax électriques](https://fony.be/salon-canapes-relax-electriques)
 
-   ### Le confort de l’assise
+03 · L’espace
 
-   Mousse haute résilience, ressorts ensachés, profondeur et hauteur d’assise : comparez les sensations plutôt que de vous fier uniquement à l’apparence.
-4. (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
+### Quelle place lui donner ?
 
-   04
+Mesurez le mur, mais aussi les passages autour, et la place qu’il faut à un relax ouvert. Pensez à la porte, au couloir et à l’escalier par où il entrera. Un doute ? Nous pouvons venir prendre les mesures chez vous.
 
-   ### Les réglages
+[Demander une visite chez vous](https://fony.be/magasin-contact?projet=salon#visite)
 
-   Vérifiez le nombre de places équipées d’une fonction relax (un trois places n’a pas forcément trois relax) et les réglages disponibles. Selon le mécanisme, le dossier, le repose-jambes et l’appui-tête se règlent séparément.
+04 · Les places
+
+### Combien serez-vous ?
+
+Comptez ceux qui s’y assoient chaque soir, pas les invités d’un jour. Et si vous voulez du relax, demandez combien de places en sont équipées : un trois places n’a pas forcément trois relax.
+
+05 · La forme
+
+### En angle ou droit ?
+
+L’angle réunit tout le monde et structure un séjour ouvert. Un canapé droit, seul ou avec un fauteuil, se déplace plus facilement et convient aux pièces étroites. Le côté de l’angle se choisit selon votre pièce.
+
+[Les canapés d’angle](https://fony.be/salon-canapes-angle)
+
+06 · Le revêtement
+
+### Cuir, microfibre ou tissu ?
+
+C’est une affaire de toucher, d’entretien et de vie de famille : enfants, animaux, soleil. Les échantillons sont au magasin : on choisit en main, à la lumière du jour.
+
+[Les canapés en cuir italiens](https://fony.be/salon-canapes-cuir-italiens)
 
 Selon votre usage
 
