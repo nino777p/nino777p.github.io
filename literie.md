@@ -33,17 +33,23 @@ Plusieurs couchages sont disponibles à l’essai. Comparez le soutien, l’accu
 
   ### Le boxspring
 
-  Un ensemble composé d’une base et d’un matelas, parfois complété d’un surmatelas : le confort dépend de la combinaison choisie. Nous proposons aussi des sommiers à lattes.
+  Un ensemble composé d’une base et d’un matelas, parfois complété d’un surmatelas. Nous proposons aussi des sommiers à lattes.
+
+  [Fixe ou électrique](https://fony.be/literie-boxspring-fixe-electrique)
 - 02
 
   ### Le matelas
 
-  Ressorts ensachés, latex, mousse haute résilience ou mémoire de forme : les sensations et le soutien varient selon les matériaux et la construction. Nous vous aidons à choisir selon votre position de sommeil et votre corpulence.
+  Ressorts ensachés, latex ou mousse : les sensations changent d’un matelas à l’autre. Nous vous aidons à choisir selon votre façon de dormir.
+
+  [Ce qu’il y a dans un matelas](https://fony.be/literie-choisir-matelas)
 - 03
 
-  ### Fixe ou électrique
+  ### À deux
 
-  Un sommier électrique relève la tête ou les jambes, pour lire confortablement ou se relever plus facilement. À deux, des éléments indépendants permettent à chacun de choisir sa position : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 cm ; pour une personne : 120 cm. En 200, 210 ou 220 cm de long selon le modèle.
+  L’un lit, l’autre dort ; l’un aime un lit ferme, l’autre non. Un lit pour deux peut tenir compte des deux.
+
+  [Dormir à deux](https://fony.be/literie-dormir-a-deux)
 
 Au magasin
 
@@ -77,22 +83,6 @@ Tissus, têtes de lit, pieds et fonctions : composez votre couchage selon les o
 
   Tissu chiné et tête de lit arrondie.
 
-Comprendre les matelas
-
-## Comprendre les matières.
-
-Ressorts ensachés
-:   Les ressorts individuels offrent un soutien localisé ; l’indépendance de couchage dépend de la construction du matelas.
-
-Latex
-:   Un matériau élastique, à l’accueil souple ou plus ferme selon sa formulation.
-
-Mousse haute résilience
-:   Une mousse conçue pour retrouver sa forme, en différentes densités et fermetés.
-
-Mémoire de forme
-:   Une mousse qui épouse progressivement les contours du corps ; la sensation de chaleur varie selon la composition.
-
 Autour du lit
 
 ## Lits, chevets, armoires.
@@ -124,13 +114,9 @@ Vos questions
 
 Oui. Plusieurs couchages sont installés au magasin : allongez-vous, sans rendez-vous, et comparez.
 
-### Boxspring ou sommier à lattes ?
+### Livrez-vous et installez-vous la literie ?
 
-Les deux offrent des sensations différentes, selon le matelas et la base : essayez-les au magasin pour choisir.
-
-### Quelles tailles pour un boxspring électrique ?
-
-À deux : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 cm ; pour une personne : 120 cm. En 200, 210 ou 220 cm de long selon le modèle.
+Oui, la livraison et l’installation sont assurées par nos soins.
 
 ## Venez essayer nos matelas et boxsprings.
 
