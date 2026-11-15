@@ -80,6 +80,10 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
    Tables extensibles aux mécanismes pratiques, à découvrir au magasin.
 
    [Voir les tables Akante](https://fony.be/tables-akante)
+   - [(Photo : Table Akante Phoenix sur fond blanc : plateau en céramique claire aux bords arrondis, pied central en étoile noir)  Akante Phoenix](https://fony.be/tables-akante-phoenix)
+   - [(Photo : Table Akante Kheops fermée sur fond blanc : plateau en céramique travertin, piétement croisé en acier noir)  Akante Kheops](https://fony.be/tables-akante-kheops)
+   - [(Photo : Table Akante Milazzo fermée sur fond blanc : plateau en céramique chêne clair, piétement en acier noir)  Akante Milazzo](https://fony.be/tables-akante-milazzo)
+   - [(Photo : Table Akante New Austin fermée sur fond blanc : plateau oblong en céramique marbrée, quatre pieds inclinés en acier noir)  Akante Austin](https://fony.be/tables-akante-austin)
 4. (Photo : Table ovale Perfecta Canvas au plateau effet marbre sur deux pieds à lamelles, entourée de six chaises claires)
 
    Perfecta

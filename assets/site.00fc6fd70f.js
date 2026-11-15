@@ -147,7 +147,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 (function () {
   var fs = document.querySelectorAll('[data-formulaire]');
   Array.prototype.forEach.call(fs, function (f) {
-    var mail = f.querySelector('[name=email]'), tel = f.querySelector('[name=tel]'), erreur = f.querySelector('.formulaire-erreur');
+    var mail = f.querySelector('[name=email]'), tel = f.querySelector('[name=tel]'), erreur = f.querySelector('[data-erreur-contact]');
     var choix = f.querySelector('[data-telephone-si]');
     function maj() {
       if (!choix || !tel) return;
@@ -173,6 +173,8 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     var photo = f.querySelector('input[type=file]'), erreurPhoto = f.querySelector('[data-erreur-photo]');
     function tropLourde() { return photo && photo.files && photo.files[0] && photo.files[0].size > 10 * 1024 * 1024; }
     if (photo) photo.addEventListener('change', function () { if (erreurPhoto) erreurPhoto.hidden = !tropLourde(); });
+    // (15/11/2026) le message « e-mail ou téléphone » disparaît dès qu'une coordonnée est saisie
+    [mail, tel].forEach(function (c) { if (c) c.addEventListener('input', function () { if (erreur && ((mail && mail.value.trim()) || (tel && tel.value.trim()))) erreur.hidden = true; }); });
     f.addEventListener('submit', function (e) {
       if (mail && tel && !mail.value.trim() && !tel.value.trim()) {
         e.preventDefault(); if (erreur) erreur.hidden = false; (mail || tel).focus();
@@ -185,7 +187,8 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 
 /* 80-onglets.js */
 /* Onglets : un volet visible à la fois ; flèches, Début et Fin au clavier ; l'adresse suit le volet (#bureaux…).
-   Un lien « data-secteur » préremplit le choix du formulaire. Sans script : tous les volets restent affichés. */
+   Un lien « data-secteur » préremplit le choix du formulaire. Sans script : tous les volets restent affichés.
+   Un élément « data-vers="n" » dans le bloc (couche d'un schéma) choisit le volet n et reçoit la classe « actif ». */
 (function () {
   Array.prototype.forEach.call(document.querySelectorAll('[data-onglets]'), function (bloc) {
     var liste = bloc.querySelector('[role=tablist]'); if (!liste) return;
@@ -199,6 +202,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
         o.setAttribute('aria-selected', actif ? 'true' : 'false'); o.tabIndex = actif ? 0 : -1;
         volets[j].hidden = !actif;
       });
+      Array.prototype.forEach.call(bloc.querySelectorAll('[data-vers]'), function (e) { e.classList.toggle('actif', +e.getAttribute('data-vers') === i); });
       if (focus) onglets[i].focus();
       if (adresse && history.replaceState) history.replaceState(null, '', '#' + volets[i].id);
     }
@@ -212,6 +216,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
         if (c !== null) { e.preventDefault(); choisir(c, true, true); }
       });
     });
+    Array.prototype.forEach.call(bloc.querySelectorAll('[data-vers]'), function (e) { e.addEventListener('click', function () { choisir(+e.getAttribute('data-vers'), false, true); }); });
     function indice() {
       var id = decodeURIComponent(location.hash.slice(1)), i = -1;
       volets.forEach(function (v, j) { if (v.id === id) i = j; });

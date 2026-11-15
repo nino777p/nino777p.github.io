@@ -170,7 +170,7 @@ Votre conseiller suit votre projet à chaque étape.
 
    ### Plan
 
-   Nous définissons ensemble l’implantation, les matières, les teintes et les finitions, échantillons en main.
+   Nous définissons ensemble l’implantation, les matières, les teintes et les finitions, échantillons en main. Pour un aménagement, une projection 3D vous montre le projet.
 4. (Photo : Îlot anthracite mat au plan en bois, devant de grandes fenêtres)
 
    04

@@ -89,14 +89,14 @@ Comment se passe votre projet
 
    ### Mesures
 
-   Nous relevons sur place les murs, les pentes, les prises et les plinthes.
+   Si vous le souhaitez, nous venons relever chez vous les murs, les pentes, les prises et les plinthes. Vos propres mesures et une photo suffisent pour commencer.
 3. (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
    03
 
    ### Plan
 
-   Plan, façades, poignées, teintes et matières : nous ajustons le projet avec vous.
+   Plan, façades, poignées, teintes et matières : nous ajustons le projet avec vous. Une projection 3D vous le montre avant la commande.
 4. (Photo : Armoire Tomasella Carmen à portes battantes laquées)
 
    04
@@ -126,6 +126,10 @@ Les cotes du mur — largeur, hauteur, profondeur — une photo, et une idée de
 ### Quel délai faut-il prévoir ?
 
 Visite et mesures dans la semaine, parfois le jour même ; puis huit à dix semaines entre la commande signée et la pose, selon le fabricant et la saison.
+
+### Peut-on voir le projet avant de commander ?
+
+Oui. Nous préparons une projection 3D de votre aménagement : vous voyez les volumes, les façades et les teintes avant de décider.
 
 ### Puis-je assortir le sur mesure à mes meubles existants ?
 

@@ -16,50 +16,30 @@ En angle ou avec chaise longue, à gauche ou à droite. Chaque fiche donne les d
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
-- (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
+La sélection
 
-  Canapé d’angle et canapé relax
+## Deux manières d’occuper l’angle.
 
-  ## [Max Divani Emu](https://fony.be/salon-max-divani-emu)
+1. (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
 
-  Un canapé à appuie-têtes réglables, sur pieds en métal, en deux ou trois places, avec chaise longue ou en angle.
+   Pour s’y installer à plusieurs
 
-  Exposé au magasin
+   ### L’angle qui se règle.
 
-  Voir la fiche
-- (Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)
+   Chaise longue à gauche ou à droite, appuie-têtes réglables, relax électrique en option : ces angles se composent place par place, selon la pièce et selon ceux qui s’y assoient.
 
-  Canapé modulable
+   - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
+   - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
+2. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
-  ## [Max Divani Gala](https://fony.be/salon-max-divani-gala)
+   Pour une pièce contemporaine
 
-  Un canapé aux formes souples, garni de mousse et de plumes, à composer en canapé droit, avec chaise longue ou en angle.
+   ### L’angle aux lignes basses.
 
-  Exposé au magasin
+   Des formes souples et une assise profonde pour l’un, des dossiers qui avancent ou reculent pour l’autre : deux façons de donner du caractère à un séjour.
 
-  Voir la fiche
-- (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
-
-  Canapé d’angle et canapé relax
-
-  ## [Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
-
-  Un canapé à appuie-têtes réglables, en angle avec chaise longue ou en deux et trois places.
-
-  Exposé au magasin
-
-  Voir la fiche
-- (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
-
-  Canapé avance-recule, droit ou en angle
-
-  ## [Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
-
-  Un canapé avance-recule sur piètement en métal : le dossier se recule pour approfondir l’assise.
-
-  Prochainement dans notre collection
-
-  Voir la fiche
+   - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
+   - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
 
 Vos questions
 

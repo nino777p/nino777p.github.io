@@ -15,41 +15,71 @@ Meuble TV, bibliothèque, buffet
 
 # Séjour
 
-Meubles TV, bibliothèques et buffets Tomasella, composés par modules à la mesure de votre mur.
+Un mur, et tout ce qu’on veut y mettre : l’écran, les livres, la vaisselle, les souvenirs. Les systèmes Tomasella se composent module par module, à la mesure de ce mur-là.
 
 [Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Composé module par module
-- À la mesure de votre mur
+- Projection 3D de votre projet
 - Première visite et conseil offerts
 
-Le séjour
+Par où commencer
 
-## Un séjour composé selon vos besoins.
+## Quatre murs, quatre histoires.
 
-La composition dépend de ce que vous souhaitez ranger et de ce que vous voulez exposer.
+On ne choisit pas un meuble de séjour dans un catalogue : on part du mur, de ce qu’on range et de ce qu’on montre.
 
 1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
-   Tomasella Atlante
+   Le mur de la télévision
 
-   ### Le meuble TV et la bibliothèque
+   ### Cacher les câbles, montrer le reste.
 
-   Des compositions modulables pour le meuble TV et la bibliothèque.
-2. (Photo : Séjour Tomasella Time : composition murale en laque et bois)
+   Un écran, une box, des manettes, des câbles : tout ce qu’on préfère ne pas voir. Un meuble bas ou suspendu les fait disparaître derrière des portes, et laisse des niches ouvertes pour ce qu’on aime regarder. C’est le système Atlante.
 
-   Tomasella Time
+   [Tout Tomasella](https://fony.be/tomasella)
+2. (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
 
-   ### Un système modulable et résistant
+   Les livres et les objets
 
-   Des modules aux surfaces conçues pour un usage quotidien.
-3. (Photo : Meuble TV Tomasella avec rangements suspendus dans un salon)
+   ### Une bibliothèque qui tient tout le mur.
 
-   Rangements
+   Du sol au plafond ou sur une seule travée, avec des niches éclairées pour les objets et des rangements fermés en bas. Les modules s’ajustent à la largeur du mur.
+3. (Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
-   ### Pleins, vides et portes
+   Le quotidien
 
-   Rangements suspendus, niches et portes, dans les mêmes bois et laques.
+   ### Des surfaces qui vivent bien.
+
+   Un séjour sert tous les jours : on y pose un verre, un sac, un cartable. Le système Time associe laque et bois dans des compositions aux lignes simples, faites pour durer.
+4. (Photo : Table et buffet Tomasella dans un séjour urbain)
+
+   La salle à manger
+
+   ### Le buffet assorti à la table.
+
+   Le buffet reprend les bois et les laques du meuble TV : la pièce garde une seule ligne, du canapé à la table.
+
+   [Voir les tables et chaises](https://fony.be/tables-chaises)
+
+Du salon au séjour complet
+
+## Un canapé d’abord, la pièce ensuite.
+
+Rien ne vous oblige à tout refaire. Mais si le nouveau canapé donne envie d’aller plus loin, voici comment nous avançons, à votre rythme.
+
+- ### La pièce
+
+  Une photo et les dimensions du mur suffisent pour commencer. Si vous préférez, nous venons prendre les mesures chez vous.
+- ### Les matières
+
+  Bois, laques, tissu du canapé : nous comparons les échantillons côte à côte, avec la photo de votre pièce.
+- ### La composition
+
+  Meuble TV, bibliothèque, buffet, table : nous assemblons les modules avec vous, à la largeur de votre mur.
+- ### La projection 3D
+
+  Vous voyez le projet en volume avant de décider : les proportions, les teintes, la place qui reste pour circuler.
 
 (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
@@ -65,21 +95,21 @@ Autour du séjour
 
 ## Pour compléter la pièce.
 
-- (Photo : Table et buffet Tomasella dans un séjour urbain)
+- (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
+
+  ### [Le salon](https://fony.be/salon)
+
+  Trois façons de choisir votre canapé.
+
+  Voir les salons
+- (Photo : Table Akante Phoenix au plateau clair dans une salle à manger, entourée de chaises grises)
 
   ### [La table et les chaises](https://fony.be/tables-chaises)
 
   Tables fixes italiennes ou à rallonge, et chaises assorties.
 
   Voir la salle à manger
-- (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
-
-  ### [Le salon](https://fony.be/salon)
-
-  Canapés et relax, à essayer au magasin.
-
-  Voir les salons
-- (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
   ### [Le sur mesure](https://fony.be/sur-mesure)
 
@@ -89,7 +119,7 @@ Autour du séjour
 
 ## Composons votre séjour.
 
-Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module.
+Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module, et nous vous le montrons en projection 3D. Si vous préférez, nous venons prendre les mesures chez vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

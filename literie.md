@@ -104,6 +104,8 @@ Autour du lit
    ### Le lit et les chevets assortis
 
    Lits et chevets Tomasella, entre autres, dans des finitions qui s’accordent à votre chambre.
+
+   [Voir Tomasella](https://fony.be/tomasella)
 2. (Photo : Armoire Tomasella Carmen à portes battantes laquées)
 
    Rangements

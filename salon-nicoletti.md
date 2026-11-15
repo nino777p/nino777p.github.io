@@ -16,28 +16,28 @@ Découvrez Memphis et Oakland, deux canapés relax fabriqués en Italie. Selon l
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
-- (Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
+Les modèles
 
-  Canapé relax électrique
+## Memphis et Oakland.
 
-  ## [Nicoletti Memphis](https://fony.be/salon-nicoletti-memphis)
+1. (Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
 
-  Un canapé relax aux lignes droites, avec têtières réglables et commande intégrée à l’accoudoir.
+   01
 
-  Exposé au magasin
+   ### Nicoletti Memphis
 
-  Voir la fiche
-- (Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)
+   Un canapé relax aux lignes droites, avec têtières réglables et commande intégrée à l’accoudoir. Il se compose à la carte, du fauteuil à l’angle, en cuir fin, en tissu ou en microfibre.
 
-  Canapé relax électrique
+   [Dimensions et versions de Nicoletti Memphis](https://fony.be/salon-nicoletti-memphis)
+2. (Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)
 
-  ## [Nicoletti Oakland](https://fony.be/salon-nicoletti-oakland)
+   02
 
-  Un canapé relax en fauteuil, deux ou trois places, ou composé d’éléments.
+   ### Nicoletti Oakland
 
-  Exposé au magasin
+   Un canapé relax en fauteuil, deux ou trois places, ou composé d’éléments. Trois versions électriques au choix, en cuir fin, en tissu ou en microfibre.
 
-  Voir la fiche
+   [Dimensions et versions de Nicoletti Oakland](https://fony.be/salon-nicoletti-oakland)
 
 Vos questions
 

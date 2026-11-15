@@ -62,7 +62,7 @@ Un salon ne se choisit pas dans un tableau. On part de la pièce, de ceux qui s�
 
    Certains salons se regardent avant même que l’on s’y assoie : des lignes souples, des coussins généreux, une assise profonde. Ils vont aux intérieurs clairs et aux grands volumes, là où le canapé est le meuble principal.
 
-   [Les salons Max Divani](https://fony.be/salon-max-divani)
+   [Toutes nos collections](https://fony.be/salon#fabricants)
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
    - [(Photo : Fauteuil rond en tissu clair, vu de face)  Max Divani Dana](https://fony.be/salon-max-divani-dana)
 
@@ -140,6 +140,11 @@ Découvrez les modèles exposés et les possibilités de commande : configurati
 - ### Nicoletti
 
   Des canapés relax fabriqués en Italie, dont le système Cozy³ à trois moteurs (voir plus bas).
+- ### De Eiken Zetel
+
+  Des fauteuils relax et releveurs d’un fabricant belge.
+
+  [Voir les fauteuils relax et releveurs](https://fony.be/salon-fauteuils-relax-releveurs)
 - ### Les lignes arrondies
 
   Des formes souples pour un intérieur contemporain.

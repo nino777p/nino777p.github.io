@@ -16,78 +16,50 @@ Nos tables à rallonge au plateau en céramique. Chaque fiche donne les dimensio
 
 [Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
-- (Photo : Table Akante New Austin fermée sur fond blanc : plateau oblong en céramique marbrée, quatre pieds inclinés en acier noir)
+La sélection
 
-  Table de repas extensible
+## Quatre façons d’agrandir la table.
 
-  ## [Akante Austin](https://fony.be/tables-akante-austin)
+1. (Photo : Table Akante Phoenix au plateau clair dans une salle à manger, entourée de chaises grises)
 
-  Une table oblongue qui devient ronde : deux rallonges latérales sortent ensemble et ferment le cercle.
+   Tous les jours, puis le dimanche
 
-  Voir la fiche
-- (Photo : Table Akante Influence fermée sur fond blanc : plateau rectangulaire en céramique marbrée, pied central à branches en acier noir)
+   ### La rallonge au centre.
 
-  Table de repas extensible
+   Fermée, la table a sa taille de tous les jours. On tire, et la rallonge rangée au milieu du plateau se déploie : deux convives de plus, sans rien aller chercher.
 
-  ## [Akante Influence](https://fony.be/tables-akante-influence)
+   - [(Photo : Table Akante Phoenix sur fond blanc : plateau en céramique claire aux bords arrondis, pied central en étoile noir)  Akante Phoenix](https://fony.be/tables-akante-phoenix)
+   - [(Photo : Table Akante Vancouver fermée sur fond blanc : plateau en céramique marbrée blanche, pied central à branches en acier noir)  Akante Vancouver](https://fony.be/tables-akante-vancouver)
+2. (Photo : Table Akante Milazzo au plateau chêne clair entourée de quatre fauteuils en velours terracotta)
 
-  Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied central à branches.
+   Un seul geste
 
-  Voir la fiche
-- (Photo : Table Akante Kheops fermée sur fond blanc : plateau en céramique travertin, piétement croisé en acier noir)
+   ### Deux rallonges qui sortent ensemble.
 
-  Table de repas extensible
+   Les deux rallonges sont rangées sous le plateau, une à chaque bout, et un mécanisme les fait sortir en même temps. Le format compact pour une salle à manger où chaque centimètre compte.
 
-  ## [Akante Kheops](https://fony.be/tables-akante-kheops)
+   - [(Photo : Table Akante Kheops fermée sur fond blanc : plateau en céramique travertin, piétement croisé en acier noir)  Akante Kheops](https://fony.be/tables-akante-kheops)
+   - [(Photo : Table Akante Milazzo fermée sur fond blanc : plateau en céramique chêne clair, piétement en acier noir)  Akante Milazzo](https://fony.be/tables-akante-milazzo)
+3. (Photo : Table Akante Missouri au plateau marbré clair dans une salle à manger, chaises vertes, parquet en bois)
 
-  Une table à deux rallonges latérales synchronisées, sur un piétement croisé en acier noir.
+   Les grandes tablées
 
-  Voir la fiche
-- (Photo : Table Akante Milazzo fermée sur fond blanc : plateau en céramique chêne clair, piétement en acier noir)
+   ### Jusqu’à douze autour de la table.
 
-  Table de repas extensible
+   Deux rallonges indépendantes : on en ouvre une quand deux amis s’ajoutent, les deux quand toute la famille vient. Les plus grandes atteignent trois mètres.
 
-  ## [Akante Milazzo](https://fony.be/tables-akante-milazzo)
+   - [(Photo : Table Akante Missouri sur fond blanc : grand plateau en céramique marbrée blanche, quatre pieds inclinés noirs)  Akante Missouri](https://fony.be/tables-akante-missouri)
+   - [(Photo : Table Akante Grande Ontario fermée sur fond blanc : plateau en céramique marbrée, quatre pieds inclinés en acier noir)  Akante Ontario](https://fony.be/tables-akante-ontario)
+   - [(Photo : Table Akante Influence fermée sur fond blanc : plateau rectangulaire en céramique marbrée, pied central à branches en acier noir)  Akante Influence](https://fony.be/tables-akante-influence)
+4. (Photo : Table ronde Akante New Austin au plateau marbré, entourée de quatre chaises vertes, vue de dessus)
 
-  Une table dont le plateau pivote pour libérer deux rallonges latérales.
+   Une autre idée
 
-  Voir la fiche
-- (Photo : Table Akante Missouri sur fond blanc : grand plateau en céramique marbrée blanche, quatre pieds inclinés noirs)
+   ### La table qui devient ronde.
 
-  Table de repas extensible
+   Oblongue au quotidien, elle s’ouvre en un cercle complet : tout le monde se voit, personne n’est en bout de table.
 
-  ## [Akante Missouri](https://fony.be/tables-akante-missouri)
-
-  Une grande table à deux rallonges latérales indépendantes, pour dix à douze convives.
-
-  Voir la fiche
-- (Photo : Table Akante Grande Ontario fermée sur fond blanc : plateau en céramique marbrée, quatre pieds inclinés en acier noir)
-
-  Table de repas extensible
-
-  ## [Akante Ontario](https://fony.be/tables-akante-ontario)
-
-  Une table rectangulaire à deux rallonges latérales indépendantes, sur quatre pieds inclinés en acier noir.
-
-  Voir la fiche
-- (Photo : Table Akante Phoenix sur fond blanc : plateau en céramique claire aux bords arrondis, pied central en étoile noir)
-
-  Table de repas extensible
-
-  ## [Akante Phoenix](https://fony.be/tables-akante-phoenix)
-
-  Une table à rallonge centrale, sur un pied en étoile en acier noir.
-
-  Voir la fiche
-- (Photo : Table Akante Vancouver fermée sur fond blanc : plateau en céramique marbrée blanche, pied central à branches en acier noir)
-
-  Table de repas extensible
-
-  ## [Akante Vancouver](https://fony.be/tables-akante-vancouver)
-
-  Une table à rallonge centrale automatique, sur un pied central à branches en acier noir.
-
-  Voir la fiche
+   - [(Photo : Table Akante New Austin fermée sur fond blanc : plateau oblong en céramique marbrée, quatre pieds inclinés en acier noir)  Akante Austin](https://fony.be/tables-akante-austin)
 
 Vos questions
 

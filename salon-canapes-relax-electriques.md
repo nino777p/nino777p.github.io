@@ -16,72 +16,40 @@ Découvrez les canapés relax électriques de notre sélection : dimensions, co
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
-- (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
+La sélection
 
-  Canapé et fauteuil, relax en option
+## Trois façons de se détendre.
 
-  ## [Max Divani Curry](https://fony.be/salon-max-divani-curry)
+1. (Photo : Canapé relax en cuir beige vu de trois quarts, une place ouverte, commande sur l’accoudoir)
 
-  Un salon à appuie-têtes réglables, en trois places, deux places et fauteuil.
+   À deux
 
-  Exposé au magasin
+   ### Chacun sa place, chacun sa position.
 
-  Voir la fiche
-- (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
+   Sur un relax Nicoletti, chaque place a sa propre commande : l’un s’allonge, l’autre reste assis. La têtière se redresse pour lire, et un soutien lombaire soulage le bas du dos selon la version.
 
-  Canapé d’angle et canapé relax
+   - [(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)  Nicoletti Memphis](https://fony.be/salon-nicoletti-memphis)
+   - [(Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)  Nicoletti Oakland](https://fony.be/salon-nicoletti-oakland)
+2. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
 
-  ## [Max Divani Emu](https://fony.be/salon-max-divani-emu)
+   En famille
 
-  Un canapé à appuie-têtes réglables, sur pieds en métal, en deux ou trois places, avec chaise longue ou en angle.
+   ### Le salon complet : trois places, deux places, fauteuil.
 
-  Exposé au magasin
+   Un trois places, un deux places et un fauteuil assortis, sur ressorts ensachés. Le relax électrique est une option : on le choisit sur les places où l’on s’installe vraiment.
 
-  Voir la fiche
-- (Photo : Canapés deux places et trois places en cuir gris anthracite, sur fond blanc)
+   - [(Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)  Max Divani Curry](https://fony.be/salon-max-divani-curry)
+   - [(Photo : Canapés deux places et trois places en cuir gris anthracite, sur fond blanc)  Max Divani Osaka](https://fony.be/salon-max-divani-osaka)
+3. (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
 
-  Canapé et fauteuil, relax en option
+   Dans un grand séjour
 
-  ## [Max Divani Osaka](https://fony.be/salon-max-divani-osaka)
+   ### Le relax au bout de l’angle.
 
-  Un salon sur pieds en bois, en trois places, deux places et fauteuil.
+   Un canapé d’angle ou à chaise longue peut lui aussi recevoir des places relax. Les appuie-têtes se règlent, pour passer de la conversation à la sieste.
 
-  Exposé au magasin
-
-  Voir la fiche
-- (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
-
-  Canapé d’angle et canapé relax
-
-  ## [Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
-
-  Un canapé à appuie-têtes réglables, en angle avec chaise longue ou en deux et trois places.
-
-  Exposé au magasin
-
-  Voir la fiche
-- (Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
-
-  Canapé relax électrique
-
-  ## [Nicoletti Memphis](https://fony.be/salon-nicoletti-memphis)
-
-  Un canapé relax aux lignes droites, avec têtières réglables et commande intégrée à l’accoudoir.
-
-  Exposé au magasin
-
-  Voir la fiche
-- (Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)
-
-  Canapé relax électrique
-
-  ## [Nicoletti Oakland](https://fony.be/salon-nicoletti-oakland)
-
-  Un canapé relax en fauteuil, deux ou trois places, ou composé d’éléments.
-
-  Exposé au magasin
-
-  Voir la fiche
+   - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
+   - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
 
 Vos questions
 
