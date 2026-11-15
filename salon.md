@@ -23,13 +23,56 @@ Canapés et fauteuils relax italiens et européens, du classique au contemporain
 - Un choix de tissus et de cuirs
 - Première visite et conseil offerts
 
+Par où commencer
+
+## Trois façons de choisir votre salon.
+
+Un salon ne se choisit pas dans un tableau. On part de la pièce, de ceux qui s’y assoient, de la façon dont on y vit.
+
+1. (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
+
+   Pour se détendre
+
+   ### Le relax qui ne se voit pas.
+
+   Assis, rien ne le trahit : c’est un canapé. Une commande sur l’accoudoir, et la place s’allonge, le dossier s’incline, l’appui-tête se redresse pour lire ou regarder un film. Chacun règle la sienne, sans déranger son voisin.
+
+   [Tous les canapés relax électriques](https://fony.be/salon-canapes-relax-electriques)
+   - [(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)  Nicoletti Memphis](https://fony.be/salon-nicoletti-memphis)
+   - [(Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)  Nicoletti Oakland](https://fony.be/salon-nicoletti-oakland)
+   - [(Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)  Max Divani Curry](https://fony.be/salon-max-divani-curry)
+   - [(Photo : Canapés deux places et trois places en cuir gris anthracite, sur fond blanc)  Max Divani Osaka](https://fony.be/salon-max-divani-osaka)
+2. (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
+
+   Pour réunir tout le monde
+
+   ### L’angle qui dessine la pièce.
+
+   Dans un séjour ouvert, un canapé d’angle fait le travail d’une cloison : il sépare le salon de la salle à manger sans rien fermer. On s’y installe à plusieurs, et la chaise longue revient au premier arrivé.
+
+   [Tous les canapés d’angle](https://fony.be/salon-canapes-angle)
+   - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
+   - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
+   - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
+3. (Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
+
+   Pour une pièce qui a du caractère
+
+   ### Des formes que l’on remarque.
+
+   Certains salons se regardent avant même que l’on s’y assoie : des lignes souples, des coussins généreux, une assise profonde. Ils vont aux intérieurs clairs et aux grands volumes, là où le canapé est le meuble principal.
+
+   [Les salons Max Divani](https://fony.be/salon-max-divani)
+   - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
+   - [(Photo : Fauteuil rond en tissu clair, vu de face)  Max Divani Dana](https://fony.be/salon-max-divani-dana)
+
 Bien choisir
 
 ## Un canapé qui vous correspond.
 
 La forme compte autant que le confort. Prenez le temps de vous asseoir, d’essayer les réglages et de comparer les matières.
 
-1. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+1. (Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
 
    01
 
@@ -74,11 +117,9 @@ Trois usages différents, à choisir selon votre espace et vos habitudes. Tous s
 
   Un canapé le jour, un couchage la nuit. Le mécanisme et le matelas se choisissent selon la fréquence d’utilisation et l’espace disponible.
 
-Par besoin
+Toutes les sélections
 
-## Trouver votre canapé.
-
-Les modèles, avec leurs dimensions et leurs versions.
+## Chercher autrement.
 
 - [Canapés relax électriques : 6 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
 - [Canapés d’angle : 4 modèles Voir](https://fony.be/salon-canapes-angle)
