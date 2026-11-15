@@ -1,6 +1,6 @@
 # Bien choisir son matelas près de Binche — Fony Meubles
 
-> Ressorts ensachés, latex, mousse ou mémoire de forme, ferme ou souple : comment choisir son matelas, et l’essayer allongé chez Fony Meubles.
+> Comment choisir son matelas : soutien, accueil, matières. Matelas belges Van Landschoot Eclipse et Superqueen, à choisir avec nous chez Fony Meubles.
 
 Adresse de la page : https://fony.be/literie-choisir-matelas
 
@@ -70,31 +70,31 @@ L’un aime un lit ferme, l’autre non ? Deux matelas côte à côte permette
 
 [Voir les solutions à deux](https://fony.be/literie-dormir-a-deux)
 
-Les matières
+À l’intérieur
 
 ## Dans un matelas, couche par couche.
 
 Touchez une couche du schéma pour savoir à quoi elle sert.
 
-Schéma de principe d’un matelas à ressorts ensachés. La composition exacte varie selon le modèle.
+Schéma de principe, d’après les matelas à ressorts ensachés Eclipse et Superqueen de Van Landschoot.
 
 1 · La housse
 
 ### Ce que vous touchez.
 
-Le tissu et son garnissage donnent le toucher du matelas et jouent sur la chaleur. Certaines housses se retirent pour être nettoyées.
+Une housse matelassée, avec une bande d’aération sur le côté. Elle s’enlève et se lave.
 
 2 · L’accueil
 
 ### La première sensation.
 
-Une couche de mousse, de latex ou de mémoire de forme. C’est elle qui rend le matelas moelleux, équilibré ou tonique quand on s’allonge. Le latex est élastique ; la mémoire de forme épouse le corps.
+Quelques centimètres posés sur les ressorts : mousse à froid, latex ou mousse à gel. C’est cette couche qui change la sensation quand on s’allonge.
 
 3 · Le soutien
 
 ### Le cœur du matelas.
 
-Ici, des ressorts ensachés : chacun est enfermé dans sa poche et réagit séparément, et l’air circule entre eux. Dans d’autres matelas, ce cœur est en latex ou en mousse haute résilience.
+Des ressorts ensachés : chacun est enfermé dans sa poche et réagit séparément. Ils sont répartis en sept zones, pour ne pas porter l’épaule comme le bassin.
 
 4 · La base
 
@@ -103,6 +103,40 @@ Ici, des ressorts ensachés : chacun est enfermé dans sa poche et réagit sép
 Un matelas travaille avec son sommier ou sa base de boxspring : le même matelas ne donne pas la même sensation sur des lattes et sur une base à ressorts.
 
 [Boxspring fixe ou électrique](https://fony.be/literie-boxspring-fixe-electrique)
+
+Van Landschoot, Belgique
+
+## Deux matelas, plusieurs caractères.
+
+Deux matelas belges, chacun en plusieurs versions. Sur le papier, elles se ressemblent ; allongé, pas du tout.
+
+- ### Superqueen
+
+  23 cm, à ressorts ensachés. Trois accueils au choix : mousse à froid, latex ou mousse à gel.
+- ### Eclipse
+
+  21 cm, avec ou sans ressorts. Quatre versions, du tout-mousse au ressort-latex.
+- ### Lequel pour vous ?
+
+  Souple, médium ou ferme, quel accueil, quelle hauteur : cela se décide en quelques minutes, allongé, avec nous.
+
+  [Venir choisir le vôtre](https://fony.be/literie-choisir-matelas#visite)
+
+La housse
+
+## Purest : une housse qui se lave.
+
+Eclipse et Superqueen partagent la même housse, traitée Purest par le fabricant.
+
+- ### Elle s’enlève
+
+  Elle s’ouvre en deux parties et passe en machine à 60 °C.
+- ### Elle respire
+
+  Une bande d’aération en maille fait le tour du matelas.
+- ### Elle est traitée
+
+  Purest est un traitement du tissu. Le fabricant le présente comme antiallergique, antimicrobien et régulateur d’humidité. Son catalogue mentionne aussi le label Oeko-Tex.
 
 Au magasin
 
@@ -155,7 +189,7 @@ Oui. Plusieurs couchages sont installés au magasin : allongez-vous, sans rende
 
 ### Quelles marques de matelas trouve-t-on chez Fony Meubles ?
 
-Trois fabricants belges : Velda, Van Landschoot (boxsprings Axelsson) et Polypreen.
+Trois fabricants belges : Velda, Van Landschoot — dont les matelas Eclipse et Superqueen — et Polypreen.
 
 Voir aussi
 

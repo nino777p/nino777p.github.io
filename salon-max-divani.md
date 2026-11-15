@@ -1,6 +1,6 @@
 # Max Divani, salons italiens à Binche — Fony Meubles
 
-> Salons Max Divani fabriqués en Italie, en cuir, éco-cuir ou tissu : à voir au magasin de Leval-Trahegnies, près de Binche.
+> Salons Max Divani fabriqués en Italie, en cuir, microfibre ou tissu : à voir au magasin de Leval-Trahegnies, près de Binche.
 
 Adresse de la page : https://fony.be/salon-max-divani
 
@@ -16,12 +16,12 @@ Salons fabriqués en Italie
 
 # Max Divani
 
-Fabriqués en Italie. Cuir, éco-cuir ou tissu.
+Fabriqués en Italie. Cuir, microfibre ou tissu.
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Fabriqués en Italie
-- Cuir, éco-cuir ou tissu
+- Cuir, microfibre ou tissu
 - Première visite et conseil offerts
 
 Au magasin et sur catalogue
@@ -79,6 +79,38 @@ Au magasin et sur catalogue
    Trois places et deux places en tissu, avec une place relax.
 
    [Dimensions et versions de Curry](https://fony.be/salon-max-divani-curry)
+
+La fabrication
+
+## Dans un canapé Max Divani.
+
+Ce qu’on ne voit pas compte autant que ce qu’on voit. Touchez une couche du schéma.
+
+Schéma de principe, d’après le guide du fabricant.
+
+1 · Le cuir
+
+### De la fleur de cuir.
+
+Max Divani travaille la fleur, la partie noble de la peau, jamais la croûte. Pigmenté ou aniline : deux touchers, deux entretiens. Lequel pour votre famille ? On en parle au magasin, échantillons en main.
+
+2 · Les mousses
+
+### Une assise qui reprend sa forme.
+
+Des mousses à haute résilience, à expansion à froid : elles reviennent en place après chaque assise. Sur certains modèles, des ressorts ensachés s’y ajoutent.
+
+3 · Les sangles
+
+### Un sanglage croisé.
+
+Sous l’assise, des sangles élastiques croisées : c’est elles qui donnent la souplesse quand on s’assoit.
+
+4 · La structure
+
+### Du bois massif, boulonné.
+
+La structure portante est en bois massif. Accoudoirs et dossiers sont boulonnés, ni cloués ni vissés.
 
 Voir aussi
 

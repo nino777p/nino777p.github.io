@@ -22,7 +22,7 @@ Selon votre situation
 
 - ### Vous n’aimez pas le même confort
 
-  Deux matelas côte à côte sur une même base permettent à chacun de choisir son accueil. Un surmatelas d’une seule pièce peut réunir l’ensemble.
+  Deux matelas côte à côte permettent à chacun de choisir son accueil. Sur certains matelas Van Landschoot, on peut même réunir deux cœurs différents dans une seule housse.
 - ### Vous sentez l’autre bouger
 
   On regarde l’indépendance de couchage : elle dépend de la construction du matelas, et se vérifie en l’essayant à deux.
@@ -49,7 +49,7 @@ Vos questions
 
 ### Peut-on avoir deux fermetés dans un même lit ?
 
-Oui, avec deux matelas côte à côte. Les combinaisons possibles dépendent du modèle : nous les regardons avec vous au magasin.
+Oui : avec deux matelas côte à côte ou, sur certains modèles, deux cœurs différents dans une même housse. Les combinaisons dépendent du matelas : nous les regardons avec vous au magasin.
 
 ### Faut-il venir à deux pour choisir ?
 

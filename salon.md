@@ -134,7 +134,7 @@ Découvrez les modèles exposés et les possibilités de commande : configurati
 
 - ### Max Divani
 
-  Des salons fabriqués en Italie, en cuir, éco-cuir ou tissu.
+  Des salons fabriqués en Italie, en cuir, microfibre ou tissu.
 
   [Voir les salons Max Divani](https://fony.be/salon-max-divani)
 - ### Nicoletti

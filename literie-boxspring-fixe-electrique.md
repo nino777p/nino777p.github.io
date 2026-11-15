@@ -74,6 +74,34 @@ Le tissu et le coloris
 Les pieds
 :   Ils changent la hauteur du lit et son style.
 
+Axelsson, par Van Landschoot
+
+## Un boxspring, trois étages.
+
+Un boxspring se compose à la carte. Voici les trois étages ; le reste se règle ensemble, au magasin.
+
+Schéma de principe d’un boxspring.
+
+1 · Le matelas
+
+### Il se choisit allongé.
+
+À ressorts ensachés ou en mousse, avec plusieurs accueils. C’est lui qui fait la sensation du lit.
+
+[Bien choisir son matelas](https://fony.be/literie-choisir-matelas)
+
+2 · La base
+
+### Elle n’est pas qu’un support.
+
+Chez Axelsson, elle existe en plusieurs hauteurs, avec deux types de ressorts, fixe ou électrique. Laquelle pour vous ? C’est la première question que nous vous poserons.
+
+3 · Les pieds
+
+### Ils règlent la hauteur du lit.
+
+Six modèles en métal, de 12 à 20 cm : ils changent la hauteur du couchage et l’allure de la chambre.
+
 Vos questions
 
 ## Avant de choisir.
