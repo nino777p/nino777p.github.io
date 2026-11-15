@@ -1,6 +1,6 @@
 # Bien choisir son matelas près de Binche — Fony Meubles
 
-> Comment choisir son matelas : soutien, accueil, matières. Matelas belges Van Landschoot Eclipse et Superqueen, à choisir avec nous chez Fony Meubles.
+> Comment choisir son matelas : soutien, accueil, matières. Matelas belges Van Landschoot Eclipse et Superqueen, à essayer allongé chez Fony Meubles.
 
 Adresse de la page : https://fony.be/literie-choisir-matelas
 
@@ -112,15 +112,15 @@ Deux matelas belges, chacun en plusieurs versions. Sur le papier, elles se resse
 
 - ### Superqueen
 
-  23 cm, à ressorts ensachés. Trois accueils au choix : mousse à froid, latex ou mousse à gel.
+  23 cm, à ressorts ensachés. Trois accueils : Hybride (mousse à froid), Impulse (latex) et HR Gel (mousse à gel). À essayer au magasin : Hybride et HR Gel.
 - ### Eclipse
 
-  21 cm, avec ou sans ressorts. Quatre versions, du tout-mousse au ressort-latex.
+  21 cm. Quatre versions : une tout en mousse, trois à ressorts ensachés avec un accueil en mousse à froid, en latex ou en mousse à gel. À essayer au magasin : l’Eclipse Hybride à ressorts ensachés.
 - ### Lequel pour vous ?
 
-  Souple, médium ou ferme, quel accueil, quelle hauteur : cela se décide en quelques minutes, allongé, avec nous.
+  Souple, médium ou ferme, quel accueil, quelle hauteur : cela se décide allongé, avec nous. Les versions qui ne sont pas exposées, nous vous les expliquons sur place.
 
-  [Venir choisir le vôtre](https://fony.be/literie-choisir-matelas#visite)
+  [Venir les essayer](https://fony.be/literie-choisir-matelas#visite)
 
 La housse
 
@@ -186,6 +186,10 @@ Souvent oui, s’il est en bon état et adapté au matelas choisi. Dites-nous qu
 ### Peut-on essayer les matelas au magasin ?
 
 Oui. Plusieurs couchages sont installés au magasin : allongez-vous, sans rendez-vous, et comparez.
+
+### Les matelas sont-ils garantis ?
+
+Oui, par la garantie d’usine de Van Landschoot. Nous vous en donnons le détail au magasin.
 
 ### Quelles marques de matelas trouve-t-on chez Fony Meubles ?
 
