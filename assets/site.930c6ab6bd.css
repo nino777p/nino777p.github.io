@@ -643,6 +643,16 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 .recit--compact .etape-texte .texte{font-size:15px}
 .recit--compact .etape-modeles li{flex-basis:46%}
 }
+@media (max-width:560px){
+.modeles{grid-template-columns:1fr 1fr;gap:34px 12px}
+.modele .modele-petites{gap:6px;margin-top:6px}
+.modeles>.modele:last-child:nth-child(odd){grid-column:1/-1}
+.modele-texte{padding-top:12px;gap:6px}
+.modele .numero{font-size:24px}
+.modele-texte .nom{font-size:19px}
+.modele-texte .texte{font-size:15px;line-height:1.45}
+.modele-texte .lien-fleche{font-size:15px;min-height:44px;display:inline-flex;align-items:center}
+}
 .ambiance-galerie{
 --fond:#141311;--fond-2:#1C1A17;--carte:#211F1B;
 --encre:#EEE8DC;--encre-2:#ABA497;--trait:rgba(238,232,220,.14);--trait-2:rgba(238,232,220,.28);
