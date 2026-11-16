@@ -4820,5 +4820,197 @@
    1200,
    735
   ]
+ },
+ "cp-fred": {
+  "id": "cp-fred",
+  "use": [
+   "capodarte"
+  ],
+  "credit": "Capodarte Fred",
+  "alt": "Chaise grise à accoudoirs et dossier arrondi, devant un mur clair et un tableau jaune",
+  "source": "cp-fred.jpg",
+  "w": 799,
+  "h": 1053,
+  "files": {
+   "600": "cp-fred-600.webp",
+   "799": "cp-fred-799.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cp-fred-600.avif",
+   "799": "cp-fred-799.avif"
+  },
+  "ratio": [
+   799,
+   1053
+  ]
+ },
+ "cp-malu": {
+  "id": "cp-malu",
+  "use": [
+   "capodarte"
+  ],
+  "credit": "Capodarte Malu",
+  "alt": "Chaise beige enveloppante sur pieds fins, dans une pièce claire",
+  "source": "cp-malu.jpg",
+  "w": 800,
+  "h": 1059,
+  "files": {
+   "600": "cp-malu-600.webp",
+   "800": "cp-malu-800.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cp-malu-600.avif",
+   "800": "cp-malu-800.avif"
+  },
+  "ratio": [
+   800,
+   1059
+  ]
+ },
+ "cp-maya": {
+  "id": "cp-maya",
+  "use": [
+   "capodarte"
+  ],
+  "credit": "Capodarte Maya 210/240",
+  "alt": "Table au plateau allongé et arrondi, posée sur deux pieds sombres aux formes ovales",
+  "source": "cp-maya.jpg",
+  "w": 800,
+  "h": 1100,
+  "files": {
+   "600": "cp-maya-600.webp",
+   "800": "cp-maya-800.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cp-maya-600.avif",
+   "800": "cp-maya-800.avif"
+  },
+  "ratio": [
+   800,
+   1100
+  ]
+ },
+ "cp-ofelia": {
+  "id": "cp-ofelia",
+  "use": [
+   "capodarte"
+  ],
+  "credit": "Capodarte Ofelia",
+  "alt": "Buffet bas bleu aux façades en relief quadrillé, sur un piètement fin",
+  "source": "cp-ofelia.jpg",
+  "w": 800,
+  "h": 1100,
+  "files": {
+   "600": "cp-ofelia-600.webp",
+   "800": "cp-ofelia-800.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cp-ofelia-600.avif",
+   "800": "cp-ofelia-800.avif"
+  },
+  "ratio": [
+   800,
+   1100
+  ]
+ },
+ "cp-dance": {
+  "id": "cp-dance",
+  "use": [
+   "capodarte"
+  ],
+  "credit": "Capodarte Dance",
+  "alt": "Miroir rond entouré d’un large cadre argenté en relief",
+  "source": "cp-dance.jpg",
+  "w": 800,
+  "h": 1100,
+  "files": {
+   "600": "cp-dance-600.webp",
+   "800": "cp-dance-800.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cp-dance-600.avif",
+   "800": "cp-dance-800.avif"
+  },
+  "ratio": [
+   800,
+   1100
+  ]
+ },
+ "cp-horizon": {
+  "id": "cp-horizon",
+  "use": [
+   "capodarte"
+  ],
+  "credit": "Capodarte Horizon",
+  "alt": "Horloge murale carrée aux angles arrondis, cadran clair cerclé de lignes dorées",
+  "source": "cp-horizon.jpg",
+  "w": 800,
+  "h": 1100,
+  "files": {
+   "600": "cp-horizon-600.webp",
+   "800": "cp-horizon-800.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cp-horizon-600.avif",
+   "800": "cp-horizon-800.avif"
+  },
+  "ratio": [
+   800,
+   1100
+  ]
+ },
+ "cp-tiffany": {
+  "id": "cp-tiffany",
+  "use": [
+   "capodarte"
+  ],
+  "credit": "Capodarte Tiffany",
+  "alt": "Bibliothèque sol-plafond : un montant fin portant des rubans sombres enroulés",
+  "source": "cp-tiffany.jpg",
+  "w": 800,
+  "h": 1100,
+  "files": {
+   "600": "cp-tiffany-600.webp",
+   "800": "cp-tiffany-800.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cp-tiffany-600.avif",
+   "800": "cp-tiffany-800.avif"
+  },
+  "ratio": [
+   800,
+   1100
+  ]
+ },
+ "cp-dixon": {
+  "id": "cp-dixon",
+  "use": [
+   "capodarte"
+  ],
+  "credit": "Capodarte Dixon",
+  "alt": "Table basse ronde, plateau texturé de teinte bronze sur un pied cylindrique sombre",
+  "source": "cp-dixon.jpg",
+  "w": 800,
+  "h": 1100,
+  "files": {
+   "600": "cp-dixon-600.webp",
+   "800": "cp-dixon-800.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cp-dixon-600.avif",
+   "800": "cp-dixon-800.avif"
+  },
+  "ratio": [
+   800,
+   1100
+  ]
  }
 }

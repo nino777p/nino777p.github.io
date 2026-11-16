@@ -29,7 +29,7 @@ Aucun prix n’est publié en ligne.
 - [Sedit](https://fony.be/tables-sedit) : Tables en céramique ou en bois
 - [Akante](https://fony.be/tables-akante) : Tables à rallonge
 - [Perfecta](https://fony.be/tables-perfecta) : Tables à composer
-- [Capodarte](https://capodartehome.com/it) : Tables, chaises et assises
+- [Capodarte](https://fony.be/capodarte) : Tables, chaises, buffets et objets de décoration
 - [Movis](https://fony.be/tables-chaises#movis) : Table, chaises et buffet, la pièce entière
 - [Modulax](https://fony.be/tables-chaises#chaises-modulax) : Chaises et tabourets de bar
 
@@ -55,6 +55,7 @@ Aucun prix n’est publié en ligne.
 - [Tendances, beige, pierre veinée et bois — Fony Meubles](https://fony.be/tendances) : La tendance en petites touches, la base pour longtemps : choisir un salon, une table ou un dressing qu’on ne regrette pas dans cinq ans. Échantillons à Binche. (texte : https://fony.be/tendances.md)
 - [Espace pro, bureaux, horeca, promoteurs — Fony Meubles](https://fony.be/espace-pro) : Aménagement pour professionnels dans le Hainaut : bureaux, hôtels et restaurants, promoteurs, maisons de repos. Un seul interlocuteur, du plan à la pose. (texte : https://fony.be/espace-pro.md)
 - [Le magasin à Leval-Trahegnies (Binche) — Fony Meubles](https://fony.be/magasin-contact) : Fony Meubles, Route de Charleroi 160/1, 7134 Leval-Trahegnies, entre Binche et La Louvière. Ouvert du lundi au samedi, parking. Préparez votre visite. (texte : https://fony.be/magasin-contact.md)
+- [Capodarte : tables, chaises et décoration près de Binche — Fony](https://fony.be/capodarte) : Capodarte, marque italienne du Ciciriello Group : tables, chaises, buffets, miroirs et horloges. Une partie au magasin, le reste sur catalogue, près de Binche. (texte : https://fony.be/capodarte.md)
 - [Boxspring fixe ou électrique près de Binche — Fony Meubles](https://fony.be/literie-boxspring-fixe-electrique) : Boxspring fixe ou électrique : ce qui change, les tailles possibles, la tête de lit. Fabricants belges, à essayer allongé chez Fony Meubles. (texte : https://fony.be/literie-boxspring-fixe-electrique.md)
 - [Bien choisir son matelas près de Binche — Fony Meubles](https://fony.be/literie-choisir-matelas) : Comment choisir son matelas : soutien, accueil, matières. Matelas belges Van Landschoot Eclipse et Superqueen, à essayer allongé chez Fony Meubles. (texte : https://fony.be/literie-choisir-matelas.md)
 - [Dormir à deux : quel lit choisir ? — Fony Meubles, Binche](https://fony.be/literie-dormir-a-deux) : Deux conforts dans un même lit, moins sentir l’autre bouger, lire pendant que l’autre dort : les solutions à essayer à deux chez Fony Meubles. (texte : https://fony.be/literie-dormir-a-deux.md)
