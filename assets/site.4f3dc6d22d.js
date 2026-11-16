@@ -242,3 +242,15 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     });
   });
 })();
+
+/* 85-repli.js */
+/* Sections repliées : un lien ou une adresse (#methode…) qui vise une section repliée l'ouvre avant d'y aller. */
+(function () {
+  if (!document.querySelector('details.repli')) return;
+  function ouvrir() {
+    var id; try { id = decodeURIComponent(location.hash.slice(1)); } catch (e) { return; } if (!id) return;
+    var c = document.getElementById(id), d = c && c.closest ? c.closest('details.repli') : null;
+    if (d && !d.open) { d.open = true; c.scrollIntoView(); }
+  }
+  ouvrir(); window.addEventListener('hashchange', ouvrir);
+})();

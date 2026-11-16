@@ -14,13 +14,34 @@ Mobilier, cuisines et sur mesure — Leval-Trahegnies, depuis 1991
 
 # Votre intérieur, de la première idée à la pose.
 
-Du canapé à la cuisine, du mobilier de séjour aux rangements sur mesure : nous vous aidons à composer un intérieur qui vous ressemble.
+Salons, tables et literie à voir et à essayer au magasin ; cuisines et sur mesure à concevoir avec votre conseiller, du premier croquis à la pose.
 
 [Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Salons, relax et literie à essayer
 - Première visite et conseil offerts
-- Du lundi au samedi
+- Sans rendez-vous, du lundi au samedi
+
+Au magasin
+
+## Ce qui fait la différence.
+
+- ### On essaie avant de choisir
+
+  Salons, relax, matelas, tables à rallonge : asseyez-vous, allongez-vous, ouvrez les mécanismes exposés.
+- ### Un seul interlocuteur
+
+  Votre conseiller suit votre projet du premier croquis à la pose.
+
+  [Les quatre étapes](https://fony.be/#methode)
+- ### Mesures et projection 3D
+
+  Si vous le souhaitez, nous venons relever les mesures chez vous. Pour un aménagement, une projection 3D vous montre le projet.
+- ### Livré par nos soins
+
+  Nous livrons vos meubles nous-mêmes et restons à votre disposition après l’installation.
+
+  [Ce qu’en disent nos clients](https://fony.be/#avis)
 
 Les pièces
 
@@ -71,6 +92,92 @@ Canapé, table, meuble TV ou dressing : découvrez les solutions à choisir sé
 
   Voir le sur mesure
 
+Avis clients
+
+## Ce que nos clients en disent.
+
+[4,6/5 ★★★★★ 84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
+
+- > « […] Patron à l’écoute… La livraison et l’installation au top ! Ne pousse pas à l’achat mais vous conseille dans un showroom varié à l’atmosphère sereine… »
+
+  Mirco P. · avis Google
+- > « L’accueil du patron comme de ses fils est parfait. Le service est top. Les conseils sont très clairs. Je reviendrai »
+
+  Françoise D. · avis Google
+- > « Parfait, bons conseils, délais respectés, livreurs efficaces, rapides pros. »
+
+  Chantal F. · avis Google
+
+(Photo : Salon aux formes arrondies en tissu texturé beige, dans un séjour aux tons chauds)
+
+(Photo : Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée)
+
+(Photo : Séjour Tomasella Time : composition murale en laque et bois)
+
+(Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
+
+Nos fabricants
+
+## Des fabricants européens, choisis pour leur design et leur savoir-faire.
+
+Nous sélectionnons des collections aux styles et aux finitions variés. Au magasin, nous vous aidons à comparer les matières et à accorder les meubles d’une pièce à l’autre. Certains modèles sont exposés ; d’autres se découvrent sur catalogue et se commandent dans les configurations proposées par nos fabricants.
+
+[Mon projet](https://fony.be/magasin-contact#visite)
+
+## Les fabricants que vous trouverez au magasin
+
+- [Max Divani : Salons](https://fony.be/salon-max-divani)
+- [Nicoletti : Le relax à trois moteurs](https://fony.be/salon-nicoletti)
+- [Tomasella : Séjour, dressing et chambre](https://fony.be/tomasella)
+- [Stosa : Cuisines italiennes](https://fony.be/cuisine)
+- [Velda : Literie de fabrication belge](https://fony.be/literie)
+- [Van Landschoot : Boxsprings Axelsson, fabrication belge](https://fony.be/literie#fab-van-landschoot)
+- [Polypreen : Matelas, sommiers et boxsprings, fabrication belge](https://fony.be/literie#fab-polypreen)
+- [Cattelan Italia : Tables en céramique](https://fony.be/tables-cattelan)
+- [Sedit : Tables en céramique ou en bois](https://fony.be/tables-sedit)
+- [Akante : Tables à rallonge](https://fony.be/tables-akante)
+- [Movis : Table, chaises et buffet, la pièce entière](https://fony.be/tables-chaises#movis)
+- [Modulax : Chaises et tabourets de bar](https://fony.be/tables-chaises#chaises-modulax)
+
+Les quatre étapes d’un projet Écoute, mesures, plan, livraison et pose
+
+Notre méthode
+
+## Un seul interlocuteur, du premier croquis à la pose.
+
+Votre conseiller suit votre projet à chaque étape.
+
+1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+
+   01
+
+   ### Écoute
+
+   Au magasin ou chez vous, nous prenons le temps de comprendre vos habitudes, vos envies et les contraintes de votre pièce.
+2. (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
+
+   02
+
+   ### Mesures
+
+   Nous relevons les dimensions et les particularités de l’espace : murs, pentes, prises et plinthes. La première visite est offerte.
+3. (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
+
+   03
+
+   ### Plan
+
+   Nous définissons ensemble l’implantation, les matières, les teintes et les finitions, échantillons en main. Pour un aménagement, une projection 3D vous montre le projet.
+4. (Photo : Îlot anthracite mat au plan en bois, devant de grandes fenêtres)
+
+   04
+
+   ### Livraison et pose
+
+   Nous livrons vos meubles par nos soins. Selon le projet, la pose est réalisée par notre équipe ou par un professionnel partenaire. Nous restons à votre disposition après l’installation.
+
+Selon votre projet Un premier logement, une maison à embellir, un intérieur plus pratique
+
 Selon votre projet
 
 ## Des meubles pour chaque étape de votre vie.
@@ -112,88 +219,6 @@ Un premier logement, une pièce à repenser ou un intérieur à rendre plus conf
    - [Chambre](https://fony.be/literie)
    - [Sur mesure](https://fony.be/sur-mesure)
    - [Cuisine](https://fony.be/cuisine)
-
-(Photo : Salon aux formes arrondies en tissu texturé beige, dans un séjour aux tons chauds)
-
-(Photo : Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée)
-
-(Photo : Séjour Tomasella Time : composition murale en laque et bois)
-
-(Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
-
-Nos fabricants
-
-## Des fabricants européens, choisis pour leur design et leur savoir-faire.
-
-Nous sélectionnons des collections aux styles et aux finitions variés. Au magasin, nous vous aidons à comparer les matières et à accorder les meubles d’une pièce à l’autre. Certains modèles sont exposés ; d’autres se découvrent sur catalogue et se commandent dans les configurations proposées par nos fabricants.
-
-[Mon projet](https://fony.be/magasin-contact#visite)
-
-## Les fabricants que vous trouverez au magasin
-
-- [Max Divani : Salons](https://fony.be/salon-max-divani)
-- [Nicoletti : Le relax à trois moteurs](https://fony.be/salon-nicoletti)
-- [Tomasella : Séjour, dressing et chambre](https://fony.be/tomasella)
-- [Stosa : Cuisines italiennes](https://fony.be/cuisine)
-- [Velda : Literie de fabrication belge](https://fony.be/literie)
-- [Van Landschoot : Boxsprings Axelsson, fabrication belge](https://fony.be/literie#fab-van-landschoot)
-- [Polypreen : Matelas, sommiers et boxsprings, fabrication belge](https://fony.be/literie#fab-polypreen)
-- [Cattelan Italia : Tables en céramique](https://fony.be/tables-cattelan)
-- [Sedit : Tables en céramique ou en bois](https://fony.be/tables-sedit)
-- [Akante : Tables à rallonge](https://fony.be/tables-akante)
-- [Movis : Table, chaises et buffet, la pièce entière](https://fony.be/tables-chaises#movis)
-- [Modulax : Chaises et tabourets de bar](https://fony.be/tables-chaises#chaises-modulax)
-
-Notre méthode
-
-## Un seul interlocuteur, du premier croquis à la pose.
-
-Votre conseiller suit votre projet à chaque étape.
-
-1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
-
-   01
-
-   ### Écoute
-
-   Au magasin ou chez vous, nous prenons le temps de comprendre vos habitudes, vos envies et les contraintes de votre pièce.
-2. (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
-
-   02
-
-   ### Mesures
-
-   Nous relevons les dimensions et les particularités de l’espace : murs, pentes, prises et plinthes. La première visite est offerte.
-3. (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
-
-   03
-
-   ### Plan
-
-   Nous définissons ensemble l’implantation, les matières, les teintes et les finitions, échantillons en main. Pour un aménagement, une projection 3D vous montre le projet.
-4. (Photo : Îlot anthracite mat au plan en bois, devant de grandes fenêtres)
-
-   04
-
-   ### Livraison et pose
-
-   Nous livrons vos meubles par nos soins. Selon le projet, la pose est réalisée par notre équipe ou par un professionnel partenaire. Nous restons à votre disposition après l’installation.
-
-Avis clients
-
-## Ce que nos clients en disent.
-
-[4,6/5 ★★★★★ 84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
-
-- > « […] Patron à l’écoute… La livraison et l’installation au top ! Ne pousse pas à l’achat mais vous conseille dans un showroom varié à l’atmosphère sereine… »
-
-  Mirco P. · avis Google
-- > « L’accueil du patron comme de ses fils est parfait. Le service est top. Les conseils sont très clairs. Je reviendrai »
-
-  Françoise D. · avis Google
-- > « Parfait, bons conseils, délais respectés, livreurs efficaces, rapides pros. »
-
-  Chantal F. · avis Google
 
 ## Parlons de votre intérieur.
 
