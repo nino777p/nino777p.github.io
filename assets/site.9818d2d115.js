@@ -23,7 +23,7 @@
 (function () {
   if (!('IntersectionObserver' in window)) return;
   try { if (matchMedia('(prefers-reduced-motion: reduce)').matches) return; } catch (e) {}
-  var blocs = document.querySelectorAll('main .tete-section, main .tuile, main .point, main .fabricant, main .echantillon,'
+  var blocs = document.querySelectorAll('main .tete-section, main .tuile, main .point, main .fabricant-logo, main .echantillon,'
     + ' main .assemblage-carte, main .visite-carte, main .visite-texte, main .echantillons-texte, main .moment, main .etape');
   var bas = window.innerHeight * 0.92, suivis = [];
   for (var i = 0; i < blocs.length; i++) if (blocs[i].getBoundingClientRect().top > bas) suivis.push(blocs[i]);

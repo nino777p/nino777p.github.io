@@ -116,18 +116,8 @@ Nous sélectionnons des collections aux styles et aux finitions variés. Au maga
 
 ## Les fabricants que vous trouverez au magasin
 
-- [Max Divani : Salons](https://fony.be/salon-max-divani)
-- [Nicoletti : Le relax à trois moteurs](https://fony.be/salon-nicoletti)
-- [Tomasella : Séjour, dressing et chambre](https://fony.be/tomasella)
-- [Stosa : Cuisines italiennes](https://fony.be/cuisine)
-- [Velda : Literie de fabrication belge](https://fony.be/literie)
-- [Van Landschoot : Boxsprings Axelsson, fabrication belge](https://fony.be/literie#fab-van-landschoot)
-- [Polypreen : Matelas, sommiers et boxsprings, fabrication belge](https://fony.be/literie#fab-polypreen)
-- [Cattelan Italia : Tables en céramique](https://fony.be/tables-cattelan)
-- [Sedit : Tables en céramique ou en bois](https://fony.be/tables-sedit)
-- [Akante : Tables à rallonge](https://fony.be/tables-akante)
-- [Movis : Table, chaises et buffet, la pièce entière](https://fony.be/tables-chaises#movis)
-- [Modulax : Chaises et tabourets de bar](https://fony.be/tables-chaises#chaises-modulax)
+- [Movis](https://fony.be/tables-chaises#movis)
+- [Modulax](https://modulax.be/)
 
 Les étapes de votre projet Écoute, mesures, conception, installation
 

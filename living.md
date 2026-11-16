@@ -60,7 +60,7 @@ Que souhaitez-vous ranger, exposer ou dissimuler ? Nous partons de votre mur p
 
    Retrouvez les bois et les laques du meuble TV dans votre buffet. Nous vous aidons à composer un ensemble cohérent avec votre table et votre canapé.
 
-   [Voir les tables et chaises](https://fony.be/tables-chaises)
+   [Voir les buffets et dressoirs](https://fony.be/tables-chaises#buffets)
 
 Du salon au séjour complet
 

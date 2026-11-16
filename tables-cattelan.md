@@ -1,6 +1,6 @@
-# Cattelan Italia, tables en céramique à Binche — Fony Meubles
+# Cattelan Italia : tables et dressoirs à Binche — Fony Meubles
 
-> Tables Cattelan Italia fabriquées en Italie, plateaux en céramique : à choisir sur catalogue au magasin de Leval-Trahegnies, près de Binche.
+> Cattelan Italia, design italien depuis 1979 : tables en céramique et dressoir Kayak, à choisir sur catalogue au magasin, près de Binche.
 
 Adresse de la page : https://fony.be/tables-cattelan
 
@@ -12,19 +12,31 @@ Adresse de la page : https://fony.be/tables-cattelan
 2. [Salle à manger](https://fony.be/tables-chaises)
 3. Cattelan Italia
 
-Tables fabriquées en Italie
+L’excellence du design italien
 
 # Cattelan Italia
 
-Le dessin du piètement, le plateau en céramique et les finitions donnent son caractère à chaque table.
+Fondée en 1979 par Giorgio et Silvia Cattelan, la maison donne du caractère aux intérieurs par les matières, les lignes et les détails de finition.
 
 [Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
-- Fabriquées en Italie
-- Plateaux en céramique
+- Maison fondée en 1979
+- Tables fabriquées en Italie
 - Première visite et conseil offerts
 
-Sur catalogue
+(Photo : Dressoir trois portes aux façades à facettes gris brossé, sous trois miroirs, contre un mur gris)
+
+La maison
+
+## Des tables aux dressoirs, un même goût du détail.
+
+L’univers Cattelan Italia va des tables et des chaises aux buffets et dressoirs, bibliothèques, consoles et luminaires. Au magasin, nous vous accompagnons dans le choix des modèles de notre sélection et de leurs finitions.
+
+Notre sélection ne reprend pas tout le catalogue du fabricant : demandez-nous les références disponibles.
+
+[Voir notre sélection](https://fony.be/tables-cattelan#modeles)
+
+Notre sélection
 
 ## Des tables à choisir sur catalogue.
 
@@ -36,12 +48,16 @@ Sur catalogue
 
    01
 
+   ### Napoleon Keramik
+
    Plateau en céramique effet travertin clair ou effet marbre sombre, et pied central assorti.
 2. (Photo : Table ovale sur pied central arrondi, chaises écrues, sous des suspensions en verre)
 
    (Photo : Table ronde sur pied central galbé, posée sur un tapis rond)
 
    02
+
+   ### Botero Keramik
 
    Un pied central aux formes rondes, plateau ovale ou rond en céramique.
 3. (Photo : Grande table en céramique marbrée sur piètement croisé en métal, dans un séjour clair)
@@ -52,7 +68,25 @@ Sur catalogue
 
    03
 
+   ### Tyron Keramik
+
    Piètement croisé en métal, grand plateau en céramique marbrée.
+
+Buffets et dressoirs
+
+## Un dressoir qui accroche la lumière.
+
+1. (Photo : Dressoir trois portes aux façades à facettes bronze brossé, dans un séjour sombre)
+
+   (Photo : Angle du dressoir vu de près : les facettes brossées se rejoignent en pointe)
+
+   (Photo : Dressoir clair à facettes dans une salle à manger, près d’une table au plateau en céramique)
+
+   01
+
+   ### Kayak
+
+   Dessiné par Andrea Lucatello, avec des façades à facettes. En deux portes (147 cm) ou trois portes (220 cm), profondeur 53 cm, hauteur 73 ou 83 cm. Finition titane, bronze brossé ou gris brossé. Sur commande.
 
 Voir aussi
 
@@ -74,9 +108,9 @@ Voir aussi
 
   [Voir la salle à manger](https://fony.be/tables-chaises)
 
-## Composons votre table Cattelan Italia.
+## Composons votre salle à manger Cattelan Italia.
 
-Les tables Cattelan Italia se choisissent sur catalogue : dimensions, plateaux et finitions du pied au choix.
+Tables et dressoirs Cattelan Italia se choisissent sur catalogue : dimensions, plateaux et finitions au choix.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

@@ -82,9 +82,9 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
 
    Cattelan Italia
 
-   ### La céramique italienne
+   ### Le design italien
 
-   Plateaux en céramique et piètements sculptés, pour une table de caractère.
+   Plateaux en céramique et piètements sculptés, pour une table de caractère ; et le dressoir Kayak.
 
    [Voir les tables Cattelan](https://fony.be/tables-cattelan)
 2. (Photo : Table en céramique marbrée sur piètement croisé doré, chaises en bois, devant une cheminée)
@@ -136,6 +136,32 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
    Tables et buffets dans les finitions du mobilier de séjour.
 
    [Voir le séjour](https://fony.be/living)
+
+Buffets et dressoirs
+
+## Le rangement qui accompagne la table.
+
+- (Photo : Buffet aux angles arrondis, laque vert sapin et plateau en noyer, poignée lumineuse)
+
+  ### [Movis](https://fony.be/tables-chaises#movis)
+
+  Les buffets Radius et Riga, assortis aux tables. Au magasin.
+
+  Voir la collection Movis
+- (Photo : Dressoir trois portes aux façades à facettes gris brossé, sous trois miroirs, contre un mur gris)
+
+  ### [Cattelan Italia](https://fony.be/tables-cattelan#dressoirs)
+
+  Le dressoir Kayak et ses façades à facettes. Sur commande.
+
+  Voir le dressoir Kayak
+- (Photo : Table et buffet Tomasella dans un séjour urbain)
+
+  ### [Tomasella](https://fony.be/living)
+
+  Des buffets dans les finitions du meuble TV.
+
+  Voir le séjour
 
 (Photo : Trois chaises à accoudoirs enveloppantes, en tissu beige, gris et vert sauge, pieds noirs)
 

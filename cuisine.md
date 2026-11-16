@@ -56,7 +56,7 @@ Teintes et matières
 
 ## Moderne ou classique.
 
-Toutes les collections Stosa, sur commande, de l’entrée de gamme au haut de gamme. Du vert sauge au terracotta, du bois clair à l’anthracite : les façades se choisissent au magasin, échantillons en main.
+Toutes les collections Stosa, sur commande. Du vert sauge au terracotta, du bois clair à l’anthracite : les façades se choisissent au magasin, échantillons en main.
 
 - (Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
 
