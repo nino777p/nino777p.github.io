@@ -98,7 +98,7 @@ Max Divani travaille la fleur, la partie noble de la peau, jamais la croûte. Pi
 
 ### Une assise qui reprend sa forme.
 
-Des mousses à haute résilience, à expansion à froid : elles reviennent en place après chaque assise. Sur certains modèles, des ressorts ensachés s’y ajoutent.
+Des mousses à haute résilience, à expansion à froid : elles reviennent en place après chaque assise. Sur certains modèles, comme Curry et Osaka, l’assise repose sur des ressorts ensachés : elle reprend mieux sa forme, et le cuir marque moins de plis avec le temps.
 
 3 · Les sangles
 
