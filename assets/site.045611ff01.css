@@ -593,6 +593,11 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 .coupe-rendu img{display:block;width:100%;height:auto}
 .coupe-rendu svg{position:absolute;inset:0;height:100%}
 @media (max-width:960px){.coupe-dessin svg.rendu .coupe-couche .n{r:56px}.coupe-dessin svg.rendu .coupe-couche text{font-size:46px;transform:translateY(6px)}}
+.coupe-variantes{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.coupe-variantes[hidden]{display:none}
+.coupe-variantes button{appearance:none;background:none;border:1px solid var(--trait-2);color:var(--encre-2);font:inherit;font-size:var(--t-petit);font-weight:600;padding:10px 16px;min-height:44px;cursor:pointer;transition:background .2s var(--courbe),color .2s var(--courbe),border-color .2s var(--courbe)}
+.coupe-variantes button[aria-pressed=true]{background:var(--encre);border-color:var(--encre);color:var(--fond)}
+.coupe-variantes button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .ambiance-galerie{
 --fond:#141311;--fond-2:#1C1A17;--carte:#211F1B;
 --encre:#EEE8DC;--encre-2:#ABA497;--trait:rgba(238,232,220,.14);--trait-2:rgba(238,232,220,.28);

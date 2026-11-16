@@ -226,6 +226,15 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     if (depart > -1) bloc.scrollIntoView();
     window.addEventListener('hashchange', function () { var i = indice(); if (i > -1) { choisir(i, false, false); bloc.scrollIntoView(); } });
   });
+  /* Variantes d'un schéma : des boutons changent l'image (assise sur sangles / sur ressorts ensachés). Sans script, la première reste. */
+  Array.prototype.forEach.call(document.querySelectorAll('[data-variantes]'), function (g) {
+    var img = g.parentNode.querySelector('.coupe-rendu img'), bs = Array.prototype.slice.call(g.querySelectorAll('button')); if (!img) return;
+    g.hidden = false;
+    bs.forEach(function (b) { b.addEventListener('click', function () {
+      bs.forEach(function (c) { c.setAttribute('aria-pressed', c === b ? 'true' : 'false'); });
+      img.src = b.getAttribute('data-image');
+    }); });
+  });
   Array.prototype.forEach.call(document.querySelectorAll('[data-secteur]'), function (a) {
     a.addEventListener('click', function () {
       var cible = document.querySelector(a.getAttribute('href')), choix = cible && cible.querySelector('select[name=secteur]');
