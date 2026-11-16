@@ -12,11 +12,11 @@ Adresse de la page : https://fony.be/salon-max-divani
 2. [Salon](https://fony.be/salon)
 3. Max Divani
 
-Salons fabriqués en Italie
+Le savoir-faire italien du confort
 
 # Max Divani
 
-Dossiers avance-recule, lignes modulables ou relax selon les modèles : comparez les compositions et les revêtements au magasin.
+Née en 1956 à Altamura, en Italie, Max Divani fabrique des canapés et des fauteuils. Chez Fony : une sélection de salons, à dossiers avance-recule, modulables ou relax selon les modèles.
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -26,7 +26,7 @@ Dossiers avance-recule, lignes modulables ou relax selon les modèles : compare
 
 Au magasin et sur catalogue
 
-## Les canapés Max Divani.
+## Notre sélection Max Divani.
 
 1. (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 

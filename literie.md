@@ -20,7 +20,7 @@ Boxsprings belges, fixes ou électriques, matelas et sommiers : ils se choisiss
 [Mon projet literie](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des couchages à essayer allongé
-- Sans rendez-vous, du lundi au samedi
+- Du lundi au samedi, avec ou sans rendez-vous
 - Livraison et installation
 
 Choisir

@@ -20,28 +20,18 @@ Canapés et fauteuils relax italiens et européens, du classique au contemporain
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des salons et des relax à essayer
-- Sans rendez-vous, du lundi au samedi
+- Du lundi au samedi, avec ou sans rendez-vous
 - Première visite et conseil offerts
 
-Nicoletti, le relax Cozy³
+(Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
 
-## Un confort réglable, place par place.
+Max Divani
 
-Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place relax a sa propre commande, pour que chacun choisisse sa position. Le système Cozy³ de Nicoletti réunit trois moteurs indépendants.
+## Le savoir-faire italien du confort.
 
-(Photo : Canapé relax deux places en cuir beige, en position assise)
+Née en 1956 à Altamura, dans les Pouilles, Max Divani fabrique des canapés et des fauteuils. Au magasin : une sélection de salons, du 3-2 classique au grand angle.
 
-01 Position assise.
-
-(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
-
-02 Une place ouverte : jambes relevées, appui-tête redressé.
-
-- **Le relax** Le dossier s’incline et le repose-jambes se relève, ensemble ou séparément selon le modèle.
-- **La tête** L’appui-tête se redresse séparément, pour lire ou regarder l’écran.
-- **Le bas du dos** Un soutien lombaire réglable complète le confort (sur Memphis : version Comfort).
-
-[Venir l’essayer](https://fony.be/salon#visite)
+[Découvrir Max Divani](https://fony.be/salon-max-divani)
 
 Par où commencer
 
@@ -86,6 +76,26 @@ Vous aimez vous allonger, recevoir ou simplement profiter d’un salon qui vous 
    - [(Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
    - [(Photo : Fauteuil rond en tissu clair, vu de face)  Max Divani Dana](https://fony.be/salon-max-divani-dana)
+
+Nicoletti, le relax Cozy³
+
+## Un confort réglable, place par place.
+
+Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place relax a sa propre commande, pour que chacun choisisse sa position. Le système Cozy³ de Nicoletti réunit trois moteurs indépendants.
+
+(Photo : Canapé relax deux places en cuir beige, en position assise)
+
+01 Position assise.
+
+(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
+
+02 Une place ouverte : jambes relevées, appui-tête redressé.
+
+- **Le relax** Le dossier s’incline et le repose-jambes se relève, ensemble ou séparément selon le modèle.
+- **La tête** L’appui-tête se redresse séparément, pour lire ou regarder l’écran.
+- **Le bas du dos** Un soutien lombaire réglable complète le confort (sur Memphis : version Comfort).
+
+[Venir l’essayer](https://fony.be/salon#visite)
 
 Les fabricants
 

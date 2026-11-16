@@ -20,7 +20,7 @@ Salons, tables et literie à voir et à essayer au magasin ; cuisines et sur m
 
 - Salons, relax et literie à essayer
 - Première visite et conseil offerts
-- Sans rendez-vous, du lundi au samedi
+- Du lundi au samedi, avec ou sans rendez-vous
 
 Au magasin
 
@@ -36,68 +36,51 @@ Au magasin
 
   Votre conseiller suit votre projet du premier croquis à la pose. Nous livrons vos meubles par nos soins.
 
-  [Les quatre étapes](https://fony.be/#methode)
+  [Les étapes d’un projet](https://fony.be/#methode)
 - ### Mesures et projection 3D
 
   Si vous le souhaitez, nous venons relever les mesures chez vous. Pour un aménagement, une projection 3D vous montre le projet.
 
   [Ce qu’en disent nos clients](https://fony.be/#avis)
 
-Les pièces
+Les univers
 
-## Choisissez la pièce à aménager.
+## Trois univers, un intérieur qui vous ressemble.
 
-Canapé, table, meuble TV ou dressing : découvrez les solutions à choisir séparément ou à composer ensemble.
+Choisir un meuble ou repenser une pièce entière : nous vous accompagnons à votre rythme.
 
-- (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+1. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
-  ### [Salon](https://fony.be/salon)
+   Espace de vie
 
-  Canapés et fauteuils relax en cuir ou en tissu, à découvrir et à essayer.
+   ### Un lieu où l’on aime se retrouver.
 
-  Voir les salons
-- (Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
+   Du canapé à la table, du meuble TV à la cuisine : composez la pièce où l’on vit.
 
-  ### [Salle à manger](https://fony.be/tables-chaises)
+   - [Salon](https://fony.be/salon)
+   - [Salle à manger](https://fony.be/tables-chaises)
+   - [Séjour](https://fony.be/living)
+   - [Cuisine](https://fony.be/cuisine)
+2. (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
 
-  Tables fixes et extensibles, en céramique ou en bois, et chaises assorties.
+   Espace nuit
 
-  Voir les tables
-- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+   ### Un couchage qui vous convient.
 
-  ### [Séjour](https://fony.be/living)
+   Le plaisir d’un bon lit, et une chambre où chaque meuble trouve sa place.
 
-  Meubles TV, buffets et bibliothèques composés selon votre espace.
+   - [Literie](https://fony.be/literie)
+   - [Chambre](https://fony.be/chambre)
+3. (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
-  Voir le séjour
-- (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
+   Rangements et aménagement
 
-  ### [Literie](https://fony.be/literie)
+   ### Une solution adaptée à votre espace.
 
-  Boxsprings belges, fixes ou électriques, matelas et sommiers à essayer.
+   Un dressing, une bibliothèque, un mur à repenser : imaginons-la ensemble.
 
-  Voir la literie
-- (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
-
-  ### [Chambre](https://fony.be/chambre)
-
-  Lits, chevets, armoires et dressings aux finitions assorties.
-
-  Voir la chambre
-- (Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
-
-  ### [Cuisine](https://fony.be/cuisine)
-
-  Cuisines italiennes conçues avec vous, livrées et installées.
-
-  Voir la cuisine
-- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
-
-  ### [Sur mesure](https://fony.be/sur-mesure)
-
-  Dressings, bibliothèques et rangements adaptés à votre pièce.
-
-  Voir le sur mesure
+   - [Sur mesure](https://fony.be/sur-mesure)
+   - [Tomasella](https://fony.be/tomasella)
 
 Avis clients
 
@@ -146,7 +129,7 @@ Nous sélectionnons des collections aux styles et aux finitions variés. Au maga
 - [Movis : Table, chaises et buffet, la pièce entière](https://fony.be/tables-chaises#movis)
 - [Modulax : Chaises et tabourets de bar](https://fony.be/tables-chaises#chaises-modulax)
 
-Les quatre étapes d’un projet Écoute, mesures, plan, livraison et pose
+Les étapes de votre projet Écoute, mesures, conception, installation
 
 Notre méthode
 
@@ -160,28 +143,28 @@ Votre conseiller suit votre projet à chaque étape.
 
    ### Écoute
 
-   Au magasin ou chez vous, nous prenons le temps de comprendre vos habitudes, vos envies et les contraintes de votre pièce.
+   Parlons de vos envies, de votre pièce et de vos habitudes, au magasin ou chez vous.
 2. (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
    02
 
    ### Mesures
 
-   Nous relevons les dimensions et les particularités de l’espace : murs, pentes, prises et plinthes. La première visite est offerte.
+   Une photo et vos dimensions permettent de commencer. Si vous le souhaitez, nous venons prendre les mesures chez vous. La première visite est offerte.
 3. (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
    03
 
-   ### Plan
+   ### Conception
 
-   Nous définissons ensemble l’implantation, les matières, les teintes et les finitions, échantillons en main. Pour un aménagement, une projection 3D vous montre le projet.
+   Nous choisissons ensemble les matières, les teintes et la composition, échantillons en main. Pour un aménagement, la projection 3D vous aide à vous projeter.
 4. (Photo : Îlot anthracite mat au plan en bois, devant de grandes fenêtres)
 
    04
 
-   ### Livraison et pose
+   ### Installation
 
-   Nous livrons vos meubles par nos soins. Selon le projet, la pose est réalisée par notre équipe ou par un professionnel partenaire. Nous restons à votre disposition après l’installation.
+   Nous livrons vos meubles par nos soins et organisons leur installation. Selon le projet, la pose est réalisée par notre équipe ou par un professionnel partenaire, et nous restons à votre disposition ensuite.
 
 Selon votre projet Un premier logement, une maison à embellir, un intérieur plus pratique
 
@@ -229,7 +212,7 @@ Un premier logement, une pièce à repenser ou un intérieur à rendre plus conf
 
 ## Parlons de votre intérieur.
 
-Retrouvez-nous à Leval-Trahegnies, entre Binche et La Louvière, du lundi au samedi. Venez découvrir nos collections, essayer nos meubles ou préparer votre projet avec un conseiller. Vous êtes les bienvenus sans rendez-vous. Parking facile d’accès.
+Retrouvez-nous à Leval-Trahegnies, entre Binche et La Louvière, du lundi au samedi. Venez découvrir nos collections, essayer nos meubles ou préparer votre projet avec un conseiller. Venez librement, ou prenez rendez-vous pour préparer votre projet. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

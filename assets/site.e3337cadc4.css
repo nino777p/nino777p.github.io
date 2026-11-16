@@ -660,6 +660,9 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 .tuiles--2 .tuile-texte,.tuiles--3 .tuile-texte{padding-top:0;gap:6px}
 }
 .etape-modeles .a-venir{font-size:12px;font-weight:600;letter-spacing:.04em;color:var(--accent);margin-top:-4px}
+.etape-liens{list-style:none;margin:6px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.etape-liens a{display:inline-flex;align-items:center;min-height:44px;padding:0 16px;border:1px solid var(--trait-2);color:var(--encre);text-decoration:none;font-size:var(--t-petit);font-weight:600;transition:border-color .2s var(--courbe),color .2s var(--courbe)}
+@media (hover:hover){.etape-liens a:hover{border-color:var(--accent);color:var(--accent)}}
 .ambiance-galerie{
 --fond:#141311;--fond-2:#1C1A17;--carte:#211F1B;
 --encre:#EEE8DC;--encre-2:#ABA497;--trait:rgba(238,232,220,.14);--trait-2:rgba(238,232,220,.28);

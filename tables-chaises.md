@@ -20,7 +20,7 @@ Une table pour les repas de tous les jours, les grandes occasions et les moments
 [Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Tables fixes et extensibles
-- Sans rendez-vous, du lundi au samedi
+- Du lundi au samedi, avec ou sans rendez-vous
 - Première visite et conseil offerts
 
 Tables extensibles
