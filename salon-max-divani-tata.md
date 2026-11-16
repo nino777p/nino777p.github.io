@@ -13,16 +13,16 @@ Max Divani · Canapé d’angle relax
 
 # Max Divani Tata
 
-- (Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)
+- (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
   En angle arrondi, appuie-têtes relevés.
-- (Photo : Canapé d’angle arrondi en velours camel, une place relax ouverte)
+- (Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
 
   Une place relax ouverte.
-- (Photo : Canapé d’angle arrondi en velours camel vu de dessus, assises capitonnées)
+- (Photo : Canapé d’angle arrondi en tissu camel vu de dessus, assises capitonnées)
 
   Vu de dessus : l’angle arrondi et les assises capitonnées.
-- (Photo : Détail de l’accoudoir du canapé Tata : velours camel et filet doré)
+- (Photo : Détail de l’accoudoir du canapé Tata : tissu camel et filet doré)
 
   L’accoudoir et son filet doré.
 

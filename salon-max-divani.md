@@ -48,11 +48,11 @@ Au magasin et sur catalogue
    Des formes souples en tissu : canapé et fauteuils assortis.
 
    [Dimensions et versions de Gala](https://fony.be/salon-max-divani-gala)
-3. (Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)
+3. (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
-   (Photo : Canapé d’angle arrondi en velours camel, une place relax ouverte)
+   (Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
 
-   (Photo : Canapé d’angle arrondi en velours camel vu de dessus, assises capitonnées)
+   (Photo : Canapé d’angle arrondi en tissu camel vu de dessus, assises capitonnées)
 
    03
 
@@ -146,6 +146,60 @@ Le même canapé sous cinq angles : de face, de trois quarts, relax ouvert, de 
    En tissu ou en cuir, avec des détails en cuir en option. Zebra est exposé au magasin ; la composition exposée change au fil des arrivages.
 
    [Dimensions et versions du Zebra](https://fony.be/salon-max-divani-zebra)
+
+Prochainement au magasin
+
+## Tata, le grand angle arrondi.
+
+Arrivée prévue mi-janvier 2027. En attendant, le voici sous cinq angles.
+
+(Photo : Canapé d’angle arrondi en tissu camel vu de face, trois appuie-têtes relevés)
+
+(Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
+
+(Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
+
+(Photo : Canapé d’angle arrondi en tissu camel vu de dessus, assises capitonnées)
+
+(Photo : Détail de l’accoudoir du canapé Tata : tissu camel et filet doré)
+
+1. (Photo : Canapé d’angle arrondi en tissu camel vu de face, trois appuie-têtes relevés)
+
+   01 · L’angle arrondi
+
+   ### Une courbe à la place du coin.
+
+   Tata est un canapé d’angle de grandes dimensions : les compositions présentées par le fabricant vont jusqu’à 439 cm.
+2. (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
+
+   02 · Les appuie-têtes
+
+   ### De 78 à 103 cm.
+
+   Les appuie-têtes se relèvent, à la main ou électriquement selon l’élément.
+3. (Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
+
+   03 · Le relax
+
+   ### Une place qui s’allonge.
+
+   Le relax électrique se commande par boutons. La profondeur du canapé passe de 117 à 166 cm, relax ouvert.
+4. (Photo : Canapé d’angle arrondi en tissu camel vu de dessus, assises capitonnées)
+
+   04 · L’assise
+
+   ### 60 cm de profondeur.
+
+   Une assise profonde, sur ressorts ensachés, avec un rembourrage en mousse.
+5. (Photo : Détail de l’accoudoir du canapé Tata : tissu camel et filet doré)
+
+   05 · Le détail
+
+   ### En cuir ou en tissu.
+
+   Avec des coutures contrastées en option. Sur commande : composition et revêtement au choix.
+
+   [Dimensions et versions du Tata](https://fony.be/salon-max-divani-tata)
 
 La fabrication
 

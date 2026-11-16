@@ -40,7 +40,7 @@ La sélection
 
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
    - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee : À venir](https://fony.be/salon-max-divani-coffee)
-   - [(Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
+   - [(Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
 
 Vos questions
 

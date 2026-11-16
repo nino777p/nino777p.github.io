@@ -74,7 +74,7 @@ Vous aimez vous allonger, recevoir ou simplement profiter d’un salon qui vous 
    - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
    - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
    - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee : À venir](https://fony.be/salon-max-divani-coffee)
-3. (Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)
+3. (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
    Pour donner du caractère à la pièce
 
@@ -83,7 +83,7 @@ Vous aimez vous allonger, recevoir ou simplement profiter d’un salon qui vous 
    Formes souples, coussins généreux ou assise profonde : chaque canapé a sa personnalité. Prochainement au magasin : Tata, un grand angle arrondi à l’assise profonde, attendu mi-janvier 2027.
 
    [Découvrir Tata](https://fony.be/salon-max-divani-tata)
-   - [(Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
+   - [(Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
    - [(Photo : Fauteuil rond en tissu clair, vu de face)  Max Divani Dana](https://fony.be/salon-max-divani-dana)
 
