@@ -84,9 +84,9 @@ La fabrication
 
 ## Dans un canapé Max Divani.
 
-Ce qu’on ne voit pas compte autant que ce qu’on voit. Touchez une couche du schéma.
+Ce qu’on ne voit pas compte autant que ce qu’on voit. Touchez un repère de l’image.
 
-Schéma de principe, d’après le guide du fabricant.
+Modélisation 3D de principe, d’après le guide du fabricant. Ce n’est pas la photo d’un modèle.
 
 1 · Le cuir
 

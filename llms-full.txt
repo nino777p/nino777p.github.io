@@ -1884,7 +1884,7 @@ Axelsson, par Van Landschoot
 
 Un boxspring se compose à la carte. Voici les trois étages ; le reste se règle ensemble, au magasin.
 
-Schéma de principe d’un boxspring.
+Modélisation 3D de principe d’un boxspring. Ce n’est pas la photo d’un modèle.
 
 1 · Le matelas
 
@@ -2049,9 +2049,9 @@ L’un aime un lit ferme, l’autre non ? Deux matelas côte à côte permette
 
 ## Dans un matelas, couche par couche.
 
-Touchez une couche du schéma pour savoir à quoi elle sert.
+Touchez un repère de l’image pour savoir à quoi sert chaque couche.
 
-Schéma de principe, d’après les matelas à ressorts ensachés Eclipse et Superqueen de Van Landschoot.
+Modélisation 3D de principe, d’après les matelas à ressorts ensachés Eclipse et Superqueen de Van Landschoot. Ce n’est pas la photo d’un modèle.
 
 1 · La housse
 
@@ -3752,9 +3752,9 @@ La fabrication
 
 ## Dans un canapé Max Divani.
 
-Ce qu’on ne voit pas compte autant que ce qu’on voit. Touchez une couche du schéma.
+Ce qu’on ne voit pas compte autant que ce qu’on voit. Touchez un repère de l’image.
 
-Schéma de principe, d’après le guide du fabricant.
+Modélisation 3D de principe, d’après le guide du fabricant. Ce n’est pas la photo d’un modèle.
 
 1 · Le cuir
 

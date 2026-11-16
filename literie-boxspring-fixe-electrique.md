@@ -80,7 +80,7 @@ Axelsson, par Van Landschoot
 
 Un boxspring se compose à la carte. Voici les trois étages ; le reste se règle ensemble, au magasin.
 
-Schéma de principe d’un boxspring.
+Modélisation 3D de principe d’un boxspring. Ce n’est pas la photo d’un modèle.
 
 1 · Le matelas
 

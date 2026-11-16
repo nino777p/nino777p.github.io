@@ -578,6 +578,21 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 @media (prefers-reduced-motion:no-preference){.onglets--actifs .coupe-volet:not([hidden]){opacity:1;transform:none;transition:opacity .3s var(--courbe),transform .3s var(--courbe)}
 @starting-style{.onglets--actifs .coupe-volet:not([hidden]){opacity:0;transform:translateY(8px)}}}
 @media (max-width:960px){.coupe{display:block}.coupe-dessin{margin-bottom:28px}}
+.coupe-dessin svg.fixe .d{fill:none;stroke:var(--trait-2);stroke-width:1}
+.coupe-dessin svg.fixe .d.p{stroke-dasharray:3 5}
+.coupe-dessin svg.fixe .pt{fill:var(--trait-2)}
+.coupe-dessin svg.fixe .coupe-couche .f{stroke-width:1}
+.onglets--actifs .coupe-dessin svg.fixe .coupe-couche.actif{transform:none}
+.onglets--actifs .coupe-dessin svg.fixe .coupe-couche.actif .pt{fill:var(--accent)}
+.coupe-dessin svg.rendu .zone{fill:transparent;stroke:none}
+.coupe-dessin svg.rendu .coupe-couche .n{fill:var(--carte);stroke:var(--encre);stroke-width:2}
+.coupe-dessin svg.rendu .coupe-couche text{font-size:28px}
+.coupe-dessin svg.rendu .coupe-couche .n{transition:fill .25s var(--courbe),stroke .25s var(--courbe)}
+.onglets--actifs .coupe-dessin svg.rendu .coupe-couche.actif .n{fill:var(--accent);stroke:var(--accent)}
+.coupe-rendu{position:relative}
+.coupe-rendu img{display:block;width:100%;height:auto}
+.coupe-rendu svg{position:absolute;inset:0;height:100%}
+@media (max-width:960px){.coupe-dessin svg.rendu .coupe-couche .n{r:56px}.coupe-dessin svg.rendu .coupe-couche text{font-size:46px;transform:translateY(6px)}}
 .ambiance-galerie{
 --fond:#141311;--fond-2:#1C1A17;--carte:#211F1B;
 --encre:#EEE8DC;--encre-2:#ABA497;--trait:rgba(238,232,220,.14);--trait-2:rgba(238,232,220,.28);

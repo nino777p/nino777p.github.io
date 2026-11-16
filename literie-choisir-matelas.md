@@ -74,9 +74,9 @@ L’un aime un lit ferme, l’autre non ? Deux matelas côte à côte permette
 
 ## Dans un matelas, couche par couche.
 
-Touchez une couche du schéma pour savoir à quoi elle sert.
+Touchez un repère de l’image pour savoir à quoi sert chaque couche.
 
-Schéma de principe, d’après les matelas à ressorts ensachés Eclipse et Superqueen de Van Landschoot.
+Modélisation 3D de principe, d’après les matelas à ressorts ensachés Eclipse et Superqueen de Van Landschoot. Ce n’est pas la photo d’un modèle.
 
 1 · La housse
 
