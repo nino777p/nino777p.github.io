@@ -257,14 +257,32 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 /* Galeries qui défilent sur une ligne (téléphone) : atteignables au clavier, avec un nom pour les lecteurs d'écran. */
 (function () {
   function regler() {
-    Array.prototype.forEach.call(document.querySelectorAll('.galerie'), function (g) {
+    Array.prototype.forEach.call(document.querySelectorAll('.galerie, .sequence-etapes'), function (g) {
       if (g.scrollWidth > g.clientWidth + 1) {
         g.tabIndex = 0;
-        var t = g.parentNode.querySelector('.titre-section'); g.setAttribute('aria-label', 'Photos' + (t ? ' : ' + t.textContent.trim() : '') + ', à faire défiler');
+        var t = (g.closest ? g.closest('section') : g.parentNode).querySelector('.titre-section'); g.setAttribute('aria-label', 'Photos' + (t ? ' : ' + t.textContent.trim() : '') + ', à faire défiler');
       } else { g.removeAttribute('tabindex'); g.removeAttribute('aria-label'); }
     });
   }
   regler(); window.addEventListener('resize', regler);
   /* une galerie dans une section repliée n'est mesurable qu'une fois la section ouverte */
   Array.prototype.forEach.call(document.querySelectorAll('details.repli'), function (d) { d.addEventListener('toggle', regler); });
+})();
+
+/* 86-sequence.js */
+/* Séquence : sur grand écran, l'étape la plus proche du milieu de la fenêtre choisit la vue affichée. */
+(function () {
+  if (!('IntersectionObserver' in window)) return;
+  Array.prototype.forEach.call(document.querySelectorAll('[data-sequence]'), function (b) {
+    var vues = b.querySelectorAll('.sequence-vue'), etapes = b.querySelectorAll('.sequence-etape');
+    if (!vues.length || vues.length !== etapes.length) return;
+    b.classList.add('sequence--active');
+    function choisir(i) {
+      for (var k = 0; k < vues.length; k++) { vues[k].classList.toggle('actif', k === i); etapes[k].classList.toggle('actif', k === i); }
+    }
+    var o = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { if (e.isIntersecting) choisir(Array.prototype.indexOf.call(etapes, e.target)); });
+    }, { rootMargin: '-45% 0px -45% 0px', threshold: 0 });
+    Array.prototype.forEach.call(etapes, function (e) { o.observe(e); });
+  });
 })();

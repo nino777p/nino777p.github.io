@@ -22,6 +22,15 @@ Max Divani · Canapé et fauteuil, relax en option
 - (Photo : Canapé en tissu gris clair vu de face et de profil, appuie-têtes relevés)
 
   De face et de profil, appuie-têtes relevés.
+- (Photo : Canapé Curry blanc vu de face, un appui-tête relevé)
+
+  Version blanche, de face.
+- (Photo : Canapé Curry blanc, une place relax ouverte)
+
+  Version blanche, une place relax ouverte.
+- (Photo : Détail du canapé Curry en tissu clair : accoudoir arrondi et pied en métal)
+
+  L’accoudoir et le pied.
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 

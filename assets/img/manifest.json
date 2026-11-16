@@ -840,8 +840,8 @@
   "credit": "Max Divani Zebra",
   "alt": "Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables",
   "source": "md-zebra-relax.jpg",
-  "w": 4800,
-  "h": 3200,
+  "w": 3200,
+  "h": 2133,
   "files": {
    "600": "md-zebra-relax-600.webp",
    "900": "md-zebra-relax-900.webp",
@@ -856,8 +856,8 @@
    "2000": "md-zebra-relax-2000.avif"
   },
   "ratio": [
-   4800,
-   3200
+   3200,
+   2133
   ]
  },
  "md-zebra-angle": {
@@ -866,8 +866,8 @@
   "credit": "Max Divani Zebra",
   "alt": "Canapé d’angle en tissu gris, têtières réglables, piètement métal noir",
   "source": "md-zebra-angle.jpg",
-  "w": 4800,
-  "h": 3200,
+  "w": 3200,
+  "h": 2133,
   "files": {
    "600": "md-zebra-angle-600.webp",
    "900": "md-zebra-angle-900.webp",
@@ -882,8 +882,8 @@
    "2000": "md-zebra-angle-2000.avif"
   },
   "ratio": [
-   4800,
-   3200
+   3200,
+   2133
   ]
  },
  "md-zebra-detail": {
@@ -892,8 +892,8 @@
   "credit": "Max Divani Zebra",
   "alt": "Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris",
   "source": "md-zebra-detail.jpg",
-  "w": 4800,
-  "h": 3200,
+  "w": 3200,
+  "h": 2133,
   "files": {
    "600": "md-zebra-detail-600.webp",
    "900": "md-zebra-detail-900.webp",
@@ -908,8 +908,8 @@
    "2000": "md-zebra-detail-2000.avif"
   },
   "ratio": [
-   4800,
-   3200
+   3200,
+   2133
   ]
  },
  "md-gala-ambiance": {
@@ -944,8 +944,8 @@
   "credit": "Max Divani Curry",
   "alt": "Canapés trois places et deux places en tissu gris clair, une place relax ouverte",
   "source": "md-curry-relax.jpg",
-  "w": 4800,
-  "h": 3200,
+  "w": 3200,
+  "h": 2133,
   "files": {
    "600": "md-curry-relax-600.webp",
    "900": "md-curry-relax-900.webp",
@@ -960,8 +960,8 @@
    "2000": "md-curry-relax-2000.avif"
   },
   "ratio": [
-   4800,
-   3200
+   3200,
+   2133
   ]
  },
  "eu-chaises-quatre": {
@@ -2947,8 +2947,8 @@
   "credit": "Max Divani Curry",
   "alt": "Canapé en tissu gris clair vu de face et de profil, appuie-têtes relevés",
   "source": "md-curry-face.jpg",
-  "w": 4800,
-  "h": 3200,
+  "w": 3200,
+  "h": 2133,
   "files": {
    "600": "md-curry-face-600.webp",
    "900": "md-curry-face-900.webp",
@@ -2963,8 +2963,8 @@
    "2000": "md-curry-face-2000.avif"
   },
   "ratio": [
-   4800,
-   3200
+   3200,
+   2133
   ]
  },
  "md-curry-ferme": {
@@ -2975,8 +2975,8 @@
   "credit": "Max Divani Curry",
   "alt": "Canapés trois places et deux places en tissu gris clair, refermés, sur pieds en métal",
   "source": "md-curry-ferme.jpg",
-  "w": 4800,
-  "h": 3200,
+  "w": 3200,
+  "h": 2133,
   "files": {
    "600": "md-curry-ferme-600.webp",
    "900": "md-curry-ferme-900.webp",
@@ -2991,8 +2991,8 @@
    "2000": "md-curry-ferme-2000.avif"
   },
   "ratio": [
-   4800,
-   3200
+   3200,
+   2133
   ]
  },
  "md-gala-chaise-longue": {
@@ -3059,8 +3059,8 @@
   "credit": "Max Divani Osaka",
   "alt": "Canapés deux places et trois places en cuir gris anthracite, sur fond blanc",
   "source": "md-osaka-duo.jpg",
-  "w": 4800,
-  "h": 3200,
+  "w": 3200,
+  "h": 2133,
   "files": {
    "600": "md-osaka-duo-600.webp",
    "900": "md-osaka-duo-900.webp",
@@ -3075,8 +3075,8 @@
    "2000": "md-osaka-duo-2000.avif"
   },
   "ratio": [
-   4800,
-   3200
+   3200,
+   2133
   ]
  },
  "md-osaka-salon": {
@@ -4459,6 +4459,258 @@
    "900": "md-tata-detail-900.avif",
    "1400": "md-tata-detail-1400.avif",
    "2000": "md-tata-detail-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
+ },
+ "md-zebra-trois-quarts": {
+  "id": "md-zebra-trois-quarts",
+  "use": [
+   "salon-max-divani-zebra"
+  ],
+  "credit": "Max Divani Zebra",
+  "alt": "Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite",
+  "source": "md-zebra-trois-quarts.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-zebra-trois-quarts-600.webp",
+   "900": "md-zebra-trois-quarts-900.webp",
+   "1400": "md-zebra-trois-quarts-1400.webp",
+   "2000": "md-zebra-trois-quarts-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-trois-quarts-600.avif",
+   "900": "md-zebra-trois-quarts-900.avif",
+   "1400": "md-zebra-trois-quarts-1400.avif",
+   "2000": "md-zebra-trois-quarts-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
+ },
+ "md-zebra-dessus": {
+  "id": "md-zebra-dessus",
+  "use": [
+   "salon-max-divani-zebra"
+  ],
+  "credit": "Max Divani Zebra",
+  "alt": "Canapé d’angle Zebra vu de dessus, une place relax ouverte",
+  "source": "md-zebra-dessus.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-zebra-dessus-600.webp",
+   "900": "md-zebra-dessus-900.webp",
+   "1400": "md-zebra-dessus-1400.webp",
+   "2000": "md-zebra-dessus-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-dessus-600.avif",
+   "900": "md-zebra-dessus-900.avif",
+   "1400": "md-zebra-dessus-1400.avif",
+   "2000": "md-zebra-dessus-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
+ },
+ "md-zebra-cote": {
+  "id": "md-zebra-cote",
+  "use": [
+   "salon-max-divani-zebra"
+  ],
+  "credit": "Max Divani Zebra",
+  "alt": "Canapé Zebra vu de côté : accoudoir à poignée et piètement en métal",
+  "source": "md-zebra-cote.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-zebra-cote-600.webp",
+   "900": "md-zebra-cote-900.webp",
+   "1400": "md-zebra-cote-1400.webp",
+   "2000": "md-zebra-cote-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-cote-600.avif",
+   "900": "md-zebra-cote-900.avif",
+   "1400": "md-zebra-cote-1400.avif",
+   "2000": "md-zebra-cote-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
+ },
+ "md-zebra-dos": {
+  "id": "md-zebra-dos",
+  "use": [
+   "salon-max-divani-zebra"
+  ],
+  "credit": "Max Divani Zebra",
+  "alt": "Canapé d’angle Zebra vu depuis la chaise longue, appuie-têtes relevés",
+  "source": "md-zebra-dos.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-zebra-dos-600.webp",
+   "900": "md-zebra-dos-900.webp",
+   "1400": "md-zebra-dos-1400.webp",
+   "2000": "md-zebra-dos-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-zebra-dos-600.avif",
+   "900": "md-zebra-dos-900.avif",
+   "1400": "md-zebra-dos-1400.avif",
+   "2000": "md-zebra-dos-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
+ },
+ "md-curry-cuir": {
+  "id": "md-curry-cuir",
+  "use": [
+   "salon-max-divani-curry"
+  ],
+  "credit": "Max Divani Curry",
+  "alt": "Canapé Curry blanc vu de face, un appui-tête relevé",
+  "source": "md-curry-cuir.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-curry-cuir-600.webp",
+   "900": "md-curry-cuir-900.webp",
+   "1400": "md-curry-cuir-1400.webp",
+   "2000": "md-curry-cuir-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-curry-cuir-600.avif",
+   "900": "md-curry-cuir-900.avif",
+   "1400": "md-curry-cuir-1400.avif",
+   "2000": "md-curry-cuir-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
+ },
+ "md-curry-cuir-relax": {
+  "id": "md-curry-cuir-relax",
+  "use": [
+   "salon-max-divani-curry"
+  ],
+  "credit": "Max Divani Curry",
+  "alt": "Canapé Curry blanc, une place relax ouverte",
+  "source": "md-curry-cuir-relax.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-curry-cuir-relax-600.webp",
+   "900": "md-curry-cuir-relax-900.webp",
+   "1400": "md-curry-cuir-relax-1400.webp",
+   "2000": "md-curry-cuir-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-curry-cuir-relax-600.avif",
+   "900": "md-curry-cuir-relax-900.avif",
+   "1400": "md-curry-cuir-relax-1400.avif",
+   "2000": "md-curry-cuir-relax-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
+ },
+ "md-curry-detail": {
+  "id": "md-curry-detail",
+  "use": [
+   "salon-max-divani-curry"
+  ],
+  "credit": "Max Divani Curry",
+  "alt": "Détail du canapé Curry en tissu clair : accoudoir arrondi et pied en métal",
+  "source": "md-curry-detail.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-curry-detail-600.webp",
+   "900": "md-curry-detail-900.webp",
+   "1400": "md-curry-detail-1400.webp",
+   "2000": "md-curry-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-curry-detail-600.avif",
+   "900": "md-curry-detail-900.avif",
+   "1400": "md-curry-detail-1400.avif",
+   "2000": "md-curry-detail-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
+ },
+ "md-osaka-studio-relax": {
+  "id": "md-osaka-studio-relax",
+  "use": [
+   "salon-max-divani-osaka"
+  ],
+  "credit": "Max Divani Osaka",
+  "alt": "Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte",
+  "source": "md-osaka-studio-relax.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-osaka-studio-relax-600.webp",
+   "900": "md-osaka-studio-relax-900.webp",
+   "1400": "md-osaka-studio-relax-1400.webp",
+   "2000": "md-osaka-studio-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-osaka-studio-relax-600.avif",
+   "900": "md-osaka-studio-relax-900.avif",
+   "1400": "md-osaka-studio-relax-1400.avif",
+   "2000": "md-osaka-studio-relax-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
+ },
+ "md-osaka-detail": {
+  "id": "md-osaka-detail",
+  "use": [
+   "salon-max-divani-osaka"
+  ],
+  "credit": "Max Divani Osaka",
+  "alt": "Détail du canapé Osaka en cuir gris anthracite : accoudoir et pied en bois",
+  "source": "md-osaka-detail.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-osaka-detail-600.webp",
+   "900": "md-osaka-detail-900.webp",
+   "1400": "md-osaka-detail-1400.webp",
+   "2000": "md-osaka-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-osaka-detail-600.avif",
+   "900": "md-osaka-detail-900.avif",
+   "1400": "md-osaka-detail-1400.avif",
+   "2000": "md-osaka-detail-2000.avif"
   },
   "ratio": [
    3200,

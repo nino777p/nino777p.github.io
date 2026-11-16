@@ -93,6 +93,60 @@ Au magasin et sur catalogue
 
    [Dimensions et versions de Curry](https://fony.be/salon-max-divani-curry)
 
+Un modèle, sous tous les angles
+
+## Zebra, l’angle qui se compose.
+
+Le même canapé sous cinq angles : de face, de trois quarts, relax ouvert, de dessus, de côté.
+
+(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
+
+(Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
+
+(Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
+
+(Photo : Canapé d’angle Zebra vu de dessus, une place relax ouverte)
+
+(Photo : Canapé Zebra vu de côté : accoudoir à poignée et piètement en métal)
+
+1. (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
+
+   01 · L’angle
+
+   ### À gauche, à droite, ou en canapé droit.
+
+   Zebra se compose en angle avec chaise longue, d’un côté ou de l’autre, ou en canapé droit de deux ou trois places.
+2. (Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
+
+   02 · Les appuie-têtes
+
+   ### Bas pour la ligne, relevés pour la tête.
+
+   Chaque appui-tête se règle : la hauteur du canapé passe de 78 à 100 cm.
+3. (Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
+
+   03 · Le relax
+
+   ### Une place qui s’allonge.
+
+   Avec ou sans relax électrique, commandé par boutons. L’assise se choisit en mousse standard ou ferme.
+4. (Photo : Canapé d’angle Zebra vu de dessus, une place relax ouverte)
+
+   04 · La place
+
+   ### 162 cm, relax ouvert.
+
+   La profondeur du canapé atteint 162 cm, relax ouvert. Apportez les mesures de votre pièce : nous vérifions avec vous.
+5. (Photo : Canapé Zebra vu de côté : accoudoir à poignée et piètement en métal)
+
+   05 · Le détail
+
+   ### Des pieds en métal, un accoudoir dessiné.
+
+   En tissu ou en cuir, avec des détails en cuir en option. Zebra est exposé au magasin ; la composition exposée change au fil des arrivages.
+
+   [Dimensions et versions du Zebra](https://fony.be/salon-max-divani-zebra)
+
 La fabrication
 
 ## Dans un canapé Max Divani.

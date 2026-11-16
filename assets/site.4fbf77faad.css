@@ -679,6 +679,34 @@ background:var(--fond);color:var(--encre)}
 .ambiance-galerie .section--sable,.ambiance-galerie .section--clair{--fond:#EFEAE0;--fond-2:#E4DDD0;--carte:#FFFFFF;--encre:#1A1815;--encre-2:#5B554B;--trait:#D6CFC2;--trait-2:#BDB4A4;--accent:#7E5F2C;--accent-2:#654B22;background:var(--fond);color:var(--encre)}
 .ambiance-galerie .section--sable .bouton--plein,.ambiance-galerie .section--clair .bouton--plein{color:#fff}
 .ambiance-galerie .section--sable .cadre,.ambiance-galerie .section--clair .cadre{background:#E4DDD0}
+.sequence-scene{display:none}
+.sequence-etapes{list-style:none;margin:0;padding:0;display:grid;gap:44px}
+.sequence-etape{display:flex;flex-direction:column;gap:12px}
+.sequence-etape .titre-carte,.sequence-etape .surtitre{margin:0}
+.sequence-photo{aspect-ratio:3/2;margin-bottom:8px}
+.sequence-photo img,.sequence-vue img{width:100%;height:100%;object-fit:contain;display:block;mix-blend-mode:multiply}
+.sequence-photo picture,.sequence-vue picture{display:block;width:100%;height:100%}
+.sequence-actions{margin-top:clamp(36px,5vw,64px)}
+@media (min-width:961px) and (prefers-reduced-motion:no-preference){
+.sequence--active{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,4fr);column-gap:clamp(40px,6vw,96px);align-items:start}
+.sequence--active .sequence-scene{display:block;position:sticky;top:clamp(96px,14vh,150px);aspect-ratio:3/2}
+.sequence--active .sequence-vue{position:absolute;inset:0;opacity:0;transition:opacity .6s var(--courbe)}
+.sequence--active .sequence-vue.actif{opacity:1}
+.sequence--active .sequence-photo{display:none}
+.sequence--active .sequence-etapes{gap:0}
+.sequence--active .sequence-etape{min-height:62vh;justify-content:center;padding-left:28px;border-left:2px solid var(--trait);transition:border-color .4s var(--courbe)}
+.sequence--active .sequence-etape.actif{border-left-color:var(--accent)}
+.sequence--active .sequence-etape:last-child{min-height:48vh}
+}
+.sequence-scene,.sequence-photo{background:var(--fond)}
+.section--sable .sequence-scene,.section--sable .sequence-photo{background:var(--fond-2)}
+.sequence-vue img{mix-blend-mode:normal}
+.sequence-vue{mix-blend-mode:multiply}
+@media (max-width:560px){
+.sequence-etapes{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;margin-right:-20px;padding:2px 20px 10px 0}
+.sequence-etape{flex:0 0 84%;scroll-snap-align:start}
+.sequence-etapes:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+}
 .apparition .vient{opacity:0;transform:translateY(10px)}
 .apparition .vient.vu{opacity:1;transform:none;transition:opacity .55s var(--courbe),transform .55s var(--courbe)}
 .apparition .vient.vu:nth-child(2){transition-delay:50ms}

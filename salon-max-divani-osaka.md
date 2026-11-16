@@ -22,6 +22,12 @@ Max Divani · Canapé et fauteuil, relax en option
 - (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
 
   Une place relax ouverte.
+- (Photo : Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte)
+
+  Deux places et trois places, relax ouvert.
+- (Photo : Détail du canapé Osaka en cuir gris anthracite : accoudoir et pied en bois)
+
+  L’accoudoir et le pied en bois.
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 

@@ -22,6 +22,18 @@ Max Divani · Canapé d’angle et canapé relax
 - (Photo : Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris)
 
   L’appui-tête relevé.
+- (Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
+
+  De trois quarts, chaise longue à droite.
+- (Photo : Canapé d’angle Zebra vu de dessus, une place relax ouverte)
+
+  Vu de dessus, une place relax ouverte.
+- (Photo : Canapé Zebra vu de côté : accoudoir à poignée et piètement en métal)
+
+  De côté : l’accoudoir et le piètement en métal.
+- (Photo : Canapé d’angle Zebra vu depuis la chaise longue, appuie-têtes relevés)
+
+  Vu depuis la chaise longue.
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
