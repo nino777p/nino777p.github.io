@@ -254,3 +254,17 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   }
   ouvrir(); window.addEventListener('hashchange', ouvrir);
 })();
+/* Galeries qui défilent sur une ligne (téléphone) : atteignables au clavier, avec un nom pour les lecteurs d'écran. */
+(function () {
+  function regler() {
+    Array.prototype.forEach.call(document.querySelectorAll('.galerie'), function (g) {
+      if (g.scrollWidth > g.clientWidth + 1) {
+        g.tabIndex = 0;
+        var t = g.parentNode.querySelector('.titre-section'); g.setAttribute('aria-label', 'Photos' + (t ? ' : ' + t.textContent.trim() : '') + ', à faire défiler');
+      } else { g.removeAttribute('tabindex'); g.removeAttribute('aria-label'); }
+    });
+  }
+  regler(); window.addEventListener('resize', regler);
+  /* une galerie dans une section repliée n'est mesurable qu'une fois la section ouverte */
+  Array.prototype.forEach.call(document.querySelectorAll('details.repli'), function (d) { d.addEventListener('toggle', regler); });
+})();

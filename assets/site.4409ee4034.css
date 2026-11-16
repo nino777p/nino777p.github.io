@@ -612,6 +612,37 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 @media (max-width:560px){.section--pieces .tuile .cadre{aspect-ratio:3/2}.section--pieces .tuiles{gap:24px 12px}.assemblage-photos .cadre:nth-child(n+3){display:none}}
 @media (min-width:961px){.section--pieces .tuiles{--colonnes:4;gap:48px 24px}}
 @media (max-width:960px){.section--pieces .tuile:last-child:nth-child(odd){grid-column:1/-1}.section--pieces .tuile:last-child:nth-child(odd) .cadre{aspect-ratio:16/7}}
+.bandeau{position:relative;overflow:hidden}
+.bandeau-photo{height:clamp(320px,42vw,520px)}
+.bandeau-photo img,.bandeau-photo picture{display:block;width:100%;height:100%;object-fit:cover}
+.bandeau-voile{position:absolute;inset:auto 0 0 0;padding:72px 0 30px;background:linear-gradient(to top,rgba(20,20,22,.72),rgba(20,20,22,0))}
+.bandeau-texte{margin:0;max-width:26ch;font-family:var(--serif);font-variation-settings:var(--serif-reglages);font-weight:var(--serif-graisse);letter-spacing:var(--serif-esp);font-size:var(--t-titre-carte);line-height:1.15;color:#fff}
+.bandeau .lien-fleche{color:#fff;margin-top:10px;display:inline-flex}
+@media (max-width:560px){.fiche-renvois{grid-template-columns:1fr 1fr!important;gap:10px!important}.fiche-renvoi{padding:16px 14px!important}}
+@media (max-width:560px){
+.recit{gap:44px}
+.etape-photo{aspect-ratio:16/10}
+.etape-modeles{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;margin-right:calc(var(--marge,20px)*-1);padding:2px 20px 8px 0}
+.etape-modeles li{flex:0 0 38%;scroll-snap-align:start}
+.positions{grid-template-columns:1fr 1fr;gap:10px}
+.position figcaption{font-size:13px;gap:8px}
+}
+@media (max-width:560px){
+.bandeau-texte{font-size:22px;max-width:none}
+.galerie{display:flex!important;gap:12px;overflow-x:auto;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;margin-right:-20px;padding:2px 20px 10px 0}
+.galerie .galerie-element{flex:0 0 78%;scroll-snap-align:start;grid-column:auto!important;grid-row:auto!important}
+.galerie .galerie-element .cadre{aspect-ratio:4/3!important}
+}
+.galerie:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+@media (max-width:560px){
+.recit--compact{gap:26px}
+.recit--compact .etape,.recit--compact .etape--inverse{display:grid!important;grid-template-columns:104px minmax(0,1fr);column-gap:16px;align-items:start}
+.recit--compact .etape-photo,.recit--compact .etape--inverse .etape-photo{grid-column:1!important;grid-row:1!important;aspect-ratio:1/1}
+.recit--compact .etape-texte,.recit--compact .etape--inverse .etape-texte{grid-column:2!important;grid-row:1!important;padding-top:0;gap:8px}
+.recit--compact .etape-texte .titre-carte{font-size:20px}
+.recit--compact .etape-texte .texte{font-size:15px}
+.recit--compact .etape-modeles li{flex-basis:46%}
+}
 .ambiance-galerie{
 --fond:#141311;--fond-2:#1C1A17;--carte:#211F1B;
 --encre:#EEE8DC;--encre-2:#ABA497;--trait:rgba(238,232,220,.14);--trait-2:rgba(238,232,220,.28);

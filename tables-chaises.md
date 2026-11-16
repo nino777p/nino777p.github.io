@@ -20,7 +20,7 @@ Une table pour les repas de tous les jours, les grandes occasions et les moments
 [Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Tables fixes et extensibles
-- Céramique, bois et laque
+- Sans rendez-vous, du lundi au samedi
 - Première visite et conseil offerts
 
 Tables extensibles
@@ -46,6 +46,31 @@ Modèle par modèle
 Les tables à rallonge, avec leurs mesures fermée et ouverte.
 
 - [Tables extensibles en céramique : 8 modèles Voir](https://fony.be/tables-extensibles-ceramique)
+
+Movis
+
+## Une salle à manger, des meubles assortis.
+
+Table, chaises, buffet et vaisselier s’accordent dans un même ensemble. Photos du fabricant.
+
+- (Photo : Table ovale au plateau en céramique veinée d’or sur pied en bois, vue de près)
+
+  Table Egg : plateau ovale en céramique, pied central en bois. Au magasin.
+- (Photo : Table au plateau sombre sur pieds en bois clair, chaises grises, buffet vert d’eau)
+
+  Table Cahors. Au magasin.
+- (Photo : Buffet aux angles arrondis, laque vert sapin et plateau en noyer, poignée lumineuse)
+
+  Buffet Radius : angles arrondis, poignée lumineuse. Au magasin.
+- (Photo : Vaisselier en chêne noueux, vitrine centrale éclairée)
+
+  Vaisselier Riga en chêne. Au magasin.
+- (Photo : Buffet aux angles arrondis, laque gris clair et plateau bois, poignée lumineuse)
+
+  Le buffet Radius dans une autre laque.
+- (Photo : Chaise en tissu vert au dossier piqué, pieds noirs en étoile)
+
+  Chaise Walk, sur commande.
 
 Les tables
 
@@ -112,31 +137,6 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
 
    [Voir le séjour](https://fony.be/living)
 
-Movis
-
-## Une salle à manger, des meubles assortis.
-
-Table, chaises, buffet et vaisselier s’accordent dans un même ensemble. Photos du fabricant.
-
-- (Photo : Table ovale au plateau en céramique veinée d’or sur pied en bois, vue de près)
-
-  Table Egg : plateau ovale en céramique, pied central en bois. Au magasin.
-- (Photo : Table au plateau sombre sur pieds en bois clair, chaises grises, buffet vert d’eau)
-
-  Table Cahors. Au magasin.
-- (Photo : Buffet aux angles arrondis, laque vert sapin et plateau en noyer, poignée lumineuse)
-
-  Buffet Radius : angles arrondis, poignée lumineuse. Au magasin.
-- (Photo : Vaisselier en chêne noueux, vitrine centrale éclairée)
-
-  Vaisselier Riga en chêne. Au magasin.
-- (Photo : Buffet aux angles arrondis, laque gris clair et plateau bois, poignée lumineuse)
-
-  Le buffet Radius dans une autre laque.
-- (Photo : Chaise en tissu vert au dossier piqué, pieds noirs en étoile)
-
-  Chaise Walk, sur commande.
-
 (Photo : Trois chaises à accoudoirs enveloppantes, en tissu beige, gris et vert sauge, pieds noirs)
 
 Les chaises
@@ -173,6 +173,8 @@ Assise enveloppante, dossier haut, piètement pivotant ou tabouret de bar : cha
   Lecce, pivotante, tissu rayé.
 
 [Les voir avec leur table](https://fony.be/tables-chaises#chaises-et-tables)
+
+Chaises et tables : mises en situation Six associations, en photos du fabricant
 
 Modulax
 

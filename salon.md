@@ -20,8 +20,28 @@ Canapés et fauteuils relax italiens et européens, du classique au contemporain
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des salons et des relax à essayer
-- Un choix de tissus et de cuirs
+- Sans rendez-vous, du lundi au samedi
 - Première visite et conseil offerts
+
+Nicoletti, le relax Cozy³
+
+## Un confort réglable, place par place.
+
+Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place relax a sa propre commande, pour que chacun choisisse sa position. Le système Cozy³ de Nicoletti réunit trois moteurs indépendants.
+
+(Photo : Canapé relax deux places en cuir beige, en position assise)
+
+01 Position assise.
+
+(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
+
+02 Une place ouverte : jambes relevées, appui-tête redressé.
+
+- **Le relax** Le dossier s’incline et le repose-jambes se relève, ensemble ou séparément selon le modèle.
+- **La tête** L’appui-tête se redresse séparément, pour lire ou regarder l’écran.
+- **Le bas du dos** Un soutien lombaire réglable complète le confort (sur Memphis : version Comfort).
+
+[Venir l’essayer](https://fony.be/salon#visite)
 
 Par où commencer
 
@@ -65,6 +85,40 @@ Vous aimez vous allonger, recevoir ou simplement profiter d’un salon qui vous 
    [Toutes nos collections](https://fony.be/salon#fabricants)
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
    - [(Photo : Fauteuil rond en tissu clair, vu de face)  Max Divani Dana](https://fony.be/salon-max-divani-dana)
+
+Les fabricants
+
+## Notre sélection de salons.
+
+Découvrez les modèles exposés et les possibilités de commande : configurations, revêtements et finitions varient selon les collections.
+
+- ### Max Divani
+
+  Des salons fabriqués en Italie, en cuir, microfibre ou tissu.
+
+  [Voir les salons Max Divani](https://fony.be/salon-max-divani)
+- ### Nicoletti
+
+  Des canapés relax fabriqués en Italie, dont le système Cozy³ à trois moteurs.
+
+  [Voir le relax Cozy³](https://fony.be/salon#relax)
+- ### De Eiken Zetel
+
+  Des fauteuils relax et releveurs d’un fabricant belge.
+
+  [Voir les fauteuils relax et releveurs](https://fony.be/salon-fauteuils-relax-releveurs)
+- ### Les lignes arrondies
+
+  Des formes souples pour un intérieur contemporain.
+- ### Une sélection européenne
+
+  D’autres styles et niveaux de gamme pour répondre à différents projets.
+
+(Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+
+Asseyez-vous, comparez : nos salons s’essaient au magasin, sans rendez-vous.
+
+[Venir les essayer](https://fony.be/salon#visite)
 
 Bien choisir
 
@@ -118,6 +172,17 @@ C’est une affaire de toucher, d’entretien et de vie de famille : enfants, a
 
 [Les canapés en cuir italiens](https://fony.be/salon-canapes-cuir-italiens)
 
+Toutes les sélections
+
+## Chercher autrement.
+
+- [Canapés relax électriques : 6 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
+- [Canapés d’angle : 4 modèles Voir](https://fony.be/salon-canapes-angle)
+- [Canapés en cuir italiens : 8 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
+- [Nicoletti : 2 modèles Voir](https://fony.be/salon-nicoletti)
+
+Relax, releveur, convertible : les différences Trois usages expliqués en quelques lignes
+
 Selon votre usage
 
 ## Relax, releveur, convertible.
@@ -133,61 +198,6 @@ Trois usages différents, à choisir selon votre espace et vos habitudes. Demand
 - ### Le canapé convertible et le canapé-lit
 
   Un canapé le jour, un couchage la nuit. Le mécanisme et le matelas se choisissent selon la fréquence d’utilisation et l’espace disponible.
-
-Toutes les sélections
-
-## Chercher autrement.
-
-- [Canapés relax électriques : 6 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
-- [Canapés d’angle : 4 modèles Voir](https://fony.be/salon-canapes-angle)
-- [Canapés en cuir italiens : 8 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
-- [Nicoletti : 2 modèles Voir](https://fony.be/salon-nicoletti)
-
-Les fabricants
-
-## Notre sélection de salons.
-
-Découvrez les modèles exposés et les possibilités de commande : configurations, revêtements et finitions varient selon les collections.
-
-- ### Max Divani
-
-  Des salons fabriqués en Italie, en cuir, microfibre ou tissu.
-
-  [Voir les salons Max Divani](https://fony.be/salon-max-divani)
-- ### Nicoletti
-
-  Des canapés relax fabriqués en Italie, dont le système Cozy³ à trois moteurs (voir plus bas).
-- ### De Eiken Zetel
-
-  Des fauteuils relax et releveurs d’un fabricant belge.
-
-  [Voir les fauteuils relax et releveurs](https://fony.be/salon-fauteuils-relax-releveurs)
-- ### Les lignes arrondies
-
-  Des formes souples pour un intérieur contemporain.
-- ### Une sélection européenne
-
-  D’autres styles et niveaux de gamme pour répondre à différents projets.
-
-Nicoletti, le relax Cozy³
-
-## Un confort réglable, place par place.
-
-Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place relax a sa propre commande, pour que chacun choisisse sa position. Le système Cozy³ de Nicoletti réunit trois moteurs indépendants.
-
-(Photo : Canapé relax deux places en cuir beige, en position assise)
-
-01 Position assise.
-
-(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
-
-02 Une place ouverte : jambes relevées, appui-tête redressé.
-
-- **Le relax** Le dossier s’incline et le repose-jambes se relève, ensemble ou séparément selon le modèle.
-- **La tête** L’appui-tête se redresse séparément, pour lire ou regarder l’écran.
-- **Le bas du dos** Un soutien lombaire réglable complète le confort (sur Memphis : version Comfort).
-
-[Venir l’essayer](https://fony.be/salon#visite)
 
 (Photo : Meuble TV Tomasella avec rangements suspendus dans un salon)
 
