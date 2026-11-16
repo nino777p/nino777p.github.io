@@ -638,7 +638,7 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 .recit--compact{gap:26px}
 .recit--compact .etape,.recit--compact .etape--inverse{display:grid!important;grid-template-columns:104px minmax(0,1fr);column-gap:16px;align-items:start}
 .recit--compact .etape-photo,.recit--compact .etape--inverse .etape-photo{grid-column:1!important;grid-row:1!important;aspect-ratio:1/1}
-.recit--compact .etape-texte,.recit--compact .etape--inverse .etape-texte{grid-column:2!important;grid-row:1!important;padding-top:0;gap:8px}
+.recit--compact .etape-texte,.recit--compact .etape--inverse .etape-texte{grid-column:2!important;grid-row:1!important;display:flex!important;flex-direction:column;padding-top:0;gap:8px}
 .recit--compact .etape-texte .titre-carte{font-size:20px}
 .recit--compact .etape-texte .texte{font-size:15px}
 .recit--compact .etape-modeles li{flex-basis:46%}
@@ -652,6 +652,12 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 .modele-texte .nom{font-size:19px}
 .modele-texte .texte{font-size:15px;line-height:1.45}
 .modele-texte .lien-fleche{font-size:15px;min-height:44px;display:inline-flex;align-items:center}
+}
+@media (max-width:560px){
+.tuiles--2,.tuiles--3{gap:22px}
+.tuiles--2 .tuile,.tuiles--3 .tuile{flex-direction:row;gap:16px;align-items:flex-start}
+.tuiles--2 .tuile .cadre,.tuiles--3 .tuile .cadre{flex:0 0 112px;aspect-ratio:1/1}
+.tuiles--2 .tuile-texte,.tuiles--3 .tuile-texte{padding-top:0;gap:6px}
 }
 .ambiance-galerie{
 --fond:#141311;--fond-2:#1C1A17;--carte:#211F1B;
