@@ -9,15 +9,15 @@ Adresse de la page : https://fony.be/literie
 (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
 1. [Accueil](https://fony.be/)
-2. Chambre
+2. Literie
 
-Literie, lits et armoires
+Boxsprings, matelas, sommiers
 
-# Chambre
+# Literie
 
-Boxsprings belges, fixes ou électriques, matelas et sommiers à essayer. Découvrez aussi les lits, chevets, armoires et dressings qui complètent votre chambre.
+Boxsprings belges, fixes ou électriques, matelas et sommiers : ils se choisissent allongé, au magasin.
 
-[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet literie](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 - Des couchages à essayer allongé
 - Fixe ou électrique
@@ -83,28 +83,15 @@ Tissus, têtes de lit, pieds et fonctions : composez votre couchage selon les o
 
   Tissu chiné et tête de lit arrondie.
 
+(Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+
 Autour du lit
 
-## Lits, chevets, armoires.
+## Lits, chevets, armoires et dressings.
 
-1. (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+Le lit, les chevets et les rangements se choisissent dans des finitions qui s’accordent : ils ont leur page.
 
-   Tomasella
-
-   ### Le lit et les chevets assortis
-
-   Lits et chevets Tomasella, entre autres, dans des finitions qui s’accordent à votre chambre.
-
-   [Voir Tomasella](https://fony.be/tomasella)
-2. (Photo : Armoire Tomasella Carmen à portes battantes laquées)
-
-   Rangements
-
-   ### Armoires et dressings
-
-   Portes battantes ou coulissantes. Et quand il y a un recoin, une sous-pente, un mur aux dimensions particulières : le sur mesure prend le relais.
-
-   [Voir le sur mesure](https://fony.be/sur-mesure)
+[Voir la chambre](https://fony.be/chambre)
 
 Vos questions
 

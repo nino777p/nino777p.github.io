@@ -29,17 +29,17 @@ Au magasin
 - ### On essaie avant de choisir
 
   Salons, relax, matelas, tables à rallonge : asseyez-vous, allongez-vous, ouvrez les mécanismes exposés.
+- ### Le meilleur de chaque fabricant
+
+  Une armoire d’un fabricant, un boxspring d’un autre, la table d’un troisième : nous composons votre intérieur en les associant.
 - ### Un seul interlocuteur
 
-  Votre conseiller suit votre projet du premier croquis à la pose.
+  Votre conseiller suit votre projet du premier croquis à la pose. Nous livrons vos meubles par nos soins.
 
   [Les quatre étapes](https://fony.be/#methode)
 - ### Mesures et projection 3D
 
   Si vous le souhaitez, nous venons relever les mesures chez vous. Pour un aménagement, une projection 3D vous montre le projet.
-- ### Livré par nos soins
-
-  Nous livrons vos meubles nous-mêmes et restons à votre disposition après l’installation.
 
   [Ce qu’en disent nos clients](https://fony.be/#avis)
 
@@ -70,11 +70,18 @@ Canapé, table, meuble TV ou dressing : découvrez les solutions à choisir sé
   Meubles TV, buffets et bibliothèques composés selon votre espace.
 
   Voir le séjour
+- (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
+
+  ### [Literie](https://fony.be/literie)
+
+  Boxsprings belges, fixes ou électriques, matelas et sommiers à essayer.
+
+  Voir la literie
 - (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
-  ### [Chambre](https://fony.be/literie)
+  ### [Chambre](https://fony.be/chambre)
 
-  Boxsprings belges, fixes ou électriques, matelas, lits et armoires.
+  Lits, chevets, armoires et dressings aux finitions assorties.
 
   Voir la chambre
 - (Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
@@ -216,7 +223,7 @@ Un premier logement, une pièce à repenser ou un intérieur à rendre plus conf
    Un canapé relax, un lit électrique, des rangements à portée de main : nous cherchons des solutions qui facilitent le quotidien, sans renoncer à l’esthétique.
 
    - [Salon](https://fony.be/salon)
-   - [Chambre](https://fony.be/literie)
+   - [Literie](https://fony.be/literie)
    - [Sur mesure](https://fony.be/sur-mesure)
    - [Cuisine](https://fony.be/cuisine)
 

@@ -610,6 +610,8 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 .repli>summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
 @media (hover:hover){.repli>summary:hover .repli-titre{color:var(--accent)}}
 @media (max-width:560px){.section--pieces .tuile .cadre{aspect-ratio:3/2}.section--pieces .tuiles{gap:24px 12px}.assemblage-photos .cadre:nth-child(n+3){display:none}}
+@media (min-width:961px){.section--pieces .tuiles{--colonnes:4;gap:48px 24px}}
+@media (max-width:960px){.section--pieces .tuile:last-child:nth-child(odd){grid-column:1/-1}.section--pieces .tuile:last-child:nth-child(odd) .cadre{aspect-ratio:16/7}}
 .ambiance-galerie{
 --fond:#141311;--fond-2:#1C1A17;--carte:#211F1B;
 --encre:#EEE8DC;--encre-2:#ABA497;--trait:rgba(238,232,220,.14);--trait-2:rgba(238,232,220,.28);

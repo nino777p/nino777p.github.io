@@ -5,10 +5,10 @@
 Adresse de la page : https://fony.be/literie-boxspring-fixe-electrique
 
 1. [Accueil](https://fony.be/)
-2. [Chambre](https://fony.be/literie)
+2. [Literie](https://fony.be/literie)
 3. Boxspring fixe ou électrique
 
-Chambre
+Literie
 
 # Boxspring fixe ou électrique.
 
@@ -136,7 +136,7 @@ Voir aussi
 
   Lits, chevets, armoires et dressings.
 
-  [Voir la chambre](https://fony.be/literie)
+  [Voir la chambre](https://fony.be/chambre)
 
 ## Venez essayer nos boxsprings.
 

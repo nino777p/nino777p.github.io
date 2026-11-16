@@ -5,10 +5,10 @@
 Adresse de la page : https://fony.be/literie-dormir-a-deux
 
 1. [Accueil](https://fony.be/)
-2. [Chambre](https://fony.be/literie)
+2. [Literie](https://fony.be/literie)
 3. Dormir à deux
 
-Chambre
+Literie
 
 # Dormir à deux, chacun son confort.
 
@@ -73,7 +73,7 @@ Voir aussi
 
   Lits, chevets, armoires et dressings.
 
-  [Voir la chambre](https://fony.be/literie)
+  [Voir la chambre](https://fony.be/chambre)
 
 ## Venez essayer à deux.
 

@@ -79,7 +79,7 @@ Pièce par pièce
 
    **La base, pour longtemps.** Les façades dans un ton sobre, assorti au sol et aux portes. C’est l’aménagement intérieur qui fait la différence au quotidien. **La tendance, en petit.** L’intérieur, les poignées, l’éclairage des penderies : démontables.
 
-   [Voir la chambre](https://fony.be/literie)
+   [Voir la chambre](https://fony.be/chambre)
 
 Matières et finitions
 

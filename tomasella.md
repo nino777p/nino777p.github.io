@@ -55,7 +55,7 @@ Retrouvez des bois et des laques coordonnés du séjour à la chambre, selon les
 
    Associez le lit et les chevets à votre armoire. Nous vous aidons à choisir les finitions pour créer un ensemble harmonieux.
 
-   [Voir la chambre](https://fony.be/literie)
+   [Voir la chambre](https://fony.be/chambre)
 
 Comment nous travaillons
 
