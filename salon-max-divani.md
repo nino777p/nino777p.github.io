@@ -92,7 +92,7 @@ Modélisation 3D de principe, d’après le guide du fabricant. Ce n’est pas l
 
 ### De la fleur de cuir.
 
-Max Divani travaille la fleur, la partie noble de la peau, jamais la croûte. Pigmenté ou aniline : deux touchers, deux entretiens. Lequel pour votre famille ? On en parle au magasin, échantillons en main.
+Max Divani travaille la fleur, la partie noble de la peau, jamais la croûte. Nous proposons le cuir Texas, à la finition pigmentée : facile à vivre, en 24 coloris. Il se choisit au magasin, échantillons en main.
 
 2 · Les mousses
 

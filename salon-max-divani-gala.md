@@ -119,7 +119,7 @@ Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui
 - Cuir
 - Tissu
 
-En cuir, Gala se réalise dans trois gammes du fabricant : Butterfly, Soave et Satin.
+Au magasin, Gala est exposé en tissu.
 
 [Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Gala&demande=devis#visite)
 
