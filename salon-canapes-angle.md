@@ -39,7 +39,8 @@ La sélection
    Des formes souples et une assise profonde pour se détendre, ou des dossiers avance-recule pour moduler sa position : découvrez deux approches du confort.
 
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
-   - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
+   - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee : À venir](https://fony.be/salon-max-divani-coffee)
+   - [(Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
 
 Vos questions
 
@@ -57,8 +58,8 @@ Voir aussi
 
 ## D’autres façons de chercher.
 
-- [Canapés relax électriques : 6 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
-- [Canapés en cuir italiens : 8 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
+- [Canapés relax électriques : 7 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
+- [Canapés en cuir italiens : 9 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
 - [Nicoletti : 2 modèles Voir](https://fony.be/salon-nicoletti)
 
 ## Venez essayer nos salons.

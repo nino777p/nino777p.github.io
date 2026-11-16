@@ -659,6 +659,7 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 .tuiles--2 .tuile .cadre,.tuiles--3 .tuile .cadre{flex:0 0 112px;aspect-ratio:1/1}
 .tuiles--2 .tuile-texte,.tuiles--3 .tuile-texte{padding-top:0;gap:6px}
 }
+.etape-modeles .a-venir{font-size:12px;font-weight:600;letter-spacing:.04em;color:var(--accent);margin-top:-4px}
 .ambiance-galerie{
 --fond:#141311;--fond-2:#1C1A17;--carte:#211F1B;
 --encre:#EEE8DC;--encre-2:#ABA497;--trait:rgba(238,232,220,.14);--trait-2:rgba(238,232,220,.28);

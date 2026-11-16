@@ -55,9 +55,9 @@ Voir aussi
 
 ## D’autres façons de chercher.
 
-- [Canapés relax électriques : 6 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
-- [Canapés d’angle : 4 modèles Voir](https://fony.be/salon-canapes-angle)
-- [Canapés en cuir italiens : 8 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
+- [Canapés relax électriques : 7 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
+- [Canapés d’angle : 5 modèles Voir](https://fony.be/salon-canapes-angle)
+- [Canapés en cuir italiens : 9 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
 
 ## Venez essayer nos salons.
 

@@ -48,31 +48,44 @@ Au magasin et sur catalogue
    Des formes souples en tissu : canapé et fauteuils assortis.
 
    [Dimensions et versions de Gala](https://fony.be/salon-max-divani-gala)
-3. (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
+3. (Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)
+
+   (Photo : Canapé d’angle arrondi en velours camel, une place relax ouverte)
+
+   (Photo : Canapé d’angle arrondi en velours camel vu de dessus, assises capitonnées)
+
+   03
+
+   ### Tata
+
+   Un grand angle arrondi, à l’assise profonde. Arrivée prévue mi-janvier 2027.
+
+   [Dimensions et versions de Tata](https://fony.be/salon-max-divani-tata)
+4. (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
 
    (Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
 
    (Photo : Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris)
 
-   03
+   04
 
    ### Zebra
 
    En tissu, en angle, têtières réglables et place relax.
 
    [Dimensions et versions de Zebra](https://fony.be/salon-max-divani-zebra)
-4. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+5. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
 
-   04
+   05
 
    ### Osaka
 
    Deux canapés relax en cuir, face à face.
 
    [Dimensions et versions de Osaka](https://fony.be/salon-max-divani-osaka)
-5. (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
+6. (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
 
-   05
+   06
 
    ### Curry
 

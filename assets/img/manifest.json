@@ -4324,5 +4324,145 @@
    1200,
    600
   ]
+ },
+ "md-tata-angle": {
+  "id": "md-tata-angle",
+  "use": [
+   "salon-max-divani-tata"
+  ],
+  "credit": "Max Divani Tata",
+  "alt": "Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir",
+  "source": "md-tata-angle.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "md-tata-angle-600.webp",
+   "900": "md-tata-angle-900.webp",
+   "1400": "md-tata-angle-1400.webp",
+   "2000": "md-tata-angle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-tata-angle-600.avif",
+   "900": "md-tata-angle-900.avif",
+   "1400": "md-tata-angle-1400.avif",
+   "2000": "md-tata-angle-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "md-tata-relax": {
+  "id": "md-tata-relax",
+  "use": [
+   "salon-max-divani-tata"
+  ],
+  "credit": "Max Divani Tata",
+  "alt": "Canapé d’angle arrondi en velours camel, une place relax ouverte",
+  "source": "md-tata-relax.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "md-tata-relax-600.webp",
+   "900": "md-tata-relax-900.webp",
+   "1400": "md-tata-relax-1400.webp",
+   "2000": "md-tata-relax-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-tata-relax-600.avif",
+   "900": "md-tata-relax-900.avif",
+   "1400": "md-tata-relax-1400.avif",
+   "2000": "md-tata-relax-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "md-tata-face": {
+  "id": "md-tata-face",
+  "use": [
+   "salon-max-divani-tata"
+  ],
+  "credit": "Max Divani Tata",
+  "alt": "Canapé d’angle arrondi en velours camel vu de face, trois appuie-têtes relevés",
+  "source": "md-tata-face.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "md-tata-face-600.webp",
+   "900": "md-tata-face-900.webp",
+   "1400": "md-tata-face-1400.webp",
+   "2000": "md-tata-face-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-tata-face-600.avif",
+   "900": "md-tata-face-900.avif",
+   "1400": "md-tata-face-1400.avif",
+   "2000": "md-tata-face-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "md-tata-dessus": {
+  "id": "md-tata-dessus",
+  "use": [
+   "salon-max-divani-tata"
+  ],
+  "credit": "Max Divani Tata",
+  "alt": "Canapé d’angle arrondi en velours camel vu de dessus, assises capitonnées",
+  "source": "md-tata-dessus.jpg",
+  "w": 3200,
+  "h": 2400,
+  "files": {
+   "600": "md-tata-dessus-600.webp",
+   "900": "md-tata-dessus-900.webp",
+   "1400": "md-tata-dessus-1400.webp",
+   "2000": "md-tata-dessus-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-tata-dessus-600.avif",
+   "900": "md-tata-dessus-900.avif",
+   "1400": "md-tata-dessus-1400.avif",
+   "2000": "md-tata-dessus-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2400
+  ]
+ },
+ "md-tata-detail": {
+  "id": "md-tata-detail",
+  "use": [
+   "salon-max-divani-tata"
+  ],
+  "credit": "Max Divani Tata",
+  "alt": "Détail de l’accoudoir du canapé Tata : velours camel et filet doré",
+  "source": "md-tata-detail.jpg",
+  "w": 3200,
+  "h": 2133,
+  "files": {
+   "600": "md-tata-detail-600.webp",
+   "900": "md-tata-detail-900.webp",
+   "1400": "md-tata-detail-1400.webp",
+   "2000": "md-tata-detail-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "md-tata-detail-600.avif",
+   "900": "md-tata-detail-900.avif",
+   "1400": "md-tata-detail-1400.avif",
+   "2000": "md-tata-detail-2000.avif"
+  },
+  "ratio": [
+   3200,
+   2133
+  ]
  }
 }

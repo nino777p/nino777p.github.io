@@ -50,6 +50,7 @@ La sélection
 
    - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
    - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
+   - [(Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
 
 Vos questions
 
@@ -71,8 +72,8 @@ Voir aussi
 
 ## D’autres façons de chercher.
 
-- [Canapés d’angle : 4 modèles Voir](https://fony.be/salon-canapes-angle)
-- [Canapés en cuir italiens : 8 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
+- [Canapés d’angle : 5 modèles Voir](https://fony.be/salon-canapes-angle)
+- [Canapés en cuir italiens : 9 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
 - [Nicoletti : 2 modèles Voir](https://fony.be/salon-nicoletti)
 
 ## Venez essayer nos salons.

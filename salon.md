@@ -73,16 +73,17 @@ Vous aimez vous allonger, recevoir ou simplement profiter d’un salon qui vous 
    [Tous les canapés d’angle](https://fony.be/salon-canapes-angle)
    - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
    - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
-   - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
-3. (Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
+   - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee : À venir](https://fony.be/salon-max-divani-coffee)
+3. (Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
    Pour donner du caractère à la pièce
 
    ### Des lignes qui changent le séjour.
 
-   Formes souples, coussins généreux ou assise profonde : chaque canapé a sa personnalité. Nous vous aidons à choisir la composition et le revêtement qui s’accordent à votre intérieur.
+   Formes souples, coussins généreux ou assise profonde : chaque canapé a sa personnalité. Prochainement au magasin : Tata, un grand angle arrondi à l’assise profonde, attendu mi-janvier 2027.
 
-   [Toutes nos collections](https://fony.be/salon#fabricants)
+   [Découvrir Tata](https://fony.be/salon-max-divani-tata)
+   - [(Photo : Grand canapé d’angle arrondi en velours camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
    - [(Photo : Fauteuil rond en tissu clair, vu de face)  Max Divani Dana](https://fony.be/salon-max-divani-dana)
 
@@ -176,9 +177,9 @@ Toutes les sélections
 
 ## Chercher autrement.
 
-- [Canapés relax électriques : 6 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
-- [Canapés d’angle : 4 modèles Voir](https://fony.be/salon-canapes-angle)
-- [Canapés en cuir italiens : 8 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
+- [Canapés relax électriques : 7 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
+- [Canapés d’angle : 5 modèles Voir](https://fony.be/salon-canapes-angle)
+- [Canapés en cuir italiens : 9 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
 - [Nicoletti : 2 modèles Voir](https://fony.be/salon-nicoletti)
 
 Relax, releveur, convertible : les différences Trois usages expliqués en quelques lignes
