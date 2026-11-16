@@ -4,7 +4,7 @@ Déstockage de l’exposition, Black Friday le 27 novembre 2026 et soldes d’hi
 
 ## Le calendrier
 
-- **En ce moment — Déstockage de l’exposition.** Nous renouvelons l’exposition : salons, relax, tables et rangements présentés au magasin sont proposés à prix réduit. Les pièces disponibles sont publiées chaque semaine sur Facebook (https://www.facebook.com/fonymeubles/) et Instagram (https://www.instagram.com/fonymeubles/).
+- **En ce moment — Déstockage de l’exposition.** Nous renouvelons l’exposition : salons, relax, tables et rangements présentés au magasin sont proposés à prix réduit. Les pièces disponibles sont publiées sur Facebook (https://www.facebook.com/fonymeubles/) et Instagram (https://www.instagram.com/fonymeubles/). Contactez-nous pour vérifier la disponibilité de celle qui vous intéresse.
 - **Vendredi 27 novembre 2026 — Black Friday.** Des offres spéciales pour le Black Friday. Leur détail sera publié sur cette page et sur nos réseaux.
 - **Du samedi 2 au dimanche 31 janvier 2027 — Soldes d’hiver.** La période légale des soldes en Belgique. Le magasin étant fermé le dimanche, le dernier jour d’ouverture est le samedi 30 janvier.
 

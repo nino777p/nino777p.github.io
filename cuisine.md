@@ -37,7 +37,7 @@ Salon, séjour, table et rangements sur mesure se choisissent dans des finitions
 
 Choisir un style
 
-## Deux choix déterminent le style.
+## La porte et les teintes donnent le style.
 
 - 01
 
@@ -50,7 +50,7 @@ Choisir un style
 
   Chaudes (bois, beige, terre) ou froides (blanc, gris, laque, anthracite).
 
-Les façades et le plan de travail se gardent une quinzaine d’années : mieux vaut les choisir sobres et réserver la tendance aux éléments faciles à remplacer.
+Choisissez les façades et le plan de travail selon vos habitudes, la lumière de la pièce et les finitions que vous souhaitez garder longtemps. La tendance peut aller aux éléments faciles à remplacer.
 
 Teintes et matières
 

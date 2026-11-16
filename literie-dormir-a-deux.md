@@ -1,6 +1,6 @@
 # Dormir à deux : quel lit choisir ? — Fony Meubles, Binche
 
-> Deux conforts dans un même lit, ne plus sentir l’autre bouger, lire pendant que l’autre dort : les solutions à essayer à deux chez Fony Meubles.
+> Deux conforts dans un même lit, moins sentir l’autre bouger, lire pendant que l’autre dort : les solutions à essayer à deux chez Fony Meubles.
 
 Adresse de la page : https://fony.be/literie-dormir-a-deux
 

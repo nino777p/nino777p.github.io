@@ -16,7 +16,7 @@ Tables fabriquées en Italie
 
 # Cattelan Italia
 
-Fabriquées en Italie, avec des plateaux en céramique et des piètements sculptés.
+Le dessin du piètement, le plateau en céramique et les finitions donnent son caractère à chaque table.
 
 [Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -26,7 +26,7 @@ Fabriquées en Italie, avec des plateaux en céramique et des piètements sculpt
 
 Sur catalogue
 
-## Une sélection de modèles.
+## Des tables à choisir sur catalogue.
 
 1. (Photo : Table en céramique noire veinée sur pied central, chaises en cuir orange, lumière du soir)
 
@@ -74,7 +74,7 @@ Voir aussi
 
   [Voir la salle à manger](https://fony.be/tables-chaises)
 
-## Venez voir nos tables au magasin.
+## Composons votre table Cattelan Italia.
 
 Les tables Cattelan Italia se choisissent sur catalogue : dimensions, plateaux et finitions du pied au choix.
 

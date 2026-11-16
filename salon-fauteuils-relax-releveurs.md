@@ -26,7 +26,7 @@ Votre fauteuil
 
 01 · Se relever
 
-### Se relever sans effort.
+### Une aide pour se relever.
 
 Le fauteuil releveur bascule doucement vers l’avant et vous accompagne jusqu’à la position debout.
 

@@ -34,7 +34,7 @@ La base reste à plat. C’est le choix le plus simple : on se concentre sur le
 
 ### Le boxspring électrique.
 
-Une commande relève la tête ou les jambes, pour lire confortablement ou se relever plus facilement.
+Une commande relève la tête ou les jambes, pour lire confortablement ou changer de position.
 
 03 · À deux
 

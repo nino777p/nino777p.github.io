@@ -12,21 +12,21 @@ Salon
 
 # Canapés en cuir, fabriqués en Italie.
 
-Découvrez les canapés fabriqués en Italie qui se déclinent en cuir. Au magasin, comparez les revêtements et choisissez la finition adaptée à votre intérieur.
+Découvrez notre sélection de canapés fabriqués en Italie, proposés en cuir selon les modèles. Au magasin, comparez les revêtements et leurs nuances avec votre projet.
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 La sélection
 
-## Le cuir, en deux temps.
+## Le cuir italien, du relax au grand canapé d’angle.
 
 1. (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
 
    Le cuir et le confort
 
-   ### Des relax qui se patinent bien.
+   ### Un canapé relax en cuir, à vivre au quotidien.
 
-   Le cuir va bien aux canapés où l’on passe du temps : il prend du caractère avec les années. Ces modèles l’associent au relax électrique.
+   Le cuir apporte son toucher et son caractère aux salons relax. Choisissez la finition en fonction de vos habitudes, de la lumière de la pièce et de l’entretien souhaité.
 
    - [(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)  Nicoletti Memphis](https://fony.be/salon-nicoletti-memphis)
    - [(Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)  Nicoletti Oakland](https://fony.be/salon-nicoletti-oakland)
@@ -36,9 +36,9 @@ La sélection
 
    Le cuir en grand
 
-   ### Angles et chaises longues.
+   ### Le cuir souligne les lignes d’un canapé d’angle.
 
-   Sur une grande composition, le cuir souligne les lignes : coutures, accoudoirs, appuie-têtes. Chaque modèle se choisit aussi en tissu, à voir et à toucher au magasin.
+   Sur une grande composition, les coutures, les accoudoirs et les appuie-têtes prennent toute leur place. Comparez cuir et tissu au magasin, selon les versions proposées.
 
    - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
    - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
@@ -56,7 +56,7 @@ Deux canapés en cuir peuvent ne pas vivre de la même façon. Tout dépend de l
   D’usage facile, il supporte bien la vie de tous les jours. C’est le cuir le plus courant.
 - ### Le cuir aniline
 
-  Teinté dans la masse, il offre un toucher exceptionnel. Sans traitement anti-taches, il demande plus d’attention et peut se décolorer à la lumière.
+  Teinté dans la masse, il garde un toucher naturel. Sans traitement anti-taches, il demande plus d’attention et peut se décolorer à la lumière.
 - ### Lequel pour vous ?
 
   Enfants, animaux, pièce très ensoleillée : dites-nous comment vous vivez. Les échantillons se comparent au magasin, en main.

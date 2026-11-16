@@ -41,7 +41,7 @@ Le poste de travail intégré à la pièce, les rangements, la salle de réunion
 
 Hôtels et restaurants
 
-### Un mobilier qui dure
+### Selon l’usage de votre établissement
 
 Tables et chaises, meubles de rangement, literie et matelas, bureau de chambre.
 

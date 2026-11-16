@@ -27,7 +27,7 @@ Tables extensibles
 
 ## Des tables extensibles pensées pour votre quotidien.
 
-Une table à rallonge adapte l’espace au nombre de convives. Au magasin, comparez les formes, les matières et les mécanismes : ouvrez la rallonge vous-même.
+Une table à rallonge adapte l’espace au nombre de convives. Au magasin, comparez les formes, les matières et les mécanismes des tables exposées.
 
 - ### Forme et plateau
 
@@ -37,7 +37,7 @@ Une table à rallonge adapte l’espace au nombre de convives. Au magasin, compa
   Selon le modèle, la rallonge se range dans la table ou se déploie à l’aide d’un mécanisme intégré. Venez essayer l’ouverture pour choisir celle qui vous convient. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
 - ### Nombre de convives
 
-  Pensez à vos repas quotidiens et aux occasions où vous recevez. Certaines grandes tables atteignent trois mètres et accueillent plus de douze convives.
+  Pensez à vos repas quotidiens et aux occasions où vous recevez. Certains modèles atteignent trois mètres et reçoivent jusqu’à douze convives.
 
 Modèle par modèle
 
@@ -49,7 +49,7 @@ Les tables à rallonge, avec leurs mesures fermée et ouverte.
 
 Les tables
 
-## Des collections aux styles différents.
+## Choisissez la table, puis composez l’ensemble.
 
 Plateaux, matières et dimensions se comparent au magasin : apportez les mesures de votre pièce.
 

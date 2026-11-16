@@ -89,7 +89,7 @@ Mon projet
 
 ## Préparons votre visite.
 
-Dites-nous ce que vous recherchez. Nous vous recontacterons pour répondre à vos questions ou convenir d’un rendez-vous.
+Un modèle en tête ? Indiquez son nom, votre besoin et vos dimensions : nous vous répondons ou nous convenons d’un rendez-vous pour préparer votre visite.
 
 - Si vous les avez : les dimensions utiles (largeur, hauteur, profondeur).
 - Une photo de la pièce, si vous l’avez.

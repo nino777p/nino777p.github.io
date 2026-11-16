@@ -16,7 +16,7 @@ Tables à rallonge
 
 # Akante
 
-Des tables à rallonge qui s’ouvrent en un geste. Un excellent rapport qualité-prix.
+Rallonge centrale, latérales synchronisées ou indépendantes : choisissez la table selon votre espace et le nombre de convives.
 
 [Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -26,7 +26,7 @@ Des tables à rallonge qui s’ouvrent en un geste. Un excellent rapport qualit�
 
 La collection
 
-## Une sélection de modèles.
+## Les tables Akante.
 
 1. (Photo : Table à rallonge au plateau céramique clair sur pied central en étoile, chaises grises)
 
@@ -158,7 +158,7 @@ Voir aussi
 
 ## Venez voir nos tables au magasin.
 
-Au magasin, ouvrez la rallonge vous-même : c’est la meilleure façon de juger le mécanisme.
+Au magasin, essayez les mécanismes des tables exposées : c’est la meilleure façon de choisir.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

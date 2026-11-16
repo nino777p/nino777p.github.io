@@ -13,9 +13,9 @@ Adresse de la page : https://fony.be/tomasella
 
 Fabriqué en Italie, composé pour votre pièce
 
-# Tomasella
+# Tomasella : mobilier de séjour, dressings et chambre.
 
-Un même fabricant pour le séjour, les rangements et la chambre : des systèmes modulables que nous composons avec vous, à la mesure de vos murs.
+Composez votre meuble TV, votre bibliothèque, votre garde-robe ou votre chambre avec les systèmes modulables Tomasella. Nous adaptons la composition à votre espace et à vos finitions.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -25,35 +25,35 @@ Un même fabricant pour le séjour, les rangements et la chambre : des système
 
 Trois pièces, un fabricant
 
-## La même main, d’une pièce à l’autre.
+## Des meubles qui s’accordent d’une pièce à l’autre.
 
-Choisir un seul fabricant pour plusieurs pièces, c’est retrouver les mêmes bois et les mêmes laques du séjour à la chambre.
+Retrouvez des bois et des laques coordonnés du séjour à la chambre, selon les collections. Choisissez chaque composition avec nous, en fonction de vos besoins et de votre intérieur.
 
 1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
    Le séjour
 
-   ### Meuble TV, bibliothèque, buffet.
+   ### Un meuble TV, une bibliothèque, un buffet : votre composition.
 
-   Les systèmes Atlante et Time se composent module par module : un meuble bas ou suspendu pour l’écran, une bibliothèque sur tout un mur, un buffet assorti.
+   Avec Atlante et Time, associez modules bas ou suspendus, rangements fermés et espaces ouverts. Composez le meuble qui convient à votre mur.
 
    [Voir le séjour](https://fony.be/living)
 2. (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
    Les rangements
 
-   ### Garde-robes et dressings.
+   ### Une garde-robe organisée selon vos habitudes.
 
-   Portes battantes ou coulissantes, dressing ouvert, compartiments pensés pour ce que vous rangez : l’intérieur se compose autant que la façade.
+   Portes battantes ou coulissantes, dressing ouvert, compartiments : choisissez la façade et l’organisation intérieure selon ce que vous souhaitez ranger.
 
    [Voir le sur mesure](https://fony.be/sur-mesure)
 3. (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
    La chambre
 
-   ### Lit, chevets, armoire.
+   ### Une chambre aux finitions coordonnées.
 
-   Lits et chevets dans des finitions qui s’accordent à l’armoire : la chambre garde une seule ligne.
+   Associez le lit et les chevets à votre armoire. Nous vous aidons à choisir les finitions pour créer un ensemble harmonieux.
 
    [Voir la chambre](https://fony.be/literie)
 
@@ -61,18 +61,18 @@ Comment nous travaillons
 
 ## Du mur au projet.
 
-- ### Vos mesures
+- ### Les mesures de votre pièce.
 
-  Une photo et les dimensions du mur suffisent pour commencer. Si vous préférez, nous venons les relever chez vous.
-- ### Les finitions
+  Une photo et les dimensions du mur permettent de commencer. Si vous préférez, nous venons relever les mesures chez vous.
+- ### Les matières et les couleurs.
 
-  Bois, laques mates, décors texturés : les échantillons se comparent au magasin, avec la photo de votre pièce.
-- ### La composition
+  Comparez bois, laques mates et décors texturés au magasin, avec la photo de votre intérieur.
+- ### Votre composition.
 
-  Nous assemblons les modules avec vous, à la largeur et à la hauteur de votre mur.
-- ### La projection 3D
+  Nous choisissons ensemble les modules qui correspondent à la largeur, à la hauteur et à l’usage de votre mur.
+- ### Votre projet en 3D.
 
-  Vous voyez le projet en volume avant de décider.
+  Visualisez les proportions et les finitions de votre composition avant de décider.
 
 Vos questions
 

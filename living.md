@@ -13,9 +13,9 @@ Adresse de la page : https://fony.be/living
 
 Meuble TV, bibliothèque, buffet
 
-# Séjour
+# Séjour : meubles TV, bibliothèques et buffets.
 
-Un mur, et tout ce qu’on veut y mettre : l’écran, les livres, la vaisselle, les souvenirs. Les systèmes Tomasella se composent module par module, à la mesure de ce mur-là.
+Un écran, des livres, de la vaisselle, des objets à exposer : les systèmes Tomasella se composent module par module selon votre mur, vos rangements et votre intérieur.
 
 [Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -25,9 +25,9 @@ Un mur, et tout ce qu’on veut y mettre : l’écran, les livres, la vaisselle
 
 Par où commencer
 
-## Quatre murs, quatre histoires.
+## Composez votre séjour autour de vos besoins.
 
-On ne choisit pas un meuble de séjour dans un catalogue : on part du mur, de ce qu’on range et de ce qu’on montre.
+Que souhaitez-vous ranger, exposer ou dissimuler ? Nous partons de votre mur pour choisir les modules et les finitions qui correspondent à votre pièce.
 
 1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
@@ -35,51 +35,51 @@ On ne choisit pas un meuble de séjour dans un catalogue : on part du mur, de c
 
    ### Cacher les câbles, montrer le reste.
 
-   Un écran, une box, des manettes, des câbles : tout ce qu’on préfère ne pas voir. Un meuble bas ou suspendu les fait disparaître derrière des portes, et laisse des niches ouvertes pour ce qu’on aime regarder. C’est le système Atlante.
+   Écran, box et câbles trouvent leur place dans une composition Atlante. Associez meubles bas ou suspendus, portes et niches ouvertes pour ranger ce qui doit disparaître et mettre le reste en valeur.
 
    [Tout Tomasella](https://fony.be/tomasella)
 2. (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
 
-   Les livres et les objets
+   Livres et objets
 
-   ### Une bibliothèque qui tient tout le mur.
+   ### Une bibliothèque adaptée à votre mur.
 
-   Du sol au plafond ou sur une seule travée, avec des niches éclairées pour les objets et des rangements fermés en bas. Les modules s’ajustent à la largeur du mur.
+   Sur toute la largeur du mur ou sur une seule travée, associez niches ouvertes, éclairage selon la composition et rangements fermés. Les modules s’ajustent à l’espace disponible.
 3. (Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
    Le quotidien
 
-   ### Des surfaces qui vivent bien.
+   ### Time : des rangements pour une pièce qui vit.
 
-   Un séjour sert tous les jours : on y pose un verre, un sac, un cartable. Le système Time associe laque et bois dans des compositions aux lignes simples, faites pour durer.
+   Le système Time associe laque et bois dans des compositions aux lignes simples. Choisissez les surfaces et les rangements en fonction de ce que vous utilisez chaque jour.
 4. (Photo : Table et buffet Tomasella dans un séjour urbain)
 
    La salle à manger
 
-   ### Le buffet assorti à la table.
+   ### Un buffet qui s’accorde au reste du séjour.
 
-   Le buffet reprend les bois et les laques du meuble TV : la pièce garde une seule ligne, du canapé à la table.
+   Retrouvez les bois et les laques du meuble TV dans votre buffet. Nous vous aidons à composer un ensemble cohérent avec votre table et votre canapé.
 
    [Voir les tables et chaises](https://fony.be/tables-chaises)
 
 Du salon au séjour complet
 
-## Un canapé d’abord, la pièce ensuite.
+## Du canapé au séjour complet.
 
-Rien ne vous oblige à tout refaire. Mais si le nouveau canapé donne envie d’aller plus loin, voici comment nous avançons, à votre rythme.
+Vous avez trouvé votre canapé, mais vous hésitez encore sur la couleur, le meuble TV ou la table ? Nous pouvons composer le reste de la pièce avec vous, sans obligation de tout changer.
 
-- ### La pièce
+- ### Votre pièce, notre point de départ.
 
-  Une photo et les dimensions du mur suffisent pour commencer. Si vous préférez, nous venons prendre les mesures chez vous.
-- ### Les matières
+  Apportez une photo et les dimensions de votre mur. Si vous préférez, nous venons relever les mesures chez vous.
+- ### Des matières qui s’accordent.
 
-  Bois, laques, tissu du canapé : nous comparons les échantillons côte à côte, avec la photo de votre pièce.
-- ### La composition
+  Comparez le tissu du canapé, les bois et les laques côte à côte, avec la photo de votre pièce.
+- ### Une composition adaptée à votre séjour.
 
-  Meuble TV, bibliothèque, buffet, table : nous assemblons les modules avec vous, à la largeur de votre mur.
-- ### La projection 3D
+  Meuble TV, bibliothèque, buffet et table : nous choisissons ensemble les éléments qui correspondent à votre espace.
+- ### Visualisez votre projet en 3D.
 
-  Vous voyez le projet en volume avant de décider : les proportions, les teintes, la place qui reste pour circuler.
+  Découvrez les volumes, les teintes et les passages avant de décider. La projection 3D vous aide à vous représenter l’ensemble.
 
 (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 

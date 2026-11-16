@@ -25,9 +25,9 @@ Canapés et fauteuils relax italiens et européens, du classique au contemporain
 
 Par où commencer
 
-## Trois façons de choisir votre salon.
+## Trois façons de choisir votre canapé.
 
-Un salon ne se choisit pas dans un tableau. On part de la pièce, de ceux qui s’y assoient, de la façon dont on y vit.
+Vous aimez vous allonger, recevoir ou simplement profiter d’un salon qui vous ressemble ? Partons de votre pièce et de vos habitudes pour choisir la bonne composition.
 
 1. (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
 
@@ -35,7 +35,7 @@ Un salon ne se choisit pas dans un tableau. On part de la pièce, de ceux qui s�
 
    ### Le relax qui ne se voit pas.
 
-   Assis, rien ne le trahit : c’est un canapé. Une commande sur l’accoudoir, et la place s’allonge, le dossier s’incline, l’appui-tête se redresse pour lire ou regarder un film. Chacun règle la sienne, sans déranger son voisin.
+   Selon le modèle, le dossier, le repose-jambes et l’appui-tête s’ajustent pour lire ou regarder un film. À deux, chacun choisit sa position sur les places équipées.
 
    [Tous les canapés relax électriques](https://fony.be/salon-canapes-relax-electriques)
    - [(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)  Nicoletti Memphis](https://fony.be/salon-nicoletti-memphis)
@@ -46,9 +46,9 @@ Un salon ne se choisit pas dans un tableau. On part de la pièce, de ceux qui s�
 
    Pour réunir tout le monde
 
-   ### L’angle qui dessine la pièce.
+   ### Un angle qui rassemble.
 
-   Dans un séjour ouvert, un canapé d’angle fait le travail d’une cloison : il sépare le salon de la salle à manger sans rien fermer. On s’y installe à plusieurs, et la chaise longue revient au premier arrivé.
+   Dans un séjour ouvert, le canapé d’angle dessine l’espace salon sans fermer la pièce. Choisissez son côté et sa composition selon vos passages et les personnes qui s’y installent.
 
    [Tous les canapés d’angle](https://fony.be/salon-canapes-angle)
    - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
@@ -56,11 +56,11 @@ Un salon ne se choisit pas dans un tableau. On part de la pièce, de ceux qui s�
    - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee](https://fony.be/salon-max-divani-coffee)
 3. (Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
 
-   Pour une pièce qui a du caractère
+   Pour donner du caractère à la pièce
 
-   ### Des formes que l’on remarque.
+   ### Des lignes qui changent le séjour.
 
-   Certains salons se regardent avant même que l’on s’y assoie : des lignes souples, des coussins généreux, une assise profonde. Ils vont aux intérieurs clairs et aux grands volumes, là où le canapé est le meuble principal.
+   Formes souples, coussins généreux ou assise profonde : chaque canapé a sa personnalité. Nous vous aidons à choisir la composition et le revêtement qui s’accordent à votre intérieur.
 
    [Toutes nos collections](https://fony.be/salon#fabricants)
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
@@ -122,7 +122,7 @@ Selon votre usage
 
 ## Relax, releveur, convertible.
 
-Trois usages différents, à choisir selon votre espace et vos habitudes. Tous se voient et s’essaient au magasin.
+Trois usages différents, à choisir selon votre espace et vos habitudes. Demandez-nous quels modèles sont à l’essai au magasin.
 
 - ### Le canapé relax électrique
 
@@ -185,7 +185,7 @@ Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place re
 
 - **Le relax** Le dossier s’incline et le repose-jambes se relève, ensemble ou séparément selon le modèle.
 - **La tête** L’appui-tête se redresse séparément, pour lire ou regarder l’écran.
-- **Le bas du dos** Un soutien lombaire réglable soulage le bas du dos (sur Memphis : version Comfort).
+- **Le bas du dos** Un soutien lombaire réglable complète le confort (sur Memphis : version Comfort).
 
 [Venir l’essayer](https://fony.be/salon#visite)
 

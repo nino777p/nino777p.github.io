@@ -1,6 +1,6 @@
 # Literie à Binche, boxsprings et matelas belges — Fony Meubles
 
-> Magasin de literie près de Binche : boxsprings, matelas et sommiers belges Velda, Axelsson et Polypreen, fixes ou électriques, à essayer allongé.
+> Literie près de Binche : boxsprings fixes ou électriques, matelas et sommiers belges Velda, Axelsson et Polypreen, à essayer allongé chez Fony Meubles.
 
 Adresse de la page : https://fony.be/literie
 
@@ -27,7 +27,7 @@ Choisir
 
 ## Trouver le couchage qui vous convient.
 
-Plusieurs couchages sont disponibles à l’essai. Comparez le soutien, l’accueil et les niveaux de fermeté en vous allongeant dans votre position habituelle. Le reste se commande au catalogue.
+Plusieurs couchages sont disponibles à l’essai. Comparez le soutien, l’accueil et les niveaux de fermeté en vous allongeant dans votre position habituelle. Tailles et finitions se choisissent ensuite selon le modèle.
 
 - 01
 

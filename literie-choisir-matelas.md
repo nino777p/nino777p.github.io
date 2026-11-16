@@ -52,7 +52,7 @@ Vous bougez beaucoup
 
 ### Léger ou costaud, ce n’est pas le même matelas.
 
-Une personne légère s’enfonce peu : un matelas trop ferme lui paraîtra dur. Une personne plus lourde a besoin d’un soutien plus affirmé. Il n’y a pas de règle absolue : c’est un point de départ, que l’essai confirme.
+Votre gabarit change la sensation d’accueil : le même matelas ne paraît pas aussi ferme à chacun. Comparez plusieurs fermetés dans votre position habituelle : le bon soutien dépend du matelas et de sa base.
 
 04 · Le sommier
 

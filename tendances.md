@@ -33,21 +33,21 @@ Ce qui revient cette saison
 
    ### Sable, lin, écru, grège
 
-   Ici, une laque mate Arena. Le beige convient aux grandes surfaces : il ne se démode pas, seule sa nuance évolue.
+   Ici, une laque mate Arena. Le beige offre une base facile à associer ; sa nuance change avec le sol et la lumière.
 2. (Photo : Échantillon Tomasella : pierre piasentina)
 
    Les pierres veinées
 
    ### Travertin, piasentina
 
-   Le travertin pour les tons clairs, la piasentina (la pierre ci-contre) pour les tons sombres. Idéales pour un plateau ou une table basse, elles lassent vite sur toute une pièce.
+   Le travertin pour les tons clairs, la piasentina (la pierre ci-contre) pour les tons sombres. Réservez-les aux surfaces où vous souhaitez créer un contraste, comme un plateau ou une table basse.
 3. (Photo : Échantillon Tomasella : noyer ambré)
 
    Les bois chaleureux
 
    ### Noyer ambré, chêne cognac, cannelures
 
-   Le choix le plus sûr : le bois n’a jamais quitté la mode.
+   Le bois apporte des nuances chaudes et s’associe facilement aux autres matières.
 
 Pièce par pièce
 
@@ -77,7 +77,7 @@ Pièce par pièce
 
    ### Des façades sobres, un intérieur qui change
 
-   **La base, pour longtemps.** Les façades dans un ton sobre, assorti au sol et aux portes. Elles se gardent une vingtaine d’années : c’est l’aménagement intérieur qui fait la différence au quotidien. **La tendance, en petit.** L’intérieur, les poignées, l’éclairage des penderies : démontables.
+   **La base, pour longtemps.** Les façades dans un ton sobre, assorti au sol et aux portes. C’est l’aménagement intérieur qui fait la différence au quotidien. **La tendance, en petit.** L’intérieur, les poignées, l’éclairage des penderies : démontables.
 
    [Voir la chambre](https://fony.be/literie)
 

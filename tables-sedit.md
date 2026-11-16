@@ -16,7 +16,7 @@ Tables fabriquées en Italie
 
 # Sedit
 
-Fabriquées en Italie. Céramique ou bois, fixes ou à rallonge.
+Une table Sedit se choisit par son plateau, son piètement et son format : céramique ou bois, fixe ou à rallonge.
 
 [Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -26,7 +26,7 @@ Fabriquées en Italie. Céramique ou bois, fixes ou à rallonge.
 
 Au magasin et sur catalogue
 
-## Une sélection de modèles.
+## Les tables Sedit.
 
 1. (Photo : Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée)
 
@@ -67,7 +67,7 @@ Voir aussi
 
 ## Venez voir nos tables au magasin.
 
-Une partie est exposée, le reste sur catalogue : dimensions, plateaux et couleurs du pied au choix.
+Dimensions, plateaux et couleurs du pied se choisissent avec nous, au magasin ou sur catalogue.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

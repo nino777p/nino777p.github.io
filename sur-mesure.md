@@ -15,7 +15,7 @@ Dressing, sous-pente, bibliothèque
 
 # Sur mesure
 
-Dessinés au centimètre, fabriqués par un atelier partenaire en Belgique et par Tomasella.
+Dressings, meubles TV et rangements adaptés à votre pièce : systèmes modulables Tomasella ou fabrication spécifique par notre atelier partenaire en Belgique.
 
 [Mon projet sur mesure](https://fony.be/magasin-contact?projet=sur-mesure#visite) [Voir ce que nous réalisons](https://fony.be/sur-mesure#realisations)
 
@@ -37,7 +37,7 @@ Murs irréguliers, pentes de toit, recoins : nous partons de la pièce telle qu
   Un mur entier : niches ouvertes et rangements fermés, selon ce que vous voulez montrer.
 - ### Meuble TV
 
-  Équipements intégrés, câbles cachés, et le lien avec le séjour.
+  Équipements intégrés et câbles cachés, dans une composition accordée au reste du séjour.
 - ### Sous-pente
 
   Des rangements qui suivent la pente du toit.

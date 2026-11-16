@@ -16,7 +16,7 @@ Salons fabriqués en Italie
 
 # Max Divani
 
-Fabriqués en Italie. Cuir, microfibre ou tissu.
+Dossiers avance-recule, lignes modulables ou relax selon les modèles : comparez les compositions et les revêtements au magasin.
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
@@ -26,7 +26,7 @@ Fabriqués en Italie. Cuir, microfibre ou tissu.
 
 Au magasin et sur catalogue
 
-## Une sélection de modèles.
+## Les canapés Max Divani.
 
 1. (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 

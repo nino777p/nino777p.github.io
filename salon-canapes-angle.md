@@ -12,21 +12,21 @@ Salon
 
 # Canapés d’angle.
 
-En angle ou avec chaise longue, à gauche ou à droite. Chaque fiche donne les dimensions des compositions proposées par le fabricant : nous dessinons avec vous celle qui convient à votre pièce.
+Chaise longue à gauche ou à droite, canapé d’angle ou composition ouverte : comparez les dimensions des fiches. Nous composons avec vous le salon qui laisse la bonne place pour circuler.
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 
 La sélection
 
-## Deux manières d’occuper l’angle.
+## Trouvez l’angle adapté à votre séjour.
 
 1. (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
 
-   Pour s’y installer à plusieurs
+   Pour s’installer à plusieurs
 
-   ### L’angle qui se règle.
+   ### L’angle qui s’adapte à vos habitudes.
 
-   Chaise longue à gauche ou à droite, appuie-têtes réglables, relax électrique en option : ces angles se composent place par place, selon la pièce et selon ceux qui s’y assoient.
+   À gauche ou à droite, avec appuie-têtes réglables ou relax électrique en option selon le modèle : choisissez les éléments qui correspondent à votre pièce et à vos habitudes.
 
    - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
    - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
@@ -34,9 +34,9 @@ La sélection
 
    Pour une pièce contemporaine
 
-   ### L’angle aux lignes basses.
+   ### Deux façons de vivre son canapé d’angle.
 
-   Des formes souples et une assise profonde pour l’un, des dossiers qui avancent ou reculent pour l’autre : deux façons de donner du caractère à un séjour.
+   Des formes souples et une assise profonde pour se détendre, ou des dossiers avance-recule pour moduler sa position : découvrez deux approches du confort.
 
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
    - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee](https://fony.be/salon-max-divani-coffee)

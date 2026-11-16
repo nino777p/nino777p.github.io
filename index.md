@@ -26,7 +26,7 @@ Les pièces
 
 ## Choisissez la pièce à aménager.
 
-Chaque pièce a ses usages, ses dimensions et ses contraintes. Découvrez les solutions que nous proposons pour la vôtre.
+Canapé, table, meuble TV ou dressing : découvrez les solutions à choisir séparément ou à composer ensemble.
 
 - (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
@@ -132,8 +132,8 @@ Nous sélectionnons des collections aux styles et aux finitions variés. Au maga
 ## Les fabricants que vous trouverez au magasin
 
 - [Max Divani : Salons](https://fony.be/salon-max-divani)
-- [Nicoletti : Le relax à trois moteurs](https://fony.be/salon#relax)
-- [Tomasella : Séjour et chambre](https://fony.be/living)
+- [Nicoletti : Le relax à trois moteurs](https://fony.be/salon-nicoletti)
+- [Tomasella : Séjour, dressing et chambre](https://fony.be/tomasella)
 - [Stosa : Cuisines italiennes](https://fony.be/cuisine)
 - [Velda : Literie de fabrication belge](https://fony.be/literie)
 - [Van Landschoot : Boxsprings Axelsson, fabrication belge](https://fony.be/literie#fab-van-landschoot)

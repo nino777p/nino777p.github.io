@@ -36,7 +36,7 @@ Pour venir
   [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
 - ### Préparer la visite
 
-  Pour ne faire la route qu’une fois, apportez les dimensions de votre pièce et, si vous le pouvez, quelques photos. Vous pouvez aussi nous décrire votre projet à l’avance : nous préparons votre venue.
+  Pour préparer votre déplacement, apportez les dimensions de votre pièce et, si vous le pouvez, quelques photos. Vous pouvez aussi nous décrire votre projet à l’avance : nous préparons votre venue.
 
   [Horaires et contact](https://fony.be/magasin-contact)
 - ### La livraison
