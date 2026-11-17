@@ -46,14 +46,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-tata#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-tata#composition) [Questions](https://fony.be/salon-max-divani-tata#questions)
 
-Présentation
-
-## Tata, en détail.
-
-Tata est un canapé d’angle Max Divani de grandes dimensions, à l’assise profonde. Ses appuie-têtes se relèvent, à la main ou électriquement selon les éléments, et le relax électrique se commande par boutons.
-
-L’assise repose sur des ressorts ensachés, avec un rembourrage en mousse. Tata se compose en angle ou avec une chaise longue, en cuir ou en tissu, avec des coutures contrastées en option.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -122,10 +114,6 @@ Vos questions
 ### Quelle place prévoir pour le relax ?
 
 Relax ouvert, Tata mesure 166 cm de profondeur, contre 117 cm refermé.
-
-### Quelle est la plus grande composition ?
-
-L’angle ouvert présenté par le fabricant mesure 439 cm sur 224 cm.
 
 Voir aussi
 

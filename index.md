@@ -26,61 +26,52 @@ Au magasin
 
 ## Ce qui fait la différence.
 
-- ### On essaie avant de choisir
+- (Photo : Gros plan sur une place relax ouverte du canapé en cuir cognac, appui-tête relevé)
 
-  Salons, relax, matelas, tables à rallonge : asseyez-vous, allongez-vous, ouvrez les mécanismes exposés.
-- ### Le meilleur de chaque fabricant
+  ### Voir, toucher, s’asseoir
 
-  Une armoire d’un fabricant, un boxspring d’un autre, la table d’un troisième : nous composons votre intérieur en les associant.
-- ### Un seul interlocuteur
+  Salons, matelas et tables sont exposés au magasin.
+- (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
 
-  Votre conseiller suit votre projet du premier croquis à la pose. Nous livrons vos meubles par nos soins.
+  ### Le meilleur de chaque fabricant
 
-  [Les étapes d’un projet](https://fony.be/#methode)
-- ### Mesures et projection 3D
+  L’armoire de l’un, le boxspring de l’autre.
+- (Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
 
-  Si vous le souhaitez, nous venons relever les mesures chez vous. Pour un aménagement, une projection 3D vous montre le projet.
+  ### Un seul interlocuteur
 
-  [Ce qu’en disent nos clients](https://fony.be/#avis)
+  Du premier croquis à la pose, livré par nos soins.
+- (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
+
+  ### Mesures et projection 3D
+
+  Chez vous si vous le souhaitez ; en 3D pour un aménagement.
 
 Les univers
 
 ## Trois univers, un intérieur qui vous ressemble.
 
-Choisir un meuble ou repenser une pièce entière : nous vous accompagnons à votre rythme.
+- (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
-1. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+  Espace de vie
 
-   Espace de vie
+  ### [Un lieu où l’on aime se retrouver.](https://fony.be/espace-de-vie)
 
-   ### Un lieu où l’on aime se retrouver.
+  Découvrir →
+- (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
-   Du canapé à la table, du meuble TV à la cuisine : composez la pièce où l’on vit.
+  Espace nuit
 
-   - [Salon](https://fony.be/salon)
-   - [Salle à manger](https://fony.be/tables-chaises)
-   - [Séjour](https://fony.be/living)
-   - [Cuisine](https://fony.be/cuisine)
-2. (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
+  ### [Un couchage qui vous convient.](https://fony.be/espace-nuit)
 
-   Espace nuit
+  Découvrir →
+- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
-   ### Un couchage qui vous convient.
+  Rangements et aménagement
 
-   Le plaisir d’un bon lit, et une chambre où chaque meuble trouve sa place.
+  ### [Une solution adaptée à votre espace.](https://fony.be/rangements)
 
-   - [Literie](https://fony.be/literie)
-   - [Chambre](https://fony.be/chambre)
-3. (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
-
-   Rangements et aménagement
-
-   ### Une solution adaptée à votre espace.
-
-   Un dressing, une bibliothèque, un mur à repenser : imaginons-la ensemble.
-
-   - [Sur mesure](https://fony.be/sur-mesure)
-   - [Tomasella](https://fony.be/tomasella)
+  Découvrir →
 
 Avis clients
 

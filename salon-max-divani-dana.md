@@ -38,15 +38,7 @@ Un fauteuil rond, fixe ou pivotant à 360°, souligné d’une bande de cuir. En
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
-[Caractéristiques](https://fony.be/salon-max-divani-dana#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-dana#composition) [Questions](https://fony.be/salon-max-divani-dana#questions)
-
-Présentation
-
-## Dana, en détail.
-
-Dana est un fauteuil Max Divani aux formes rondes, sur une structure en bois garnie de mousse. Il existe en version fixe, ou pivotante à 360° sur une base en métal.
-
-Une bande de cuir souligne l’accoudoir, avec des coutures ton sur ton ou contrastées. Dana se choisit en cuir ou en tissu et se complète de deux poufs assortis.
+[Caractéristiques](https://fony.be/salon-max-divani-dana#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-dana#composition)
 
 Caractéristiques
 
@@ -104,18 +96,6 @@ Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui
 - Tissu
 
 [Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Dana&demande=devis#visite)
-
-Vos questions
-
-## Avant de choisir Dana.
-
-### Le fauteuil Dana pivote-t-il ?
-
-Il existe en deux versions : fixe, ou pivotante à 360° sur une base en métal.
-
-### Quelles sont ses dimensions ?
-
-104 cm de large, 93 cm de profondeur et 74 cm de haut, pour une assise à 40 cm du sol.
 
 Voir aussi
 

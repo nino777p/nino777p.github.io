@@ -41,14 +41,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-ontario#caracteristiques) [Questions](https://fony.be/tables-akante-ontario#questions)
 
-Présentation
-
-## Ontario, en détail.
-
-Ontario est une table de repas Akante au plateau rectangulaire en céramique. Ses deux rallonges latérales s’ouvrent indépendamment : on en sort une pour deux convives de plus, ou les deux.
-
-Elle existe en 150 et 190 cm de long pour 100 cm de large, et en Grande Ontario de 200 × 120 cm, qui s’ouvre à 3 mètres pour douze convives. Le piétement est en acier laqué noir.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -82,10 +74,6 @@ Finitions du plateau
 Vos questions
 
 ## Avant de choisir Ontario.
-
-### Jusqu’à combien de convives pour la table Ontario ?
-
-Jusqu’à 8 ou 10 places ouverte selon la longueur, et jusqu’à 12 pour la Grande Ontario, qui mesure alors 3 mètres.
 
 ### Peut-on n’ouvrir qu’une rallonge ?
 

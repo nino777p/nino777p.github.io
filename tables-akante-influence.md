@@ -29,7 +29,7 @@ Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied
 
 - Deux rallonges latérales indépendantes de 40 cm
 - Deux longueurs : 150 ou 190 cm, 230 ou 270 cm ouverte
-- Piétement en acier laqué noir ou taupe
+- Piétement en acier laqué noir, ou taupe avec les plateaux Marbre mat et Argile
 - Plateau en céramique collée sur verre
 
 - Dimensions, plateau et finitions au choix
@@ -39,15 +39,7 @@ Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
-[Caractéristiques](https://fony.be/tables-akante-influence#caracteristiques) [Questions](https://fony.be/tables-akante-influence#questions)
-
-Présentation
-
-## Influence, en détail.
-
-Influence est une table de repas Akante au plateau rectangulaire en céramique, portée par un pied central à branches en acier. Ses deux rallonges latérales de 40 cm s’ouvrent indépendamment l’une de l’autre.
-
-Elle existe en 150 et 190 cm de long pour 100 cm de large ; ouverte, elle mesure 230 ou 270 cm. Le piétement se choisit en noir, ou en taupe avec les plateaux Marbre mat et Argile.
+[Caractéristiques](https://fony.be/tables-akante-influence#caracteristiques)
 
 Caractéristiques
 
@@ -77,18 +69,6 @@ Finitions du plateau
 |  |  |
 | --- | --- |
 | Céramique | Acier, Titane, Argile, Chêne clair, Silver, Travertin, Marbre Calcatta, Marbre Fiorentino, Marbre mat, Marbre Doro |
-
-Vos questions
-
-## Avant de choisir Influence.
-
-### Quelles sont les dimensions de la table Influence ?
-
-150 × 100 cm ou 190 × 100 cm fermée ; 230 ou 270 cm de long, rallonges ouvertes.
-
-### Le pied existe-t-il en une autre couleur que le noir ?
-
-Oui, en taupe, avec les plateaux Marbre mat et Argile.
 
 Voir aussi
 

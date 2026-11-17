@@ -39,14 +39,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-coffee#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-coffee#composition) [Questions](https://fony.be/salon-max-divani-coffee#questions)
 
-Présentation
-
-## Coffee, en détail.
-
-Coffee est un canapé avance-recule de Max Divani, posé sur un piètement en métal. Chaque dossier s’avance pour s’asseoir droit, ou se recule pour s’installer plus profondément.
-
-L’assise est en mousse ; le dossier et les accoudoirs associent mousse et plumes. Coffee se compose en deux ou trois places, avec une chaise longue ou en angle, et se complète d’un pouf assorti. Il se choisit en cuir, en tissu ou en microfibre, avec des coutures contrastées en option.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -114,14 +106,6 @@ Vos questions
 ### Qu’est-ce qu’un canapé avance-recule ?
 
 Le dossier coulisse : avancé, on s’assoit droit ; reculé, l’assise est plus profonde. Sur Coffee, la profondeur passe de 112 à 140 cm.
-
-### Coffee existe-t-il en angle ?
-
-Oui : en angle, avec une chaise longue, ou en canapé droit de deux ou trois places.
-
-### Dans quels revêtements ?
-
-En cuir, en tissu ou en microfibre, avec des coutures contrastées en option.
 
 Voir aussi
 

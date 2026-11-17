@@ -58,14 +58,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-zebra#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-zebra#composition) [Questions](https://fony.be/salon-max-divani-zebra#questions)
 
-Présentation
-
-## Zebra, en détail.
-
-Zebra est un canapé Max Divani à appuie-têtes réglables, posé sur des pieds en métal. Il se compose en angle avec chaise longue, à gauche ou à droite, ou en canapé droit de deux ou trois places.
-
-Chaque version existe en fixe ou avec relax électrique, commandé par boutons. L’assise se choisit en mousse standard ou ferme, le revêtement en tissu ou en cuir, avec des détails en cuir en option.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -135,13 +127,9 @@ Vos questions
 
 ## Avant de choisir Zebra.
 
-### L’angle peut-il se placer à gauche comme à droite ?
-
-Oui, Zebra se commande avec l’angle à gauche ou à droite.
-
 ### Quelle place prévoir pour le relax ?
 
-Relax ouvert, Zebra mesure 162 cm de profondeur, contre 110 cm refermé.
+Relax ouvert, Zebra mesure 162 cm de profondeur, contre 110 cm refermé. Prévoyez ce dégagement devant le canapé.
 
 Voir aussi
 

@@ -40,14 +40,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-nicoletti-charleston#caracteristiques) [Composition et revêtements](https://fony.be/salon-nicoletti-charleston#composition) [Questions](https://fony.be/salon-nicoletti-charleston#questions)
 
-Présentation
-
-## Charleston, en détail.
-
-Charleston est un canapé relax de Nicoletti Home, dessiné par Abruzzese, posé sur des pieds en métal. Ses appuie-têtes se relèvent à la main ; les versions relax sont électriques, avec une commande à prise USB placée sur le flanc de l’accoudoir.
-
-Nous ne proposons plus ce modèle à la commande. Nous gardons sa fiche technique pour celles et ceux qui le recherchent ou le possèdent. Pour un canapé relax du même fabricant, à essayer au magasin, voyez Oakland.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -68,6 +60,7 @@ Fabrication
 
 |  |  |
 | --- | --- |
+| Dessin | Abruzzese |
 | Structure | Sapin, multiplis et aggloméré, recouverts de mousse polyuréthane |
 | Suspension | Sangles élastiques |
 | Assise, dossier et accoudoirs | Mousse polyuréthane, ouate 100 % polyester |
@@ -124,10 +117,6 @@ Vos questions
 ### Peut-on encore commander Charleston chez Fony ?
 
 Non, nous ne proposons plus ce modèle à la commande. Pour un canapé relax Nicoletti à essayer au magasin, voyez [Oakland](https://fony.be/salon-nicoletti-oakland) ou [Memphis](https://fony.be/salon-nicoletti-memphis).
-
-### Quelles sont les dimensions de Charleston ?
-
-Le trois places mesure 210 cm de large, le deux places 175 cm, pour 109 cm de profondeur et 79 cm de hauteur. Relax ouvert, la profondeur atteint 164 cm.
 
 Voir aussi
 

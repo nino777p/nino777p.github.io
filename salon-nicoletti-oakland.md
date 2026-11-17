@@ -52,16 +52,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-nicoletti-oakland#caracteristiques) [Composition et revêtements](https://fony.be/salon-nicoletti-oakland#composition) [Questions](https://fony.be/salon-nicoletti-oakland#questions)
 
-Présentation
-
-## Oakland, en détail.
-
-Oakland est un canapé relax de Nicoletti Home, dessiné par le bureau d’études de la maison. Il fait partie de la gamme Cozy³, les relax électriques du fabricant.
-
-Il existe en trois versions électriques. La première incline le dossier et l’assise. La deuxième y ajoute une têtière motorisée. La version Comfort ajoute encore un soutien lombaire. La commande, placée sur le flanc de l’accoudoir, comporte une prise USB-C ; sur les deux versions les plus équipées, un bouton ramène le relax en position initiale.
-
-Oakland se choisit en fauteuil, en deux ou en trois places, ou se compose à partir d’éléments avec ou sans accoudoir. Nous dessinons avec vous la composition adaptée à votre pièce.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -82,6 +72,8 @@ Fabrication
 
 |  |  |
 | --- | --- |
+| Dessin | Bureau d’études Nicoletti Home |
+| Gamme | Cozy³, les relax électriques du fabricant |
 | Structure | Sapin, multiplis et aggloméré, recouverts de mousse polyuréthane |
 | Suspension | Sangles élastiques |
 | Assise | Mousse polyuréthane, ouate 100 % polyester |

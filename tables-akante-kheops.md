@@ -41,14 +41,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-kheops#caracteristiques) [Questions](https://fony.be/tables-akante-kheops#questions)
 
-Présentation
-
-## Kheops, en détail.
-
-Kheops est une table de repas Akante au plateau en céramique. Deux rallonges latérales sont rangées sous le plateau et sortent ensemble, grâce à un mécanisme synchronisé.
-
-Elle existe en trois longueurs : 120 cm, 130 cm, et 160 cm pour la Grande Kheops. Ouverte, elle passe à 180, 190 ou 240 cm. Le piétement est en acier laqué noir mat, et le plateau se choisit parmi douze finitions de céramique.
-
 Caractéristiques
 
 ## Fiche technique.

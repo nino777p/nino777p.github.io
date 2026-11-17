@@ -52,16 +52,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-nicoletti-memphis#caracteristiques) [Composition et revêtements](https://fony.be/salon-nicoletti-memphis#composition) [Questions](https://fony.be/salon-nicoletti-memphis#questions)
 
-Présentation
-
-## Memphis, en détail.
-
-Memphis est un canapé relax de Nicoletti Home, dessiné par Abruzzese. Ses lignes sont nettes et ses accoudoirs larges : refermé, il garde l’allure d’un canapé classique.
-
-En version électrique, une commande placée sur le côté de l’accoudoir incline ensemble l’assise et le dossier, et relève la têtière indépendamment. La version Comfort ajoute un soutien lombaire réglable. La commande comporte une prise USB-C pour recharger un téléphone, et un bouton qui ramène le relax en position initiale.
-
-Le modèle se compose à partir d’éléments : fauteuil, deux places, angle, éléments avec ou sans accoudoir, fixes ou relax. Nous dessinons avec vous la composition adaptée à votre pièce.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -83,6 +73,7 @@ Fabrication
 
 |  |  |
 | --- | --- |
+| Dessin | Abruzzese |
 | Structure | Sapin, multiplis, aggloméré et masonite, recouverts de mousse polyuréthane |
 | Suspension | Sangles élastiques |
 | Assise | Coussins à ressorts ensachés enrobés de mousse polyuréthane, ouate 100 % polyester |

@@ -41,14 +41,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-austin#caracteristiques) [Questions](https://fony.be/tables-akante-austin#questions)
 
-Présentation
-
-## Austin, en détail.
-
-Austin est une table de repas Akante au plateau en céramique. Fermée, elle est oblongue et prend peu de place ; ouverte, ses deux rallonges latérales complètent le plateau, qui devient un cercle.
-
-La New Austin existe en deux tailles : 135 × 95 cm, ronde de 135 cm une fois ouverte, et 150 × 100 cm, ronde de 150 cm. La Grande Austin mesure 190 × 115 cm fermée et s’ouvre en un cercle de 190 cm pour dix convives.
-
 Caractéristiques
 
 ## Fiche technique.

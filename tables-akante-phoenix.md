@@ -41,14 +41,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-phoenix#caracteristiques) [Questions](https://fony.be/tables-akante-phoenix#questions)
 
-Présentation
-
-## Phoenix, en détail.
-
-Phoenix est une table de repas Akante au plateau en céramique, posée sur un pied central en étoile en acier laqué noir mat. La rallonge est rangée au centre du plateau : elle se déploie sans rien aller chercher ailleurs.
-
-Elle existe en deux longueurs, 160 ou 200 cm, pour une même largeur de 100 cm. Ouverte, elle mesure 210 ou 260 cm. Le plateau se choisit parmi onze finitions de céramique, du travertin au marbre.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -85,10 +77,6 @@ Vos questions
 ### Où se range la rallonge de la table Phoenix ?
 
 Dans la table : c’est une rallonge centrale automatique, de 50 ou 60 cm selon la longueur choisie.
-
-### Combien de personnes autour de Phoenix ?
-
-Jusqu’à 6 places en 160 cm et 8 en 200 cm ; rallonge ouverte, jusqu’à 8 et 10 places.
 
 Voir aussi
 

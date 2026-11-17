@@ -45,14 +45,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-gala#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-gala#composition) [Questions](https://fony.be/salon-max-divani-gala#questions)
 
-Présentation
-
-## Gala, en détail.
-
-Gala est un canapé modulable Max Divani aux formes souples. L’assise, le dossier et les accoudoirs sont garnis de mousse et de plumes, sur une structure en bois.
-
-Il se compose à partir d’éléments : canapé droit, chaise longue, angle, fauteuil et pouf. Gala se choisit en cuir ou en tissu ; un détail en cuir, proposé en six coloris, souligne l’accoudoir. Les coutures contrastées sont en option.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -130,10 +122,6 @@ Vos questions
 ### Gala existe-t-il en angle ?
 
 Oui. Le fabricant présente deux compositions d’angle, de 378 × 277 cm et de 418 × 291 cm ; d’autres se composent à partir des éléments.
-
-### De quoi sont garnis les coussins ?
-
-De mousse et de plumes, pour l’assise, le dossier et les accoudoirs.
 
 Voir aussi
 

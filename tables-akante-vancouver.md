@@ -25,7 +25,7 @@ Akante · Table de repas extensible
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
-Une table à rallonge centrale automatique, sur un pied central à branches en acier noir. Plateau en céramique aux bords arrondis, en deux longueurs : 160 ou 200 cm fermée.
+Une table à rallonge centrale automatique, sur un pied central à branches en acier laqué noir mat. Plateau en céramique aux bords arrondis, en deux longueurs : 160 ou 200 cm fermée.
 
 - Rallonge centrale automatique de 50 ou 60 cm
 - Deux longueurs : 160 ou 200 cm, 210 ou 260 cm ouverte
@@ -40,14 +40,6 @@ Une table à rallonge centrale automatique, sur un pied central à branches en a
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-vancouver#caracteristiques) [Questions](https://fony.be/tables-akante-vancouver#questions)
-
-Présentation
-
-## Vancouver, en détail.
-
-Vancouver est une table de repas Akante au plateau en céramique aux bords arrondis. La rallonge est rangée au centre du plateau et se déploie automatiquement.
-
-Elle existe en 160 et 200 cm de long pour 100 cm de large ; ouverte, elle mesure 210 ou 260 cm. Le pied central à branches est en acier laqué noir mat, et le plateau se choisit parmi onze finitions.
 
 Caractéristiques
 

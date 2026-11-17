@@ -715,6 +715,39 @@ background:var(--fond);color:var(--encre)}
 .sequence-etape{flex:0 0 84%;scroll-snap-align:start}
 .sequence-etapes:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
 }
+.affiches{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.affiches--4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.affiche{position:relative;border-radius:var(--rayon-photo);overflow:hidden;color:#fff}
+.affiche .cadre{aspect-ratio:4/5;border-radius:0}
+.affiche .cadre::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(18,16,14,0) 22%,rgba(18,16,14,.55) 62%,rgba(18,16,14,.9) 100%)}
+.affiche .cadre img{transition:transform .65s var(--courbe)}
+.affiche-texte{position:absolute;left:0;right:0;bottom:0;padding:24px 22px 22px;display:flex;flex-direction:column;gap:8px}
+.affiche-surtitre{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.86)}
+.affiche .nom{font-size:26px;line-height:1.12;color:#fff}
+.affiche .nom a{color:#fff;text-decoration:none}
+.affiche .nom a::after{content:"";position:absolute;inset:-1200px 0 0 0;z-index:1}
+.affiche .nom a:focus-visible{outline:none}
+.affiche:focus-within{outline:3px solid var(--accent);outline-offset:3px}
+.affiche .nom a:focus-visible::after{outline:3px solid #fff;outline-offset:-6px}
+.affiche-ligne{font-size:15px;line-height:1.45;color:rgba(255,255,255,.92);max-width:34ch}
+.affiche-fleche{margin-top:4px;font-size:15px;font-weight:600;color:#fff}
+@media (hover:hover){.affiche:hover .cadre img{transform:scale(1.035)}}
+.affiches--pile.affiches--4{grid-template-columns:1fr 1fr}.affiches--pile.affiches--4 .affiche .cadre,.affiches--pile.affiches--2 .affiche .cadre{aspect-ratio:16/10}.affiches--pile.affiches--2{grid-template-columns:1fr 1fr}
+@media (max-width:960px){.affiches--4{grid-template-columns:1fr 1fr}.affiches{gap:12px}.affiche .nom{font-size:22px}}
+@media (max-width:560px){
+.affiches{grid-template-columns:1fr}
+.affiches .affiche .cadre{aspect-ratio:16/10}
+.affiches--4{grid-template-columns:1fr 1fr}
+.affiches--4 .affiche .cadre{aspect-ratio:4/5}
+.affiches--4 .affiche-texte{padding:14px 12px 12px;gap:4px}
+.affiches--4 .affiche .nom{font-size:17px}
+.affiches--4 .affiche-ligne{font-size:12.5px;line-height:1.35}
+.affiches--pile.affiches--4,.affiches--pile.affiches--2{grid-template-columns:1fr}
+.affiches--pile.affiches--4 .affiche .cadre{aspect-ratio:16/10}
+.affiches--pile.affiches--4 .affiche-texte{padding:24px 22px 22px;gap:8px}
+.affiches--pile.affiches--4 .affiche .nom{font-size:22px}
+.affiches--pile.affiches--4 .affiche-ligne{font-size:15px;line-height:1.45}
+}
 .apparition .vient{opacity:0;transform:translateY(10px)}
 .apparition .vient.vu{opacity:1;transform:none;transition:opacity .55s var(--courbe),transform .55s var(--courbe)}
 .apparition .vient.vu:nth-child(2){transition-delay:50ms}

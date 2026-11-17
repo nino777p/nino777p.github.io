@@ -41,15 +41,7 @@ La composition exposée change au fil des arrivages. Cuir et tissu à voir au ma
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
-[Caractéristiques](https://fony.be/salon-max-divani-emu#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-emu#composition) [Questions](https://fony.be/salon-max-divani-emu#questions)
-
-Présentation
-
-## Emu, en détail.
-
-Emu est un canapé Max Divani posé sur des pieds en métal. Ses appuie-têtes se règlent à la main, et le relax électrique, en option, se commande par boutons.
-
-Il se compose en deux ou trois places, avec une chaise longue ou en angle, sur une structure en bois garnie de mousse, en confort standard ou ferme. Emu se choisit en cuir ou en tissu, avec des coutures contrastées en option.
+[Caractéristiques](https://fony.be/salon-max-divani-emu#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-emu#composition)
 
 Caractéristiques
 
@@ -120,18 +112,6 @@ Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui
 - Tissu
 
 [Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Emu&demande=devis#visite)
-
-Vos questions
-
-## Avant de choisir Emu.
-
-### Quelle hauteur fait Emu, appui-tête relevé ?
-
-97 cm, contre 77 cm appui-tête abaissé.
-
-### Emu existe-t-il avec relax ?
-
-Oui, le relax électrique à boutons est en option, en deux ou trois places comme en angle.
 
 Voir aussi
 

@@ -41,14 +41,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-missouri#caracteristiques) [Questions](https://fony.be/tables-akante-missouri#questions)
 
-Présentation
-
-## Missouri, en détail.
-
-Missouri est la grande table de repas Akante. Ses deux rallonges latérales de 40 cm s’ouvrent indépendamment l’une de l’autre : on en sort une, ou les deux.
-
-Elle existe en 150 × 110 cm et en 190 × 120 cm ; ouverte, elle mesure 230 ou 270 cm et reçoit jusqu’à dix ou douze convives. Le plateau est en céramique marbrée, dans quatre finitions, sur un piétement en acier laqué noir mat.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -81,10 +73,6 @@ Finitions du plateau
 Vos questions
 
 ## Avant de choisir Missouri.
-
-### Combien de personnes autour de la table Missouri ?
-
-Jusqu’à 6 ou 8 places fermée selon la longueur, et jusqu’à 10 ou 12 places rallonges ouvertes.
 
 ### Peut-on n’ouvrir qu’une rallonge ?
 

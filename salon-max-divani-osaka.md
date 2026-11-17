@@ -52,14 +52,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-osaka#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-osaka#composition) [Questions](https://fony.be/salon-max-divani-osaka#questions)
 
-Présentation
-
-## Osaka, en détail.
-
-Osaka est un salon Max Divani posé sur des pieds en bois. Il se compose d’un trois places, d’un deux places et d’un fauteuil assortis.
-
-L’assise repose sur des ressorts ensachés, avec un rembourrage en mousse, en confort standard ou ferme ; le dossier est garni de flocons de polyester. Le trois places peut recevoir deux relax électriques, commandés par boutons. Osaka se choisit en tissu ou en cuir, avec des coutures contrastées en option.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -118,10 +110,6 @@ Vos questions
 ### Peut-on avoir un relax sur Osaka ?
 
 Oui : le trois places peut recevoir deux relax électriques. Relax ouvert, il mesure 153 cm de profondeur, contre 95 cm refermé.
-
-### Peut-on choisir la fermeté de l’assise ?
-
-Oui, Osaka se commande en confort standard ou ferme.
 
 Voir aussi
 

@@ -55,14 +55,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-curry#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-curry#composition) [Questions](https://fony.be/salon-max-divani-curry#questions)
 
-Présentation
-
-## Curry, en détail.
-
-Curry est un salon Max Divani à appuie-têtes réglables, posé sur des pieds en métal. Le trois places se compose de deux grandes assises ; un deux places et un fauteuil complètent l’ensemble.
-
-L’assise repose sur des ressorts ensachés, avec un rembourrage en mousse ; le dossier associe mousse et flocons de polyester. Le trois places peut recevoir deux relax électriques. Curry se choisit en cuir ou en tissu microfibre, avec des coutures contrastées en option.
-
 Caractéristiques
 
 ## Fiche technique.
@@ -125,10 +117,6 @@ Vos questions
 ### Peut-on avoir un relax sur Curry ?
 
 Oui : le trois places peut recevoir deux relax électriques. Relax ouvert, il mesure 156 cm de profondeur, contre 98 cm refermé.
-
-### Curry existe-t-il en tissu ?
-
-Oui, en tissu microfibre, ou en cuir.
 
 Voir aussi
 

@@ -44,14 +44,6 @@ Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-milazzo#caracteristiques) [Questions](https://fony.be/tables-akante-milazzo#questions)
 
-Présentation
-
-## Milazzo, en détail.
-
-Milazzo est une table de repas Akante au plateau en céramique. Deux rallonges latérales sont rangées sous le plateau ; un mécanisme synchronisé les fait apparaître ensemble.
-
-Elle existe en deux formats : 120 × 90 cm et 130 × 100 cm, qui s’ouvrent à 180 et 190 cm. Le piétement est en acier laqué noir mat, et le plateau se choisit parmi douze finitions de céramique.
-
 Caractéristiques
 
 ## Fiche technique.
