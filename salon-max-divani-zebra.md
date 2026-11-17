@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/salon-max-divani-zebra
 3. [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
 4. Max Divani Zebra
 
+[← Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+
 Max Divani · Canapé d’angle et canapé relax
 
 # Max Divani Zebra
@@ -34,6 +36,8 @@ Max Divani · Canapé d’angle et canapé relax
 - (Photo : Canapé d’angle Zebra vu depuis la chaise longue, appuie-têtes relevés)
 
   Vu depuis la chaise longue.
+
+1 / 7
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 

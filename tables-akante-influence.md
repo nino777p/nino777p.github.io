@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/tables-akante-influence
 3. [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
 4. Akante Influence
 
+[← Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+
 Akante · Table de repas extensible
 
 # Akante Influence
@@ -22,6 +24,8 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Influence sur fond blanc, plateau en céramique chêne clair)
 
   Plateau chêne clair.
+
+1 / 3
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 

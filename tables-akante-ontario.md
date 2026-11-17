@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/tables-akante-ontario
 3. [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
 4. Akante Ontario
 
+[← Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+
 Akante · Table de repas extensible
 
 # Akante Ontario
@@ -22,6 +24,8 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)
 
   Grande Ontario dans une salle à manger.
+
+1 / 3
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 

@@ -8,6 +8,8 @@ Adresse de la page : https://fony.be/salon-max-divani-gala
 2. [Salon](https://fony.be/salon)
 3. Max Divani Gala
 
+[← Salon](https://fony.be/salon)
+
 Max Divani · Canapé modulable
 
 # Max Divani Gala
@@ -21,6 +23,8 @@ Max Divani · Canapé modulable
 - (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
   Canapé et fauteuils assortis.
+
+1 / 3
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 

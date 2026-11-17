@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/salon-nicoletti-oakland
 3. [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
 4. Nicoletti Oakland
 
+[← Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+
 Nicoletti Home · Canapé relax électrique
 
 # Nicoletti Oakland
@@ -28,6 +30,8 @@ Nicoletti Home · Canapé relax électrique
 - (Photo : Gros plan sur l’accoudoir et l’assise d’un canapé en tissu gris chiné)
 
   En tissu.
+
+1 / 5
 
 Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
 

@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/tables-akante-missouri
 3. [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
 4. Akante Missouri
 
+[← Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+
 Akante · Table de repas extensible
 
 # Akante Missouri
@@ -22,6 +24,8 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Missouri au plateau marbré clair dans une salle à manger, chaises vertes, parquet en bois)
 
   Dans une salle à manger.
+
+1 / 3
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 

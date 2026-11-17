@@ -8,6 +8,8 @@ Adresse de la page : https://fony.be/salon-max-divani-dana
 2. [Salon](https://fony.be/salon)
 3. Max Divani Dana
 
+[← Salon](https://fony.be/salon)
+
 Max Divani · Fauteuil, fixe ou pivotant
 
 # Max Divani Dana
@@ -21,6 +23,8 @@ Max Divani · Fauteuil, fixe ou pivotant
 - (Photo : Fauteuil rond en tissu clair à bande de cuir sombre, avec ses poufs, dans une chambre)
 
   Avec ses poufs.
+
+1 / 3
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 

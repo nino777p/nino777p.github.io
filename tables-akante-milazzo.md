@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/tables-akante-milazzo
 3. [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
 4. Akante Milazzo
 
+[← Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+
 Akante · Table de repas extensible
 
 # Akante Milazzo
@@ -25,6 +27,8 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Milazzo au plateau chêne clair entourée de quatre fauteuils en velours terracotta)
 
   Dans une salle à manger.
+
+1 / 4
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 

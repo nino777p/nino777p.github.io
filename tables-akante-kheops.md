@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/tables-akante-kheops
 3. [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
 4. Akante Kheops
 
+[← Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+
 Akante · Table de repas extensible
 
 # Akante Kheops
@@ -22,6 +24,8 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Kheops au plateau en céramique argile devant un mur vert, avec une chaise noire et un lampadaire)
 
   Plateau en céramique argile.
+
+1 / 3
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 

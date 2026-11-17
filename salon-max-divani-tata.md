@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/salon-max-divani-tata
 3. [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
 4. Max Divani Tata
 
+[← Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+
 Max Divani · Canapé d’angle relax
 
 # Max Divani Tata
@@ -25,6 +27,8 @@ Max Divani · Canapé d’angle relax
 - (Photo : Détail de l’accoudoir du canapé Tata : tissu camel et filet doré)
 
   L’accoudoir et son filet doré.
+
+1 / 4
 
 Photo : Max Divani. Visuel du fabricant, coloris non contractuel.
 

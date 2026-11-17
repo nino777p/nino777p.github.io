@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/salon-max-divani-osaka
 3. [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
 4. Max Divani Osaka
 
+[← Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+
 Max Divani · Canapé et fauteuil, relax en option
 
 # Max Divani Osaka
@@ -28,6 +30,8 @@ Max Divani · Canapé et fauteuil, relax en option
 - (Photo : Détail du canapé Osaka en cuir gris anthracite : accoudoir et pied en bois)
 
   L’accoudoir et le pied en bois.
+
+1 / 5
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 

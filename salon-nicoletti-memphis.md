@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/salon-nicoletti-memphis
 3. [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
 4. Nicoletti Memphis
 
+[← Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+
 Nicoletti Home · Canapé relax électrique
 
 # Nicoletti Memphis
@@ -28,6 +30,8 @@ Nicoletti Home · Canapé relax électrique
 - (Photo : Canapé relax deux places en tissu grège, une place ouverte et sa têtière relevée)
 
   En tissu.
+
+1 / 5
 
 Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
 

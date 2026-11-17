@@ -135,7 +135,7 @@ Vos questions
 
 ### Que faut-il apporter au magasin ?
 
-Les cotes du mur — largeur, hauteur, profondeur — une photo, et une idée de ce que vous voulez ranger. Sans mesures, nous venons les relever.
+Les cotes du mur — largeur, hauteur, profondeur — une photo, et une idée de ce que vous voulez ranger. Sans mesures, nous pouvons venir les relever si vous le souhaitez.
 
 ### Quel délai faut-il prévoir ?
 

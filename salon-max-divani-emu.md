@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/salon-max-divani-emu
 3. [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
 4. Max Divani Emu
 
+[← Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+
 Max Divani · Canapé d’angle et canapé relax
 
 # Max Divani Emu
@@ -19,6 +21,8 @@ Max Divani · Canapé d’angle et canapé relax
 - (Photo : Gros plan sur une place relax ouverte du canapé en cuir cognac, appui-tête relevé)
 
   Une place relax ouverte.
+
+1 / 2
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 

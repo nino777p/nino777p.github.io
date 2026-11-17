@@ -8,6 +8,8 @@ Adresse de la page : https://fony.be/salon-max-divani-coffee
 2. [Salon](https://fony.be/salon)
 3. Max Divani Coffee
 
+[← Salon](https://fony.be/salon)
+
 Max Divani · Canapé avance-recule, droit ou en angle
 
 # Max Divani Coffee
@@ -18,6 +20,8 @@ Max Divani · Canapé avance-recule, droit ou en angle
 - (Photo : Canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
 
   En deux places.
+
+1 / 2
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 

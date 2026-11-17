@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/tables-akante-austin
 3. [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
 4. Akante Austin
 
+[← Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+
 Akante · Table de repas extensible
 
 # Akante Austin
@@ -22,6 +24,8 @@ Akante · Table de repas extensible
 - (Photo : Table ronde Akante New Austin au plateau marbré, entourée de quatre chaises vertes, vue de dessus)
 
   New Austin ouverte, vue de dessus.
+
+1 / 3
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 

@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/salon-nicoletti-charleston
 3. [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
 4. Nicoletti Charleston
 
+[← Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+
 Nicoletti Home · Canapé d’angle relax
 
 # Nicoletti Charleston
@@ -22,6 +24,8 @@ Nicoletti Home · Canapé d’angle relax
 - (Photo : Gros plan sur l’assise capitonnée en cuir noir)
 
   L’assise, en cuir.
+
+1 / 3
 
 Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
 

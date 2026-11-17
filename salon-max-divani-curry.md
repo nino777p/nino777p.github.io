@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/salon-max-divani-curry
 3. [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
 4. Max Divani Curry
 
+[← Canapés relax](https://fony.be/salon-canapes-relax-electriques)
+
 Max Divani · Canapé et fauteuil, relax en option
 
 # Max Divani Curry
@@ -31,6 +33,8 @@ Max Divani · Canapé et fauteuil, relax en option
 - (Photo : Détail du canapé Curry en tissu clair : accoudoir arrondi et pied en métal)
 
   L’accoudoir et le pied.
+
+1 / 6
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 

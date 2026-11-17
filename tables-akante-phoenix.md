@@ -9,6 +9,8 @@ Adresse de la page : https://fony.be/tables-akante-phoenix
 3. [Tables extensibles](https://fony.be/tables-extensibles-ceramique)
 4. Akante Phoenix
 
+[← Tables extensibles](https://fony.be/tables-extensibles-ceramique)
+
 Akante · Table de repas extensible
 
 # Akante Phoenix
@@ -22,6 +24,8 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Phoenix au plateau clair dans une salle à manger, entourée de chaises grises)
 
   Dans une salle à manger.
+
+1 / 3
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 

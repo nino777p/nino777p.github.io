@@ -286,3 +286,47 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     Array.prototype.forEach.call(etapes, function (e) { o.observe(e); });
   });
 })();
+
+/* 87-fiche.js */
+/* Fiches produit (17/11/2026, lot 4 du parcours « explorer »).
+   1. Retour à la sélection : si l'on arrive d'une autre page du site, le lien du haut ramène à cette page telle qu'on
+      l'avait laissée (entrée choisie, position), comme le bouton Retour du navigateur. Sinon il mène à la rubrique.
+   2. Photos qui se balaient sur téléphone : deux flèches et un compteur, en plus du geste. */
+(function () {
+  var lien = document.querySelector('[data-retour]');
+  if (lien) {
+    var d = '';
+    try { d = new URL(document.referrer); } catch (e) { d = null; }
+    if (d && d.origin === location.origin && d.pathname !== location.pathname && history.length > 1) {
+      var t = lien.querySelector('[data-retour-texte]'); if (t) t.textContent = 'Retour à ma sélection';
+      lien.addEventListener('click', function (e) {
+        /* clic avec une touche (nouvel onglet, nouvelle fenêtre) ou autre bouton que le principal : on laisse faire le lien */
+        if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+        e.preventDefault(); history.back();
+      });
+    }
+  }
+  Array.prototype.forEach.call(document.querySelectorAll('[data-fleches]'), function (barre) {
+    var liste = barre.parentNode.querySelector('.fiche-photos'); if (!liste) return;
+    var items = liste.children, rang = barre.querySelector('[data-rang]'), bs = barre.querySelectorAll('button');
+    function courant() {
+      var c = liste.scrollLeft + liste.clientWidth / 2, i, m = 0, best = 1e9;
+      for (i = 0; i < items.length; i++) { var x = items[i].offsetLeft + items[i].offsetWidth / 2, e = Math.abs(x - c); if (e < best) { best = e; m = i; } }
+      return m;
+    }
+    function maj() {
+      var defile = liste.scrollWidth > liste.clientWidth + 1; barre.hidden = !defile; if (!defile) return;
+      var i = courant(); if (rang.textContent !== String(i + 1)) rang.textContent = i + 1;   /* n'annonce que si le numéro change */
+      bs[0].disabled = i === 0; bs[1].disabled = i === items.length - 1;
+    }
+    Array.prototype.forEach.call(bs, function (b) { b.addEventListener('click', function () {
+      var i = Math.max(0, Math.min(items.length - 1, courant() + (+b.getAttribute('data-sens'))));
+      var doux = !(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches);
+      var x = items[i].offsetLeft - (liste.clientWidth - items[i].offsetWidth) / 2;
+      try { liste.scrollTo({ left: x, behavior: doux ? 'smooth' : 'auto' }); } catch (e) { liste.scrollLeft = x; }
+      if (!('scrollBehavior' in document.documentElement.style)) liste.scrollLeft = x;
+    }); });
+    var attente; liste.addEventListener('scroll', function () { clearTimeout(attente); attente = setTimeout(maj, 180); }, { passive: true });
+    window.addEventListener('resize', maj); maj();
+  });
+})();
