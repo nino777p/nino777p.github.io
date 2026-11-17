@@ -257,7 +257,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 /* Galeries qui défilent sur une ligne (téléphone) : atteignables au clavier, avec un nom pour les lecteurs d'écran. */
 (function () {
   function regler() {
-    Array.prototype.forEach.call(document.querySelectorAll('.galerie, .sequence-etapes'), function (g) {
+    Array.prototype.forEach.call(document.querySelectorAll('.galerie, .sequence-etapes, .modeles'), function (g) {
       if (g.scrollWidth > g.clientWidth + 1) {
         g.tabIndex = 0;
         var t = (g.closest ? g.closest('section') : g.parentNode).querySelector('.titre-section'); g.setAttribute('aria-label', 'Photos' + (t ? ' : ' + t.textContent.trim() : '') + ', à faire défiler');
@@ -291,7 +291,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 /* Fiches produit (17/11/2026, lot 4 du parcours « explorer »).
    1. Retour à la sélection : si l'on arrive d'une autre page du site, le lien du haut ramène à cette page telle qu'on
       l'avait laissée (entrée choisie, position), comme le bouton Retour du navigateur. Sinon il mène à la rubrique.
-   2. Photos qui se balaient sur téléphone : deux flèches et un compteur, en plus du geste. */
+   2. Photos d'une fiche et modèles d'une marque qui se balaient sur téléphone : deux flèches et un compteur, en plus du geste. */
 (function () {
   var lien = document.querySelector('[data-retour]');
   if (lien) {
@@ -307,7 +307,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     }
   }
   Array.prototype.forEach.call(document.querySelectorAll('[data-fleches]'), function (barre) {
-    var liste = barre.parentNode.querySelector('.fiche-photos'); if (!liste) return;
+    var liste = barre.parentNode.querySelector('.fiche-photos, .modeles'); if (!liste) return;
     var items = liste.children, rang = barre.querySelector('[data-rang]'), bs = barre.querySelectorAll('button');
     function courant() {
       var c = liste.scrollLeft + liste.clientWidth / 2, i, m = 0, best = 1e9;

@@ -28,8 +28,6 @@ Max Divani · Canapé d’angle relax
 
   L’accoudoir et son filet doré.
 
-1 / 4
-
 Photo : Max Divani. Visuel du fabricant, coloris non contractuel.
 
 Un grand canapé d’angle à assise profonde et appuie-têtes réglables, avec relax électrique. Assise sur ressorts ensachés, en cuir ou en tissu.

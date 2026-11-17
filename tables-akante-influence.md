@@ -25,8 +25,6 @@ Akante · Table de repas extensible
 
   Plateau chêne clair.
 
-1 / 3
-
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
 Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied central à branches. Plateau en céramique, en deux longueurs : 150 ou 190 cm fermée.

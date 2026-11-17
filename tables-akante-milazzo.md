@@ -28,8 +28,6 @@ Akante · Table de repas extensible
 
   Dans une salle à manger.
 
-1 / 4
-
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
 Une table dont le plateau pivote pour libérer deux rallonges latérales. Plateau en céramique, en deux longueurs : 120 ou 130 cm fermée.

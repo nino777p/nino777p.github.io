@@ -34,8 +34,6 @@ Max Divani · Canapé et fauteuil, relax en option
 
   L’accoudoir et le pied.
 
-1 / 6
-
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
 Un salon à appuie-têtes réglables, en trois places, deux places et fauteuil. Assise sur ressorts ensachés, relax électrique en option sur le trois places, en cuir ou en tissu microfibre.

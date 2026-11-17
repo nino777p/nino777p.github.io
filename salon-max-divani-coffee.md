@@ -21,8 +21,6 @@ Max Divani · Canapé avance-recule, droit ou en angle
 
   En deux places.
 
-1 / 2
-
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
 Un canapé avance-recule sur piètement en métal : le dossier se recule pour approfondir l’assise. En deux ou trois places, avec chaise longue ou en angle. En cuir, en tissu ou en microfibre.

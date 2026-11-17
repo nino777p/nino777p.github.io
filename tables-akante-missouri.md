@@ -25,8 +25,6 @@ Akante · Table de repas extensible
 
   Dans une salle à manger.
 
-1 / 3
-
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
 Une grande table à deux rallonges latérales indépendantes, pour dix à douze convives. Plateau en céramique marbrée, en deux longueurs : 150 ou 190 cm fermée.

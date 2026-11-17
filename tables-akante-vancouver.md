@@ -25,8 +25,6 @@ Akante · Table de repas extensible
 
   Plateau chêne clair.
 
-1 / 3
-
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
 Une table à rallonge centrale automatique, sur un pied central à branches en acier laqué noir mat. Plateau en céramique aux bords arrondis, en deux longueurs : 160 ou 200 cm fermée.

@@ -25,8 +25,6 @@ Nicoletti Home · Canapé d’angle relax
 
   L’assise, en cuir.
 
-1 / 3
-
 Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
 
 Un canapé relax sur pieds en métal, en fauteuil, deux ou trois places, ou en angle. Ce modèle n’est plus disponible à la commande chez Fony : Oakland, très proche, s’essaie au magasin.

@@ -22,8 +22,6 @@ Max Divani · Canapé d’angle et canapé relax
 
   Une place relax ouverte.
 
-1 / 2
-
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
 Un canapé à appuie-têtes réglables, sur pieds en métal, en deux ou trois places, avec chaise longue ou en angle. Avec ou sans relax électrique, en cuir ou en tissu.

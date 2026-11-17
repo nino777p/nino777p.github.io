@@ -25,8 +25,6 @@ Akante · Table de repas extensible
 
   New Austin ouverte, vue de dessus.
 
-1 / 3
-
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
 Une table oblongue qui devient ronde : deux rallonges latérales sortent ensemble et ferment le cercle. Plateau en céramique, en trois tailles, de 135 à 190 cm de diamètre une fois ouverte.

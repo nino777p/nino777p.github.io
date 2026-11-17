@@ -25,8 +25,6 @@ Akante · Table de repas extensible
 
   Plateau en céramique argile.
 
-1 / 3
-
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
 Une table à deux rallonges latérales synchronisées, sur un piétement croisé en acier noir. Plateau en céramique, en trois longueurs : 120, 130 ou 160 cm fermée.

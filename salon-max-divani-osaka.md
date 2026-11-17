@@ -31,8 +31,6 @@ Max Divani · Canapé et fauteuil, relax en option
 
   L’accoudoir et le pied en bois.
 
-1 / 5
-
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
 Un salon sur pieds en bois, en trois places, deux places et fauteuil. Assise sur ressorts ensachés, relax électrique en option, en tissu ou en cuir.

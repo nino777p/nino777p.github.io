@@ -25,8 +25,6 @@ Akante · Table de repas extensible
 
   Grande Ontario dans une salle à manger.
 
-1 / 3
-
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
 Une table rectangulaire à deux rallonges latérales indépendantes, sur quatre pieds inclinés en acier noir. Plateau en céramique, en trois longueurs : 150, 190 ou 200 cm fermée.

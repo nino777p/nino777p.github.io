@@ -24,8 +24,6 @@ Max Divani · Canapé modulable
 
   Canapé et fauteuils assortis.
 
-1 / 3
-
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
 Un canapé aux formes souples, garni de mousse et de plumes, à composer en canapé droit, avec chaise longue ou en angle. En cuir ou en tissu, avec un détail en cuir sur l’accoudoir.

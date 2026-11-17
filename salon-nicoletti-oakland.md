@@ -31,8 +31,6 @@ Nicoletti Home · Canapé relax électrique
 
   En tissu.
 
-1 / 5
-
 Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
 
 Un canapé relax en fauteuil, deux ou trois places, ou composé d’éléments. Trois versions électriques au choix, en cuir fin, en tissu ou en microfibre.

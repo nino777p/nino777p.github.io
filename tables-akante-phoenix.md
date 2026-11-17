@@ -25,8 +25,6 @@ Akante · Table de repas extensible
 
   Dans une salle à manger.
 
-1 / 3
-
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
 Une table à rallonge centrale, sur un pied en étoile en acier noir. Plateau en céramique, en deux longueurs : 160 ou 200 cm fermée.

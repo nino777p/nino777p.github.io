@@ -31,8 +31,6 @@ Nicoletti Home · Canapé relax électrique
 
   En tissu.
 
-1 / 5
-
 Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
 
 Un canapé relax aux lignes droites, avec têtières réglables et commande intégrée à l’accoudoir. Il se compose à la carte, du fauteuil à l’angle, en cuir fin, en tissu ou en microfibre.

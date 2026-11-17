@@ -24,8 +24,6 @@ Max Divani · Fauteuil, fixe ou pivotant
 
   Avec ses poufs.
 
-1 / 3
-
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
 Un fauteuil rond, fixe ou pivotant à 360°, souligné d’une bande de cuir. En cuir ou en tissu, avec ses poufs assortis.
