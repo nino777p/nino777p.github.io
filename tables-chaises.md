@@ -23,21 +23,43 @@ Une table pour les repas de tous les jours, les grandes occasions et les moments
 - Du lundi au samedi, avec ou sans rendez-vous
 - Première visite et conseil offerts
 
-Tables extensibles
+Explorer les tables
 
 ## Des tables extensibles pensées pour votre quotidien.
 
 Une table à rallonge adapte l’espace au nombre de convives. Au magasin, comparez les formes, les matières et les mécanismes des tables exposées.
 
-- ### Forme et plateau
+(Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
 
-  Ronde, ovale ou rectangulaire, la table s’adapte à la circulation dans la pièce. Céramique, bois ou effet bois : comparez les finitions et les piètements.
-- ### Rallonge
+Forme et plateau
 
-  Selon le modèle, la rallonge se range dans la table ou se déploie à l’aide d’un mécanisme intégré. Venez essayer l’ouverture pour choisir celle qui vous convient. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
-- ### Nombre de convives
+### Ronde, ovale ou rectangulaire.
 
-  Pensez à vos repas quotidiens et aux occasions où vous recevez. Certains modèles atteignent trois mètres et reçoivent jusqu’à douze convives.
+Ronde, ovale ou rectangulaire, la table s’adapte à la circulation dans la pièce. Céramique, bois ou effet bois : comparez les finitions et les piètements.
+
+- [Voir les marques de tables](https://fony.be/tables-chaises#fabricants)
+- [Buffets et dressoirs](https://fony.be/tables-chaises#buffets)
+
+(Photo : Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois)
+
+Rallonge
+
+### Rangée dans la table, ou déployée par un mécanisme.
+
+Selon le modèle, la rallonge se range dans la table ou se déploie à l’aide d’un mécanisme intégré. Venez essayer l’ouverture pour choisir celle qui vous convient. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
+
+- [Comparer les dimensions](https://fony.be/tables-extensibles-ceramique)
+- [Voir les tables Akante](https://fony.be/tables-akante)
+
+(Photo : Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée)
+
+Convives
+
+### Du repas de tous les jours aux grandes tablées.
+
+Pensez à vos repas quotidiens et aux occasions où vous recevez. Certains modèles atteignent trois mètres et reçoivent jusqu’à douze convives.
+
+- [Les chaises](https://fony.be/tables-chaises#chaises)
 
 Modèle par modèle
 

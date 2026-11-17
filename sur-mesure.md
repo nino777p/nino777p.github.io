@@ -29,27 +29,41 @@ Ce que nous réalisons
 
 Murs irréguliers, pentes de toit, recoins : nous partons de la pièce telle qu’elle est.
 
-- ### Dressing
+(Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
-  Compartiments pensés pour votre garde-robe, finitions assorties à la chambre.
-- ### Bibliothèque
+Dressing
 
-  Un mur entier : niches ouvertes et rangements fermés, selon ce que vous voulez montrer.
-- ### Meuble TV
+### Pensé pour votre garde-robe.
 
-  Équipements intégrés et câbles cachés, dans une composition accordée au reste du séjour.
-- ### Sous-pente
+Compartiments pensés pour votre garde-robe, finitions assorties à la chambre.
 
-  Des rangements qui suivent la pente du toit.
-- ### Entrée et hall
+(Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
 
-  Manteaux, chaussures, clés : rangés dès la porte.
-- ### Sous l’escalier
+Bibliothèque
 
-  Tiroirs, placards ou bibliothèque sous les marches.
-- ### Confort et mobilité
+### Un mur entier.
 
-  Nous repensons l’aménagement pour le confort et la mobilité : des rangements accessibles sans se baisser.
+Un mur entier : niches ouvertes et rangements fermés, selon ce que vous voulez montrer.
+
+(Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+
+Meuble TV
+
+### Câbles cachés, équipements intégrés.
+
+Équipements intégrés et câbles cachés, dans une composition accordée au reste du séjour.
+
+(Photo : Armoire Tomasella Carmen à portes battantes laquées)
+
+Ailleurs
+
+### Partout où la place se perd.
+
+Nous repensons l’aménagement pour le confort et la mobilité : des rangements accessibles sans se baisser.
+
+- Sous-pente : des rangements qui suivent la pente du toit
+- Entrée et hall : manteaux, chaussures, clés, rangés dès la porte
+- Sous l’escalier : tiroirs, placards ou bibliothèque sous les marches
 
 - (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 

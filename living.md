@@ -23,44 +23,47 @@ Un écran, des livres, de la vaisselle, des objets à exposer : les systèmes T
 - Projection 3D de votre projet
 - Première visite et conseil offerts
 
-Par où commencer
+Explorer le séjour
 
 ## Composez votre séjour autour de vos besoins.
 
 Que souhaitez-vous ranger, exposer ou dissimuler ? Nous partons de votre mur pour choisir les modules et les finitions qui correspondent à votre pièce.
 
-1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+(Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
-   Le mur de la télévision
+Meuble TV
 
-   ### Cacher les câbles, montrer le reste.
+### Cacher les câbles, montrer le reste.
 
-   Écran, box et câbles trouvent leur place dans une composition Atlante. Associez meubles bas ou suspendus, portes et niches ouvertes pour ranger ce qui doit disparaître et mettre le reste en valeur.
+Écran, box et câbles trouvent leur place dans une composition Atlante. Associez meubles bas ou suspendus, portes et niches ouvertes pour ranger ce qui doit disparaître et mettre le reste en valeur.
 
-   [Tout Tomasella](https://fony.be/tomasella)
-2. (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+- [Tout Tomasella](https://fony.be/tomasella)
 
-   Livres et objets
+(Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
 
-   ### Une bibliothèque adaptée à votre mur.
+Bibliothèque
 
-   Sur toute la largeur du mur ou sur une seule travée, associez niches ouvertes, éclairage selon la composition et rangements fermés. Les modules s’ajustent à l’espace disponible.
-3. (Photo : Séjour Tomasella Time : composition murale en laque et bois)
+### Une bibliothèque adaptée à votre mur.
 
-   Le quotidien
+Sur toute la largeur du mur ou sur une seule travée, associez niches ouvertes, éclairage selon la composition et rangements fermés. Les modules s’ajustent à l’espace disponible.
 
-   ### Time : des rangements pour une pièce qui vit.
+(Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
-   Le système Time associe laque et bois dans des compositions aux lignes simples. Choisissez les surfaces et les rangements en fonction de ce que vous utilisez chaque jour.
-4. (Photo : Table et buffet Tomasella dans un séjour urbain)
+Rangements
 
-   La salle à manger
+### Time : des rangements pour une pièce qui vit.
 
-   ### Un buffet qui s’accorde au reste du séjour.
+Le système Time associe laque et bois dans des compositions aux lignes simples. Choisissez les surfaces et les rangements en fonction de ce que vous utilisez chaque jour.
 
-   Retrouvez les bois et les laques du meuble TV dans votre buffet. Nous vous aidons à composer un ensemble cohérent avec votre table et votre canapé.
+(Photo : Table et buffet Tomasella dans un séjour urbain)
 
-   [Voir les buffets et dressoirs](https://fony.be/tables-chaises#buffets)
+Buffet
+
+### Un buffet qui s’accorde au reste du séjour.
+
+Retrouvez les bois et les laques du meuble TV dans votre buffet. Nous vous aidons à composer un ensemble cohérent avec votre table et votre canapé.
+
+- [Voir les buffets et dressoirs](https://fony.be/tables-chaises#buffets)
 
 Du salon au séjour complet
 
