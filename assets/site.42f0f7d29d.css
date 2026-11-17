@@ -1000,6 +1000,20 @@ html{overflow-x:hidden;overflow-x:clip}
 .affiches--grand .affiche .cadre{aspect-ratio:3/5}
 .affiches--grand .affiche .nom{font-size:clamp(26px,2.1vw,34px)}
 }
+.immersion--grand .titre-section{font-size:clamp(46px,6.2vw,100px);line-height:.95}
+.immersion--grand .surtitre{font-size:14px;letter-spacing:.3em}
+.immersion--clair{background:#fff;color:var(--encre)}
+.immersion--clair::after{display:none}
+.immersion--clair .immersion-photo{left:28%}
+.immersion--clair .immersion-photo img{object-fit:contain;object-position:right center}
+.immersion--clair .surtitre{color:var(--accent)}
+.immersion--clair .titre-section{color:var(--encre)}
+.immersion--clair .chapo{color:var(--encre-2)}
+@media (max-width:960px){
+.immersion--clair .immersion-photo{left:auto;height:44vh}
+.immersion--clair .immersion-photo img{object-position:center}
+.immersion--clair .immersion-texte{margin-top:0}
+}
 .defile-tete{margin-bottom:28px}
 .defile{display:flex;gap:16px;margin:0;padding:0 var(--marge) 8px;list-style:none;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:var(--marge);scrollbar-width:none;overscroll-behavior-x:contain}
 .defile::-webkit-scrollbar{display:none}
@@ -1021,6 +1035,13 @@ html{overflow-x:hidden;overflow-x:clip}
 .coupe-simple-image img{display:block;width:100%;height:auto}
 .coupe-simple-image figcaption{font-size:var(--t-mini);color:var(--encre-2);margin-top:12px}
 @media (max-width:960px){.coupe-simple{grid-template-columns:minmax(0,1fr)}}
+.chiffres{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:1px;margin:0;padding:0;list-style:none;background:var(--trait);border:1px solid var(--trait)}
+.chiffre{background:var(--fond);padding:30px 26px 32px}
+.section--sable .chiffre{background:var(--fond-2)}
+.chiffre-valeur{font-family:var(--serif);font-weight:var(--serif-graisse);font-variation-settings:var(--serif-reglages);font-size:clamp(38px,3.6vw,54px);line-height:1;color:var(--accent);margin:0 0 16px;white-space:nowrap}
+.chiffre-titre{font-family:var(--sans);font-size:var(--t-petit);font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin:0 0 8px}
+.chiffre-texte{font-size:var(--t-petit);line-height:1.5;color:var(--encre-2);margin:0}
+.chiffres-note{font-size:var(--t-mini);color:var(--encre-2);margin-top:14px}
 .apparition .vient{opacity:0;transform:translateY(10px)}
 .apparition .vient.vu{opacity:1;transform:none;transition:opacity .55s var(--courbe),transform .55s var(--courbe)}
 .apparition .vient.vu:nth-child(2){transition-delay:50ms}

@@ -15,72 +15,70 @@ Cuisine italienne sur mesure
 
 # Cuisines italiennes
 
-Conçues avec vous à partir des mesures de votre pièce, fabriquées en Italie, livrées et installées.
+Conçues avec vous à partir des mesures de votre pièce, livrées et installées.
 
-[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite) [Voir comment ça se passe](https://fony.be/cuisine#parcours)
+[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite) [Voir la gamme](https://fony.be/cuisine#gamme)
 
 - Première visite, mesures et devis offerts
 - Conçues et fabriquées en Italie
 - Garantie cinq ans
 
-(Photo : Cuisine Stosa Infinity et séjour dans la même pièce)
+La gamme Stosa
 
-Cuisine et pièce de vie
+## Quatre familles, 1 000 finitions.
 
-## La cuisine et la pièce de vie, pensées ensemble.
+- (Photo : Cuisine Stosa Metropolis en L ouverte sur le séjour, façades grises à effet pierre, péninsule en bois clair, hotte suspendue cuivrée)
 
-Nous proposons à la fois la cuisine et le mobilier : les teintes s’accordent d’une pièce à l’autre, et toute la maison se prépare au même endroit.
+  ### Evolution
 
-Salon, séjour, table et rangements sur mesure se choisissent dans des finitions assorties.
+  Natural, Metropolis, Aliant, Color Trend, Palio : bois, laque, Fenix® ou cadre aluminium.
+- (Photo : Cuisine Stosa Young en L, meubles bas clairs à longues poignées noires, meubles hauts gris, étagères éclairées)
 
-[Voir le séjour](https://fony.be/living)
+  ### Modern
 
-Explorer la cuisine
+  Infinity, Karma, Young : lignes droites, poignée intégrée ou façades stratifiées.
+- (Photo : Cuisine Stosa Dolcevita aux façades à cadre beige, fenêtre à petits carreaux, meubles hauts vitrés)
 
-## La porte et les teintes donnent le style.
+  ### Classic Glam
 
-(Photo : Cuisine classique crème en angle, façades à cadre, sol en bois clair)
+  Beverly, Bolgheri, Dolcevita : façades à cadre, frêne, bois massif ou MDF laqué.
+- (Photo : Cuisine Stosa Lumia aux façades blanches brillantes, colonnes du sol au plafond, péninsule et tabourets noirs)
 
-La porte
+  ### ART
 
-### Contemporaine ou classique.
+  Kaya, Sveva, Lumia : mélaminé, Alkorcell ou laque.
 
-Lisse et sans cadre pour un style contemporain, à cadre et moulure pour un style classique. C’est le choix qui donne son caractère à la cuisine.
+Sous les façades
 
-- [Voir les teintes en photos](https://fony.be/cuisine#teintes)
+## Stosa, en chiffres.
 
-(Photo : Cuisine classique vert sauge, façades à cadre et hotte claire)
+- 18 mm
 
-Les teintes
+  ### Les caissons
 
-### Chaudes ou froides.
+  Panneaux de particules mélaminés sur les deux faces, classés E1 et conformes CARB P2 : très faible teneur en formaldéhyde.
+- 18 à 25 mm
 
-Chaudes (bois, beige, terre) ou froides (blanc, gris, laque, anthracite). Choisissez les façades et le plan de travail selon vos habitudes, la lumière de la pièce et les finitions que vous souhaitez garder longtemps. La tendance peut aller aux éléments faciles à remplacer.
+  ### Les façades
 
-- [Voir les teintes en photos](https://fony.be/cuisine#teintes)
+  Selon le modèle : 22 mm pour la plupart des modèles modernes, 24 à 25 mm pour Bolgheri, Beverly et Palio.
+- 200 000
 
-(Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
+  ### Les ouvertures
 
-Le plan de travail
+  Charnières garanties 200 000 cycles, coulisses de tiroirs 60 000 ; portes à fermeture amortie de série.
+- 1,2 à 6 cm
 
-### À choisir selon votre usage.
+  ### Les plans de travail
 
-C’est l’élément qui travaille le plus.
+  Stratifié, HPL, Fenix®, Neolith®, quartz, Dekton ou marbre.
+- ISO 9001
 
-- Stratifié : large choix de décors, facile à vivre
-- Compact : résistant aux chocs et à l’eau, chant plein dans la masse
-- Céramique : supporte bien la chaleur et les rayures
-- Stratifié et compact viennent du fabricant de la cuisine, pour accorder les teintes aux façades ; céramique et matières naturelles, de notre marbrier partenaire
+  ### La qualité
 
-(Photo : Détail de façade et de poignée d’une cuisine Stosa Natural)
+  Production certifiée ; origine italienne attestée selon la norme UNI 11674 ; bois FSC® sur certains modèles.
 
-Le projet
-
-### Dessinée avec vous, à vos cotes.
-
-Nous relevons les cotes chez vous, puis composons le plan, les façades, le plan de travail et les teintes.
-
-- [Les étapes d’un projet](https://fony.be/cuisine#parcours)
+Données du fabricant (documentation Stosa 2024–2026).
 
 Teintes et matières
 
@@ -109,37 +107,17 @@ Toutes les collections Stosa, sur commande. Du vert sauge au terracotta, du bois
 
 [Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite)
 
-Nos engagements
+(Photo : Cuisine Stosa Infinity et séjour dans la même pièce)
 
-## Une cuisine qui dure.
+Cuisine et pièce de vie
 
-- ### Fabriquée en Italie
+## La cuisine et la pièce de vie, pensées ensemble.
 
-  Conçue et fabriquée en Italie par Stosa.
-- ### Un seul interlocuteur
+Nous proposons à la fois la cuisine et le mobilier : les teintes s’accordent d’une pièce à l’autre, et toute la maison se prépare au même endroit.
 
-  De la première mesure à la dernière poignée, la même personne suit votre projet.
-- ### Garantie cinq ans
+Salon, séjour, table et rangements sur mesure se choisissent dans des finitions assorties.
 
-  Stosa certifie ses cuisines et les garantit cinq ans.
-
-## De la première rencontre à la pose.
-
-- (Photo : Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé)
-
-  ### Votre projet
-
-  Vos habitudes et vos envies, avant de dessiner.
-- (Photo : Détail de façade et de poignée d’une cuisine Stosa Natural)
-
-  ### La conception
-
-  Les cotes relevées chez vous, puis le plan et les teintes.
-- (Photo : Cuisine Stosa Natural en bois, façades à cadre)
-
-  ### La pose
-
-  Livrée par nos soins, réglages et finitions compris.
+[Voir le séjour](https://fony.be/living)
 
 Vos questions
 

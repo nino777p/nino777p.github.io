@@ -5092,5 +5092,115 @@
    880,
    587
   ]
+ },
+ "st-evolution": {
+  "id": "st-evolution",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Metropolis",
+  "alt": "Cuisine Stosa Metropolis en L ouverte sur le séjour, façades grises à effet pierre, péninsule en bois clair, hotte suspendue cuivrée",
+  "source": "st-evolution.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-evolution-600.webp",
+   "900": "st-evolution-900.webp",
+   "1400": "st-evolution-1400.webp",
+   "2000": "st-evolution-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-evolution-600.avif",
+   "900": "st-evolution-900.avif",
+   "1400": "st-evolution-1400.avif",
+   "2000": "st-evolution-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-modern": {
+  "id": "st-modern",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Young",
+  "alt": "Cuisine Stosa Young en L, meubles bas clairs à longues poignées noires, meubles hauts gris, étagères éclairées",
+  "source": "st-modern.jpg",
+  "w": 2148,
+  "h": 2500,
+  "files": {
+   "600": "st-modern-600.webp",
+   "900": "st-modern-900.webp",
+   "1400": "st-modern-1400.webp",
+   "2000": "st-modern-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-modern-600.avif",
+   "900": "st-modern-900.avif",
+   "1400": "st-modern-1400.avif",
+   "2000": "st-modern-2000.avif"
+  },
+  "ratio": [
+   2148,
+   2500
+  ]
+ },
+ "st-classic": {
+  "id": "st-classic",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Dolcevita",
+  "alt": "Cuisine Stosa Dolcevita aux façades à cadre beige, fenêtre à petits carreaux, meubles hauts vitrés",
+  "source": "st-classic.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-classic-600.webp",
+   "900": "st-classic-900.webp",
+   "1400": "st-classic-1400.webp",
+   "2000": "st-classic-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-classic-600.avif",
+   "900": "st-classic-900.avif",
+   "1400": "st-classic-1400.avif",
+   "2000": "st-classic-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-art": {
+  "id": "st-art",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Lumia",
+  "alt": "Cuisine Stosa Lumia aux façades blanches brillantes, colonnes du sol au plafond, péninsule et tabourets noirs",
+  "source": "st-art.jpg",
+  "w": 945,
+  "h": 850,
+  "files": {
+   "600": "st-art-600.webp",
+   "900": "st-art-900.webp",
+   "945": "st-art-945.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-art-600.avif",
+   "900": "st-art-900.avif",
+   "945": "st-art-945.avif"
+  },
+  "ratio": [
+   945,
+   850
+  ]
  }
 }

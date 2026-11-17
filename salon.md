@@ -76,7 +76,7 @@ Découvrez les modèles exposés et les possibilités de commande : configurati
   [Voir les salons Max Divani](https://fony.be/salon-max-divani)
 - ### Nicoletti
 
-  Des canapés relax fabriqués en Italie, dont le système Cozy³ à trois moteurs.
+  Des canapés relax fabriqués en Italie.
 
   [Voir le relax Cozy³](https://fony.be/salon#relax)
 - ### De Eiken Zetel
@@ -97,94 +97,25 @@ Asseyez-vous, comparez : nos salons s’essaient au magasin, sans rendez-vous.
 
 [Venir les essayer](https://fony.be/salon#visite)
 
-Bien choisir
-
-## Six questions avant de choisir.
-
-Ce sont celles que nous vous poserons au magasin. Choisissez une question : la réponse s’affiche aussitôt.
-
-Votre canapé
-
-01 · La pièce
-
-### Où ira-t-il ?
-
-Un salon de tous les jours ne se choisit pas comme une pièce où l’on reçoit. Regardez aussi la lumière : près d’une grande fenêtre, certains revêtements demandent plus d’attention que d’autres.
-
-02 · L’usage
-
-### Pour quoi faire ?
-
-Regarder un film, faire la sieste, recevoir : ce n’est pas la même assise. Profonde et souple pour s’allonger, plus droite et plus ferme pour discuter. Asseyez-vous, comparez les sensations plutôt que les apparences.
-
-[Les canapés relax électriques](https://fony.be/salon-canapes-relax-electriques)
-
-03 · L’espace
-
-### Quelle place lui donner ?
-
-Mesurez le mur, mais aussi les passages autour, et la place qu’il faut à un relax ouvert. Pensez à la porte, au couloir et à l’escalier par où il entrera. Un doute ? Nous pouvons venir prendre les mesures chez vous.
-
-[Demander une visite chez vous](https://fony.be/magasin-contact?projet=salon#visite)
-
-04 · Les places
-
-### Combien serez-vous ?
-
-Comptez ceux qui s’y assoient chaque soir, pas les invités d’un jour. Et si vous voulez du relax, demandez combien de places en sont équipées : un trois places n’a pas forcément trois relax.
-
-05 · La forme
-
-### En angle ou droit ?
-
-L’angle réunit tout le monde et structure un séjour ouvert. Un canapé droit, seul ou avec un fauteuil, se déplace plus facilement et convient aux pièces étroites. Le côté de l’angle se choisit selon votre pièce.
-
-[Les canapés d’angle](https://fony.be/salon-canapes-angle)
-
-06 · Le revêtement
-
-### Cuir, microfibre ou tissu ?
-
-C’est une affaire de toucher, d’entretien et de vie de famille : enfants, animaux, soleil. Les échantillons sont au magasin : on choisit en main, à la lumière du jour.
-
-[Les canapés en cuir italiens](https://fony.be/salon-canapes-cuir-italiens)
-
-Toutes les sélections
-
-## Chercher autrement.
-
-- [Canapés relax électriques : 7 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
-- [Canapés d’angle : 5 modèles Voir](https://fony.be/salon-canapes-angle)
-- [Canapés en cuir italiens : 9 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
-- [Nicoletti : 2 modèles Voir](https://fony.be/salon-nicoletti)
-
-Relax, releveur, convertible : les différences Trois usages expliqués en quelques lignes
-
-Selon votre usage
-
-## Relax, releveur, convertible.
-
-Trois usages différents, à choisir selon votre espace et vos habitudes. Demandez-nous quels modèles sont à l’essai au magasin.
-
-- ### Le canapé relax électrique
-
-  Une ou plusieurs places s’inclinent à l’aide d’une commande électrique, pour profiter d’une position plus détendue tout en conservant l’allure d’un salon.
-- ### Le fauteuil relax et le fauteuil releveur
-
-  Le fauteuil relax permet de régler la position du corps. Le releveur ajoute une aide pour passer de la position assise à la position debout.
-- ### Le canapé convertible et le canapé-lit
-
-  Un canapé le jour, un couchage la nuit. Le mécanisme et le matelas se choisissent selon la fréquence d’utilisation et l’espace disponible.
-
-(Photo : Meuble TV Tomasella avec rangements suspendus dans un salon)
-
 Autour du canapé
 
-## Le meuble TV et la bibliothèque.
+## La table basse, le meuble TV, la bibliothèque.
 
-Complétez votre salon avec un meuble TV ou une bibliothèque adaptés à votre mur.
+- (Photo : Table basse Akante Goliath sur fond blanc : plateau ovale en céramique marbrée blanche, deux pieds en acier noir)
 
-[Voir le séjour](https://fony.be/living)
+  ### [Les tables basses](https://fony.be/tables-akante#tables-basses)
+
+  En céramique ou en verre, chez Akante.
+- (Photo : Meuble TV Tomasella avec rangements suspendus dans un salon)
+
+  ### [Le meuble TV](https://fony.be/living)
+
+  Adapté à votre mur.
+- (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+
+  ### [La bibliothèque](https://fony.be/living)
+
+  Dans les finitions du séjour.
 
 Vos questions
 
