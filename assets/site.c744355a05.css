@@ -754,6 +754,15 @@ background:var(--fond);color:var(--encre)}
 .affiches--pile.affiches--4 .affiche .nom{font-size:22px}
 .affiches--pile.affiches--4 .affiche-ligne{font-size:15px;line-height:1.45}
 }
+.recit,.fiche-points,.fiche-statuts,.fiche-liste,.formulaire-aide{grid-template-columns:minmax(0,1fr)}
+@media (min-width:561px){.modeles{grid-template-columns:minmax(0,1fr)}}
+.recit>*,.modeles>*,.etape,.etape-photo,.etape-texte,.sequence,.sequence>*{min-width:0}
+.positions>*,.position,.formulaire>*,.champ,.fiche-renvois>*,.fiche-renvoi,.tuile-texte,.affiche-texte{min-width:0}
+@media (max-width:960px){
+.etape-modeles,.galerie,.sequence-etapes,.fiche-photos{min-width:0;max-width:100vw;contain:inline-size}
+.etape-modeles>li,.galerie>*,.sequence-etapes>*{min-width:0}
+}
+html{overflow-x:hidden;overflow-x:clip}
 .apparition .vient{opacity:0;transform:translateY(10px)}
 .apparition .vient.vu{opacity:1;transform:none;transition:opacity .55s var(--courbe),transform .55s var(--courbe)}
 .apparition .vient.vu:nth-child(2){transition-delay:50ms}
