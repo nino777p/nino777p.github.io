@@ -330,3 +330,100 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     window.addEventListener('resize', maj); maj();
   });
 })();
+
+/* 89-espace.js */
+/* Espaces (« site dans le site », 17/11/2026) : apparitions lentes, atelier (bascule de vues, repères et couches),
+   questionnaire « préparer l'essai ». Sans script, tout reste affiché et lisible. */
+(function () {
+  var main = document.querySelector('main[class*="ambiance-"]');
+  if (!document.querySelector('.es-barre')) return;
+  var calme = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var each = function (l, f) { Array.prototype.forEach.call(l, f); };
+
+  /* apparitions */
+  if (!calme && 'IntersectionObserver' in window && main) {
+    main.classList.add('js-espace');
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('es-vu'); io.unobserve(e.target); } });
+    }, { threshold: 0.12 });
+    each(document.querySelectorAll('.es-apparait'), function (el) { io.observe(el); });
+  }
+
+  /* atelier */
+  each(document.querySelectorAll('[data-atelier]'), function (at) {
+    at.classList.add('js-atelier');
+    var blocs = at.querySelectorAll('[data-vue-bloc]');
+    function couche(bloc, i) {
+      each(bloc.querySelectorAll('.es-point'), function (p) { p.setAttribute('aria-pressed', p.getAttribute('data-couche') == i ? 'true' : 'false'); });
+      each(bloc.querySelectorAll('.es-couche'), function (li) {
+        var on = li.getAttribute('data-couche') == i;
+        li.classList.toggle('est-active', on);
+        li.querySelector('h4 button').setAttribute('aria-expanded', on ? 'true' : 'false');
+        var corps = li.querySelector('.es-couche-corps');
+        if (on) { corps.removeAttribute('inert'); corps.removeAttribute('aria-hidden'); } else { corps.setAttribute('inert', ''); corps.setAttribute('aria-hidden', 'true'); }
+      });
+    }
+    each(blocs, function (bloc) {
+      each(bloc.querySelectorAll('.es-point'), function (p) {
+        p.hidden = false;
+        p.addEventListener('click', function () { couche(bloc, p.getAttribute('data-couche')); });
+      });
+      each(bloc.querySelectorAll('.es-couche h4 button'), function (b) {
+        b.addEventListener('click', function () { couche(bloc, b.closest('.es-couche').getAttribute('data-couche')); });
+      });
+      couche(bloc, 0);
+    });
+    var bascule = at.querySelector('[data-bascule]');
+    if (!bascule) return;
+    bascule.hidden = false;
+    function vue(id, adresse) {
+      each(bascule.querySelectorAll('button'), function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-vue') === id ? 'true' : 'false'); });
+      each(blocs, function (bl) { bl.hidden = bl.getAttribute('data-vue-bloc') !== id; });
+      if (adresse && history.replaceState) history.replaceState(null, '', '#' + id);
+    }
+    each(bascule.querySelectorAll('button'), function (b) {
+      b.addEventListener('click', function () { vue(b.getAttribute('data-vue'), true); });
+    });
+    var h = ''; try { h = decodeURIComponent(location.hash.slice(1)); } catch (e) { h = ''; }
+    var depart = at.querySelector('[data-vue-bloc="' + h.replace(/[^\w-]/g, '') + '"]');
+    vue(depart ? h : blocs[0].getAttribute('data-vue-bloc'), false);
+    /* un lien de la page vers une vue (#vue-…) bascule au lieu de sauter */
+    each(document.querySelectorAll('a[href*="#"]'), function (a) {
+      var cible = a.getAttribute('href').split('#')[1];
+      if (cible && at.querySelector('[data-vue-bloc="' + cible.replace(/[^\w-]/g, '') + '"]') && a.pathname === location.pathname) {
+        a.addEventListener('click', function () { vue(cible, false); });
+      }
+    });
+  });
+
+  /* questionnaire */
+  each(document.querySelectorAll('[data-quiz]'), function (qz) {
+    var qs = qz.querySelectorAll('.es-q'), res = qz.querySelector('[data-resume]'), barre = qz.querySelector('.es-progression span');
+    if (!qs.length || !res) return;
+    qz.classList.add('js-quiz');
+    var rep = [];
+    function montrer(i) { each(qs, function (q, k) { q.hidden = k !== i; }); }
+    each(qs, function (q, i) {
+      each(q.querySelectorAll('button'), function (b) {
+        b.addEventListener('click', function () {
+          rep[i] = b.textContent;
+          barre.style.width = ((i + 1) / qs.length * 100) + '%';
+          if (i + 1 < qs.length) { montrer(i + 1); var s = qs[i + 1].querySelector('button'); if (s) s.focus(); }
+          else {
+            montrer(-1);
+            var ul = res.querySelector('ul'); ul.textContent = '';
+            rep.forEach(function (r, k) {
+              var li = document.createElement('li'), b2 = document.createElement('strong');
+              b2.textContent = qs[k].getAttribute('data-etiquette') + ' : '; li.appendChild(b2); li.appendChild(document.createTextNode(r)); ul.appendChild(li);
+            });
+            res.hidden = false; res.querySelector('[tabindex]').focus();
+          }
+        });
+      });
+    });
+    qz.querySelector('[data-recommencer]').addEventListener('click', function () {
+      rep = []; res.hidden = true; barre.style.width = '0'; montrer(0); qs[0].querySelector('button').focus();
+    });
+    montrer(0);
+  });
+})();

@@ -82,7 +82,7 @@ Fabrication
 | Dossier et têtières | Flocons de fibre synthétique |
 | Accoudoirs | Mousse polyuréthane, ouate 100 % polyester |
 | Densité de la mousse d’assise | 30 kg/m³ |
-| Pieds | PVC noir, hauteur 4 cm |
+| Pieds | Noir, hauteur 4 cm |
 | Déhoussable | Non |
 
 Mécanismes

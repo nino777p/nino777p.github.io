@@ -71,7 +71,6 @@ Fabrication
 | Structure | Bois |
 | Assise, dossier et accoudoirs | Mousse polyuréthane et plumes |
 | Confort | Standard |
-| Pieds | Plastique |
 
 Options
 

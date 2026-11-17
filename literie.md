@@ -6,58 +6,135 @@ Adresse de la page : https://fony.be/literie
 
 (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
 
-(Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+Espace literie · Binche
 
-1. [Accueil](https://fony.be/)
-2. Literie
+# Ce que l’écran *ne vous dira jamais.*
 
-Boxsprings, matelas, sommiers
-
-# Literie
-
-Boxsprings belges, fixes ou électriques, matelas et sommiers : ils se choisissent allongé, au magasin.
-
-[Mon projet literie](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+Boxsprings belges, fixes ou électriques, matelas et sommiers : à essayer au magasin.
 
 - Des couchages à essayer allongé
 - Du lundi au samedi, avec ou sans rendez-vous
-- Livraison et installation
 
-Explorer la literie
+Par où commencer
 
-## Trouver le couchage qui vous convient.
+## Qu’est-ce qui vous amène ?
 
-Plusieurs couchages sont disponibles à l’essai. Comparez le soutien, l’accueil et les niveaux de fermeté en vous allongeant dans votre position habituelle. Tailles et finitions se choisissent ensuite selon le modèle.
+- (Photo : Matelas Van Landschoot Superqueen, housse matelassée blanche)
 
-(Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
+  Le matelas
 
-Le boxspring
+  ### [Je change de matelas](https://fony.be/literie-choisir-matelas)
 
-### Une base, un matelas, parfois un surmatelas.
+  Bien choisir son matelas →
+- (Photo : Boxspring Velda Imagine électrique, tête de lit en tissu clair, dans une chambre lumineuse)
 
-Un ensemble composé d’une base et d’un matelas, parfois complété d’un surmatelas. Nous proposons aussi des sommiers à lattes.
+  Le boxspring
 
-- [Fixe ou électrique](https://fony.be/literie-boxspring-fixe-electrique)
+  ### [Je veux tout le couchage](https://fony.be/literie-boxspring-fixe-electrique)
+
+  Fixe ou électrique →
+- (Photo : Sommier à lattes électrique Polypreen, tête relevée)
+
+  Le sommier
+
+  ### [Je garde mon lit, je change le sommier](https://fony.be/literie-sommiers)
+
+  Le sommier à lattes →
+
+À l’intérieur
+
+## Ce que vous sentirez, couche après couche.
+
+(Photo : Coupe d’un matelas à ressorts ensachés, couche par couche)
+
+Modélisation 3D de principe, d’après les matelas à ressorts ensachés Eclipse et Superqueen de Van Landschoot. Ce n’est pas la photo d’un modèle.
+
+### Le matelas
+
+1. ####
+
+   Matelassée, elle s’enlève et se lave.
+
+   En détail
+
+   Une bande d’aération court sur le côté.
+2. ####
+
+   C’est elle que vous sentez en vous allongeant.
+
+   En détail
+
+   Quelques centimètres posés sur les ressorts : mousse à froid, latex ou mousse à gel.
+3. ####
+
+   Chaque ressort réagit séparément : l’épaule n’est pas portée comme le bassin.
+
+   En détail
+
+   Des ressorts ensachés, chacun dans sa poche, répartis en sept zones.
+4. ####
+
+   Le même matelas ne donne pas la même sensation sur des lattes et sur une base à ressorts.
+
+[Bien choisir son matelas →](https://fony.be/literie-choisir-matelas)
+
+(Photo : Un boxspring : le matelas, la base et les pieds)
+
+Modélisation 3D de principe d’un boxspring. Ce n’est pas la photo d’un modèle.
+
+### Le boxspring
+
+1. ####
+
+   Il se choisit allongé : c’est lui qui fait la sensation du lit.
+
+   En détail
+
+   À ressorts ensachés ou en mousse, avec plusieurs accueils.
+2. ####
+
+   Elle n’est pas qu’un support : fixe ou électrique, c’est la première question que nous vous poserons.
+
+   En détail
+
+   Chez Axelsson, elle existe en plusieurs hauteurs, avec deux types de ressorts.
+3. ####
+
+   Ils règlent la hauteur du couchage et l’allure de la chambre.
+
+   En détail
+
+   Six modèles en métal, de 12 à 20 cm.
+
+[Boxspring fixe ou électrique →](https://fony.be/literie-boxspring-fixe-electrique)
+
+Avant de venir
+
+## Préparez votre essai *en quatre questions.*
+
+Vos réponses forment un résumé à montrer au magasin. Rien n’est envoyé ni enregistré.
+
+1/4Vous dormez surtout…
+
+2/4Vous cherchez…
+
+3/4Votre lit actuel vous semble…
+
+4/4Vous dormez…
+
+Votre résumé
+
+[Venir l’essayer →](https://fony.be/literie#visite)
 
 (Photo : Tête de lit Fly en tissu, avec sa poche latérale où glisser un magazine)
 
-Le matelas
+Conseils
 
-### Les sensations changent d’un matelas à l’autre.
+## L’un lit, *l’autre dort.*
 
-Ressorts ensachés, latex ou mousse : nous vous aidons à choisir selon votre façon de dormir.
+L’un aime un lit ferme, l’autre non. Nos conseils pour bien choisir, seul ou à deux.
 
-- [Ce qu’il y a dans un matelas](https://fony.be/literie-choisir-matelas)
-
-(Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)
-
-À deux
-
-### Un lit pour deux peut tenir compte des deux.
-
-L’un lit, l’autre dort ; l’un aime un lit ferme, l’autre non.
-
-- [Dormir à deux](https://fony.be/literie-dormir-a-deux)
+[Voir les conseils →](https://fony.be/literie-conseils)
 
 Au magasin
 
@@ -70,7 +147,7 @@ Les modèles exposés se déclinent en d’autres tailles, tissus, coloris, têt
   Fabriqués en Belgique. Au magasin, découvrez notamment le Fly et l’Imagine, en version fixe ou électrique, dans les configurations proposées par le fabricant.
 - ### Van Landschoot
 
-  Les boxsprings Axelsson, fabriqués en Belgique, en plusieurs hauteurs, en versions fixes ou électriques.
+  Les boxsprings Axelsson, fabriqués en Belgique.
 - ### Polypreen
 
   Matelas, sommiers à lattes et boxsprings fabriqués à Lommel, en Belgique.
@@ -95,9 +172,9 @@ Tissus, têtes de lit, pieds et fonctions : composez votre couchage selon les o
 
 Autour du lit
 
-## Lits, chevets, armoires et dressings.
+## Cadre de lit, chevets, armoires.
 
-Le lit, les chevets et les rangements se choisissent dans des finitions qui s’accordent : ils ont leur page.
+Le cadre et la tête de lit se choisissent avec les chevets et les rangements, dans des finitions qui s’accordent : ils ont leur page.
 
 [Voir la chambre](https://fony.be/chambre)
 

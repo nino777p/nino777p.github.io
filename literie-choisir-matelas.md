@@ -100,7 +100,7 @@ Des ressorts ensachés : chacun est enfermé dans sa poche et réagit séparém
 
 ### Ce qui porte l’ensemble.
 
-Un matelas travaille avec son sommier ou sa base de boxspring : le même matelas ne donne pas la même sensation sur des lattes et sur une base à ressorts.
+Sommier à lattes ou base de boxspring : c’est elle qui porte le matelas.
 
 [Boxspring fixe ou électrique](https://fony.be/literie-boxspring-fixe-electrique)
 
@@ -136,7 +136,7 @@ Eclipse et Superqueen partagent la même housse, traitée Purest par le fabrican
   Une bande d’aération en maille fait le tour du matelas.
 - ### Elle est traitée
 
-  Purest est un traitement du tissu. Le fabricant le présente comme antiallergique, antimicrobien et régulateur d’humidité. Son catalogue mentionne aussi le label Oeko-Tex.
+  Purest est un traitement du tissu. Le fabricant indique qu’il régule l’humidité. Son catalogue mentionne aussi le label Oeko-Tex.
 
 Au magasin
 

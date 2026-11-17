@@ -73,7 +73,6 @@ Fabrication
 | Structure | Bois |
 | Assise | Ressorts ensachés, mousse polyuréthane |
 | Dossier et accoudoirs | Mousse polyuréthane |
-| Pieds | Plastique |
 
 Fonctions et options
 

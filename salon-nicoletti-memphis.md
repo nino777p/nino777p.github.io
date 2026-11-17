@@ -82,7 +82,7 @@ Fabrication
 | Dossier et têtières | Mousse polyuréthane, ouate 100 % polyester |
 | Accoudoirs | Mousse polyuréthane, ouate 100 % polyester |
 | Densité des mousses | Assise 30 kg/m³ avec ressorts, dossier 28 kg/m³ |
-| Pieds | PVC, hauteur 4 cm |
+| Pieds | Hauteur 4 cm |
 | Déhoussable | Non |
 
 Mécanismes

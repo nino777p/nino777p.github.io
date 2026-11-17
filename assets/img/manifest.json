@@ -5012,5 +5012,85 @@
    800,
    1100
   ]
+ },
+ "ve-imagine-ambiance": {
+  "id": "ve-imagine-ambiance",
+  "use": [
+   "literie"
+  ],
+  "credit": "Velda",
+  "alt": "Boxspring Velda Imagine électrique, tête de lit en tissu clair, dans une chambre lumineuse",
+  "source": "ve-imagine-ambiance.jpg",
+  "w": 1600,
+  "h": 1067,
+  "files": {
+   "600": "ve-imagine-ambiance-600.webp",
+   "900": "ve-imagine-ambiance-900.webp",
+   "1400": "ve-imagine-ambiance-1400.webp",
+   "1600": "ve-imagine-ambiance-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "ve-imagine-ambiance-600.avif",
+   "900": "ve-imagine-ambiance-900.avif",
+   "1400": "ve-imagine-ambiance-1400.avif",
+   "1600": "ve-imagine-ambiance-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1067
+  ]
+ },
+ "vl-superqueen-studio": {
+  "id": "vl-superqueen-studio",
+  "use": [
+   "literie"
+  ],
+  "credit": "Van Landschoot",
+  "alt": "Matelas Van Landschoot Superqueen, housse matelassée blanche",
+  "source": "vl-superqueen-studio.jpg",
+  "w": 2560,
+  "h": 1707,
+  "files": {
+   "600": "vl-superqueen-studio-600.webp",
+   "900": "vl-superqueen-studio-900.webp",
+   "1400": "vl-superqueen-studio-1400.webp",
+   "2000": "vl-superqueen-studio-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "vl-superqueen-studio-600.avif",
+   "900": "vl-superqueen-studio-900.avif",
+   "1400": "vl-superqueen-studio-1400.avif",
+   "2000": "vl-superqueen-studio-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1707
+  ]
+ },
+ "pp-sommier-electrique": {
+  "id": "pp-sommier-electrique",
+  "use": [
+   "literie"
+  ],
+  "credit": "Polypreen",
+  "alt": "Sommier à lattes électrique Polypreen, tête relevée",
+  "source": "pp-sommier-electrique.png",
+  "w": 880,
+  "h": 587,
+  "files": {
+   "600": "pp-sommier-electrique-600.webp",
+   "880": "pp-sommier-electrique-880.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "pp-sommier-electrique-600.avif",
+   "880": "pp-sommier-electrique-880.avif"
+  },
+  "ratio": [
+   880,
+   587
+  ]
  }
 }

@@ -65,7 +65,6 @@ Fabrication
 | Structure | Bois |
 | Assise, dossier et accoudoirs | Mousse polyuréthane |
 | Confort | Standard |
-| Pieds | Plastique (version fixe), base pivotante en métal |
 
 Options
 
