@@ -23,35 +23,49 @@ Le lit, les chevets et les rangements, dans des finitions qui s’accordent. Nou
 - Projection 3D de votre projet
 - Première visite et conseil offerts
 
-Autour du lit
+Explorer la chambre
 
 ## Une chambre qui s’accorde.
 
-1. (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+(Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
-   Tomasella
+Lit et chevets
 
-   ### Le lit et les chevets.
+### Le lit et les chevets.
 
-   Lits et chevets Tomasella, entre autres, dans des finitions qui s’accordent à votre armoire.
+Lits et chevets Tomasella, entre autres, dans des finitions qui s’accordent à votre armoire.
 
-   [Voir Tomasella](https://fony.be/tomasella)
-2. (Photo : Armoire Tomasella Carmen à portes battantes laquées)
+- [Voir Tomasella](https://fony.be/tomasella)
 
-   Rangements
+(Photo : Armoire Tomasella Carmen à portes battantes laquées)
 
-   ### Armoires et garde-robes.
+Armoires
 
-   Portes battantes ou coulissantes, compartiments : choisissez la façade et l’organisation intérieure selon ce que vous souhaitez ranger.
-3. (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
+### Armoires et garde-robes.
 
-   Dressing
+Portes battantes ou coulissantes, compartiments : choisissez la façade et l’organisation intérieure selon ce que vous souhaitez ranger.
 
-   ### Quand la pièce a ses contraintes.
+- [Les fabricants de chambres](https://fony.be/chambre#fabricants)
 
-   Un dressing ouvert, un recoin, une sous-pente, un mur aux dimensions particulières : le sur mesure prend le relais.
+(Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
-   [Voir le sur mesure](https://fony.be/sur-mesure)
+Dressing
+
+### Quand la pièce a ses contraintes.
+
+Un dressing ouvert, un recoin, une sous-pente, un mur aux dimensions particulières : le sur mesure prend le relais.
+
+- [Voir le sur mesure](https://fony.be/sur-mesure)
+
+(Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
+
+L’ensemble
+
+### Le meilleur de chaque fabricant, dans la même chambre.
+
+Une armoire Tomasella, un boxspring belge, des chevets assortis : nous composons votre chambre en associant les fabricants. Le matelas et le boxspring, eux, se choisissent allongé, au magasin.
+
+- [Voir la literie](https://fony.be/literie)
 
 Les fabricants
 
@@ -70,16 +84,6 @@ Tomasella pour composer la chambre entière. Staud et GBO by Bauwens se commande
 - ### GBO by Bauwens
 
   Des chambres d’un fabricant belge.
-
-(Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
-
-L’avantage du magasin
-
-## Le meilleur de chaque fabricant, dans la même chambre.
-
-Une armoire Tomasella, un boxspring belge, des chevets assortis : nous composons votre chambre en associant les fabricants. Le matelas et le boxspring, eux, se choisissent allongé, au magasin.
-
-[Voir la literie](https://fony.be/literie)
 
 Comment nous travaillons
 

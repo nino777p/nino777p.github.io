@@ -23,33 +23,41 @@ Boxsprings belges, fixes ou électriques, matelas et sommiers : ils se choisiss
 - Du lundi au samedi, avec ou sans rendez-vous
 - Livraison et installation
 
-Choisir
+Explorer la literie
 
 ## Trouver le couchage qui vous convient.
 
 Plusieurs couchages sont disponibles à l’essai. Comparez le soutien, l’accueil et les niveaux de fermeté en vous allongeant dans votre position habituelle. Tailles et finitions se choisissent ensuite selon le modèle.
 
-- 01
+(Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
 
-  ### Le boxspring
+Le boxspring
 
-  Un ensemble composé d’une base et d’un matelas, parfois complété d’un surmatelas. Nous proposons aussi des sommiers à lattes.
+### Une base, un matelas, parfois un surmatelas.
 
-  [Fixe ou électrique](https://fony.be/literie-boxspring-fixe-electrique)
-- 02
+Un ensemble composé d’une base et d’un matelas, parfois complété d’un surmatelas. Nous proposons aussi des sommiers à lattes.
 
-  ### Le matelas
+- [Fixe ou électrique](https://fony.be/literie-boxspring-fixe-electrique)
 
-  Ressorts ensachés, latex ou mousse : les sensations changent d’un matelas à l’autre. Nous vous aidons à choisir selon votre façon de dormir.
+(Photo : Tête de lit Fly en tissu, avec sa poche latérale où glisser un magazine)
 
-  [Ce qu’il y a dans un matelas](https://fony.be/literie-choisir-matelas)
-- 03
+Le matelas
 
-  ### À deux
+### Les sensations changent d’un matelas à l’autre.
 
-  L’un lit, l’autre dort ; l’un aime un lit ferme, l’autre non. Un lit pour deux peut tenir compte des deux.
+Ressorts ensachés, latex ou mousse : nous vous aidons à choisir selon votre façon de dormir.
 
-  [Dormir à deux](https://fony.be/literie-dormir-a-deux)
+- [Ce qu’il y a dans un matelas](https://fony.be/literie-choisir-matelas)
+
+(Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)
+
+À deux
+
+### Un lit pour deux peut tenir compte des deux.
+
+L’un lit, l’autre dort ; l’un aime un lit ferme, l’autre non.
+
+- [Dormir à deux](https://fony.be/literie-dormir-a-deux)
 
 Au magasin
 

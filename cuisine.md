@@ -35,22 +35,52 @@ Salon, séjour, table et rangements sur mesure se choisissent dans des finitions
 
 [Voir le séjour](https://fony.be/living)
 
-Choisir un style
+Explorer la cuisine
 
 ## La porte et les teintes donnent le style.
 
-- 01
+(Photo : Cuisine classique crème en angle, façades à cadre, sol en bois clair)
 
-  ### La porte
+La porte
 
-  Lisse et sans cadre pour un style contemporain, à cadre et moulure pour un style classique. C’est le choix qui donne son caractère à la cuisine.
-- 02
+### Contemporaine ou classique.
 
-  ### Les teintes
+Lisse et sans cadre pour un style contemporain, à cadre et moulure pour un style classique. C’est le choix qui donne son caractère à la cuisine.
 
-  Chaudes (bois, beige, terre) ou froides (blanc, gris, laque, anthracite).
+- [Voir les teintes en photos](https://fony.be/cuisine#teintes)
 
-Choisissez les façades et le plan de travail selon vos habitudes, la lumière de la pièce et les finitions que vous souhaitez garder longtemps. La tendance peut aller aux éléments faciles à remplacer.
+(Photo : Cuisine classique vert sauge, façades à cadre et hotte claire)
+
+Les teintes
+
+### Chaudes ou froides.
+
+Chaudes (bois, beige, terre) ou froides (blanc, gris, laque, anthracite). Choisissez les façades et le plan de travail selon vos habitudes, la lumière de la pièce et les finitions que vous souhaitez garder longtemps. La tendance peut aller aux éléments faciles à remplacer.
+
+- [Voir les teintes en photos](https://fony.be/cuisine#teintes)
+
+(Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
+
+Le plan de travail
+
+### À choisir selon votre usage.
+
+C’est l’élément qui travaille le plus.
+
+- Stratifié : large choix de décors, facile à vivre
+- Compact : résistant aux chocs et à l’eau, chant plein dans la masse
+- Céramique : supporte bien la chaleur et les rayures
+- Stratifié et compact viennent du fabricant de la cuisine, pour accorder les teintes aux façades ; céramique et matières naturelles, de notre marbrier partenaire
+
+(Photo : Détail de façade et de poignée d’une cuisine Stosa Natural)
+
+Le projet
+
+### Dessinée avec vous, à vos cotes.
+
+Nous relevons les cotes chez vous, puis composons le plan, les façades, le plan de travail et les teintes.
+
+- [Les étapes d’un projet](https://fony.be/cuisine#parcours)
 
 Teintes et matières
 
@@ -118,24 +148,6 @@ Les étapes
    ### Pose
 
    Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, réglages et finitions compris. Nous restons disponibles après l’installation.
-
-Le plan de travail
-
-## À choisir selon votre usage.
-
-L’élément qui travaille le plus, et qui fait le plus varier un budget.
-
-- ### Stratifié
-
-  Large choix de décors, facile à vivre.
-- ### Compact
-
-  Résistant aux chocs et à l’eau, chant plein dans la masse.
-- ### Céramique
-
-  Supporte bien la chaleur et les rayures.
-
-Stratifié et compact viennent du fabricant de la cuisine, pour accorder les teintes aux façades ; céramique et matières naturelles, de notre marbrier partenaire.
 
 Vos questions
 
