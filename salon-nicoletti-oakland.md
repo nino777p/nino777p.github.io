@@ -46,24 +46,19 @@ Sous tous les angles
 
 ## Oakland, vue par vue.
 
-(Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
-
 (Photo : Gros plan sur la commande à boutons intégrée au flanc de l’accoudoir d’un canapé blanc)
 
 (Photo : Les deux canapés vus de dos : le deux places en tissu gris et le canapé relax blanc)
 
 (Photo : Gros plan sur l’accoudoir et l’assise d’un canapé en tissu gris chiné)
 
-1. (Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
-
-   ### Une place en position relax.
-2. (Photo : Gros plan sur la commande à boutons intégrée au flanc de l’accoudoir d’un canapé blanc)
+1. (Photo : Gros plan sur la commande à boutons intégrée au flanc de l’accoudoir d’un canapé blanc)
 
    ### La commande, sur le flanc de l’accoudoir.
-3. (Photo : Les deux canapés vus de dos : le deux places en tissu gris et le canapé relax blanc)
+2. (Photo : Les deux canapés vus de dos : le deux places en tissu gris et le canapé relax blanc)
 
    ### Vus de dos.
-4. (Photo : Gros plan sur l’accoudoir et l’assise d’un canapé en tissu gris chiné)
+3. (Photo : Gros plan sur l’accoudoir et l’assise d’un canapé en tissu gris chiné)
 
    ### En tissu.
 

@@ -27,7 +27,7 @@ Dans cet univers
 
 ## Deux façons d’entrer.
 
-- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
+- (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
   ### [Sur mesure](https://fony.be/sur-mesure)
 

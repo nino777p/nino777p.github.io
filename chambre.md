@@ -6,7 +6,7 @@ Adresse de la page : https://fony.be/chambre
 
 (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
-(Photo : Armoire Tomasella Carmen à portes battantes laquées)
+(Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
 
 1. [Accueil](https://fony.be/)
 2. Chambre
@@ -37,7 +37,7 @@ Lits et chevets Tomasella, entre autres, dans des finitions qui s’accordent à
 
 - [Voir Tomasella](https://fony.be/tomasella)
 
-(Photo : Armoire Tomasella Carmen à portes battantes laquées)
+(Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
 Armoires
 
@@ -47,7 +47,7 @@ Portes battantes ou coulissantes, compartiments : choisissez la façade et l’
 
 - [Les fabricants de chambres](https://fony.be/chambre#fabricants)
 
-(Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
+(Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
 Dressing
 
@@ -87,12 +87,12 @@ Tomasella pour composer la chambre entière. Staud et GBO by Bauwens se commande
 
 ## Du mur au projet.
 
-- (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
+- (Photo : Échantillon Tomasella : chêne sable)
 
   ### Les matières en main
 
   Bois, laques mates et décors, au magasin.
-- (Photo : Armoire Tomasella Carmen à portes battantes laquées)
+- (Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
 
   ### Votre composition
 

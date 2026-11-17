@@ -39,13 +39,13 @@ Au magasin et sur catalogue
    En cuir, en angle avec son pouf ou en deux places. Dossiers avance-recule.
 
    [Dimensions et versions de Coffee](https://fony.be/salon-max-divani-coffee)
-2. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+2. (Photo : Le même canapé écru vu de trois quarts : coussins généreux et accoudoirs en forme de pétale)
 
    02
 
    ### Gala
 
-   Des formes souples en tissu : canapé et fauteuils assortis.
+   Des formes souples en tissu, avec chaise longue.
 
    [Dimensions et versions de Gala](https://fony.be/salon-max-divani-gala)
 3. (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
@@ -74,13 +74,13 @@ Au magasin et sur catalogue
    En tissu, en angle, têtières réglables et place relax.
 
    [Dimensions et versions de Zebra](https://fony.be/salon-max-divani-zebra)
-5. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+5. (Photo : Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte)
 
    05
 
    ### Osaka
 
-   Deux canapés relax en cuir, face à face.
+   Deux places et trois places en cuir, une place relax ouverte.
 
    [Dimensions et versions de Osaka](https://fony.be/salon-max-divani-osaka)
 6. (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)

@@ -54,7 +54,7 @@ Sous tous les angles
    ### De trois quarts.
 2. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
-   ### Canapé et fauteuils assortis.
+   ### Avec les fauteuils Dana, dans un séjour.
 
 Caractéristiques
 

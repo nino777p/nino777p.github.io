@@ -67,18 +67,18 @@ Retrouvez les bois et les laques du meuble TV dans votre buffet. Nous vous aidon
 
 ## Du canapé au séjour complet.
 
-- (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
+- (Photo : Échantillon Tomasella : chêne cannelé cognac)
 
   ### Les matières côte à côte
 
   Tissu, bois et laques, au magasin.
-- (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+- (Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
 
   ### Votre composition
 
   Meuble TV, bibliothèque, buffet et table.
 
-(Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
+(Photo : Échantillon Tomasella : noyer ambré)
 
 Matières et finitions
 
@@ -92,14 +92,14 @@ Autour du séjour
 
 ## Pour compléter la pièce.
 
-- (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
+- (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
   ### [Le salon](https://fony.be/salon)
 
   Trois façons de choisir votre canapé.
 
   Voir les salons
-- (Photo : Table Akante Phoenix au plateau clair dans une salle à manger, entourée de chaises grises)
+- (Photo : Grande table en céramique marbrée sur piètement croisé en métal, dans un séjour clair)
 
   ### [La table et les chaises](https://fony.be/tables-chaises)
 

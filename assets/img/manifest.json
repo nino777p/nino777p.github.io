@@ -263,7 +263,7 @@
    "sur-mesure.html:tomasella-armoire"
   ],
   "credit": "Tomasella Carmen",
-  "alt": "Armoire Tomasella Carmen à portes battantes laquées",
+  "alt": "Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir",
   "source": "tom-armoire.png",
   "w": 1900,
   "h": 1153,
@@ -5201,6 +5201,278 @@
   "ratio": [
    945,
    850
+  ]
+ },
+ "tx-01": {
+  "id": "tx-01",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte crème, grain visible",
+  "source": "tx-01.jpg",
+  "w": 612,
+  "h": 684,
+  "files": {
+   "600": "tx-01-600.webp",
+   "612": "tx-01-612.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-01-600.avif",
+   "612": "tx-01-612.avif"
+  },
+  "ratio": [
+   612,
+   684
+  ]
+ },
+ "tx-02": {
+  "id": "tx-02",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte rosé, grain visible",
+  "source": "tx-02.jpg",
+  "w": 599,
+  "h": 670,
+  "files": {
+   "599": "tx-02-599.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "599": "tx-02-599.avif"
+  },
+  "ratio": [
+   599,
+   670
+  ]
+ },
+ "tx-03": {
+  "id": "tx-03",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte taupe, grain visible",
+  "source": "tx-03.jpg",
+  "w": 601,
+  "h": 671,
+  "files": {
+   "600": "tx-03-600.webp",
+   "601": "tx-03-601.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-03-600.avif",
+   "601": "tx-03-601.avif"
+  },
+  "ratio": [
+   601,
+   671
+  ]
+ },
+ "tx-04": {
+  "id": "tx-04",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte beige, grain visible",
+  "source": "tx-04.jpg",
+  "w": 600,
+  "h": 670,
+  "files": {
+   "600": "tx-04-600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-04-600.avif"
+  },
+  "ratio": [
+   600,
+   670
+  ]
+ },
+ "tx-05": {
+  "id": "tx-05",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte cognac, grain visible",
+  "source": "tx-05.jpg",
+  "w": 660,
+  "h": 737,
+  "files": {
+   "600": "tx-05-600.webp",
+   "660": "tx-05-660.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-05-600.avif",
+   "660": "tx-05-660.avif"
+  },
+  "ratio": [
+   660,
+   737
+  ]
+ },
+ "tx-06": {
+  "id": "tx-06",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte brique, grain visible",
+  "source": "tx-06.jpg",
+  "w": 600,
+  "h": 671,
+  "files": {
+   "600": "tx-06-600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-06-600.avif"
+  },
+  "ratio": [
+   600,
+   671
+  ]
+ },
+ "tx-07": {
+  "id": "tx-07",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte brun, grain visible",
+  "source": "tx-07.jpg",
+  "w": 600,
+  "h": 670,
+  "files": {
+   "600": "tx-07-600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-07-600.avif"
+  },
+  "ratio": [
+   600,
+   670
+  ]
+ },
+ "tx-08": {
+  "id": "tx-08",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte bordeaux, grain visible",
+  "source": "tx-08.jpg",
+  "w": 600,
+  "h": 670,
+  "files": {
+   "600": "tx-08-600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-08-600.avif"
+  },
+  "ratio": [
+   600,
+   670
+  ]
+ },
+ "tx-09": {
+  "id": "tx-09",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte gris clair, grain visible",
+  "source": "tx-09.jpg",
+  "w": 658,
+  "h": 735,
+  "files": {
+   "600": "tx-09-600.webp",
+   "658": "tx-09-658.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-09-600.avif",
+   "658": "tx-09-658.avif"
+  },
+  "ratio": [
+   658,
+   735
+  ]
+ },
+ "tx-10": {
+  "id": "tx-10",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte olive, grain visible",
+  "source": "tx-10.jpg",
+  "w": 600,
+  "h": 670,
+  "files": {
+   "600": "tx-10-600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-10-600.avif"
+  },
+  "ratio": [
+   600,
+   670
+  ]
+ },
+ "tx-11": {
+  "id": "tx-11",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte vert, grain visible",
+  "source": "tx-11.jpg",
+  "w": 600,
+  "h": 670,
+  "files": {
+   "600": "tx-11-600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-11-600.avif"
+  },
+  "ratio": [
+   600,
+   670
+  ]
+ },
+ "tx-12": {
+  "id": "tx-12",
+  "use": [
+   "salon"
+  ],
+  "credit": "Max Divani",
+  "alt": "Échantillon de cuir Texas Max Divani, teinte bleu nuit, grain visible",
+  "source": "tx-12.jpg",
+  "w": 600,
+  "h": 670,
+  "files": {
+   "600": "tx-12-600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tx-12-600.avif"
+  },
+  "ratio": [
+   600,
+   670
   ]
  }
 }

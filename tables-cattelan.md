@@ -24,7 +24,7 @@ Fondée en 1979 par Giorgio et Silvia Cattelan, la maison donne du caractère au
 - Tables fabriquées en Italie
 - Première visite et conseil offerts
 
-(Photo : Dressoir trois portes aux façades à facettes gris brossé, sous trois miroirs, contre un mur gris)
+(Photo : Dressoir clair à facettes dans une salle à manger, près d’une table au plateau en céramique)
 
 La maison
 
@@ -80,7 +80,7 @@ Buffets et dressoirs
 
    (Photo : Angle du dressoir vu de près : les facettes brossées se rejoignent en pointe)
 
-   (Photo : Dressoir clair à facettes dans une salle à manger, près d’une table au plateau en céramique)
+   (Photo : Dressoir trois portes aux façades à facettes gris brossé, sous trois miroirs, contre un mur gris)
 
    01
 

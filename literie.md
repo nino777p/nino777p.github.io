@@ -33,7 +33,7 @@ Par où commencer
   ### [Je veux tout le couchage](https://fony.be/literie-boxspring-fixe-electrique)
 
   Fixe ou électrique →
-- (Photo : Sommier à lattes électrique Polypreen, tête relevée)
+- (Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
 
   Le sommier
 

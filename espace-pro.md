@@ -57,7 +57,7 @@ Cuisines, meubles encastrés et sous-pentes sur mesure, de l’appartement témo
 
 [Parler d’un programme immobilier](https://fony.be/espace-pro#projet-pro)
 
-(Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+(Photo : Boxspring Velda Imagine électrique, tête de lit en tissu clair, dans une chambre lumineuse)
 
 Maisons de repos
 

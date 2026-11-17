@@ -6,7 +6,7 @@ Adresse de la page : https://fony.be/magasin-meubles-la-louviere
 
 (Photo : Canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
 
-(Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
+(Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
 
 1. [Accueil](https://fony.be/)
 2. [Le magasin](https://fony.be/magasin-contact)
@@ -49,7 +49,7 @@ Au magasin
 
 Découvrez nos univers et demandez-nous quels modèles sont exposés avant votre visite.
 
-- (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+- (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
 
   ### [Salons et relax](https://fony.be/salon)
 

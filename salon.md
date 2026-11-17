@@ -6,8 +6,6 @@ Adresse de la page : https://fony.be/salon
 
 (Photo : Canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
 
-(Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
-
 1. [Accueil](https://fony.be/)
 2. Salon
 
@@ -23,6 +21,10 @@ Canapés et fauteuils relax italiens et européens, du classique au contemporain
 - Du lundi au samedi, avec ou sans rendez-vous
 - Première visite et conseil offerts
 
+(Photo : Échantillon de cuir Texas Max Divani, teinte cognac, grain visible)
+
+Cuir Texas, Max Divani
+
 (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
 Max Divani
@@ -32,6 +34,18 @@ Max Divani
 Née en 1956 à Altamura, dans les Pouilles, Max Divani fabrique des canapés et des fauteuils. Au magasin : une sélection de salons, du 3-2 classique au grand angle.
 
 [Découvrir Max Divani](https://fony.be/salon-max-divani)
+
+(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
+
+Exposé au magasin
+
+## Zebra, l’angle qui se compose.
+
+Un canapé à appuie-têtes réglables, en angle avec chaise longue ou en deux et trois places. Avec ou sans relax électrique, en tissu ou en cuir.
+
+[Découvrir Zebra](https://fony.be/salon-max-divani-zebra)
+
+(Photo : Échantillon de cuir Texas Max Divani, teinte taupe, grain visible)
 
 (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
@@ -67,35 +81,63 @@ Les fabricants
 
 ## Notre sélection de salons.
 
-Découvrez les modèles exposés et les possibilités de commande : configurations, revêtements et finitions varient selon les collections.
+- (Photo : Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte)
 
-- ### Max Divani
+  ### [Max Divani](https://fony.be/salon-max-divani)
 
   Des salons fabriqués en Italie, en cuir, microfibre ou tissu.
+- (Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
 
-  [Voir les salons Max Divani](https://fony.be/salon-max-divani)
-- ### Nicoletti
+  ### [Nicoletti](https://fony.be/salon-nicoletti)
 
   Des canapés relax fabriqués en Italie.
 
-  [Voir le relax Cozy³](https://fony.be/salon#relax)
-- ### De Eiken Zetel
+Et les fauteuils relax et releveurs De Eiken Zetel, d’un fabricant belge : [les voir](https://fony.be/salon-fauteuils-relax-releveurs).
 
-  Des fauteuils relax et releveurs d’un fabricant belge.
+(Photo : Échantillon de cuir Texas Max Divani, teinte brun, grain visible)
 
-  [Voir les fauteuils relax et releveurs](https://fony.be/salon-fauteuils-relax-releveurs)
-- ### Les lignes arrondies
-
-  Des formes souples pour un intérieur contemporain.
-- ### Une sélection européenne
-
-  D’autres styles et niveaux de gamme pour répondre à différents projets.
+(Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
 
 (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 
-Asseyez-vous, comparez : nos salons s’essaient au magasin, sans rendez-vous.
+(Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
 
-[Venir les essayer](https://fony.be/salon#visite)
+(Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+
+Max Divani Osaka
+
+Un salon sur pieds en bois, avec une assise sur ressorts ensachés.
+
+[Découvrir Osaka](https://fony.be/salon-max-divani-osaka)
+
+(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
+
+Le cuir Texas, à la finition pigmentée : facile à vivre.
+
+(Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
+
+Le revêtement se choisit modèle par modèle, échantillons en main, avec une photo de votre pièce.
+
+La matière
+
+## Toucher avant de choisir.
+
+- (Photo : Échantillon de cuir Texas Max Divani, teinte crème, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte rosé, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte taupe, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte beige, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte cognac, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte brique, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte brun, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte bordeaux, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte gris clair, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte olive, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte vert, grain visible)
+- (Photo : Échantillon de cuir Texas Max Divani, teinte bleu nuit, grain visible)
+
+Douze des 24 coloris du cuir Texas de Max Divani. Les couleurs varient selon l’écran : voyez-les sur échantillon, au magasin.
+
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite)
 
 Autour du canapé
 
@@ -123,7 +165,7 @@ Vos questions
 
 ### Peut-on essayer un relax électrique au magasin ?
 
-Oui. Des salons et des fauteuils relax sont exposés au magasin : comparez leurs positions et leur confort, sans rendez-vous.
+Oui. Des salons et des fauteuils relax sont exposés au magasin : comparez leurs positions et leur confort.
 
 ### Quelle différence entre un fauteuil relax et un fauteuil releveur ?
 
@@ -131,7 +173,7 @@ Le fauteuil relax permet de s’incliner et de relever les jambes ; le releveu
 
 ## Venez essayer nos salons.
 
-Venez essayer nos salons à Leval-Trahegnies, à quelques minutes de Morlanwelz et d’Anderlues, à un quart d’heure de La Louvière. Notre équipe vous aide à choisir la configuration, les revêtements et les fonctions qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
+Venez essayer nos salons à Leval-Trahegnies, à quelques minutes de Morlanwelz et d’Anderlues, à un quart d’heure de La Louvière. Notre équipe vous aide à choisir la configuration, les revêtements et les fonctions qui vous conviennent. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)

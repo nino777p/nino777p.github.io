@@ -34,13 +34,13 @@ Ce qui revient cette saison
    ### Sable, lin, écru, grège
 
    Ici, une laque mate Arena. Le beige offre une base facile à associer ; sa nuance change avec le sol et la lumière.
-2. (Photo : Échantillon Tomasella : pierre piasentina)
+2. (Photo : Plateau en céramique claire vu de dessus, avec un bouquet et une coupe en bois)
 
    Les pierres veinées
 
    ### Travertin, piasentina
 
-   Le travertin pour les tons clairs, la piasentina (la pierre ci-contre) pour les tons sombres. Réservez-les aux surfaces où vous souhaitez créer un contraste, comme un plateau ou une table basse.
+   Le travertin pour les tons clairs (ci-contre, une céramique effet travertin sur une table Cattelan Napoleon), la piasentina pour les tons sombres. Réservez-les aux surfaces où vous souhaitez créer un contraste, comme un plateau ou une table basse.
 3. (Photo : Échantillon Tomasella : noyer ambré)
 
    Les bois chaleureux
@@ -53,7 +53,7 @@ Pièce par pièce
 
 ## Où placer la tendance, pièce par pièce.
 
-1. (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
+1. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
    Le salon
 
@@ -62,7 +62,7 @@ Pièce par pièce
    **La base, pour longtemps.** Le canapé dans un ton neutre, un tissu qui se nettoie : il ne doit rien à la saison. **La tendance, en petit.** Un fauteuil dans un ton chaud, un tapis, une table basse en pierre.
 
    [Voir les salons](https://fony.be/salon)
-2. (Photo : Table et buffet Tomasella dans un séjour urbain)
+2. (Photo : Chaises aux dossiers ronds en bois et tissu écru autour d’une table ovale en bois foncé)
 
    La salle à manger
 
@@ -71,7 +71,7 @@ Pièce par pièce
    **La base, pour longtemps.** La table, en bois massif ou plaqué, dans une essence de bois naturelle. **La tendance, en petit.** Les chaises et la lumière, qui donnent son époque à une salle à manger.
 
    [Voir la salle à manger](https://fony.be/tables-chaises)
-3. (Photo : Armoire Tomasella Carmen à portes battantes laquées)
+3. (Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
 
    Le dressing et la chambre
 
@@ -101,12 +101,6 @@ Une teinte change selon votre sol et votre lumière. Apportez une photo de la pi
 4. (Photo : Échantillon Tomasella : lin texturé)
 
    04 Lin texturé
-5. (Photo : Échantillon Tomasella : pierre piasentina)
-
-   05 Pierre veinée
-6. (Photo : Échantillon Tomasella : laque métallisée laiton)
-
-   06 Laiton
 
 ## Venez composer votre palette.
 

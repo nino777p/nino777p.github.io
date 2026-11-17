@@ -40,14 +40,11 @@ Un aperçu de la collection
 
 ## De la table à l’horloge.
 
-Six pièces très différentes, pour donner une idée de l’univers. Une partie de la collection est au magasin ; le reste se choisit sur catalogue. Photos du fabricant.
+Cinq pièces très différentes, pour donner une idée de l’univers. Une partie de la collection est au magasin ; le reste se choisit sur catalogue. Photos du fabricant.
 
 - (Photo : Table au plateau allongé et arrondi, posée sur deux pieds sombres aux formes ovales)
 
   Table Maya.
-- (Photo : Chaise grise à accoudoirs et dossier arrondi, devant un mur clair et un tableau jaune)
-
-  Chaise Fred.
 - (Photo : Buffet bas bleu aux façades en relief quadrillé, sur un piètement fin)
 
   Buffet Ofelia.

@@ -27,14 +27,14 @@ Dans cet univers
 
 ## Le lit, puis la chambre.
 
-- (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
+- (Photo : Boxspring Velda Imagine électrique, tête de lit en tissu clair, dans une chambre lumineuse)
 
   ### [Literie](https://fony.be/literie)
 
   Boxsprings belges, fixes ou électriques, matelas et sommiers à essayer.
 
   Voir la literie →
-- (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+- (Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
 
   ### [Chambre](https://fony.be/chambre)
 

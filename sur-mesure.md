@@ -53,7 +53,7 @@ Meuble TV
 
 Équipements intégrés et câbles cachés, dans une composition accordée au reste du séjour.
 
-(Photo : Armoire Tomasella Carmen à portes battantes laquées)
+(Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
 
 Ailleurs
 
@@ -103,13 +103,13 @@ Deux savoir-faire
   ### Le plan
 
   Façades, poignées et teintes, ajustées avec vous.
-- (Photo : Armoire Tomasella Carmen à portes battantes laquées)
+- (Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
 
   ### L’installation
 
   Livraison par nos soins, finitions comprises.
 
-(Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
+(Photo : Grande table ovale en céramique claire sur pied central, chaises grises, dans une salle sombre ouverte sur une baie vitrée)
 
 Vous êtes professionnel ?
 

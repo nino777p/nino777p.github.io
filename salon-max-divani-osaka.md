@@ -46,26 +46,21 @@ Sous tous les angles
 
 ## Osaka, vue par vue.
 
-(Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
-
-(Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
-
 (Photo : Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte)
 
 (Photo : Détail du canapé Osaka en cuir gris anthracite : accoudoir et pied en bois)
 
-1. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+(Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
 
-   ### Deux canapés relax en cuir, face à face.
-2. (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
-
-   ### Une place relax ouverte.
-3. (Photo : Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte)
+1. (Photo : Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte)
 
    ### Deux places et trois places, relax ouvert.
-4. (Photo : Détail du canapé Osaka en cuir gris anthracite : accoudoir et pied en bois)
+2. (Photo : Détail du canapé Osaka en cuir gris anthracite : accoudoir et pied en bois)
 
    ### L’accoudoir et le pied en bois.
+3. (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
+
+   ### Une place relax ouverte.
 
 Caractéristiques
 

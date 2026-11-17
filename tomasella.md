@@ -59,7 +59,7 @@ Retrouvez des bois et des laques coordonnés du séjour à la chambre, selon les
 
 ## Du mur au projet.
 
-- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
+- (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
   ### Les matières en main
 

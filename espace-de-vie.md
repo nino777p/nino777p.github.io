@@ -27,14 +27,14 @@ Dans cet univers
 
 ## Quatre pièces, un même fil.
 
-- (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
+- (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
 
   ### [Salon](https://fony.be/salon)
 
   Canapés et fauteuils relax en cuir ou en tissu, à découvrir et à essayer.
 
   Voir les salons →
-- (Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
+- (Photo : Grande table en céramique marbrée sur piètement croisé en métal, dans un séjour clair)
 
   ### [Salle à manger](https://fony.be/tables-chaises)
 

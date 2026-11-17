@@ -26,7 +26,7 @@ Au magasin
 
 ## Ce qui fait la différence.
 
-- (Photo : Gros plan sur une place relax ouverte du canapé en cuir cognac, appui-tête relevé)
+- (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
 
   ### Voir, toucher, s’asseoir
 
@@ -51,7 +51,7 @@ Les univers
 
 ## Trois univers, un intérieur qui vous ressemble.
 
-- (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
   Espace de vie
 
@@ -89,13 +89,13 @@ Avis clients
 
   Chantal F. · avis Google
 
-(Photo : Salon aux formes arrondies en tissu texturé beige, dans un séjour aux tons chauds)
+(Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
 
 (Photo : Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée)
 
 (Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
-(Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
+(Photo : Cuisine Stosa Metropolis en L ouverte sur le séjour, façades grises à effet pierre, péninsule en bois clair, hotte suspendue cuivrée)
 
 Nos fabricants
 
@@ -118,7 +118,7 @@ Selon votre projet
 
 Un premier logement, une pièce à repenser ou un intérieur à rendre plus confortable : vos besoins évoluent. Nous vous accompagnons dans vos choix, en tenant compte de votre budget.
 
-1. (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
+1. (Photo : Table à rallonge au plateau effet bois clair sur pied métal noir, dans un séjour lumineux)
 
    01
 
@@ -141,7 +141,7 @@ Un premier logement, une pièce à repenser ou un intérieur à rendre plus conf
    - [Salon](https://fony.be/salon)
    - [Sur mesure](https://fony.be/sur-mesure)
    - [Salle à manger](https://fony.be/tables-chaises)
-3. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+3. (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
 
    03
 

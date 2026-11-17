@@ -29,7 +29,7 @@ Explorer les tables
 
 Une table à rallonge adapte l’espace au nombre de convives. Au magasin, comparez les formes, les matières et les mécanismes des tables exposées.
 
-(Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
+(Photo : Table ronde sur pied central galbé, posée sur un tapis rond)
 
 Forme et plateau
 
@@ -51,7 +51,7 @@ Selon le modèle, la rallonge se range dans la table ou se déploie à l’aide 
 - [Comparer les dimensions](https://fony.be/tables-extensibles-ceramique)
 - [Voir les tables Akante](https://fony.be/tables-akante)
 
-(Photo : Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée)
+(Photo : Longue table en céramique claire sur piètement croisé, dix chaises en cuir brun, vue en plongée)
 
 Convives
 
@@ -118,7 +118,7 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
    Tables italiennes fixes ou extensibles, en céramique ou en bois.
 
    [Voir les tables Sedit](https://fony.be/tables-sedit)
-3. (Photo : Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois)
+3. (Photo : Table Akante Phoenix au plateau clair dans une salle à manger, entourée de chaises grises)
 
    Akante
 
@@ -177,13 +177,6 @@ Buffets et dressoirs
   Le dressoir Kayak et ses façades à facettes. Sur commande.
 
   Voir le dressoir Kayak
-- (Photo : Table et buffet Tomasella dans un séjour urbain)
-
-  ### [Tomasella](https://fony.be/living)
-
-  Des buffets dans les finitions du meuble TV.
-
-  Voir le séjour
 
 (Photo : Trois chaises à accoudoirs enveloppantes, en tissu beige, gris et vert sauge, pieds noirs)
 
@@ -267,7 +260,7 @@ Dans la pièce
 
 ## À associer à votre table.
 
-- (Photo : Séjour Tomasella Time : composition murale en laque et bois)
+- (Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
 
   ### [Avec le séjour](https://fony.be/living)
 
