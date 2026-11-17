@@ -193,6 +193,12 @@ transition:background-color .2s var(--courbe),color .2s var(--courbe),border-col
 .ariane li+li::before{content:"/";margin:0 10px;color:rgba(255,255,255,.4)}
 .ariane a{color:#fff;text-decoration:underline;text-decoration-color:rgba(255,255,255,.4);text-underline-offset:3px}
 @media (max-width:960px){.ouverture--page .ouverture-contenu{padding-top:min(46vh,340px)}}
+@media (max-width:960px){
+.ouverture{--haut-photo:min(56vh,420px)}
+.ouverture--page{--haut-photo:min(46vh,340px)}
+.ouverture-photos,.ouverture-voile{bottom:auto;height:calc(var(--haut-photo) + 48px)}
+.ouverture-voile{background:linear-gradient(to top,var(--nuit) 0%,var(--nuit) 7%,rgba(20,19,18,.55) 30%,rgba(0,0,0,.12) 62%,rgba(0,0,0,0) 85%)}
+}
 .tuiles{display:grid;grid-template-columns:repeat(var(--colonnes,3),minmax(0,1fr));gap:56px var(--gout)}
 .tuile{position:relative;display:flex;flex-direction:column}
 .tuile .cadre{aspect-ratio:5/4}

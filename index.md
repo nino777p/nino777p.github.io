@@ -4,9 +4,9 @@
 
 Adresse de la page : https://fony.be/
 
-(Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
-
 (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+
+(Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
 
 (Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
 
