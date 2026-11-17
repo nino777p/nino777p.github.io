@@ -41,7 +41,7 @@ Réseaux
 
 ### Services
 
-Livraison et installation par nos soins : Binche, La Louvière, Charleroi, Mons et alentours, dans le Hainaut et la province de Namur. Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en. Démontage et évacuation de l’ancien mobilier sur demande. Conditions au magasin.
+Livraison et installation par nos soins. Démontage et évacuation de l’ancien mobilier sur demande. Conditions au magasin.
 
 ### Paiement
 
@@ -83,7 +83,7 @@ Non, venez librement pendant les heures d’ouverture. Pour une cuisine ou un pr
 
 ### Jusqu’où livrez-vous ?
 
-Nous livrons et installons nous-mêmes dans le Hainaut et la province de Namur : Binche, La Louvière, Charleroi, Mons, Nivelles et leurs alentours. Pour un projet plus loin, parlons-en. Voir [les trajets et la livraison près de chez vous](https://fony.be/magasin-meubles-pres-de-chez-vous).
+Nous livrons et installons nous-mêmes dans le Hainaut et la province de Namur : Binche, La Louvière, Charleroi, Mons, Nivelles et leurs alentours. Nous livrons aussi dans le nord de la France, près de la frontière ; ailleurs en Belgique, dont Bruxelles : sur demande. Voir [les trajets et la livraison près de chez vous](https://fony.be/magasin-meubles-pres-de-chez-vous).
 
 Mon projet
 

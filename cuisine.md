@@ -123,31 +123,23 @@ Nos engagements
 
   Stosa certifie ses cuisines et les garantit cinq ans.
 
-Les étapes
-
 ## De la première rencontre à la pose.
 
-1. (Photo : Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé)
+- (Photo : Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé)
 
-   01
+  ### Votre projet
 
-   ### Votre projet
+  Vos habitudes et vos envies, avant de dessiner.
+- (Photo : Détail de façade et de poignée d’une cuisine Stosa Natural)
 
-   Nous prenons le temps de comprendre vos habitudes, vos envies et votre budget avant de dessiner.
-2. (Photo : Détail de façade et de poignée d’une cuisine Stosa Natural)
+  ### La conception
 
-   02
+  Les cotes relevées chez vous, puis le plan et les teintes.
+- (Photo : Cuisine Stosa Natural en bois, façades à cadre)
 
-   ### Conception
+  ### La pose
 
-   Nous relevons les cotes chez vous, puis composons le plan, les façades, le plan de travail et les teintes.
-3. (Photo : Cuisine Stosa Natural en bois, façades à cadre)
-
-   03
-
-   ### Pose
-
-   Livraison par nos soins, pose par notre équipe ou par un professionnel partenaire, réglages et finitions compris. Nous restons disponibles après l’installation.
+  Livrée par nos soins, réglages et finitions compris.
 
 Vos questions
 
@@ -187,4 +179,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

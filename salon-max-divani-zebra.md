@@ -18,24 +18,6 @@ Max Divani · Canapé d’angle et canapé relax
 - (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
 
   En angle, avec chaise longue.
-- (Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
-
-  Une place relax ouverte.
-- (Photo : Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris)
-
-  L’appui-tête relevé.
-- (Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
-
-  De trois quarts, chaise longue à droite.
-- (Photo : Canapé d’angle Zebra vu de dessus, une place relax ouverte)
-
-  Vu de dessus, une place relax ouverte.
-- (Photo : Canapé Zebra vu de côté : accoudoir à poignée et piètement en métal)
-
-  De côté : l’accoudoir et le piètement en métal.
-- (Photo : Canapé d’angle Zebra vu depuis la chaise longue, appuie-têtes relevés)
-
-  Vu depuis la chaise longue.
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
@@ -59,6 +41,41 @@ La composition exposée change au fil des arrivages. Cuir et tissu à voir au ma
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-zebra#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-zebra#composition) [Questions](https://fony.be/salon-max-divani-zebra#questions)
+
+Sous tous les angles
+
+## Zebra, vue par vue.
+
+(Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
+
+(Photo : Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris)
+
+(Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
+
+(Photo : Canapé d’angle Zebra vu de dessus, une place relax ouverte)
+
+(Photo : Canapé Zebra vu de côté : accoudoir à poignée et piètement en métal)
+
+(Photo : Canapé d’angle Zebra vu depuis la chaise longue, appuie-têtes relevés)
+
+1. (Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
+
+   ### Une place relax ouverte.
+2. (Photo : Gros plan sur l’accoudoir, l’assise et la têtière relevée d’un canapé en tissu gris)
+
+   ### L’appui-tête relevé.
+3. (Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
+
+   ### De trois quarts, chaise longue à droite.
+4. (Photo : Canapé d’angle Zebra vu de dessus, une place relax ouverte)
+
+   ### Vu de dessus, une place relax ouverte.
+5. (Photo : Canapé Zebra vu de côté : accoudoir à poignée et piètement en métal)
+
+   ### De côté : l’accoudoir et le piètement en métal.
+6. (Photo : Canapé d’angle Zebra vu depuis la chaise longue, appuie-têtes relevés)
+
+   ### Vu depuis la chaise longue.
 
 Caractéristiques
 
@@ -169,4 +186,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

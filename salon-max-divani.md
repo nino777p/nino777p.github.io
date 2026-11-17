@@ -93,145 +93,15 @@ Au magasin et sur catalogue
 
    [Dimensions et versions de Curry](https://fony.be/salon-max-divani-curry)
 
-Un modèle, sous tous les angles
-
-## Zebra, l’angle qui se compose.
-
-Le même canapé sous cinq angles : de face, de trois quarts, relax ouvert, de dessus, de côté.
-
-(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
-
-(Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
-
-(Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
-
-(Photo : Canapé d’angle Zebra vu de dessus, une place relax ouverte)
-
-(Photo : Canapé Zebra vu de côté : accoudoir à poignée et piètement en métal)
-
-1. (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
-
-   01 · L’angle
-
-   ### À gauche, à droite, ou en canapé droit.
-
-   Zebra se compose en angle avec chaise longue, d’un côté ou de l’autre, ou en canapé droit de deux ou trois places.
-2. (Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
-
-   02 · Les appuie-têtes
-
-   ### Bas pour la ligne, relevés pour la tête.
-
-   Chaque appui-tête se règle : la hauteur du canapé passe de 78 à 100 cm.
-3. (Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
-
-   03 · Le relax
-
-   ### Une place qui s’allonge.
-
-   Avec ou sans relax électrique, commandé par boutons. L’assise se choisit en mousse standard ou ferme.
-4. (Photo : Canapé d’angle Zebra vu de dessus, une place relax ouverte)
-
-   04 · La place
-
-   ### 162 cm, relax ouvert.
-
-   La profondeur du canapé atteint 162 cm, relax ouvert. Apportez les mesures de votre pièce : nous vérifions avec vous.
-5. (Photo : Canapé Zebra vu de côté : accoudoir à poignée et piètement en métal)
-
-   05 · Le détail
-
-   ### Des pieds en métal, un accoudoir dessiné.
-
-   En tissu ou en cuir, avec des détails en cuir en option. Zebra est exposé au magasin ; la composition exposée change au fil des arrivages.
-
-   [Dimensions et versions du Zebra](https://fony.be/salon-max-divani-zebra)
-
-Prochainement au magasin
-
-## Tata, le grand angle arrondi.
-
-Arrivée prévue mi-janvier 2027. En attendant, le voici sous cinq angles.
-
-(Photo : Canapé d’angle arrondi en tissu camel vu de face, trois appuie-têtes relevés)
-
-(Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
-
-(Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
-
-(Photo : Canapé d’angle arrondi en tissu camel vu de dessus, assises capitonnées)
-
-(Photo : Détail de l’accoudoir du canapé Tata : tissu camel et filet doré)
-
-1. (Photo : Canapé d’angle arrondi en tissu camel vu de face, trois appuie-têtes relevés)
-
-   01 · L’angle arrondi
-
-   ### Une courbe à la place du coin.
-
-   Tata est un canapé d’angle de grandes dimensions : les compositions présentées par le fabricant vont jusqu’à 439 cm.
-2. (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
-
-   02 · Les appuie-têtes
-
-   ### De 78 à 103 cm.
-
-   Les appuie-têtes se relèvent, à la main ou électriquement selon l’élément.
-3. (Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
-
-   03 · Le relax
-
-   ### Une place qui s’allonge.
-
-   Le relax électrique se commande par boutons. La profondeur du canapé passe de 117 à 166 cm, relax ouvert.
-4. (Photo : Canapé d’angle arrondi en tissu camel vu de dessus, assises capitonnées)
-
-   04 · L’assise
-
-   ### 60 cm de profondeur.
-
-   Une assise profonde, sur ressorts ensachés, avec un rembourrage en mousse.
-5. (Photo : Détail de l’accoudoir du canapé Tata : tissu camel et filet doré)
-
-   05 · Le détail
-
-   ### En cuir ou en tissu.
-
-   Avec des coutures contrastées en option. Sur commande : composition et revêtement au choix.
-
-   [Dimensions et versions du Tata](https://fony.be/salon-max-divani-tata)
-
-La fabrication
-
-## Dans un canapé Max Divani.
-
-Ce qu’on ne voit pas compte autant que ce qu’on voit. Touchez un repère de l’image.
+(Photo : Coupe d’un canapé : l’assise sur ressorts ensachés sous la mousse)
 
 Modélisation 3D de principe, d’après le guide du fabricant. Ce n’est pas la photo d’un modèle.
 
-1 · Le cuir
+À l’intérieur
 
-### De la fleur de cuir.
+## Une assise sur ressorts ensachés.
 
-Max Divani travaille la fleur, la partie noble de la peau, jamais la croûte. Nous proposons le cuir Texas, à la finition pigmentée : facile à vivre, en 24 coloris. Il se choisit au magasin, échantillons en main.
-
-2 · Les mousses
-
-### Une assise qui reprend sa forme.
-
-Des mousses à haute résilience, à expansion à froid : elles reviennent en place après chaque assise.
-
-3 · La suspension
-
-### Sangles et mousse, ou ressorts ensachés.
-
-Deux constructions existent. Des sangles élastiques croisées sous la mousse, qui donnent la souplesse. Ou une assise sur ressorts ensachés, comme sur Curry et Osaka : elle reprend mieux sa forme, et le cuir marque moins de plis avec le temps. Dans les deux cas, un relax électrique est possible selon le modèle.
-
-4 · La structure
-
-### Du bois massif, boulonné.
-
-La structure portante est en bois massif. Accoudoirs et dossiers sont boulonnés, ni cloués ni vissés.
+Chaque ressort, dans sa poche, travaille seul : l’assise reprend mieux sa forme, et le cuir marque moins de plis avec le temps. C’est le cas sur Curry, Osaka ou Tata.
 
 Voir aussi
 
@@ -279,4 +149,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

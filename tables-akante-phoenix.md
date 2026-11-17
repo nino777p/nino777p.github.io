@@ -18,12 +18,6 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Phoenix sur fond blanc : plateau en céramique claire aux bords arrondis, pied central en étoile noir)
 
   Plateau en céramique, pied en étoile.
-- (Photo : Table Akante Phoenix sur fond blanc, plateau en céramique marbrée claire, vue dans sa longueur)
-
-  Vue dans sa longueur.
-- (Photo : Table Akante Phoenix au plateau clair dans une salle à manger, entourée de chaises grises)
-
-  Dans une salle à manger.
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
@@ -42,6 +36,21 @@ Une table à rallonge centrale, sur un pied en étoile en acier noir. Plateau en
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-phoenix#caracteristiques) [Questions](https://fony.be/tables-akante-phoenix#questions)
+
+Sous tous les angles
+
+## Phoenix, vue par vue.
+
+(Photo : Table Akante Phoenix sur fond blanc, plateau en céramique marbrée claire, vue dans sa longueur)
+
+(Photo : Table Akante Phoenix au plateau clair dans une salle à manger, entourée de chaises grises)
+
+1. (Photo : Table Akante Phoenix sur fond blanc, plateau en céramique marbrée claire, vue dans sa longueur)
+
+   ### Vue dans sa longueur.
+2. (Photo : Table Akante Phoenix au plateau clair dans une salle à manger, entourée de chaises grises)
+
+   ### Dans une salle à manger.
 
 Caractéristiques
 
@@ -116,4 +125,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

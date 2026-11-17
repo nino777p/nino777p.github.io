@@ -17,12 +17,6 @@ Max Divani · Canapé modulable
 - (Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)
 
   Avec chaise longue.
-- (Photo : Le même canapé écru vu de trois quarts : coussins généreux et accoudoirs en forme de pétale)
-
-  De trois quarts.
-- (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
-
-  Canapé et fauteuils assortis.
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
@@ -46,6 +40,21 @@ La composition exposée change au fil des arrivages. Cuir et tissu à voir au ma
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-gala#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-gala#composition) [Questions](https://fony.be/salon-max-divani-gala#questions)
+
+Sous tous les angles
+
+## Gala, vue par vue.
+
+(Photo : Le même canapé écru vu de trois quarts : coussins généreux et accoudoirs en forme de pétale)
+
+(Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+
+1. (Photo : Le même canapé écru vu de trois quarts : coussins généreux et accoudoirs en forme de pétale)
+
+   ### De trois quarts.
+2. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+
+   ### Canapé et fauteuils assortis.
 
 Caractéristiques
 
@@ -159,4 +168,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

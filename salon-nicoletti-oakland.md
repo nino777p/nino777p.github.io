@@ -18,18 +18,6 @@ Nicoletti Home · Canapé relax électrique
 - (Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)
 
   Relax ouvert, à côté du deux places en tissu.
-- (Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
-
-  Une place en position relax.
-- (Photo : Gros plan sur la commande à boutons intégrée au flanc de l’accoudoir d’un canapé blanc)
-
-  La commande, sur le flanc de l’accoudoir.
-- (Photo : Les deux canapés vus de dos : le deux places en tissu gris et le canapé relax blanc)
-
-  Vus de dos.
-- (Photo : Gros plan sur l’accoudoir et l’assise d’un canapé en tissu gris chiné)
-
-  En tissu.
 
 Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
 
@@ -53,6 +41,31 @@ La composition exposée change au fil des arrivages : les moteurs s’essaient 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-nicoletti-oakland#caracteristiques) [Composition et revêtements](https://fony.be/salon-nicoletti-oakland#composition) [Questions](https://fony.be/salon-nicoletti-oakland#questions)
+
+Sous tous les angles
+
+## Oakland, vue par vue.
+
+(Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
+
+(Photo : Gros plan sur la commande à boutons intégrée au flanc de l’accoudoir d’un canapé blanc)
+
+(Photo : Les deux canapés vus de dos : le deux places en tissu gris et le canapé relax blanc)
+
+(Photo : Gros plan sur l’accoudoir et l’assise d’un canapé en tissu gris chiné)
+
+1. (Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
+
+   ### Une place en position relax.
+2. (Photo : Gros plan sur la commande à boutons intégrée au flanc de l’accoudoir d’un canapé blanc)
+
+   ### La commande, sur le flanc de l’accoudoir.
+3. (Photo : Les deux canapés vus de dos : le deux places en tissu gris et le canapé relax blanc)
+
+   ### Vus de dos.
+4. (Photo : Gros plan sur l’accoudoir et l’assise d’un canapé en tissu gris chiné)
+
+   ### En tissu.
 
 Caractéristiques
 
@@ -181,4 +194,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

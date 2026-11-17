@@ -18,15 +18,6 @@ Max Divani · Canapé d’angle relax
 - (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
   En angle arrondi, appuie-têtes relevés.
-- (Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
-
-  Une place relax ouverte.
-- (Photo : Canapé d’angle arrondi en tissu camel vu de dessus, assises capitonnées)
-
-  Vu de dessus : l’angle arrondi et les assises capitonnées.
-- (Photo : Détail de l’accoudoir du canapé Tata : tissu camel et filet doré)
-
-  L’accoudoir et son filet doré.
 
 Photo : Max Divani. Visuel du fabricant, coloris non contractuel.
 
@@ -47,6 +38,26 @@ Un grand canapé d’angle à assise profonde et appuie-têtes réglables, avec 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-tata#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-tata#composition) [Questions](https://fony.be/salon-max-divani-tata#questions)
+
+Sous tous les angles
+
+## Tata, vue par vue.
+
+(Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
+
+(Photo : Canapé d’angle arrondi en tissu camel vu de dessus, assises capitonnées)
+
+(Photo : Détail de l’accoudoir du canapé Tata : tissu camel et filet doré)
+
+1. (Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
+
+   ### Une place relax ouverte.
+2. (Photo : Canapé d’angle arrondi en tissu camel vu de dessus, assises capitonnées)
+
+   ### Vu de dessus : l’angle arrondi et les assises capitonnées.
+3. (Photo : Détail de l’accoudoir du canapé Tata : tissu camel et filet doré)
+
+   ### L’accoudoir et son filet doré.
 
 Caractéristiques
 
@@ -150,4 +161,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

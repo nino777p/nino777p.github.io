@@ -65,24 +65,18 @@ Retrouvez les bois et les laques du meuble TV dans votre buffet. Nous vous aidon
 
 - [Voir les buffets et dressoirs](https://fony.be/tables-chaises#buffets)
 
-Du salon au séjour complet
-
 ## Du canapé au séjour complet.
 
-Vous avez trouvé votre canapé, mais vous hésitez encore sur la couleur, le meuble TV ou la table ? Nous pouvons composer le reste de la pièce avec vous, sans obligation de tout changer.
+- (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
-- ### Votre pièce, notre point de départ.
+  ### Les matières côte à côte
 
-  Apportez une photo et les dimensions de votre mur. Si vous préférez, nous venons relever les mesures chez vous.
-- ### Des matières qui s’accordent.
+  Tissu, bois et laques, au magasin.
+- (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
 
-  Comparez le tissu du canapé, les bois et les laques côte à côte, avec la photo de votre pièce.
-- ### Une composition adaptée à votre séjour.
+  ### Votre composition
 
-  Meuble TV, bibliothèque, buffet et table : nous choisissons ensemble les éléments qui correspondent à votre espace.
-- ### Visualisez votre projet en 3D.
-
-  Découvrez les volumes, les teintes et les passages avant de décider. La projection 3D vous aide à vous représenter l’ensemble.
+  Meuble TV, bibliothèque, buffet et table.
 
 (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
@@ -146,4 +140,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

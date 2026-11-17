@@ -23,7 +23,7 @@ Canapés et fauteuils relax italiens et européens, du classique au contemporain
 - Du lundi au samedi, avec ou sans rendez-vous
 - Première visite et conseil offerts
 
-(Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
+(Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
 
 Max Divani
 
@@ -32,72 +32,6 @@ Max Divani
 Née en 1956 à Altamura, dans les Pouilles, Max Divani fabrique des canapés et des fauteuils. Au magasin : une sélection de salons, du 3-2 classique au grand angle.
 
 [Découvrir Max Divani](https://fony.be/salon-max-divani)
-
-Explorer les salons
-
-## Par quoi voulez-vous commencer ?
-
-Quatre entrées, à ouvrir dans l’ordre qui vous plaît. Chacune mène aux modèles et à leurs dimensions.
-
-(Photo : Canapé d’angle en tissu gris, une place relax ouverte, têtières réglables)
-
-Me détendre
-
-### Zebra, une place relax ouverte.
-
-Le relax électrique se commande par boutons, sur les places équipées.
-
-- Relax électrique à boutons, en option
-- Appuie-têtes réglables
-- 162 cm de profondeur relax ouvert, 110 cm refermé
-
-- [Voir Zebra](https://fony.be/salon-max-divani-zebra)
-- [Nicoletti Memphis, le relax à essayer](https://fony.be/salon-nicoletti-memphis)
-- [Tous les canapés relax électriques](https://fony.be/salon-canapes-relax-electriques)
-
-(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
-
-Composer mon salon
-
-### Zebra, en angle ou en canapé droit.
-
-La composition suit votre pièce : le côté de l’angle, le nombre de places, avec ou sans relax.
-
-- Angle à gauche ou à droite, avec chaise longue
-- Ou canapé droit de deux ou trois places
-- Angle fixe : 287 × 238 cm
-
-- [Voir les compositions de Zebra](https://fony.be/salon-max-divani-zebra#composition)
-- [Gala, le canapé modulable](https://fony.be/salon-max-divani-gala)
-- [Tous les canapés d’angle](https://fony.be/salon-canapes-angle)
-
-(Photo : Canapé en tissu gris clair vu de face et de profil, appuie-têtes relevés)
-
-Choisir mon confort
-
-### Curry, une assise sur ressorts ensachés.
-
-Selon le modèle, l’assise repose sur des sangles et de la mousse, ou sur des ressorts ensachés. Les deux se comparent au magasin.
-
-- Curry et Osaka : assise sur ressorts ensachés
-- Relax électrique en option sur le trois places
-
-- [Voir Curry](https://fony.be/salon-max-divani-curry)
-- [Comment est fait un canapé](https://fony.be/salon-max-divani#fabrication)
-
-(Photo : Canapé Curry en cuir blanc vu de face, un appui-tête relevé)
-
-Voir les matières
-
-### Cuir, microfibre ou tissu.
-
-Le revêtement se choisit modèle par modèle, échantillons en main, avec une photo de votre pièce.
-
-- Max Divani : cuir Texas, un cuir pigmenté, en 24 coloris
-- Curry : en cuir ou en tissu microfibre
-
-- [Les canapés en cuir italiens](https://fony.be/salon-canapes-cuir-italiens)
-- [Voir Curry](https://fony.be/salon-max-divani-curry)
 
 (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
@@ -157,7 +91,7 @@ Découvrez les modèles exposés et les possibilités de commande : configurati
 
   D’autres styles et niveaux de gamme pour répondre à différents projets.
 
-(Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 
 Asseyez-vous, comparez : nos salons s’essaient au magasin, sans rendez-vous.
 
@@ -290,4 +224,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

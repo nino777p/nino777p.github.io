@@ -67,32 +67,28 @@ Literie, fauteuils relax, rangements et placards.
 
 [Parler d’un projet de maison de repos](https://fony.be/espace-pro#projet-pro)
 
-Comment nous travaillons
-
 ## Du plan à la pose.
 
-Pour préparer la visite, trois informations nous aident : les dimensions ou un plan, l’usage prévu (qui occupe l’espace, et pour combien de temps) et une idée du volume. Nous complétons le reste sur place.
+- (Photo : Grande table ovale en céramique claire sur pied central, chaises grises, dans une salle sombre ouverte sur une baie vitrée)
 
-- 01
+  ### La visite du lieu
 
-  ### Visite du lieu
-
-  Voir l’espace, comprendre l’activité, relever les contraintes.
-- 02
+  Comprendre votre activité et vos contraintes.
+- (Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
 
   ### Plan et devis
 
-  Implantation, matériaux et finitions, avec un devis détaillé.
-- 03
+  Implantation, matériaux et devis détaillé.
+- (Photo : Longue table en céramique claire sur piètement croisé, dix chaises en cuir brun, vue en plongée)
 
-  ### Fabrication
+  ### La fabrication
 
-  Chez nos fabricants et notre atelier partenaire, selon le calendrier convenu.
-- 04
+  Selon le calendrier convenu.
+- (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
 
   ### Livraison et pose
 
-  Livraison par nos soins, pose par notre équipe ou un professionnel partenaire.
+  Livraison par nos soins ; pose par notre équipe ou un partenaire.
 
 Mon projet pro
 

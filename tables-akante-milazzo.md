@@ -18,15 +18,6 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Milazzo fermée sur fond blanc : plateau en céramique chêne clair, piétement en acier noir)
 
   Fermée, plateau chêne clair.
-- (Photo : Table Akante Milazzo en cours d’ouverture : le plateau pivote et découvre les deux rallonges latérales)
-
-  Le plateau pivote et découvre les rallonges.
-- (Photo : Table Akante Milazzo rallonges ouvertes sur fond blanc, plateau en céramique chêne clair)
-
-  Rallonges ouvertes.
-- (Photo : Table Akante Milazzo au plateau chêne clair entourée de quatre fauteuils en velours terracotta)
-
-  Dans une salle à manger.
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
@@ -45,6 +36,26 @@ Une table dont le plateau pivote pour libérer deux rallonges latérales. Platea
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-milazzo#caracteristiques) [Questions](https://fony.be/tables-akante-milazzo#questions)
+
+Sous tous les angles
+
+## Milazzo, vue par vue.
+
+(Photo : Table Akante Milazzo en cours d’ouverture : le plateau pivote et découvre les deux rallonges latérales)
+
+(Photo : Table Akante Milazzo rallonges ouvertes sur fond blanc, plateau en céramique chêne clair)
+
+(Photo : Table Akante Milazzo au plateau chêne clair entourée de quatre fauteuils en velours terracotta)
+
+1. (Photo : Table Akante Milazzo en cours d’ouverture : le plateau pivote et découvre les deux rallonges latérales)
+
+   ### Le plateau pivote et découvre les rallonges.
+2. (Photo : Table Akante Milazzo rallonges ouvertes sur fond blanc, plateau en céramique chêne clair)
+
+   ### Rallonges ouvertes.
+3. (Photo : Table Akante Milazzo au plateau chêne clair entourée de quatre fauteuils en velours terracotta)
+
+   ### Dans une salle à manger.
 
 Caractéristiques
 
@@ -123,4 +134,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

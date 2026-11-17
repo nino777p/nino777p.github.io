@@ -17,12 +17,6 @@ Max Divani · Fauteuil, fixe ou pivotant
 - (Photo : Fauteuil rond en tissu clair, vu de face)
 
   En tissu, de face.
-- (Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
-
-  En cuir.
-- (Photo : Fauteuil rond en tissu clair à bande de cuir sombre, avec ses poufs, dans une chambre)
-
-  Avec ses poufs.
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
@@ -41,6 +35,21 @@ Un fauteuil rond, fixe ou pivotant à 360°, souligné d’une bande de cuir. En
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-dana#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-dana#composition)
+
+Sous tous les angles
+
+## Dana, vue par vue.
+
+(Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
+
+(Photo : Fauteuil rond en tissu clair à bande de cuir sombre, avec ses poufs, dans une chambre)
+
+1. (Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
+
+   ### En cuir.
+2. (Photo : Fauteuil rond en tissu clair à bande de cuir sombre, avec ses poufs, dans une chambre)
+
+   ### Avec ses poufs.
 
 Caractéristiques
 
@@ -132,4 +141,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

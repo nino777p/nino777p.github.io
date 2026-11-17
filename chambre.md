@@ -85,22 +85,23 @@ Tomasella pour composer la chambre entière. Staud et GBO by Bauwens se commande
 
   Des chambres d’un fabricant belge.
 
-Comment nous travaillons
-
 ## Du mur au projet.
 
-- ### Les mesures de votre pièce.
+- (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
-  Une photo et les dimensions du mur permettent de commencer. Si vous préférez, nous venons relever les mesures chez vous.
-- ### Les matières et les couleurs.
+  ### Les matières en main
 
-  Comparez bois, laques mates et décors texturés au magasin, avec la photo de votre intérieur.
-- ### Votre composition.
+  Bois, laques mates et décors, au magasin.
+- (Photo : Armoire Tomasella Carmen à portes battantes laquées)
 
-  Nous choisissons ensemble les modules qui correspondent à la largeur, à la hauteur et à l’usage de votre mur.
-- ### Votre projet en 3D.
+  ### Votre composition
 
-  Visualisez les proportions et les finitions de votre composition avant de décider.
+  Les modules à la largeur de votre mur.
+- (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
+
+  ### Votre projet en 3D
+
+  Pour voir avant de décider.
 
 Vos questions
 
@@ -144,4 +145,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

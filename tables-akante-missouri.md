@@ -18,12 +18,6 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Missouri sur fond blanc : grand plateau en céramique marbrée blanche, quatre pieds inclinés noirs)
 
   Plateau en céramique marbrée.
-- (Photo : Table Akante Missouri sur fond blanc, plateau en céramique marbrée noire)
-
-  En céramique marbrée noire.
-- (Photo : Table Akante Missouri au plateau marbré clair dans une salle à manger, chaises vertes, parquet en bois)
-
-  Dans une salle à manger.
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
@@ -42,6 +36,21 @@ Une grande table à deux rallonges latérales indépendantes, pour dix à douze 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-missouri#caracteristiques) [Questions](https://fony.be/tables-akante-missouri#questions)
+
+Sous tous les angles
+
+## Missouri, vue par vue.
+
+(Photo : Table Akante Missouri sur fond blanc, plateau en céramique marbrée noire)
+
+(Photo : Table Akante Missouri au plateau marbré clair dans une salle à manger, chaises vertes, parquet en bois)
+
+1. (Photo : Table Akante Missouri sur fond blanc, plateau en céramique marbrée noire)
+
+   ### En céramique marbrée noire.
+2. (Photo : Table Akante Missouri au plateau marbré clair dans une salle à manger, chaises vertes, parquet en bois)
+
+   ### Dans une salle à manger.
 
 Caractéristiques
 
@@ -116,4 +125,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

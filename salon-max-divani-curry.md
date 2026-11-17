@@ -18,21 +18,6 @@ Max Divani · Canapé et fauteuil, relax en option
 - (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
 
   Trois places et deux places, une place relax ouverte.
-- (Photo : Canapés trois places et deux places en tissu gris clair, refermés, sur pieds en métal)
-
-  Refermés.
-- (Photo : Canapé en tissu gris clair vu de face et de profil, appuie-têtes relevés)
-
-  De face et de profil, appuie-têtes relevés.
-- (Photo : Canapé Curry en cuir blanc vu de face, un appui-tête relevé)
-
-  En cuir, de face.
-- (Photo : Canapé Curry en cuir blanc, une place relax ouverte)
-
-  En cuir, une place relax ouverte.
-- (Photo : Détail du canapé Curry en tissu clair : accoudoir arrondi et pied en métal)
-
-  L’accoudoir et le pied.
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
@@ -56,6 +41,36 @@ La composition exposée change au fil des arrivages. Cuir et tissu à voir au ma
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-curry#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-curry#composition) [Questions](https://fony.be/salon-max-divani-curry#questions)
+
+Sous tous les angles
+
+## Curry, vue par vue.
+
+(Photo : Canapés trois places et deux places en tissu gris clair, refermés, sur pieds en métal)
+
+(Photo : Canapé en tissu gris clair vu de face et de profil, appuie-têtes relevés)
+
+(Photo : Canapé Curry en cuir blanc vu de face, un appui-tête relevé)
+
+(Photo : Canapé Curry en cuir blanc, une place relax ouverte)
+
+(Photo : Détail du canapé Curry en tissu clair : accoudoir arrondi et pied en métal)
+
+1. (Photo : Canapés trois places et deux places en tissu gris clair, refermés, sur pieds en métal)
+
+   ### Refermés.
+2. (Photo : Canapé en tissu gris clair vu de face et de profil, appuie-têtes relevés)
+
+   ### De face et de profil, appuie-têtes relevés.
+3. (Photo : Canapé Curry en cuir blanc vu de face, un appui-tête relevé)
+
+   ### En cuir, de face.
+4. (Photo : Canapé Curry en cuir blanc, une place relax ouverte)
+
+   ### En cuir, une place relax ouverte.
+5. (Photo : Détail du canapé Curry en tissu clair : accoudoir arrondi et pied en métal)
+
+   ### L’accoudoir et le pied.
 
 Caractéristiques
 
@@ -156,4 +171,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

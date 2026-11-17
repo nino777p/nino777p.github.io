@@ -18,18 +18,6 @@ Nicoletti Home · Canapé relax électrique
 - (Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
 
   Une place ouverte, têtière relevée.
-- (Photo : Canapé relax deux places en cuir beige vu de trois quarts, têtières abaissées, commande sur l’accoudoir)
-
-  Refermé, vu de trois quarts.
-- (Photo : Canapé relax en cuir beige vu de trois quarts, une place ouverte, commande sur l’accoudoir)
-
-  La commande se trouve sur l’accoudoir.
-- (Photo : Canapé relax deux places en cuir beige, en position assise)
-
-  En position assise.
-- (Photo : Canapé relax deux places en tissu grège, une place ouverte et sa têtière relevée)
-
-  En tissu.
 
 Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
 
@@ -53,6 +41,31 @@ La composition exposée change au fil des arrivages : les moteurs s’essaient 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-nicoletti-memphis#caracteristiques) [Composition et revêtements](https://fony.be/salon-nicoletti-memphis#composition) [Questions](https://fony.be/salon-nicoletti-memphis#questions)
+
+Sous tous les angles
+
+## Memphis, vue par vue.
+
+(Photo : Canapé relax deux places en cuir beige vu de trois quarts, têtières abaissées, commande sur l’accoudoir)
+
+(Photo : Canapé relax en cuir beige vu de trois quarts, une place ouverte, commande sur l’accoudoir)
+
+(Photo : Canapé relax deux places en cuir beige, en position assise)
+
+(Photo : Canapé relax deux places en tissu grège, une place ouverte et sa têtière relevée)
+
+1. (Photo : Canapé relax deux places en cuir beige vu de trois quarts, têtières abaissées, commande sur l’accoudoir)
+
+   ### Refermé, vu de trois quarts.
+2. (Photo : Canapé relax en cuir beige vu de trois quarts, une place ouverte, commande sur l’accoudoir)
+
+   ### La commande se trouve sur l’accoudoir.
+3. (Photo : Canapé relax deux places en cuir beige, en position assise)
+
+   ### En position assise.
+4. (Photo : Canapé relax deux places en tissu grège, une place ouverte et sa têtière relevée)
+
+   ### En tissu.
 
 Caractéristiques
 
@@ -192,4 +205,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

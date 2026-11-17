@@ -59,10 +59,10 @@ Chez vous
 
 - ### Livraison et installation
 
-  Nous livrons et installons nous-mêmes dans toutes ces communes, et plus largement dans le Hainaut et la province de Namur.
+  Nous livrons et installons nous-mêmes dans toutes ces communes.
 - ### Côté français
 
-  Nous livrons aussi dans le nord de la France, principalement près de la frontière : Jeumont, Marpent et les communes voisines d’Erquelinnes. Pour une autre adresse, communiquez-la-nous : nous étudions la livraison avec vous.
+  Nous livrons aussi dans le nord de la France, principalement près de la frontière : Jeumont, Marpent et les communes voisines d’Erquelinnes.
 
   [Nous écrire](https://fony.be/magasin-contact#visite)
 - ### Visite à domicile
@@ -122,7 +122,7 @@ Vos questions
 
 ### Livrez-vous dans ma commune ?
 
-Nous livrons et installons nous-mêmes dans le Hainaut et la province de Namur, ainsi que dans le nord de la France, principalement près de la frontière (Jeumont, Marpent). Pour une autre adresse, parlons-en.
+Oui, dans toutes les communes présentées sur cette page, par nos soins.
 
 ### Faut-il prendre rendez-vous ?
 
@@ -154,4 +154,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

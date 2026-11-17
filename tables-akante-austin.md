@@ -18,12 +18,6 @@ Akante · Table de repas extensible
 - (Photo : Table Akante New Austin fermée sur fond blanc : plateau oblong en céramique marbrée, quatre pieds inclinés en acier noir)
 
   New Austin, fermée.
-- (Photo : Table Akante New Austin ouverte sur fond blanc : le plateau en céramique marbrée est devenu rond)
-
-  New Austin, ouverte : le plateau devient rond.
-- (Photo : Table ronde Akante New Austin au plateau marbré, entourée de quatre chaises vertes, vue de dessus)
-
-  New Austin ouverte, vue de dessus.
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
@@ -42,6 +36,21 @@ Une table oblongue qui devient ronde : deux rallonges latérales sortent ensemb
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-austin#caracteristiques) [Questions](https://fony.be/tables-akante-austin#questions)
+
+Sous tous les angles
+
+## Austin, vue par vue.
+
+(Photo : Table Akante New Austin ouverte sur fond blanc : le plateau en céramique marbrée est devenu rond)
+
+(Photo : Table ronde Akante New Austin au plateau marbré, entourée de quatre chaises vertes, vue de dessus)
+
+1. (Photo : Table Akante New Austin ouverte sur fond blanc : le plateau en céramique marbrée est devenu rond)
+
+   ### New Austin, ouverte : le plateau devient rond.
+2. (Photo : Table ronde Akante New Austin au plateau marbré, entourée de quatre chaises vertes, vue de dessus)
+
+   ### New Austin ouverte, vue de dessus.
 
 Caractéristiques
 
@@ -120,4 +129,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

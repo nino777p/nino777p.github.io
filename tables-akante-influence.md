@@ -18,12 +18,6 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Influence fermée sur fond blanc : plateau rectangulaire en céramique marbrée, pied central à branches en acier noir)
 
   Fermée, plateau en céramique marbrée.
-- (Photo : Table Akante Influence rallonges ouvertes sur fond blanc, plateau en céramique marbrée)
-
-  Rallonges ouvertes.
-- (Photo : Table Akante Influence sur fond blanc, plateau en céramique chêne clair)
-
-  Plateau chêne clair.
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
@@ -42,6 +36,21 @@ Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-influence#caracteristiques)
+
+Sous tous les angles
+
+## Influence, vue par vue.
+
+(Photo : Table Akante Influence rallonges ouvertes sur fond blanc, plateau en céramique marbrée)
+
+(Photo : Table Akante Influence sur fond blanc, plateau en céramique chêne clair)
+
+1. (Photo : Table Akante Influence rallonges ouvertes sur fond blanc, plateau en céramique marbrée)
+
+   ### Rallonges ouvertes.
+2. (Photo : Table Akante Influence sur fond blanc, plateau en céramique chêne clair)
+
+   ### Plateau chêne clair.
 
 Caractéristiques
 
@@ -108,4 +117,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

@@ -57,22 +57,18 @@ Retrouvez des bois et des laques coordonnés du séjour à la chambre, selon les
 
    [Voir la chambre](https://fony.be/chambre)
 
-Comment nous travaillons
-
 ## Du mur au projet.
 
-- ### Les mesures de votre pièce.
+- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
-  Une photo et les dimensions du mur permettent de commencer. Si vous préférez, nous venons relever les mesures chez vous.
-- ### Les matières et les couleurs.
+  ### Les matières en main
 
-  Comparez bois, laques mates et décors texturés au magasin, avec la photo de votre intérieur.
-- ### Votre composition.
+  Bois, laques mates et décors, au magasin.
+- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
-  Nous choisissons ensemble les modules qui correspondent à la largeur, à la hauteur et à l’usage de votre mur.
-- ### Votre projet en 3D.
+  ### Votre composition
 
-  Visualisez les proportions et les finitions de votre composition avant de décider.
+  Les modules à la largeur de votre mur.
 
 Vos questions
 
@@ -116,4 +112,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

@@ -18,12 +18,6 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Grande Ontario fermée sur fond blanc : plateau en céramique marbrée, quatre pieds inclinés en acier noir)
 
   Grande Ontario, fermée.
-- (Photo : Table Akante Grande Ontario rallonges ouvertes sur fond blanc, plateau en céramique marbrée)
-
-  Grande Ontario, rallonges ouvertes.
-- (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)
-
-  Grande Ontario dans une salle à manger.
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
@@ -42,6 +36,21 @@ Une table rectangulaire à deux rallonges latérales indépendantes, sur quatre 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-ontario#caracteristiques) [Questions](https://fony.be/tables-akante-ontario#questions)
+
+Sous tous les angles
+
+## Ontario, vue par vue.
+
+(Photo : Table Akante Grande Ontario rallonges ouvertes sur fond blanc, plateau en céramique marbrée)
+
+(Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)
+
+1. (Photo : Table Akante Grande Ontario rallonges ouvertes sur fond blanc, plateau en céramique marbrée)
+
+   ### Grande Ontario, rallonges ouvertes.
+2. (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)
+
+   ### Grande Ontario dans une salle à manger.
 
 Caractéristiques
 
@@ -117,4 +126,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

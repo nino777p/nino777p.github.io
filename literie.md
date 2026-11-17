@@ -1,16 +1,16 @@
-# Literie à Binche, boxsprings et matelas belges — Fony Meubles
+# Literie en Hainaut : boxsprings et matelas belges — Fony Meubles
 
-> Literie près de Binche : boxsprings fixes ou électriques, matelas et sommiers belges Velda, Axelsson et Polypreen, à essayer allongé chez Fony Meubles.
+> Literie en Hainaut : boxsprings fixes ou électriques, matelas et sommiers belges Velda, Axelsson et Polypreen, à essayer allongé chez Fony Meubles, à Binche.
 
 Adresse de la page : https://fony.be/literie
 
 (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
 
-Espace literie · Binche
+Espace literie
 
-# Ce que l’écran *ne vous dira jamais.*
+# Literie
 
-Boxsprings belges, fixes ou électriques, matelas et sommiers : à essayer au magasin.
+En Hainaut, près de Binche : boxsprings belges, fixes ou électriques, matelas et sommiers à essayer au magasin.
 
 - Des couchages à essayer allongé
 - Du lundi au samedi, avec ou sans rendez-vous
@@ -216,4 +216,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

@@ -110,43 +110,6 @@ Nous sélectionnons des collections aux styles et aux finitions variés. Au maga
 - [Movis](https://fony.be/tables-chaises#movis)
 - [Modulax](https://modulax.be/)
 
-Les étapes de votre projet Écoute, mesures, conception, installation
-
-Notre méthode
-
-## Un seul interlocuteur, du premier croquis à la pose.
-
-Votre conseiller suit votre projet à chaque étape.
-
-1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
-
-   01
-
-   ### Écoute
-
-   Parlons de vos envies, de votre pièce et de vos habitudes, au magasin ou chez vous.
-2. (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
-
-   02
-
-   ### Mesures
-
-   Une photo et vos dimensions permettent de commencer. Si vous le souhaitez, nous venons prendre les mesures chez vous. La première visite est offerte.
-3. (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
-
-   03
-
-   ### Conception
-
-   Nous choisissons ensemble les matières, les teintes et la composition, échantillons en main. Pour un aménagement, la projection 3D vous aide à vous projeter.
-4. (Photo : Îlot anthracite mat au plan en bois, devant de grandes fenêtres)
-
-   04
-
-   ### Installation
-
-   Nous livrons vos meubles par nos soins et organisons leur installation. Selon le projet, la pose est réalisée par notre équipe ou par un professionnel partenaire, et nous restons à votre disposition ensuite.
-
 Selon votre projet Un premier logement, une maison à embellir, un intérieur plus pratique
 
 Selon votre projet
@@ -217,4 +180,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

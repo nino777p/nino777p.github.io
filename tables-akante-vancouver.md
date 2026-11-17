@@ -18,12 +18,6 @@ Akante · Table de repas extensible
 - (Photo : Table Akante Vancouver fermée sur fond blanc : plateau en céramique marbrée blanche, pied central à branches en acier noir)
 
   Fermée, plateau en céramique marbrée.
-- (Photo : Table Akante Vancouver rallonge ouverte sur fond blanc, plateau en céramique marbrée blanche)
-
-  Rallonge ouverte.
-- (Photo : Table Akante Vancouver sur fond blanc, plateau en céramique chêne clair)
-
-  Plateau chêne clair.
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
@@ -42,6 +36,21 @@ Une table à rallonge centrale automatique, sur un pied central à branches en a
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/tables-akante-vancouver#caracteristiques) [Questions](https://fony.be/tables-akante-vancouver#questions)
+
+Sous tous les angles
+
+## Vancouver, vue par vue.
+
+(Photo : Table Akante Vancouver rallonge ouverte sur fond blanc, plateau en céramique marbrée blanche)
+
+(Photo : Table Akante Vancouver sur fond blanc, plateau en céramique chêne clair)
+
+1. (Photo : Table Akante Vancouver rallonge ouverte sur fond blanc, plateau en céramique marbrée blanche)
+
+   ### Rallonge ouverte.
+2. (Photo : Table Akante Vancouver sur fond blanc, plateau en céramique chêne clair)
+
+   ### Plateau chêne clair.
 
 Caractéristiques
 
@@ -119,4 +128,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

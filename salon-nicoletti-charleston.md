@@ -18,12 +18,6 @@ Nicoletti Home · Canapé d’angle relax
 - (Photo : Canapé d’angle en cuir noir avec chaise longue, une place relax ouverte, pieds en métal)
 
   En angle avec chaise longue, une place relax ouverte.
-- (Photo : Le canapé d’angle en cuir noir vu de l’arrière, commande sur le flanc de l’accoudoir)
-
-  Vu de l’arrière.
-- (Photo : Gros plan sur l’assise capitonnée en cuir noir)
-
-  L’assise, en cuir.
 
 Photos : Nicoletti Home. Visuels du fabricant, coloris non contractuels.
 
@@ -41,6 +35,21 @@ Un canapé relax sur pieds en métal, en fauteuil, deux ou trois places, ou en a
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-nicoletti-charleston#caracteristiques) [Composition et revêtements](https://fony.be/salon-nicoletti-charleston#composition) [Questions](https://fony.be/salon-nicoletti-charleston#questions)
+
+Sous tous les angles
+
+## Charleston, vue par vue.
+
+(Photo : Le canapé d’angle en cuir noir vu de l’arrière, commande sur le flanc de l’accoudoir)
+
+(Photo : Gros plan sur l’assise capitonnée en cuir noir)
+
+1. (Photo : Le canapé d’angle en cuir noir vu de l’arrière, commande sur le flanc de l’accoudoir)
+
+   ### Vu de l’arrière.
+2. (Photo : Gros plan sur l’assise capitonnée en cuir noir)
+
+   ### L’assise, en cuir.
 
 Caractéristiques
 
@@ -156,4 +165,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.

@@ -18,18 +18,6 @@ Max Divani · Canapé et fauteuil, relax en option
 - (Photo : Canapés deux places et trois places en cuir gris anthracite, sur fond blanc)
 
   Deux places et trois places, en cuir.
-- (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
-
-  Deux canapés relax en cuir, face à face.
-- (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
-
-  Une place relax ouverte.
-- (Photo : Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte)
-
-  Deux places et trois places, relax ouvert.
-- (Photo : Détail du canapé Osaka en cuir gris anthracite : accoudoir et pied en bois)
-
-  L’accoudoir et le pied en bois.
 
 Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
@@ -53,6 +41,31 @@ La composition exposée change au fil des arrivages. Cuir et tissu à voir au ma
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
 [Caractéristiques](https://fony.be/salon-max-divani-osaka#caracteristiques) [Composition et revêtements](https://fony.be/salon-max-divani-osaka#composition) [Questions](https://fony.be/salon-max-divani-osaka#questions)
+
+Sous tous les angles
+
+## Osaka, vue par vue.
+
+(Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+
+(Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
+
+(Photo : Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte)
+
+(Photo : Détail du canapé Osaka en cuir gris anthracite : accoudoir et pied en bois)
+
+1. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+
+   ### Deux canapés relax en cuir, face à face.
+2. (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
+
+   ### Une place relax ouverte.
+3. (Photo : Canapés Osaka en cuir gris anthracite, deux places et trois places, une place relax ouverte)
+
+   ### Deux places et trois places, relax ouvert.
+4. (Photo : Détail du canapé Osaka en cuir gris anthracite : accoudoir et pied en bois)
+
+   ### L’accoudoir et le pied en bois.
 
 Caractéristiques
 
@@ -149,4 +162,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Pour un projet plus loin, ailleurs en Belgique ou à l’étranger : parlons-en.
+Ailleurs en Belgique, dont Bruxelles : sur demande.
