@@ -846,7 +846,7 @@ html{overflow-x:hidden;overflow-x:clip}
 .es-pilule{border-radius:999px}
 .es-pilule--clair{background:var(--lin);color:var(--encre)}
 .es-ouverture{position:relative;min-height:calc(100svh - 62px);display:grid;align-items:end;overflow:hidden}
-.es-ouverture-fond{position:absolute;inset:0}
+.es-ouverture-fond{position:absolute;inset:0;overflow:hidden}
 .es-ouverture-fond picture,.es-ouverture-fond img{width:100%;height:100%;object-fit:cover;display:block}
 .es-ouverture-fond img{animation:es-souffle 18s var(--lent) both}
 @keyframes es-souffle{from{transform:scale(1.08)}to{transform:none}}

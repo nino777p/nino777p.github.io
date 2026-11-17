@@ -1741,8 +1741,8 @@
   "credit": "Velda",
   "alt": "Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé",
   "source": "ve-chambre-pierre.jpg",
-  "w": 2400,
-  "h": 1631,
+  "w": 3200,
+  "h": 2175,
   "files": {
    "600": "ve-chambre-pierre-600.webp",
    "900": "ve-chambre-pierre-900.webp",
@@ -1757,8 +1757,8 @@
    "2000": "ve-chambre-pierre-2000.avif"
   },
   "ratio": [
-   2400,
-   1631
+   3200,
+   2175
   ],
   "og": "ve-chambre-pierre-og.jpg"
  },
