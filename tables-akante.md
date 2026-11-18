@@ -18,7 +18,7 @@ Tables à rallonge
 
 Rallonge centrale, latérales synchronisées ou indépendantes : choisissez la table selon votre espace et le nombre de convives.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Tables à rallonge
 - Plateaux en céramique
@@ -161,11 +161,11 @@ Voir aussi
 Au magasin, essayez les mécanismes des tables exposées : c’est la meilleure façon de choisir.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

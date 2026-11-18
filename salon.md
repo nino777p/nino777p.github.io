@@ -15,7 +15,7 @@ Canapés et relax
 
 Canapés et fauteuils relax italiens et européens, du classique au contemporain. Comparez les assises, les revêtements et les fonctions de confort dans notre showroom.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Des salons et des relax à essayer
 - Du lundi au samedi, avec ou sans rendez-vous
@@ -71,22 +71,7 @@ Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place re
 
 [Venir l’essayer](https://fony.be/salon#visite)
 
-Les fabricants
-
-## Notre sélection de salons.
-
-- (Photo : Rendu du fabricant : canapé d’angle Coffee en cuir gris taupe avec chaise longue, devant une baie vitrée sur la ville)
-
-  ### [Max Divani](https://fony.be/salon-max-divani)
-
-  Des salons fabriqués en Italie, en cuir, microfibre ou tissu.
-- (Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
-
-  ### [Nicoletti](https://fony.be/salon-nicoletti)
-
-  Des canapés relax fabriqués en Italie.
-
-Et les fauteuils relax et releveurs De Eiken Zetel, d’un fabricant belge : [les voir](https://fony.be/salon-fauteuils-relax-releveurs).
+Voir aussi [les canapés relax Nicoletti](https://fony.be/salon-nicoletti), fabriqués en Italie, et [les fauteuils relax et releveurs De Eiken Zetel](https://fony.be/salon-fauteuils-relax-releveurs), d’un fabricant belge.
 
 - (Photo : Rendu du fabricant : deux canapés relax en cuir brun foncé, disposés en angle autour d’une table basse)
 
@@ -158,11 +143,11 @@ Le fauteuil relax permet de s’incliner et de relever les jambes ; le releveu
 Venez essayer nos salons à Leval-Trahegnies, à quelques minutes de Morlanwelz et d’Anderlues, à un quart d’heure de La Louvière. Notre équipe vous aide à choisir la configuration, les revêtements et les fonctions qui vous conviennent. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

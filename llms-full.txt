@@ -36,7 +36,7 @@ Aucun prix n’est publié en ligne.
 ## Agir
 
 - Appeler le magasin : tel:+3264460772
-- Venir au magasin (itinéraire) : https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies
+- Venir au magasin (itinéraire) : https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY
 - Préparer une visite ou demander une visite à domicile (formulaire) : https://fony.be/magasin-contact#visite
 - Projet professionnel — bureaux, hôtels et restaurants, promoteurs, maisons de repos (formulaire) : https://fony.be/espace-pro#projet-pro
 - Instagram : https://www.instagram.com/fonymeubles/ ; Facebook : https://www.facebook.com/fonymeubles/
@@ -62,7 +62,7 @@ Mobilier, cuisines et sur mesure — Leval-Trahegnies, depuis 1991
 
 Salons, tables et literie à voir et à essayer au magasin ; cuisines et sur mesure à concevoir avec votre conseiller, du premier croquis à la pose.
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Salons, relax et literie à essayer
 - Première visite et conseil offerts
@@ -205,11 +205,11 @@ Un premier logement, une pièce à repenser ou un intérieur à rendre plus conf
 Retrouvez-nous à Leval-Trahegnies, entre Binche et La Louvière, du lundi au samedi. Venez découvrir nos collections, essayer nos meubles ou préparer votre projet avec un conseiller. Venez librement, ou prenez rendez-vous pour préparer votre projet. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -248,7 +248,7 @@ Canapés et relax
 
 Canapés et fauteuils relax italiens et européens, du classique au contemporain. Comparez les assises, les revêtements et les fonctions de confort dans notre showroom.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Des salons et des relax à essayer
 - Du lundi au samedi, avec ou sans rendez-vous
@@ -304,22 +304,7 @@ Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place re
 
 [Venir l’essayer](https://fony.be/salon#visite)
 
-Les fabricants
-
-## Notre sélection de salons.
-
-- (Photo : Rendu du fabricant : canapé d’angle Coffee en cuir gris taupe avec chaise longue, devant une baie vitrée sur la ville)
-
-  ### [Max Divani](https://fony.be/salon-max-divani)
-
-  Des salons fabriqués en Italie, en cuir, microfibre ou tissu.
-- (Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
-
-  ### [Nicoletti](https://fony.be/salon-nicoletti)
-
-  Des canapés relax fabriqués en Italie.
-
-Et les fauteuils relax et releveurs De Eiken Zetel, d’un fabricant belge : [les voir](https://fony.be/salon-fauteuils-relax-releveurs).
+Voir aussi [les canapés relax Nicoletti](https://fony.be/salon-nicoletti), fabriqués en Italie, et [les fauteuils relax et releveurs De Eiken Zetel](https://fony.be/salon-fauteuils-relax-releveurs), d’un fabricant belge.
 
 - (Photo : Rendu du fabricant : deux canapés relax en cuir brun foncé, disposés en angle autour d’une table basse)
 
@@ -391,11 +376,11 @@ Le fauteuil relax permet de s’incliner et de relever les jambes ; le releveu
 Venez essayer nos salons à Leval-Trahegnies, à quelques minutes de Morlanwelz et d’Anderlues, à un quart d’heure de La Louvière. Notre équipe vous aide à choisir la configuration, les revêtements et les fonctions qui vous conviennent. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -436,7 +421,7 @@ Salle à manger
 
 Une table pour les repas de tous les jours, les grandes occasions et les moments partagés. Découvrez nos tables fixes et extensibles, en céramique ou en bois, et les chaises qui les accompagnent.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Tables fixes et extensibles
 - Du lundi au samedi, avec ou sans rendez-vous
@@ -699,11 +684,11 @@ Dans la pièce
 Apportez les dimensions de votre salle à manger et, si possible, une photo de la pièce. Venez essayer les chaises et ouvrir les rallonges au magasin, entre Binche et La Louvière, avec ou sans rendez-vous. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -744,7 +729,7 @@ Meuble TV, bibliothèque, buffet
 
 Un écran, des livres, de la vaisselle, des objets à exposer : les systèmes Tomasella se composent module par module selon votre mur, vos rangements et votre intérieur.
 
-[Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Composé module par module
 - Projection 3D de votre projet
@@ -846,11 +831,11 @@ Autour du séjour
 Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module, et nous vous le montrons en projection 3D. Si vous préférez, nous venons prendre les mesures chez vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -1069,11 +1054,11 @@ Oui, la livraison et l’installation sont assurées par nos soins.
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Notre magasin de literie, à Leval-Trahegnies (Binche), vous accueille sans rendez-vous, à quelques minutes d’Anderlues, à un quart d’heure de La Louvière et moins de trente minutes de Mons. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -1114,7 +1099,7 @@ Lits, chevets, armoires, dressings
 
 Le lit, les chevets et les rangements, dans des finitions qui s’accordent. Nous composons la chambre avec vous, selon vos murs et ce que vous rangez.
 
-[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Finitions coordonnées
 - Projection 3D de votre projet
@@ -1221,11 +1206,11 @@ Sur la page [Literie](https://fony.be/literie) : boxsprings, matelas et sommier
 Apportez une photo de la pièce et les dimensions des murs. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -1385,11 +1370,11 @@ Pas encore de cuisine exposée, mais tous les échantillons sont au magasin : f
 Décrivez votre projet en quelques lignes : nous convenons d’un rendez-vous pour prendre les mesures chez vous et concevoir la cuisine avec vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=cuisine#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -1557,11 +1542,11 @@ Oui : nous partons de ce que vous avez déjà.
 Remplissez la fiche ou appelez-nous : nous convenons d’une visite, ou nous vous aiguillons par téléphone.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -1625,7 +1610,7 @@ Tendances
 
 Chaque saison apporte ses teintes ; nous retenons celles qui durent.
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Les grandes surfaces dans des tons qui ne se démodent pas
 - La tendance sur ce qui se remplace vite
@@ -1715,11 +1700,11 @@ Une teinte change selon votre sol et votre lumière. Apportez une photo de la pi
 Au magasin, à Leval-Trahegnies, du lundi au samedi. Sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -1865,7 +1850,7 @@ FONY vous accompagne dans le choix de votre mobilier et l’aménagement de votr
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -1901,7 +1886,7 @@ Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche). Parking facile d’acc
 
 Essayez nos salons, fauteuils relax et couchages, comparez les matières et manipulez les tables à rallonge exposées. Notre équipe vous présente aussi les collections disponibles sur commande.
 
-[Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Avis clients
 
@@ -1965,7 +1950,7 @@ Le mobilier italien pour les espaces à vivre
 
 « De la chaleur des Pouilles à vos maisons » : c’est ainsi que la marque se présente. Capodarte meuble les pièces où l’on se retrouve, de la table aux objets de décoration.
 
-[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Marque du Ciciriello Group
 - Une partie au magasin, le reste sur catalogue
@@ -2025,11 +2010,11 @@ Voir aussi
 Une partie de la collection est exposée ; pour le reste, nous parcourons le catalogue avec vous et commandons la pièce choisie.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -2070,7 +2055,7 @@ Espace de vie
 
 Du canapé à la table, du meuble TV à la cuisine : composez la pièce où l’on vit, meuble par meuble ou d’un seul geste.
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Salons, relax et tables à essayer
 - Première visite et conseil offerts
@@ -2114,11 +2099,11 @@ Dans cet univers
 Apportez les dimensions de votre pièce et, si possible, une photo. Nous accordons avec vous les matières du canapé, de la table et des meubles.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -2159,7 +2144,7 @@ Espace nuit
 
 Le plaisir d’un bon lit, et une chambre où chaque meuble trouve sa place.
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Matelas et boxsprings à essayer
 - Première visite et conseil offerts
@@ -2189,11 +2174,11 @@ Dans cet univers
 Prenez le temps de vous allonger : un matelas se choisit couché, pas debout. Nous composons ensuite la chambre autour du lit.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -2231,7 +2216,7 @@ Literie
 
 Un boxspring, c’est une base, un matelas et parfois un surmatelas. Reste à choisir : fixe, ou électrique pour relever la tête et les jambes.
 
-[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Le guide
 
@@ -2360,11 +2345,11 @@ Voir aussi
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Notre équipe vous accompagne, avec ou sans rendez-vous. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -2402,7 +2387,7 @@ Literie
 
 Un bon matelas est celui qui vous convient, à vous. Cinq questions pour y voir clair, avant de venir l’essayer.
 
-[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Le guide
 
@@ -2608,11 +2593,11 @@ Voir aussi
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Notre équipe vous accompagne, avec ou sans rendez-vous. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -2681,11 +2666,11 @@ Trois conseils
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Notre magasin vous accueille avec ou sans rendez-vous, à Leval-Trahegnies (Binche). Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -2723,7 +2708,7 @@ Literie
 
 L’un aime un lit ferme, l’autre non. L’un lit tard, l’autre se lève tôt. Un lit pour deux peut tenir compte des deux.
 
-[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Selon votre situation
 
@@ -2789,11 +2774,11 @@ Voir aussi
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Notre équipe vous accompagne, avec ou sans rendez-vous. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -2862,11 +2847,11 @@ Sa base à ressorts fait partie du couchage et travaille avec le matelas. Et il 
 Allongez-vous sur les deux, dans votre position habituelle : la différence se sent mieux qu’elle ne se lit. Notre magasin vous accueille avec ou sans rendez-vous, à Leval-Trahegnies (Binche). Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -2909,7 +2894,7 @@ Charleroi et l’ouest de l’agglomération
 
 Notre adresse le dit : le magasin est au bord de la N90, la route de Charleroi, à Leval-Trahegnies. Depuis Charleroi, on y vient presque en ligne droite, par Fontaine-l’Évêque et Anderlues.
 
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies) [Mon projet](https://fony.be/magasin-contact#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
 - À 20 km du centre de Charleroi
 - Au bord de la N90
@@ -2923,7 +2908,7 @@ Pour venir
 
   Comptez environ 20 km et un peu plus de 20 minutes depuis le centre de Charleroi, selon la circulation, par la N90 : Marchienne-au-Pont, Fontaine-l’Évêque, Anderlues, puis Leval-Trahegnies. Le magasin est au bord de la route. Depuis Marchienne-au-Pont ou Montigny-le-Tilleul, comptez 17 minutes ; depuis Fontaine-l’Évêque, 12.
 
-  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Sur place
 
   Le parking est facile d’accès. Vous venez quand vous voulez pendant les heures d’ouverture, avec ou sans rendez-vous, et vous prenez le temps d’essayer.
@@ -3002,11 +2987,11 @@ Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture
 Notre équipe vous accueille et vous conseille au magasin. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -3049,7 +3034,7 @@ La Louvière et la région du Centre
 
 Fony Meubles se trouve à Leval-Trahegnies, sur la route de Charleroi, entre Binche et La Louvière. Un seul magasin, depuis 1991, où l’on vient s’asseoir, comparer et prendre le temps de choisir.
 
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies) [Mon projet](https://fony.be/magasin-contact#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
 - À 12 km du centre de La Louvière
 - Parking facile d’accès
@@ -3063,7 +3048,7 @@ Pour venir
 
   Comptez environ 12 km et un quart d’heure depuis le centre de La Louvière, selon la circulation : par la N27, puis la N55 en direction de Binche. Le magasin est sur la N90, la route de Charleroi.
 
-  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Sur place
 
   Le parking est facile d’accès. Vous venez quand vous voulez pendant les heures d’ouverture, avec ou sans rendez-vous.
@@ -3149,11 +3134,11 @@ Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture
 Notre équipe vous accueille et vous conseille au magasin. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -3196,7 +3181,7 @@ Mons et sa région
 
 Fony Meubles n’a qu’un magasin, à Leval-Trahegnies, dans l’entité de Binche. Depuis Mons, le trajet se fait presque entièrement par l’autoroute, puis par la N55.
 
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies) [Mon projet](https://fony.be/magasin-contact#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
 - À 31 km du centre de Mons
 - Parking facile d’accès
@@ -3210,7 +3195,7 @@ Pour venir
 
   Comptez environ 31 km et 25 minutes depuis le centre de Mons, selon la circulation : l’E19 en direction de Charleroi, puis la N55 vers Binche. Le magasin est sur la N90, la route de Charleroi. Depuis Havré, comptez un peu moins de 20 minutes ; depuis Cuesmes ou Frameries, un peu moins d’une demi-heure.
 
-  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Pourquoi faire la route
 
   Un canapé relax ne se choisit pas sur photo : il faut s’asseoir, ouvrir le repose-jambes, régler l’appui-tête. Au magasin, vous comparez plusieurs assises et plusieurs revêtements dans la même visite.
@@ -3289,11 +3274,11 @@ Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture
 Notre équipe vous accueille et vous conseille au magasin. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -3336,7 +3321,7 @@ Nivelles, Seneffe, Pont-à-Celles
 
 Fony Meubles n’a qu’un magasin, à Leval-Trahegnies, dans l’entité de Binche. Depuis Nivelles, l’essentiel du trajet se fait par l’autoroute ; depuis Seneffe, par la N27.
 
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies) [Mon projet](https://fony.be/magasin-contact#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
 - À 32 km du centre de Nivelles
 - Parking facile d’accès
@@ -3350,7 +3335,7 @@ Pour venir
 
   Comptez environ 32 km et 27 minutes depuis le centre de Nivelles, selon la circulation : l’E19 en direction de Mons, puis la N55 vers Binche. Depuis Seneffe, comptez 20 minutes par la N27 ; depuis Pont-à-Celles, un peu moins d’une demi-heure. Le magasin est sur la N90, la route de Charleroi.
 
-  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Préparer la visite
 
   Pour préparer votre déplacement, apportez les dimensions de votre pièce et, si vous le pouvez, quelques photos. Vous pouvez aussi nous décrire votre projet à l’avance : nous préparons votre venue.
@@ -3417,11 +3402,11 @@ Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture
 Notre équipe vous accueille et vous conseille au magasin. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -3463,7 +3448,7 @@ Binche, La Louvière, le Centre et la Thudinie
 
 Fony Meubles se trouve à Leval-Trahegnies, sur la route de Charleroi. La plupart de nos clients habitent à moins de quinze kilomètres : ils viennent s’asseoir, comparer, et reviennent.
 
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies) [Mon projet](https://fony.be/magasin-contact#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
 - Un seul magasin, depuis 1991
 - Parking facile d’accès
@@ -3578,11 +3563,11 @@ Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture
 Notre équipe vous accueille et vous conseille au magasin. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -3625,7 +3610,7 @@ Thudinie et sud du Hainaut
 
 Lobbes est à un quart d’heure, Thuin à moins de vingt minutes, Beaumont à une demi-heure. Un seul magasin, à Leval-Trahegnies, dans l’entité de Binche, où l’on vient s’asseoir et comparer.
 
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies) [Mon projet](https://fony.be/magasin-contact#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
 - À 14 km de Thuin
 - Parking facile d’accès
@@ -3639,7 +3624,7 @@ Pour venir
 
   Depuis Thuin, comptez environ 14 km et 19 minutes par la N59, puis la N90 ; depuis Lobbes, un quart d’heure. Depuis Beaumont, comptez 26 km et une demi-heure par la N40, puis la N55 en direction de Binche. Merbes-le-Château est à 16 minutes, Erquelinnes à 23.
 
-  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Sur place
 
   Le parking est facile d’accès. Vous venez quand vous voulez pendant les heures d’ouverture, avec ou sans rendez-vous.
@@ -3718,11 +3703,11 @@ Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture
 Notre équipe vous accueille et vous conseille au magasin. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -3763,7 +3748,7 @@ Rangements et aménagement
 
 Un dressing, une bibliothèque, un mur à repenser : imaginons-la ensemble, à vos mesures.
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Mesures chez vous si vous le souhaitez
 - Projection 3D pour un aménagement
@@ -3793,11 +3778,11 @@ Dans cet univers
 Apportez un plan ou quelques mesures, et une photo du mur. Nous dessinons la composition avec vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -3835,7 +3820,7 @@ Salon
 
 Chaise longue à gauche ou à droite, canapé d’angle ou composition ouverte : comparez les dimensions des fiches. Nous composons avec vous le salon qui laisse la bonne place pour circuler.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 La sélection
 
@@ -3888,11 +3873,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -3930,7 +3915,7 @@ Salon
 
 Découvrez notre sélection de canapés fabriqués en Italie, proposés en cuir selon les modèles. Au magasin, comparez les revêtements et leurs nuances avec votre projet.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 La sélection
 
@@ -4008,11 +3993,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -4050,7 +4035,7 @@ Salon
 
 Comparez les modèles Max Divani et Nicoletti, leurs dimensions et leurs réglages. Au magasin, essayez les mécanismes des salons exposés avant de choisir.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 La sélection
 
@@ -4117,11 +4102,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -4159,7 +4144,7 @@ Salon
 
 Un fauteuil relax se choisit pour une personne : sa taille, son dos, sa façon de se lever. Voici les questions à se poser, et ce qui distingue un modèle d’un autre.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Selon votre besoin
 
@@ -4280,11 +4265,11 @@ Voir aussi
 Notre équipe règle le fauteuil avec vous et vous aide à choisir la taille, le nombre de moteurs et le revêtement. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -4326,7 +4311,7 @@ Le savoir-faire italien du confort
 
 Née en 1956 à Altamura, en Italie, Max Divani fabrique des canapés et des fauteuils. Chez Fony : une sélection de salons, à dossiers avance-recule, modulables ou relax selon les modèles.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Fabriqués en Italie
 - Cuir, microfibre ou tissu
@@ -4419,28 +4404,23 @@ Voir aussi
 
   Le relax comme un objet de design.
 
-  [Voir au salon](https://fony.be/salon#fab-nicoletti)
-- ### Les lignes arrondies
+  [Voir les canapés Nicoletti](https://fony.be/salon-nicoletti)
+- ### De Eiken Zetel
 
-  Des formes rondes, sans angle vif.
+  Des fauteuils relax et releveurs, d’un fabricant belge.
 
-  [Voir au salon](https://fony.be/salon#fab-lignes-arrondies)
-- ### Une sélection européenne
-
-  Pour élargir les styles et les budgets.
-
-  [Voir au salon](https://fony.be/salon#fab-europe)
+  [Voir les fauteuils relax](https://fony.be/salon-fauteuils-relax-releveurs)
 
 ## Venez essayer les salons Max Divani.
 
 Une partie est exposée, le reste sur catalogue. De nombreuses configurations en angle, en trois ou deux places, et dans un large choix de tissus et de cuirs.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -4586,11 +4566,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -4764,11 +4744,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -4900,11 +4880,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -5058,11 +5038,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -5233,11 +5213,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -5397,11 +5377,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -5565,11 +5545,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -5758,11 +5738,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -5800,7 +5780,7 @@ Salons fabriqués en Italie
 
 Découvrez Memphis et Oakland, deux canapés relax fabriqués en Italie. Selon la version, les réglages électriques incluent la têtière et le soutien lombaire.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Les modèles
 
@@ -5850,11 +5830,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -6022,11 +6002,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -6234,11 +6214,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -6430,11 +6410,11 @@ Voir aussi
 Notre équipe vous aide à choisir la composition, le revêtement et la version qui vous conviennent. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -6476,7 +6456,7 @@ Tables à rallonge
 
 Rallonge centrale, latérales synchronisées ou indépendantes : choisissez la table selon votre espace et le nombre de convives.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Tables à rallonge
 - Plateaux en céramique
@@ -6619,11 +6599,11 @@ Voir aussi
 Au magasin, essayez les mécanismes des tables exposées : c’est la meilleure façon de choisir.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -6678,7 +6658,7 @@ Une table oblongue qui devient ronde : deux rallonges latérales sortent ensemb
 - Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Austin&demande=devis#visite)
-[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -6755,11 +6735,11 @@ Voir aussi
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -6814,7 +6794,7 @@ Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied
 - Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Influence&demande=devis#visite)
-[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -6879,11 +6859,11 @@ Voir aussi
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -6938,7 +6918,7 @@ Une table à deux rallonges latérales synchronisées, sur un piétement croisé
 - Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Kheops&demande=devis#visite)
-[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -7016,11 +6996,11 @@ Voir aussi
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -7075,7 +7055,7 @@ Une table dont le plateau pivote pour libérer deux rallonges latérales. Platea
 - Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Milazzo&demande=devis#visite)
-[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -7157,11 +7137,11 @@ Voir aussi
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -7216,7 +7196,7 @@ Une grande table à deux rallonges latérales indépendantes, pour dix à douze 
 - Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Missouri&demande=devis#visite)
-[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -7289,11 +7269,11 @@ Voir aussi
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -7348,7 +7328,7 @@ Une table rectangulaire à deux rallonges latérales indépendantes, sur quatre 
 - Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Ontario&demande=devis#visite)
-[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -7422,11 +7402,11 @@ Voir aussi
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -7481,7 +7461,7 @@ Une table à rallonge centrale, sur un pied en étoile en acier noir. Plateau en
 - Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Phoenix&demande=devis#visite)
-[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -7554,11 +7534,11 @@ Voir aussi
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -7613,7 +7593,7 @@ Une table à rallonge centrale automatique, sur un pied central à branches en a
 - Dimensions, plateau et finitions au choix
 
 [Demander un devis](https://fony.be/magasin-contact?projet=salle-a-manger&modele=Akante%20Vancouver&demande=devis#visite)
-[Venir au magasin](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Venir au magasin](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -7689,11 +7669,11 @@ Voir aussi
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -7735,7 +7715,7 @@ L’excellence du design italien
 
 Fondée en 1979 par Giorgio et Silvia Cattelan, la maison donne du caractère aux intérieurs par les matières, les lignes et les détails de finition.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Maison fondée en 1979
 - Tables fabriquées en Italie
@@ -7830,11 +7810,11 @@ Voir aussi
 Tables et dressoirs Cattelan Italia se choisissent sur catalogue : dimensions, plateaux et finitions au choix.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -7872,7 +7852,7 @@ Salle à manger
 
 Comparez nos tables extensibles en céramique : dimensions fermées et ouvertes, mécanismes et finitions. Choisissez celle qui convient à vos repas quotidiens et à vos invités.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 La sélection
 
@@ -7940,11 +7920,11 @@ De 6 à 12 convives selon le modèle et la longueur. Le nombre de places est ind
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -7986,7 +7966,7 @@ Tables et chaises à composer
 
 Une table dont vous choisissez la forme, les dimensions, le plateau et le pied, avec les chaises qui vont avec. Nous la composons avec vous au magasin.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Forme et dimensions au choix
 - Chaises et tabourets assortis
@@ -8103,11 +8083,11 @@ Voir aussi
 Apportez les dimensions de votre pièce : notre équipe choisit avec vous la forme, le plateau, le pied et les chaises. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -8149,7 +8129,7 @@ Tables fabriquées en Italie
 
 Une table Sedit se choisit par son plateau, son piètement et son format : céramique ou bois, fixe ou à rallonge.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Fabriquées en Italie
 - Céramique ou bois
@@ -8201,11 +8181,11 @@ Voir aussi
 Dimensions, plateaux et couleurs du pied se choisissent avec nous, au magasin ou sur catalogue.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -8246,7 +8226,7 @@ Fabriqué en Italie, composé pour votre pièce
 
 Composez votre meuble TV, votre bibliothèque, votre garde-robe ou votre chambre avec les systèmes modulables Tomasella. Nous adaptons la composition à votre espace et à vos finitions.
 
-[Mon projet](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Séjour, rangements, chambre
 - Projection 3D de votre projet
@@ -8320,11 +8300,11 @@ Vos mesures et une photo suffisent pour commencer. Si vous le souhaitez, nous ve
 Apportez une photo de la pièce et les dimensions du mur. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

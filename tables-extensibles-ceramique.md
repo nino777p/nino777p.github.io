@@ -14,7 +14,7 @@ Salle à manger
 
 Comparez nos tables extensibles en céramique : dimensions fermées et ouvertes, mécanismes et finitions. Choisissez celle qui convient à vos repas quotidiens et à vos invités.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 La sélection
 
@@ -82,11 +82,11 @@ De 6 à 12 convives selon le modèle et la longueur. Le nombre de places est ind
 Notre équipe vous aide à choisir les dimensions, le plateau et les finitions qui conviennent à votre pièce. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

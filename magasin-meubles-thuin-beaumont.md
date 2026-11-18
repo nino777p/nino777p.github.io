@@ -19,7 +19,7 @@ Thudinie et sud du Hainaut
 
 Lobbes est à un quart d’heure, Thuin à moins de vingt minutes, Beaumont à une demi-heure. Un seul magasin, à Leval-Trahegnies, dans l’entité de Binche, où l’on vient s’asseoir et comparer.
 
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies) [Mon projet](https://fony.be/magasin-contact#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
 - À 14 km de Thuin
 - Parking facile d’accès
@@ -33,7 +33,7 @@ Pour venir
 
   Depuis Thuin, comptez environ 14 km et 19 minutes par la N59, puis la N90 ; depuis Lobbes, un quart d’heure. Depuis Beaumont, comptez 26 km et une demi-heure par la N40, puis la N55 en direction de Binche. Merbes-le-Château est à 16 minutes, Erquelinnes à 23.
 
-  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Sur place
 
   Le parking est facile d’accès. Vous venez quand vous voulez pendant les heures d’ouverture, avec ou sans rendez-vous.
@@ -112,11 +112,11 @@ Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture
 Notre équipe vous accueille et vous conseille au magasin. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

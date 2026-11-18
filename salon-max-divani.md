@@ -18,7 +18,7 @@ Le savoir-faire italien du confort
 
 Née en 1956 à Altamura, en Italie, Max Divani fabrique des canapés et des fauteuils. Chez Fony : une sélection de salons, à dossiers avance-recule, modulables ou relax selon les modèles.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Fabriqués en Italie
 - Cuir, microfibre ou tissu
@@ -111,28 +111,23 @@ Voir aussi
 
   Le relax comme un objet de design.
 
-  [Voir au salon](https://fony.be/salon#fab-nicoletti)
-- ### Les lignes arrondies
+  [Voir les canapés Nicoletti](https://fony.be/salon-nicoletti)
+- ### De Eiken Zetel
 
-  Des formes rondes, sans angle vif.
+  Des fauteuils relax et releveurs, d’un fabricant belge.
 
-  [Voir au salon](https://fony.be/salon#fab-lignes-arrondies)
-- ### Une sélection européenne
-
-  Pour élargir les styles et les budgets.
-
-  [Voir au salon](https://fony.be/salon#fab-europe)
+  [Voir les fauteuils relax](https://fony.be/salon-fauteuils-relax-releveurs)
 
 ## Venez essayer les salons Max Divani.
 
 Une partie est exposée, le reste sur catalogue. De nombreuses configurations en angle, en trois ou deux places, et dans un large choix de tissus et de cuirs.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

@@ -19,7 +19,7 @@ Nivelles, Seneffe, Pont-à-Celles
 
 Fony Meubles n’a qu’un magasin, à Leval-Trahegnies, dans l’entité de Binche. Depuis Nivelles, l’essentiel du trajet se fait par l’autoroute ; depuis Seneffe, par la N27.
 
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies) [Mon projet](https://fony.be/magasin-contact#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
 - À 32 km du centre de Nivelles
 - Parking facile d’accès
@@ -33,7 +33,7 @@ Pour venir
 
   Comptez environ 32 km et 27 minutes depuis le centre de Nivelles, selon la circulation : l’E19 en direction de Mons, puis la N55 vers Binche. Depuis Seneffe, comptez 20 minutes par la N27 ; depuis Pont-à-Celles, un peu moins d’une demi-heure. Le magasin est sur la N90, la route de Charleroi.
 
-  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+  [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Préparer la visite
 
   Pour préparer votre déplacement, apportez les dimensions de votre pièce et, si vous le pouvez, quelques photos. Vous pouvez aussi nous décrire votre projet à l’avance : nous préparons votre venue.
@@ -100,11 +100,11 @@ Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture
 Notre équipe vous accueille et vous conseille au magasin. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

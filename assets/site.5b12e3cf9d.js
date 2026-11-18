@@ -133,17 +133,6 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   setInterval(function () { p[i].classList.remove('active'); i = (i + 1) % p.length; p[i].classList.add('active'); }, 6500);
 })();
 
-/* 60-parallaxe.js */
-/* Ouverture : les photos descendent un peu moins vite que la page (profondeur légère ; ordinateur seulement). */
-(function () {
-  var o = document.querySelector('.ouverture-photos'); if (!o) return;
-  try { if (matchMedia('(prefers-reduced-motion: reduce)').matches || !matchMedia('(min-width: 961px)').matches) return; } catch (e) { return; }
-  document.documentElement.classList.add('parallaxe');
-  var t = false;
-  function maj() { var y = window.scrollY; if (y < window.innerHeight) o.style.transform = 'translateY(' + (y * 0.28) + 'px)'; t = false; }
-  window.addEventListener('scroll', function () { if (!t) { t = true; requestAnimationFrame(maj); } }, { passive: true });
-})();
-
 /* 70-formulaire.js */
 /* Formulaires : e-mail ou téléphone au choix ; le téléphone devient obligatoire si l'on demande un rappel ou une visite.
    La pièce est préremplie d'après la page d'origine, et une photo trop lourde est signalée avant l'envoi. */
@@ -432,43 +421,219 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 })();
 
 /* 90-mouvement.js */
-/* Teinte de page et plans photo liés au défilement (voir design/49-mouvement.css). Sans script : page claire, photo fixe. */
+/* Teinte de page, plans photo et parallaxe d'ouverture liés au défilement (voir design/49-mouvement.css). Un seul
+   écouteur de défilement (passif), une mise à jour par image (requestAnimationFrame) : toutes les lectures (position,
+   rectangles) d'abord, les écritures ensuite, pour ne jamais forcer un recalcul de style au milieu.
+   Sans script : chaque section peint sa teinte, photo fixe. */
 (function () {
-  var racine = document.documentElement;
-  var teintes = document.querySelectorAll('[data-teinte]');
-  if (teintes.length && 'IntersectionObserver' in window) {
-    // 17/11/2026 : le pied de page est une zone neutre. Quand il arrive au centre de l'écran, la teinte en cours est
-    // gardée (plus d'éclair clair entre la dernière section sombre et le pied) ; elle ne part que si une section non
-    // teintée passe au centre (en remontant).
-    var pied = document.querySelector('.pied');
-    var actives = new Set(), piedAuCentre = false;
-    var io = new IntersectionObserver(function (es) {
-      es.forEach(function (e) {
-        if (e.target === pied) { piedAuCentre = e.isIntersecting; return; }
-        if (e.isIntersecting) actives.add(e.target); else actives.delete(e.target);
-      });
-      var t = null; actives.forEach(function (el) { t = el.getAttribute('data-teinte'); });
-      if (t) racine.setAttribute('data-teinte', t);
-      else if (!piedAuCentre) racine.removeAttribute('data-teinte');
-    }, { rootMargin: '-45% 0px -45% 0px' });
-    Array.prototype.forEach.call(teintes, function (el) { io.observe(el); });
-    if (pied) io.observe(pied);
-  }
+  var racine = document.documentElement, contenu = document.getElementById('contenu');
+  var reduit = window.matchMedia ? matchMedia('(prefers-reduced-motion: reduce)') : { matches: false };
   var plans = document.querySelectorAll('[data-plan]');
-  if (!plans.length || (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches)) return;
-  var demande = false;
-  function maj() {
-    demande = false;
-    var h = window.innerHeight;
+
+  // ---- 1. Teinte (nino, 18/11/2026). Chaque enfant de <main> est une zone : sa teinte vient de « teinte: » (YAML,
+  // résolue par outils/fabriquer.py dans --teinte-section), sinon c'est le fond de l'ambiance (--fond de <main>).
+  // Aucune couleur n'est écrite ici. Le fond suit le milieu de l'écran : entre les centres de deux zones voisines, il
+  // glisse de l'une à l'autre en OKLab (espace perceptuel : un fondu régulier, sans gris sale au milieu). Entre une zone
+  // claire et une zone sombre, il saute à leur frontière (l'espace vide entre les deux sections), d'un coup, fond et encre
+  // dans la même image : aucune couleur intermédiaire où ni l'encre claire ni l'encre foncée n'atteindrait 4,5:1.
+  // Le pied de page et ce qui suit la dernière zone gardent la dernière teinte. En remontant, tout revient à l'envers.
+  // « Réduire les animations » : chaque zone prend sa teinte d'un coup, sans glissement ni fondu.
+  var zones = [];
+  function versLineaire(v) { v /= 255; return v <= 0.04045 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4); }
+  function versSrgb(v) { v = Math.max(0, Math.min(1, v)); return Math.round(255 * (v <= 0.0031308 ? 12.92 * v : 1.055 * Math.pow(v, 1 / 2.4) - 0.055)); }
+  function lireCouleur(texte) {
+    var m = /^#([0-9a-f]{6})$/i.exec((texte || '').trim());
+    if (!m) return null;
+    var n = parseInt(m[1], 16), r = versLineaire(n >> 16), g = versLineaire((n >> 8) & 255), b = versLineaire(n & 255);
+    var l = Math.cbrt(0.4122214708 * r + 0.5363325363 * g + 0.0514459929 * b);
+    var mm = Math.cbrt(0.2119034982 * r + 0.6806995451 * g + 0.1073969566 * b);
+    var s = Math.cbrt(0.0883024619 * r + 0.2817188376 * g + 0.6299787005 * b);
+    var c = { L: 0.2104542553 * l + 0.7936177850 * mm - 0.0040720468 * s,
+              a: 1.9779984951 * l - 2.4285922050 * mm + 0.4505937099 * s,
+              b: 0.0259040371 * l + 0.7827717662 * mm - 0.8086757660 * s };
+    c.sombre = luminance(c) < 0.18;
+    return c;
+  }
+  function versRgbLineaire(c) {
+    var l = Math.pow(c.L + 0.3963377774 * c.a + 0.2158037573 * c.b, 3);
+    var m = Math.pow(c.L - 0.1055613458 * c.a - 0.0638541728 * c.b, 3);
+    var s = Math.pow(c.L - 0.0894841775 * c.a - 1.2914855480 * c.b, 3);
+    return [4.0767416621 * l - 3.3077115913 * m + 0.2309699292 * s,
+            -1.2684380046 * l + 2.6097574011 * m - 0.3413193965 * s,
+            -0.0041960863 * l - 0.7034186147 * m + 1.7076147010 * s];
+  }
+  // luminance relative (WCAG) ; sous 0,18, l'encre claire contraste plus que l'encre foncée
+  function luminance(c) { var v = versRgbLineaire(c).map(function (x) { return Math.max(0, Math.min(1, x)); }); return 0.2126 * v[0] + 0.7152 * v[1] + 0.0722 * v[2]; }
+  function versHex(c) { return '#' + versRgbLineaire(c).map(function (x) { return (256 + versSrgb(x)).toString(16).slice(1); }).join(''); }
+
+  // la section teintée d'un enfant de <main> : lui-même, ou celle qu'il enveloppe (section repliée, <details class="repli">)
+  function teintee(el) { return el.classList.contains('teinte') ? el : el.querySelector(':scope > .teinte[data-teinte]'); }
+  if (contenu && contenu.querySelector(':scope > .teinte[data-teinte], :scope > .repli > .teinte[data-teinte]')) {
+    var parDefaut = lireCouleur(getComputedStyle(contenu).getPropertyValue('--fond'));
+    Array.prototype.forEach.call(contenu.children, function (el) {
+      if (/^(SCRIPT|TEMPLATE|STYLE|LINK)$/.test(el.tagName)) return;
+      var t = teintee(el);
+      // Une section peut porter une suite de teintes, une par élément (« teinte: » d'un modèle, Max Divani, CAHIER.md §3.6) :
+      // chaque élément [data-teinte-sous] devient une zone ; la première prend le haut de la section, la dernière son bas.
+      var sous = t ? t.querySelectorAll('[data-teinte-sous]') : [];
+      if (sous.length) {
+        Array.prototype.forEach.call(sous, function (e, k) {
+          zones.push({ el: e, t: k ? null : t, bloc: el, premier: k === 0, dernier: k === sous.length - 1,
+                       c: lireCouleur(getComputedStyle(e).getPropertyValue('--teinte-section')) });
+        });
+        return;
+      }
+      zones.push({ el: el, t: t, c: t ? lireCouleur(getComputedStyle(t).getPropertyValue('--teinte-section')) : parDefaut });
+    });
+    if (zones.some(function (z) { return !z.c; })) zones = [];   // teinte illisible : on garde le repli sans script
+  }
+  var vues = [];     // les zones rendues (hauteur non nulle), dans l'ordre de la page
+  var hauteur = window.innerHeight;
+  // Une suite de zones sombres entre deux zones claires, plus courte que l'écran, ne fait pas basculer la page : deux
+  // bascules en quelques secondes clignoteraient (revue « élégance » du 18/11, surtout en 390). Elle se peint alors
+  // elle-même (.teinte-propre, design/49-mouvement.css) et le fond de page glisse d'une zone claire à l'autre.
+  function mesurer() {
+    var y = window.scrollY;
+    hauteur = window.innerHeight;
+    zones.forEach(function (z) {
+      var r = z.el.getBoundingClientRect(); z.haut = r.top + y; z.bas = r.bottom + y;
+      if (z.bloc && z.bas > z.haut) { var rb = z.bloc.getBoundingClientRect(); if (z.premier) z.haut = rb.top + y; if (z.dernier) z.bas = rb.bottom + y; }
+    });
+    // éléments d'une même section posés côte à côte (grille à deux colonnes en 390) : le premier de la rangée garde la zone
+    // Ils forment une « rangée » : sa teinte suit celle du modèle affiché (carrousel horizontal du téléphone, 44-vitrine.css ;
+    // relecture Codex du 18/11, R3), voir suivreRangees().
+    var rendues = [], propres = [];
+    zones.forEach(function (z) {
+      z.rangee = null; z.cVue = null;
+      if (!(z.bas > z.haut)) return;
+      var p = rendues[rendues.length - 1];
+      if (p && z.bloc && p.bloc === z.bloc && z.haut < p.bas) { p.bas = Math.max(p.bas, z.bas); (p.rangee = p.rangee || [p]).push(z); return; }
+      rendues.push(z);
+    });
+    rendues.forEach(function (z) { z.centre = (z.haut + z.bas) / 2; });
+    for (var i = 0; i < rendues.length; i++) {
+      if (!rendues[i].c.sombre) continue;
+      var k = i; while (k + 1 < rendues.length && rendues[k + 1].c.sombre) k++;
+      if (i > 0 && k + 1 < rendues.length && rendues[k].bas - rendues[i].haut < hauteur) propres = propres.concat(rendues.slice(i, k + 1));
+      i = k;
+    }
+    zones.forEach(function (z) { if (z.t) z.t.classList.toggle('teinte-propre', propres.indexOf(z) >= 0); });
+    vues = rendues.filter(function (z) { return propres.indexOf(z) < 0; });
+    if (!vues.length) vues = zones.slice(0, 1);
+  }
+  // Rangée défilant à l'horizontale : la teinte suit le modèle au milieu de la rangée, et glisse de l'un à l'autre pendant
+  // le glissement du doigt (même règle que le défilement vertical : fondu dans une famille, saut net entre clair et sombre).
+  // Rangée sans défilement (deux colonnes) : la teinte du premier. Lecture seule (rectangles), faite avant toute écriture.
+  function suivreRangees() {
+    vues.forEach(function (z) {
+      if (!z.rangee) return;
+      var sc = z.el.parentElement;
+      if (!sc || sc.scrollWidth <= sc.clientWidth + 1) { z.cVue = null; return; }
+      var rs = sc.getBoundingClientRect(), m = rs.left + rs.width / 2;
+      var cx = z.rangee.map(function (e) { var r = e.el.getBoundingClientRect(); return r.left + r.width / 2; });
+      var n = cx.length, i;
+      if (reduit.matches) {
+        var k = 0; for (i = 1; i < n; i++) if (Math.abs(cx[i] - m) < Math.abs(cx[k] - m)) k = i;
+        z.cVue = z.rangee[k].c; return;
+      }
+      if (m <= cx[0]) { z.cVue = z.rangee[0].c; return; }
+      for (i = 0; i < n - 1 && cx[i + 1] <= m; i++) {}
+      if (i === n - 1) { z.cVue = z.rangee[i].c; return; }
+      var A = z.rangee[i].c, B = z.rangee[i + 1].c;
+      if (A.sombre !== B.sombre) { z.cVue = m < (cx[i] + cx[i + 1]) / 2 ? A : B; return; }
+      var t = (m - cx[i]) / (cx[i + 1] - cx[i]); t = t * t * (3 - 2 * t);
+      z.cVue = melange(A, B, t);
+    });
+  }
+  function cz(z) { return z.cVue || z.c; }
+  function teinteA(m) {
+    var zones = vues, n = zones.length, i;
+    if (reduit.matches) {          // la zone sous le milieu de l'écran (ou la dernière dépassée)
+      for (i = n - 1; i > 0 && zones[i].haut > m; i--) {}
+      return cz(zones[i]);
+    }
+    if (m <= zones[0].centre) return cz(zones[0]);
+    for (i = 0; i < n - 1 && zones[i + 1].centre <= m; i++) {}
+    if (i === n - 1) return cz(zones[i]);
+    var A = zones[i], B = zones[i + 1], cA = cz(A), cB = cz(B);
+    if (cA.sombre !== cB.sombre) return m < (A.bas + B.haut) / 2 ? cA : cB;
+    if (B.centre <= A.centre) return cB;
+    var t = (m - A.centre) / (B.centre - A.centre); t = t * t * (3 - 2 * t);
+    return melange(cA, cB, t);
+  }
+  function melange(A, B, t) { return { L: A.L + (B.L - A.L) * t, a: A.a + (B.a - A.a) * t, b: A.b + (B.b - A.b) * t, sombre: A.sombre }; }
+  // Passage clair ↔ sombre (relecture Codex du 18/11, R1 ; CAHIER.md §5) : AUCUNE couleur intermédiaire entre les deux
+  // familles. teinteA() rend déjà l'une ou l'autre teinte, jamais un mélange, de part et d'autre de la frontière des
+  // sections : le fond (--teinte) et l'encre (data-teinte) changent ensemble, dans la même image. Pour cette image-là,
+  // .teinte-bascule coupe les transitions de couleur des boutons, liens et cartes (design/49-mouvement.css) : sinon leur
+  // texte et leurs bords glisseraient sur .2 s de l'ancienne encre vers la nouvelle, sur un fond déjà changé. Le fondu
+  // doux reste entier à l'intérieur d'une même famille (clair → clair, sombre → sombre).
+  var hexEnCours = '', sombreEnCours = null, retrait = 0;
+  function peindre(y) {
+    var c = teinteA(y + hauteur / 2), hex = versHex(c), sombre = luminance(c) < 0.18;
+    // Première peinture comprise (relecture Codex du 18/11, R1 bis) : une page ouverte directement en zone sombre passe
+    // aussi d'un coup de l'encre foncée par défaut à l'encre claire, sans transition des boutons.
+    if (sombre !== sombreEnCours) {
+      racine.classList.add('teinte-bascule'); clearTimeout(retrait);
+      // retirée un peu plus tard (≈ 8 images) : le style de la bascule est alors calculé sans transition ; la retirer ne change
+      // aucune valeur, donc ne relance rien
+      retrait = setTimeout(function () { requestAnimationFrame(function () { racine.classList.remove('teinte-bascule'); }); }, 120);
+    }
+    if (hex !== hexEnCours) { racine.style.setProperty('--teinte', hex); hexEnCours = hex; }
+    if (sombre !== sombreEnCours) {
+      if (sombre) racine.setAttribute('data-teinte', 'sombre'); else racine.removeAttribute('data-teinte');
+      sombreEnCours = sombre;
+    }
+  }
+
+  // ---- 2. Plans photo (« derive: true ») : --p va de 0 à 1 pendant la traversée de l'écran (design/47-immersion.css).
+  function lirePlans() {
+    var h = hauteur, valeurs = [];
     Array.prototype.forEach.call(plans, function (pl) {
       var r = pl.getBoundingClientRect();
       if (r.bottom < -h || r.top > 2 * h) return;
-      var p = (h - r.top) / (r.height + h);
-      pl.style.setProperty('--p', Math.max(0, Math.min(1, p)).toFixed(3));
+      valeurs.push([pl, Math.max(0, Math.min(1, (h - r.top) / (r.height + h))).toFixed(3)]);
     });
+    return valeurs;
   }
-  function surDefilement() { if (!demande) { demande = true; requestAnimationFrame(maj); } }
-  addEventListener('scroll', surDefilement, { passive: true });
-  addEventListener('resize', surDefilement);
+
+  // ---- 3. Parallaxe de l'ouverture (ordinateur seulement) : les photos descendent un peu moins vite que la page.
+  // Recalculée quand « réduire les animations » ou la largeur change en cours de visite (relecture Codex du 18/11, R2) :
+  // désactivée, elle retire sa classe et le décalage déjà posé.
+  var ouverture = document.querySelector('.ouverture-photos'), parallaxe = false;
+  var large = window.matchMedia ? matchMedia('(min-width: 961px)') : { matches: false };
+  function regler() {
+    var avant = parallaxe;
+    parallaxe = !!ouverture && !reduit.matches && large.matches;
+    racine.classList.toggle('parallaxe', parallaxe);
+    if (avant && !parallaxe) ouverture.style.transform = '';
+  }
+  regler();
+
+  if (!zones.length && !plans.length && !ouverture) return;
+  var demande = false, aMesurer = true;
+  function maj() {
+    demande = false;
+    // lectures
+    if (zones.length && aMesurer) { mesurer(); aMesurer = false; }   // (écrit seulement des classes, avant toute teinte)
+    if (zones.length) suivreRangees();
+    var y = window.scrollY, valeurs = plans.length && !reduit.matches ? lirePlans() : [];
+    // écritures
+    if (zones.length) peindre(y);
+    valeurs.forEach(function (v) { v[0].style.setProperty('--p', v[1]); });
+    if (parallaxe && y < hauteur) ouverture.style.transform = 'translateY(' + (y * 0.28) + 'px)';
+  }
+  function planifier() { if (!demande) { demande = true; requestAnimationFrame(maj); } }
+  function remesurer() { aMesurer = true; planifier(); }
+  // capture : reçoit aussi le défilement horizontal des rangées (l'événement « scroll » d'un élément ne remonte pas)
+  addEventListener('scroll', planifier, { passive: true, capture: true });
+  addEventListener('resize', function () { hauteur = window.innerHeight; regler(); remesurer(); });
+  if (reduit.addEventListener) reduit.addEventListener('change', function () { regler(); remesurer(); });
+  if (large.addEventListener) large.addEventListener('change', function () { regler(); planifier(); });
+  if (zones.length) {
+    racine.classList.add('teintes-continues');
+    if ('ResizeObserver' in window) new ResizeObserver(remesurer).observe(document.body);   // photos chargées, volets ouverts
+    addEventListener('load', remesurer);
+  }
   maj();
 })();

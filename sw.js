@@ -1,6 +1,6 @@
-/* Fony — cache des images, polices et logo. Version : 81a29595833d
+/* Fony — cache des images, polices et logo. Version : b4af6827da9a
    Ne met en cache que /assets/. Les pages et campagne.txt passent toujours par le réseau. */
-const V = 'fony-assets-81a29595833d';
+const V = 'fony-assets-b4af6827da9a';
 self.addEventListener('install', e => self.skipWaiting());
 self.addEventListener('activate', e => e.waitUntil(
   caches.keys().then(ks => Promise.all(ks.filter(k => k !== V).map(k => caches.delete(k)))).then(() => self.clients.claim())));

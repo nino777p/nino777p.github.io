@@ -18,7 +18,7 @@ Tables fabriquées en Italie
 
 Une table Sedit se choisit par son plateau, son piètement et son format : céramique ou bois, fixe ou à rallonge.
 
-[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Fabriquées en Italie
 - Céramique ou bois
@@ -70,11 +70,11 @@ Voir aussi
 Dimensions, plateaux et couleurs du pied se choisissent avec nous, au magasin ou sur catalogue.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

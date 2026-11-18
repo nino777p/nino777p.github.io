@@ -45,11 +45,11 @@ Sa base à ressorts fait partie du couchage et travaille avec le matelas. Et il 
 Allongez-vous sur les deux, dans votre position habituelle : la différence se sent mieux qu’elle ne se lit. Notre magasin vous accueille avec ou sans rendez-vous, à Leval-Trahegnies (Binche). Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

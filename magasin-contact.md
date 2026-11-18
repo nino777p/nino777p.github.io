@@ -19,7 +19,7 @@ FONY vous accompagne dans le choix de votre mobilier et l’aménagement de votr
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
@@ -55,7 +55,7 @@ Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche). Parking facile d’acc
 
 Essayez nos salons, fauteuils relax et couchages, comparez les matières et manipulez les tables à rallonge exposées. Notre équipe vous présente aussi les collections disponibles sur commande.
 
-[Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Ouvrir dans Google Maps](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Avis clients
 

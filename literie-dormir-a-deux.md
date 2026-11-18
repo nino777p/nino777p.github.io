@@ -14,7 +14,7 @@ Literie
 
 L’un aime un lit ferme, l’autre non. L’un lit tard, l’autre se lève tôt. Un lit pour deux peut tenir compte des deux.
 
-[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Selon votre situation
 
@@ -80,11 +80,11 @@ Voir aussi
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Notre équipe vous accompagne, avec ou sans rendez-vous. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30

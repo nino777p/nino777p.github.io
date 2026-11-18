@@ -36,7 +36,7 @@ Aucun prix n’est publié en ligne.
 ## Agir
 
 - Appeler le magasin : tel:+3264460772
-- Venir au magasin (itinéraire) : https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies
+- Venir au magasin (itinéraire) : https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY
 - Préparer une visite ou demander une visite à domicile (formulaire) : https://fony.be/magasin-contact#visite
 - Projet professionnel — bureaux, hôtels et restaurants, promoteurs, maisons de repos (formulaire) : https://fony.be/espace-pro#projet-pro
 - Instagram : https://www.instagram.com/fonymeubles/ ; Facebook : https://www.facebook.com/fonymeubles/

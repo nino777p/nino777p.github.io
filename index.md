@@ -16,7 +16,7 @@ Mobilier, cuisines et sur mesure — Leval-Trahegnies, depuis 1991
 
 Salons, tables et literie à voir et à essayer au magasin ; cuisines et sur mesure à concevoir avec votre conseiller, du premier croquis à la pose.
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Salons, relax et literie à essayer
 - Première visite et conseil offerts
@@ -159,11 +159,11 @@ Un premier logement, une pièce à repenser ou un intérieur à rendre plus conf
 Retrouvez-nous à Leval-Trahegnies, entre Binche et La Louvière, du lundi au samedi. Venez découvrir nos collections, essayer nos meubles ou préparer votre projet avec un conseiller. Venez librement, ou prenez rendez-vous pour préparer votre projet. Parking facile d’accès.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse
 :   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=160+Route+de+Charleroi+7134+Leval-Trahegnies)
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Lundi
 :   13h30 – 18h30
