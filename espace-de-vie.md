@@ -4,7 +4,7 @@
 
 Adresse de la page : https://fony.be/espace-de-vie
 
-(Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+(Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 
 (Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
 

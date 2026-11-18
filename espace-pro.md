@@ -84,7 +84,7 @@ Literie, fauteuils relax, rangements et placards.
   ### La fabrication
 
   Selon le calendrier convenu.
-- (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+- (Photo : Rendu du fabricant : deux canapés relax en cuir brun foncé, disposés en angle autour d’une table basse)
 
   ### Livraison et pose
 

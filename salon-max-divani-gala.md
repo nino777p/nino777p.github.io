@@ -47,12 +47,12 @@ Sous tous les angles
 
 (Photo : Le même canapé écru vu de trois quarts : coussins généreux et accoudoirs en forme de pétale)
 
-(Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+(Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 
 1. (Photo : Le même canapé écru vu de trois quarts : coussins généreux et accoudoirs en forme de pétale)
 
    ### De trois quarts.
-2. (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+2. (Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 
    ### Avec les fauteuils Dana, dans un séjour.
 

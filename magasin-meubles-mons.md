@@ -4,7 +4,7 @@
 
 Adresse de la page : https://fony.be/magasin-meubles-mons
 
-(Photo : Canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
+(Photo : Rendu du fabricant : canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
 
 (Photo : Deux canapés en cuir brun foncé dans un séjour, l’un avec une place relax ouverte)
 

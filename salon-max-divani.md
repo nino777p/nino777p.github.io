@@ -4,9 +4,9 @@
 
 Adresse de la page : https://fony.be/salon-max-divani
 
-(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
+(Photo : Rendu du fabricant : canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 
-(Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+(Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 
 1. [Accueil](https://fony.be/)
 2. [Salon](https://fony.be/salon)
@@ -28,9 +28,9 @@ Au magasin et sur catalogue
 
 ## Notre sélection Max Divani.
 
-1. (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
+1. (Photo : Rendu du fabricant : canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 
-   (Photo : Canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
+   (Photo : Rendu du fabricant : canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
 
    01
 

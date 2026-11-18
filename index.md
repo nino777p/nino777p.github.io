@@ -4,7 +4,7 @@
 
 Adresse de la page : https://fony.be/
 
-(Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+(Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 
 (Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
 

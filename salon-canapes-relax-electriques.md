@@ -30,7 +30,7 @@ La sélection
 
    - [(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)  Nicoletti Memphis](https://fony.be/salon-nicoletti-memphis)
    - [(Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)  Nicoletti Oakland](https://fony.be/salon-nicoletti-oakland)
-2. (Photo : Deux canapés relax en cuir brun foncé face à face dans un séjour)
+2. (Photo : Rendu du fabricant : deux canapés relax en cuir brun foncé, disposés en angle autour d’une table basse)
 
    En famille
 

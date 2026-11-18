@@ -92,7 +92,7 @@ Autour du séjour
 
 ## Pour compléter la pièce.
 
-- (Photo : Salon en tissu beige aux formes souples : canapé, fauteuils et tables basses devant la baie vitrée)
+- (Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 
   ### [Le salon](https://fony.be/salon)
 

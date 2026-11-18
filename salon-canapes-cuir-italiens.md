@@ -32,7 +32,7 @@ La sélection
    - [(Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)  Nicoletti Oakland](https://fony.be/salon-nicoletti-oakland)
    - [(Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)  Max Divani Curry](https://fony.be/salon-max-divani-curry)
    - [(Photo : Canapés deux places et trois places en cuir gris anthracite, sur fond blanc)  Max Divani Osaka](https://fony.be/salon-max-divani-osaka)
-2. (Photo : Canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
+2. (Photo : Rendu du fabricant : canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
 
    Le cuir en grand
 
@@ -43,7 +43,7 @@ La sélection
    - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
    - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
    - [(Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)  Max Divani Gala](https://fony.be/salon-max-divani-gala)
-   - [(Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee : À venir](https://fony.be/salon-max-divani-coffee)
+   - [(Photo : Rendu du fabricant : canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)  Max Divani Coffee : À venir](https://fony.be/salon-max-divani-coffee)
    - [(Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
 
 Comprendre le cuir

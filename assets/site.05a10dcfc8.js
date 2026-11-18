@@ -24,7 +24,10 @@
   if (!('IntersectionObserver' in window)) return;
   try { if (matchMedia('(prefers-reduced-motion: reduce)').matches) return; } catch (e) {}
   var blocs = document.querySelectorAll('main .tete-section, main .tuile, main .point, main .fabricant-logo, main .echantillon,'
-    + ' main .assemblage-carte, main .visite-carte, main .visite-texte, main .echantillons-texte, main .moment, main .etape');
+    + ' main .assemblage-carte, main .visite-carte, main .visite-texte, main .echantillons-texte, main .moment, main .etape'
+    // 17/11/2026 : page salon (espace salon) : titres des défilés, textes des grandes photos, cartes, positions
+    + ', main.ambiance-salon .defile-tete, main.ambiance-salon .immersion-texte, main.ambiance-salon .defile-carte,'
+    + ' main.ambiance-salon .defile-vue, main.ambiance-salon .position');
   var bas = window.innerHeight * 0.92, suivis = [];
   for (var i = 0; i < blocs.length; i++) if (blocs[i].getBoundingClientRect().top > bas) suivis.push(blocs[i]);
   if (!suivis.length) return;
@@ -434,13 +437,22 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   var racine = document.documentElement;
   var teintes = document.querySelectorAll('[data-teinte]');
   if (teintes.length && 'IntersectionObserver' in window) {
-    var actives = new Set();
+    // 17/11/2026 : le pied de page est une zone neutre. Quand il arrive au centre de l'écran, la teinte en cours est
+    // gardée (plus d'éclair clair entre la dernière section sombre et le pied) ; elle ne part que si une section non
+    // teintée passe au centre (en remontant).
+    var pied = document.querySelector('.pied');
+    var actives = new Set(), piedAuCentre = false;
     var io = new IntersectionObserver(function (es) {
-      es.forEach(function (e) { if (e.isIntersecting) actives.add(e.target); else actives.delete(e.target); });
+      es.forEach(function (e) {
+        if (e.target === pied) { piedAuCentre = e.isIntersecting; return; }
+        if (e.isIntersecting) actives.add(e.target); else actives.delete(e.target);
+      });
       var t = null; actives.forEach(function (el) { t = el.getAttribute('data-teinte'); });
-      if (t) racine.setAttribute('data-teinte', t); else racine.removeAttribute('data-teinte');
+      if (t) racine.setAttribute('data-teinte', t);
+      else if (!piedAuCentre) racine.removeAttribute('data-teinte');
     }, { rootMargin: '-45% 0px -45% 0px' });
     Array.prototype.forEach.call(teintes, function (el) { io.observe(el); });
+    if (pied) io.observe(pied);
   }
   var plans = document.querySelectorAll('[data-plan]');
   if (!plans.length || (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches)) return;
@@ -459,27 +471,4 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   addEventListener('scroll', surDefilement, { passive: true });
   addEventListener('resize', surDefilement);
   maj();
-})();
-
-/* 91-fondu.js */
-/* Fondu (espace salon) : l'image active suit la phrase la plus proche du centre de l'écran. Avec « réduire les animations »,
-   même logique sans transition (CSS). Sans script : images et phrases à la suite (gabarit). */
-(function () {
-  var blocs = document.querySelectorAll('[data-fondu]');
-  // « réduire les animations » : pas de scène fixe, images et phrases à la suite (comme sans script)
-  if (!blocs.length || !('IntersectionObserver' in window) || (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches)) return;
-  document.documentElement.classList.add('js-fondu');
-  Array.prototype.forEach.call(blocs, function (b) {
-    b.classList.add('js-fondu-actif');
-    var images = b.querySelectorAll('.fondu-image'), textes = b.querySelectorAll('.fondu-texte');
-    var io = new IntersectionObserver(function (es) {
-      es.forEach(function (e) {
-        if (!e.isIntersecting) return;
-        var i = Array.prototype.indexOf.call(textes, e.target);
-        Array.prototype.forEach.call(images, function (im, k) { im.classList.toggle('est-active', k === i); });
-        Array.prototype.forEach.call(textes, function (t, k) { t.classList.toggle('est-active', k === i); });
-      });
-    }, { rootMargin: '-45% 0px -45% 0px' });
-    Array.prototype.forEach.call(textes, function (t) { io.observe(t); });
-  });
 })();

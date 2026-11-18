@@ -14,10 +14,10 @@ Max Divani · Canapé avance-recule, droit ou en angle
 
 # Max Divani Coffee
 
-- (Photo : Canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
+- (Photo : Rendu du fabricant : canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 
   En angle, avec son pouf.
-- (Photo : Canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
+- (Photo : Rendu du fabricant : canapé deux places en cuir gris anthracite, dossiers réglables, devant un mur de pierre)
 
   En deux places.
 
