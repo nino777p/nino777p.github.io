@@ -186,8 +186,10 @@
   var blocs = document.querySelectorAll('main .tete-section, main .tuile, main .point, main .fabricant-logo, main .echantillon,'
     + ' main .assemblage-carte, main .visite-carte, main .visite-texte, main .echantillons-texte, main .moment, main .etape'
     // 17/11/2026 : page salon (espace salon) : titres des défilés, textes des grandes photos, cartes, positions
-    + ', main.ambiance-salon .defile-tete, main.ambiance-salon .immersion-texte, main.ambiance-salon .defile-carte,'
-    + ' main.ambiance-salon .defile-vue, main.ambiance-salon .position');
+    // (19/11/2026) les cartes des rangées à glisser ne sont plus masquées : celles de droite restaient invisibles tant
+    // qu'on n'avait pas glissé jusqu'à elles (nino : « les autres modèles, on ne les voit pas »), et leur décalage rendait
+    // la rangée défilable en hauteur (design/48-defile.css).
+    + ', main.ambiance-salon .defile-tete, main.ambiance-salon .immersion-texte, main.ambiance-salon .position');
   var bas = window.innerHeight * 0.92, suivis = [];
   for (var i = 0; i < blocs.length; i++) if (blocs[i].getBoundingClientRect().top > bas) suivis.push(blocs[i]);
   if (!suivis.length) return;
