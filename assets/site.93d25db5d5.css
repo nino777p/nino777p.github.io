@@ -1151,8 +1151,8 @@ padding:clamp(56px,7vw,112px) max(var(--marge),calc((100vw - var(--col)) / 2 + v
 :root:is(:not(.teintes-continues),.teintes-fondues) .ambiance-galerie .teinte[data-encre="claire"] :is(.section--clair,.section--sable) .bouton--plein{color:#fff}
 #contenu.ambiance-galerie~.pied{--nuit:#15120E}
 :root[data-teinte="sombre"]:not(.teintes-fondues) #contenu.ambiance-galerie~.barre-mobile{--accent:#CBA66B;--accent-2:#DDBD86}
-.fondu{position:relative;height:50vh;margin:0;background:var(--fondu);pointer-events:none}
-@media (min-width:961px){.fondu{height:40vh}}
+.fondu{position:relative;height:min(22vh,180px);margin:0;background:var(--fondu);pointer-events:none}
+@media (min-width:961px){.fondu{height:min(26vh,240px)}}
 :root.teintes-fondues .fondu::before,:root.teintes-fondues .fondu::after{content:"";position:absolute;left:0;right:0;z-index:-1;pointer-events:none}
 :root.teintes-fondues .fondu::before{bottom:100%;height:var(--fondu-haut,0px);background:linear-gradient(180deg,transparent,var(--fondu-de) min(15vh,35%))}
 :root.teintes-fondues .fondu::after{top:100%;height:var(--fondu-bas,0px);background:linear-gradient(0deg,transparent,var(--fondu-vers) min(15vh,35%))}
