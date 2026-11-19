@@ -11,6 +11,7 @@
   function focalisables() {
     var l = Array.prototype.filter.call(nav.querySelectorAll('a[href], button:not([disabled])'), function (e) { return e.offsetParent !== null; });
     l.push(bouton);
+    var cat = entete.querySelector('.entete-catalogue'); if (cat) l.unshift(cat);   // (19/11/2026) bouton Catalogue, visible menu ouvert
     return l;
   }
   function regler(ouvert, rendre) {
@@ -147,6 +148,20 @@
 /* Cache des images et des polices (sw.js) : les pages et campagne.txt passent toujours par le réseau. */
 if ('serviceWorker' in navigator) addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
 
+/* 45-aujourdhui.js */
+/* Horaires (bloc « pratique », 19/11/2026) : souligne la ligne du jour, à l'heure de Bruxelles. Aucune promesse d'ouverture
+   (jours fériés, fermetures exceptionnelles) : seulement « aujourd'hui ». Sans script ou sans Intl : rien ne change. */
+(function () {
+  var lignes = document.querySelectorAll('[data-horaires] [data-jours]'); if (!lignes.length) return;
+  var jour; try { jour = new Intl.DateTimeFormat('en-US', { weekday: 'long', timeZone: 'Europe/Brussels' }).format(new Date()); } catch (e) { return; }
+  Array.prototype.forEach.call(lignes, function (l) {
+    if ((' ' + l.getAttribute('data-jours') + ' ').indexOf(' ' + jour + ' ') < 0) return;
+    l.classList.add('aujourdhui');
+    var dt = l.querySelector('dt'), m = document.createElement('span');
+    m.className = 'pratique-auj'; m.textContent = 'aujourd’hui'; dt.appendChild(m);
+  });
+})();
+
 /* 50-fondu.js */
 /* Ouverture : fondu lent entre les photos (rien pour qui préfère moins d'animations, rien avec une seule photo).
    (18/11/2026, audit P1) Seule la première photo est chargée d'emblée (eager, fetchpriority="high") ; les suivantes
@@ -164,12 +179,18 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   var i = 0, tours = 0, minuterie = null, fini = false, pret = false, enPause = false, bouton = document.createElement('button');
   bouton.type = 'button'; bouton.className = 'ouverture-pause'; bouton.textContent = 'Mettre en pause';
   bouton.setAttribute('aria-label', 'Mettre en pause les photos');
-  b.appendChild(bouton);
+  // (19/11/2026, vérification adverse) placé à côté du calque des photos et non dedans : ce calque bouge avec la parallaxe
+  // (transform), qui enfermait le bouton sous le texte sur ordinateur (aucun clic possible). Ordre du clavier inchangé.
+  b.parentNode.insertBefore(bouton, b.nextSibling);
   function retirer() { if (bouton.parentNode) bouton.parentNode.removeChild(bouton); }
   function demarrer() {
     // un seul tour : chaque photo passe une fois, puis le fondu s'arrête sur la première.
     minuterie = setInterval(function () {
-      p[i].classList.remove('active'); i = (i + 1) % p.length; p[i].classList.add('active');
+      // (19/11/2026, vérification adverse) on ne passe à la photo suivante que si elle est chargée (réseau lent : sinon un
+      // aplat sombre) ; elle réessaie au tour suivant. La photo d'après est demandée dès qu'une photo s'affiche.
+      var j = (i + 1) % p.length;
+      if (!prete(j)) { poser(j); return; }
+      p[i].classList.remove('active'); i = j; p[i].classList.add('active'); poser((i + 1) % p.length);
       if (++tours >= p.length) {
         clearInterval(minuterie); minuterie = null; fini = true;
         if (document.activeElement === bouton) bouton.addEventListener('blur', retirer, { once: true }); else retirer();
@@ -184,11 +205,16 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     bouton.textContent = enPause ? 'Reprendre' : 'Mettre en pause';
     bouton.setAttribute('aria-label', enPause ? 'Reprendre les photos' : 'Mettre en pause les photos');
   });
-  function charger() {
-    Array.prototype.forEach.call(b.querySelectorAll('[data-srcset], [data-src]'), function (e) {
+  // (19/11/2026, vérification adverse : poids sur téléphone) une photo à la fois : la 2e après la 1re, la 3e quand la 2e s'affiche.
+  function poser(k) {
+    Array.prototype.forEach.call(p[k].querySelectorAll('[data-srcset], [data-src]'), function (e) {
       if (e.hasAttribute('data-srcset')) { e.setAttribute('srcset', e.getAttribute('data-srcset')); e.removeAttribute('data-srcset'); }
       if (e.hasAttribute('data-src')) { e.setAttribute('src', e.getAttribute('data-src')); e.removeAttribute('data-src'); }
     });
+  }
+  function prete(k) { var im = p[k].querySelector('img'); return !im || (im.complete && im.naturalWidth > 0 && !im.hasAttribute('data-src')); }
+  function charger() {
+    poser(1);
     // si la personne a déjà mis en pause avant le chargement de la première photo, on ne démarre pas.
     pret = true; if (!enPause) demarrer();
   }
@@ -466,6 +492,21 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 (function () {
   var rangees = document.querySelectorAll('[data-catalogue]');
   if (!rangees.length) return;
+  /* (19/11/2026, vérification adverse : poids sur téléphone) photos différées (« differe: true », outils/fabriquer.py,
+     filtre differer) : leurs adresses ne sont posées qu'à l'approche de la rangée (un écran avant). Sans script : <noscript>. */
+  function poser(r) {
+    Array.prototype.forEach.call(r.querySelectorAll('.differee [data-srcset], .differee [data-src]'), function (e) {
+      if (e.hasAttribute('data-srcset')) { e.setAttribute('srcset', e.getAttribute('data-srcset')); e.removeAttribute('data-srcset'); }
+      if (e.hasAttribute('data-src')) { e.setAttribute('src', e.getAttribute('data-src')); e.removeAttribute('data-src'); }
+    });
+  }
+  var attendues = Array.prototype.filter.call(rangees, function (r) { return r.querySelector('.differee'); });
+  if (attendues.length) {
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (es) { es.forEach(function (e) { if (e.isIntersecting) { poser(e.target); io.unobserve(e.target); } }); }, { rootMargin: '100% 0px' });
+      attendues.forEach(function (r) { io.observe(r); });
+    } else attendues.forEach(poser);
+  }
   function doux() { return !(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches); }
   Array.prototype.forEach.call(rangees, function (r) {
     var liste = r.querySelector('.catalogue-liste'), cmd = r.querySelector('[data-commandes]'), barre = r.querySelector('[data-progres]');
@@ -522,11 +563,13 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       var v = visibles(), t = v[0] === v[1] ? String(v[0] + 1) : (v[0] + 1) + '–' + (v[1] + 1);
       if (rang && rang.textContent !== t) rang.textContent = t;
       if (parler && annonce) { parler = false; annonce.textContent = (v[0] === v[1] ? 'Photo ' + (v[0] + 1) : 'Photos ' + (v[0] + 1) + ' à ' + (v[1] + 1)) + ' sur ' + items.length; }
-      if (bs.length === 2) { bs[0].disabled = liste.scrollLeft <= 2; bs[1].disabled = liste.scrollLeft >= max() - 2; }
+      // (19/11/2026, vérification adverse) aria-disabled plutôt que disabled : un bouton désactivé perdait le focus clavier
+      // (renvoyé sur la page) au bout de la rangée.
+      if (bs.length === 2) { bs[0].setAttribute('aria-disabled', liste.scrollLeft <= 2 ? 'true' : 'false'); bs[1].setAttribute('aria-disabled', liste.scrollLeft >= max() - 2 ? 'true' : 'false'); }
       if (barre) barre.firstElementChild.style.setProperty('--part', Math.min(1, (liste.scrollLeft + liste.clientWidth) / liste.scrollWidth).toFixed(4));
     }
     Array.prototype.forEach.call(bs, function (b) {
-      b.addEventListener('click', function () { annoncer(); aller(voisine(+b.getAttribute('data-sens'))); });
+      b.addEventListener('click', function () { if (b.getAttribute('aria-disabled') === 'true') return; annoncer(); aller(voisine(+b.getAttribute('data-sens'))); });
     });
     liste.addEventListener('keydown', function (e) {
       if (e.target !== liste || e.altKey || e.ctrlKey || e.metaKey) return;
@@ -536,6 +579,8 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       if (i === null) return;
       e.preventDefault(); annoncer(); aller(i);
     });
+    // (19/11/2026) une carte reliée à sa fiche qui reçoit le focus est calée entièrement dans la rangée
+    liste.addEventListener('focusin', function (e) { if (e.target === liste) return; var li = e.target.closest('.catalogue-vue'); if (li) aller(Array.prototype.indexOf.call(items, li)); });
     var attente, img;
     liste.addEventListener('scroll', function () {
       if (barre && !img) { img = requestAnimationFrame(function () { img = 0; if (barre) barre.firstElementChild.style.setProperty('--part', Math.min(1, (liste.scrollLeft + liste.clientWidth) / liste.scrollWidth).toFixed(4)); }); }
@@ -802,6 +847,10 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     if (cA.sombre !== cB.sombre) return m < (B.seuil !== null ? B.seuil : (A.bas + B.haut) / 2) ? cA : cB;
     if (B.centre <= A.centre) return cB;
     var t = (m - A.centre) / (B.centre - A.centre); t = t * t * (3 - 2 * t);
+    // (19/11/2026, vérification adverse : défilement moins fluide) 24 paliers par passage d'une teinte à l'autre : la
+    // couleur n'est plus réécrite à chaque image (chaque écriture recalcule le style de toute la page) ; l'écart entre deux
+    // paliers voisins reste invisible (deux sections voisines ne diffèrent que de 1 à 4 points de luminance OKLab).
+    t = Math.round(t * 24) / 24;
     return melange(cA, cB, t);
   }
   function melange(A, B, t) { return { L: A.L + (B.L - A.L) * t, a: A.a + (B.a - A.a) * t, b: A.b + (B.b - A.b) * t, sombre: A.sombre }; }

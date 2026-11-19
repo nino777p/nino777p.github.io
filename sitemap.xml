@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fony.be/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://fony.be/</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://fony.be/catalogue</loc><lastmod>2026-11-19</lastmod></url>
   <url><loc>https://fony.be/chambre</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://fony.be/confidentialite</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://fony.be/conseils</loc><lastmod>2026-11-19</lastmod></url>
   <url><loc>https://fony.be/cuisine</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://fony.be/espace-de-vie</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://fony.be/espace-nuit</loc><lastmod>2026-11-18</lastmod></url>

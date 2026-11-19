@@ -75,7 +75,7 @@ Avis clients
 
 ## Ce que nos clients en disent.
 
-[4,6/5 ★★★★★ 84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
+[4,6/5 ★★★★★ 85 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
 
 - > « Service incroyable ! Déplacement à domicile pour mesurer et donner de très bons conseils. Service après vente parfait. Je recommande les yeux fermés […] »
 

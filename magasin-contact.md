@@ -61,7 +61,7 @@ Avis clients
 
 ## Ce que nos clients en disent.
 
-[4,6/5 ★★★★★ 84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
+[4,6/5 ★★★★★ 85 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
 
 - > « Parfait de A à Z, accueil, service, gentillesse, choix des produits, qualité des meubles et livraison parfaite, allez y les yeux fermés ! »
 

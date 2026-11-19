@@ -6,13 +6,15 @@ Adresse de la page : https://fony.be/
 
 (Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 
-(Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
+(Photo : Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé)
 
-(Photo : Îlot effet marbre clair et murs en bois, cuisine lumineuse)
+(Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
 
 Mobilier, cuisines et sur mesure — Leval-Trahegnies, depuis 1991
 
 # Votre intérieur, de la première idée à la pose.
+
+[4,6 ★  sur 5 sur 85 avis Google](https://maps.google.com/?cid=16578439565149159556)
 
 Salons, tables et literie à voir et à essayer au magasin ; cuisines et sur mesure à concevoir avec votre conseiller, du premier croquis à la pose.
 
@@ -21,6 +23,97 @@ Salons, tables et literie à voir et à essayer au magasin ; cuisines et sur m
 - Salons, relax et literie à essayer
 - Première visite et conseil offerts
 - Du lundi au samedi, avec ou sans rendez-vous
+
+Venir au magasin
+
+## Parlons de votre intérieur.
+
+### Horaires
+
+Lun.
+:   13h30 – 18h30
+
+Mar.–sam.
+:   10h30 – 18h30
+
+Dim.
+:   Fermé
+
+### Adresse
+
+[Route de Charleroi 160/1
+7134 Leval-Trahegnies (itinéraire, nouvel onglet)](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Parking facile d’accès.
+
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+### Téléphone
+
+[064 46 07 72](tel:+3264460772)
+
+Les univers
+
+## Trois univers, un intérieur qui vous ressemble.
+
+### Espace de vie
+
+Salon, salle à manger, séjour et cuisine.
+
+[Découvrir l’espace de vie](https://fony.be/espace-de-vie)
+
+Photo  1 / 4
+
+- (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)  (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)
+
+  [Ontario](https://fony.be/tables-akante-ontario) Akante · table en céramique
+- (Photo : Rendu du fabricant, vu de dessus : deux canapés Gala aux coussins souples, en tissu beige et taupe, autour de deux tables basses sur un tapis clair)  (Photo : Rendu du fabricant, vu de dessus : deux canapés Gala aux coussins souples, en tissu beige et taupe, autour de deux tables basses sur un tapis clair)
+
+  [Gala](https://fony.be/salon-max-divani-gala) Max Divani · vu de dessus
+- (Photo : Coin du plateau en céramique marbrée, vu de dessus, avec une chaise en velours vert)  (Photo : Coin du plateau en céramique marbrée, vu de dessus, avec une chaise en velours vert)
+
+  Gold Sedit · céramique marbrée
+- (Photo : Cuisine moderne Stosa Metropolis avec îlot central)  (Photo : Cuisine moderne Stosa Metropolis avec îlot central)
+
+  Metropolis Stosa · cuisine à îlot central
+
+### Espace nuit
+
+Literie à essayer, chambre assortie.
+
+[Découvrir l’espace nuit](https://fony.be/espace-nuit)
+
+Photo  1 / 3
+
+- (Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)  (Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)
+
+  Velda Boxspring aux lignes nettes, pieds métal
+- (Photo : Tête de lit Fly en tissu, avec sa poche latérale où glisser un magazine)  (Photo : Tête de lit Fly en tissu, avec sa poche latérale où glisser un magazine)
+
+  Fly Velda · une poche dans la tête de lit
+- (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)  (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+
+  Corinto Tomasella · lit tapissé et chevets
+
+### Rangements et aménagement
+
+Dressings et bibliothèques sur mesure.
+
+[Découvrir les rangements](https://fony.be/rangements)
+
+Photo  1 / 3
+
+- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)  (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
+
+  Dressing Tomasella · dressing ouvert
+- (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)  (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+
+  Bibliothèque Tomasella · bibliothèque murale
+- (Photo : Échantillon Tomasella : chêne cannelé cognac)  (Photo : Échantillon Tomasella : chêne cannelé cognac)
+
+  Cannelé Tomasella · chêne cannelé cognac
+
+[Tout le catalogue](https://fony.be/catalogue)
 
 Au magasin
 
@@ -31,7 +124,7 @@ Au magasin
   ### Voir, toucher, s’asseoir
 
   Salons, matelas et tables sont exposés au magasin.
-- (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
+- (Photo : Boxspring Velda Imagine électrique, tête de lit en tissu clair, dans une chambre lumineuse)
 
   ### Le meilleur de chaque fabricant
 
@@ -47,37 +140,11 @@ Au magasin
 
   Chez vous si vous le souhaitez ; en 3D pour un aménagement.
 
-Les univers
-
-## Trois univers, un intérieur qui vous ressemble.
-
-- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
-
-  Espace de vie
-
-  ### [Un lieu où l’on aime se retrouver.](https://fony.be/espace-de-vie)
-
-  Découvrir →
-- (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
-
-  Espace nuit
-
-  ### [Un couchage qui vous convient.](https://fony.be/espace-nuit)
-
-  Découvrir →
-- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
-
-  Rangements et aménagement
-
-  ### [Une solution adaptée à votre espace.](https://fony.be/rangements)
-
-  Découvrir →
-
 Avis clients
 
 ## Ce que nos clients en disent.
 
-[4,6/5 ★★★★★ 84 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
+[4,6/5 ★★★★★ 85 avis Google ↗](https://maps.google.com/?cid=16578439565149159556)
 
 - > « […] Patron à l’écoute… La livraison et l’installation au top ! Ne pousse pas à l’achat mais vous conseille dans un showroom varié à l’atmosphère sereine… »
 
@@ -95,7 +162,7 @@ Avis clients
 
 (Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
-(Photo : Cuisine Stosa Metropolis en L ouverte sur le séjour, façades grises à effet pierre, péninsule en bois clair, hotte suspendue cuivrée)
+(Photo : Cuisine Stosa Young en L, meubles bas clairs à longues poignées noires, meubles hauts gris, étagères éclairées)
 
 Nos fabricants
 
@@ -153,31 +220,3 @@ Un premier logement, une pièce à repenser ou un intérieur à rendre plus conf
    - [Literie](https://fony.be/literie)
    - [Sur mesure](https://fony.be/sur-mesure)
    - [Cuisine](https://fony.be/cuisine)
-
-## Parlons de votre intérieur.
-
-Retrouvez-nous à Leval-Trahegnies, entre Binche et La Louvière, du lundi au samedi. Venez découvrir nos collections, essayer nos meubles ou préparer votre projet avec un conseiller. Venez librement, ou prenez rendez-vous pour préparer votre projet. Parking facile d’accès.
-
-[Mon projet](https://fony.be/magasin-contact#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
-
-Adresse
-:   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
-
-Lundi
-:   13h30 – 18h30
-
-Mardi au samedi
-:   10h30 – 18h30
-
-Dimanche
-:   Fermé
-
-Téléphone
-:   [064 46 07 72](tel:+3264460772)
-
-Livraison
-:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
-
-Ailleurs en Belgique, dont Bruxelles : sur demande.
