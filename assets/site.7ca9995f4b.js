@@ -14,7 +14,7 @@
       return e.offsetParent !== null && getComputedStyle(e).visibility !== 'hidden';
     });
     l.push(bouton);
-    var cat = entete.querySelector('.entete-catalogue'); if (cat) l.unshift(cat);   // (19/11/2026) bouton Catalogue, visible menu ouvert
+    var cat = entete.querySelector('.entete-catalogue:not([hidden])'); if (cat) l.unshift(cat);   // (19/11/2026) bouton Catalogue, visible menu ouvert
     return l;
   }
   function regler(ouvert, rendre) {
@@ -46,19 +46,23 @@
   window.matchMedia('(min-width:1120px)').addEventListener('change', function (m) { if (m.matches) regler(false, false); });
 })();
 
-/* 11-menu-deroulant.js */
-/* Menus déroulants des pièces (19/11/2026). Le chevron ouvre ou ferme le panneau (aria-expanded) ; Échap le ferme (et le
-   garde fermé sous la souris jusqu'à ce qu'elle quitte la pièce) et rend le focus au chevron. Sur ordinateur, un clic
-   ailleurs, le focus qui quitte la pièce ou l'ouverture d'une autre pièce le ferment. Sans script : design/13-menu-deroulant.css.
-   Retour tactile au téléphone (nino : « vraiment subtil ») : Android, une vibration de 8 ms ; iPhone (Safari 18 et plus, qui
-   n'a pas l'API de vibration), le léger « tic » du système produit par un interrupteur caché (<input type=checkbox switch>),
-   procédé non standard qu'Apple pourrait retirer : sans lui, rien ne change. Jamais au survol, jamais sur ordinateur. */
+/* 11-catalogue-deroulant.js */
+/* Panneau du catalogue (19/11/2026, design/13-catalogue-deroulant.css). Le lien « Catalogue » est remplacé par un bouton
+   (aria-expanded) qui ouvre le panneau. Ordinateur : panneau non modal ; survoler, toucher ou parcourir au clavier une pièce
+   affiche son contenu ; Échap, un clic ailleurs ou le focus qui sort le referment. Téléphone : plein écran, le reste de la
+   page est inerte, Tab boucle dans le panneau, Échap ou le bouton le referment ; une pièce dépliée à la fois, avec un retour
+   tactile très léger (Android : 8 ms ; iPhone, Safari 18 et plus : le « tic » d'un interrupteur caché, procédé non standard,
+   sans effet s'il disparaît). Jamais au survol, jamais sur ordinateur. */
 (function () {
-  var entete = document.querySelector('.entete'), blocs = document.querySelectorAll('[data-panneau]');
-  if (!entete || !blocs.length) return;
-  entete.classList.add('panneau-js');
-  var large = window.matchMedia('(min-width:1120px)');
-  var tactile = window.matchMedia('(pointer:coarse)');
+  var entete = document.querySelector('.entete'), panneau = document.getElementById('catalogue-panneau');
+  var lien = entete && entete.querySelector('a.entete-catalogue'), bouton = entete && entete.querySelector('.entete-catalogue--bouton');
+  if (!panneau || !lien || !bouton) return;
+  lien.hidden = true; bouton.hidden = false; entete.classList.add('catalogue-js');
+  panneau.inert = true;   // (Codex R1) fermé : hors du parcours clavier et du lecteur d'écran, quoi qu'affiche le CSS
+  var large = window.matchMedia('(min-width:1120px)'), tactile = window.matchMedia('(pointer:coarse)');
+  var doux = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var pieces = panneau.querySelectorAll('[data-cp]'), menuBouton = entete.querySelector('.menu-bouton');
+  var dehors = ['main', '.pied', '.barre-mobile', '.promo', '.evitement'];
 
   var tic = (function () {
     if (!tactile.matches) return function () {};
@@ -70,74 +74,108 @@
     return function () { l.click(); };
   })();
 
-  // fond photo du panneau : son adresse n'est posée qu'à la première ouverture (survol, clic ou focus)
+  // photo de fond d'une pièce : son adresse n'est posée que quand la pièce devient active (ordinateur)
   function fond(li) {
-    Array.prototype.forEach.call(li.querySelectorAll('.panneau-fond [data-srcset], .panneau-fond [data-src]'), function (e) {
+    Array.prototype.forEach.call(li.querySelectorAll('.cp-fond [data-srcset], .cp-fond [data-src]'), function (e) {
       if (e.hasAttribute('data-srcset')) { e.setAttribute('srcset', e.getAttribute('data-srcset')); e.removeAttribute('data-srcset'); }
       if (e.hasAttribute('data-src')) { e.setAttribute('src', e.getAttribute('data-src')); e.removeAttribute('data-src'); }
     });
   }
-  var doux = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  function regler(li, ouvert) {
-    if (ouvert) fond(li);
-    li.classList.toggle('ouvert', ouvert);
-    li.querySelector('.panneau-bouton').setAttribute('aria-expanded', ouvert ? 'true' : 'false');
+  function activer(li) {
+    if (!large.matches || li.classList.contains('actif')) return;
+    Array.prototype.forEach.call(pieces, function (p) { p.classList.toggle('actif', p === li); });
+    fond(li);
   }
-  function tous(sauf) { Array.prototype.forEach.call(blocs, function (b) { if (b !== sauf && b.classList.contains('ouvert')) regler(b, false); }); }
-  Array.prototype.forEach.call(blocs, function (li) {
-    var bouton = li.querySelector('.panneau-bouton');
-    bouton.addEventListener('click', function () {
-      // déjà visible = ouvert au clic, ou survolé à la souris (et pas replié par Échap ou un clic)
-      var visible = li.classList.contains('ouvert') || (large.matches && li._souris && li.matches(':hover') && !li.classList.contains('replie'));
-      var ouvrir = !visible;
-      if (ouvrir) tous(li);                    // une seule pièce dépliée à la fois : le menu reste court
-      li.classList.toggle('replie', !ouvrir && large.matches);   // refermé sous la souris : le survol ne le rouvre pas
-      regler(li, ouvrir);
-      if (tactile.matches && !large.matches) tic();
-    });
-    li.addEventListener('keydown', function (e) {
-      if (e.key !== 'Escape') return;
-      if (li.classList.contains('ouvert') || (large.matches && li.matches(':hover'))) {
-        e.stopPropagation(); regler(li, false); li.classList.add('replie'); bouton.focus();   // regler remet aria-expanded à false
-      }
-    });
-    // (19/11/2026, Codex R2) le survol ouvre le panneau (CSS) : l'état annoncé du chevron suit
-    li.addEventListener('mouseleave', function () {
-      li.classList.remove('replie');
-      if (!li.classList.contains('ouvert')) bouton.setAttribute('aria-expanded', 'false');
-    });
-    li.addEventListener('pointerenter', function (e) {
-      if (!large.matches) return;
-      fond(li);
-      li._souris = e.pointerType === 'mouse';     // au doigt (tablette), le survol simulé ne compte pas
-      if (li._souris && !li.classList.contains('replie')) bouton.setAttribute('aria-expanded', 'true');
-    });
-    li.addEventListener('focusin', function () { if (large.matches) fond(li); });
-    // lueur : une image par mouvement au plus, seulement sur ordinateur et sans mouvement réduit
-    var int = li.querySelector('.panneau-int'), att = 0;
-    if (int && doux) int.addEventListener('pointermove', function (e) {
-      if (att) return;
-      att = requestAnimationFrame(function () {
-        att = 0; var r = int.getBoundingClientRect();
-        int.style.setProperty('--mx', (e.clientX - r.left) + 'px'); int.style.setProperty('--my', (e.clientY - r.top) + 'px');
+  function ouvert() { return entete.classList.contains('catalogue-ouvert'); }
+  function regler(o, rendre) {
+    if (o === ouvert()) return;
+    if (o && entete.classList.contains('menu-ouvert') && menuBouton) menuBouton.click();   // un seul plein écran à la fois
+    panneau.inert = !o;
+    entete.classList.toggle('catalogue-ouvert', o);
+    bouton.setAttribute('aria-expanded', o ? 'true' : 'false');
+    var modal = !large.matches;
+    document.documentElement.classList.toggle('catalogue-ouvert-page', o && modal);
+    dehors.forEach(function (s) {
+      Array.prototype.forEach.call(document.querySelectorAll(s), function (e) {
+        if (o && modal) e.setAttribute('inert', ''); else e.removeAttribute('inert');
       });
     });
-    li.addEventListener('focusout', function (e) {
-      if (!(large.matches && li.classList.contains('ouvert') && !li.contains(e.relatedTarget))) return;
-      regler(li, false);
-      // (19/11/2026, Codex) la souris est encore dessus : le survol le garde visible, l'état annoncé aussi
-      if (li._souris && li.matches(':hover') && !li.classList.contains('replie')) bouton.setAttribute('aria-expanded', 'true');
+    if (o) {
+      var actif = panneau.querySelector('.cp-piece.actif') || pieces[0];
+      if (large.matches) fond(actif);
+      if (modal) { var l = focalisables(); if (l.length > 1) l[1].focus(); }
+    } else {
+      Array.prototype.forEach.call(pieces, function (p) { deplier(p, false); });
+      if (rendre) bouton.focus();
+    }
+  }
+  function focalisables() {
+    var l = Array.prototype.filter.call(panneau.querySelectorAll('a[href], button:not([disabled])'), function (e) {
+      return e.offsetParent !== null && getComputedStyle(e).visibility !== 'hidden';
+    });
+    l.unshift(bouton);
+    return l;
+  }
+  function deplier(li, d) {
+    var b = li.querySelector('.cp-bouton');
+    li.classList.toggle('deplie', d);
+    if (b) b.setAttribute('aria-expanded', d ? 'true' : 'false');
+  }
+
+  bouton.addEventListener('click', function () { regler(!ouvert(), true); });
+  if (menuBouton) menuBouton.addEventListener('click', function () { if (ouvert()) regler(false, false); }, true);
+  Array.prototype.forEach.call(pieces, function (li) {
+    li.addEventListener('pointerenter', function (e) { if (e.pointerType === 'mouse') activer(li); });
+    li.addEventListener('focusin', function () { if (!li._doigt) activer(li); });   // au doigt, c'est le toucher qui décide (ci-dessous)
+    var nom = li.querySelector('.cp-nom');
+    // ordinateur tactile (tablette large) : un premier toucher sur une pièce montre son contenu, le second ouvre sa page
+    nom.addEventListener('pointerdown', function (e) { li._doigt = e.pointerType !== 'mouse'; });
+    nom.addEventListener('click', function (e) {
+      var doigt = li._doigt; li._doigt = false;
+      if (large.matches && doigt && !li.classList.contains('actif')) { e.preventDefault(); activer(li); }
+    });
+    var b = li.querySelector('.cp-bouton');
+    if (b) b.addEventListener('click', function () {
+      var d = !li.classList.contains('deplie');
+      if (d) Array.prototype.forEach.call(pieces, function (p) { if (p !== li) deplier(p, false); });   // une seule pièce dépliée
+      deplier(li, d); tic();
     });
   });
-  document.addEventListener('click', function (e) {
-    if (!large.matches) return;
-    Array.prototype.forEach.call(blocs, function (li) { if (li.classList.contains('ouvert') && !li.contains(e.target)) regler(li, false); });
+  // lueur légère qui suit la souris dans le panneau (ordinateur, sans mouvement réduit)
+  var int = panneau.querySelector('.cp-int'), att = 0;
+  if (int && doux) int.addEventListener('pointermove', function (e) {
+    if (att || e.pointerType !== 'mouse') return;
+    att = requestAnimationFrame(function () {
+      att = 0; var r = int.getBoundingClientRect();
+      int.style.setProperty('--mx', (e.clientX - r.left) + 'px'); int.style.setProperty('--my', (e.clientY - r.top) + 'px');
+    });
   });
   document.addEventListener('keydown', function (e) {
-    if (e.key !== 'Escape' || !large.matches) return;
-    Array.prototype.forEach.call(blocs, function (li) { if (li.matches(':hover')) { regler(li, false); li.classList.add('replie'); } });
+    if (!ouvert()) return;
+    if (e.key === 'Escape') { e.preventDefault(); regler(false, true); return; }
+    if (e.key !== 'Tab') return;
+    var l = focalisables(), i = l.indexOf(document.activeElement);
+    if (large.matches) {
+      // ordinateur : le panneau est placé après « Mon projet » dans la page ; au clavier, il suit directement le bouton
+      var suite = entete.querySelector('.entete-actions .bouton');
+      if (i === 0 && !e.shiftKey && l.length > 1) { e.preventDefault(); l[1].focus(); }
+      else if (i === 1 && e.shiftKey) { e.preventDefault(); bouton.focus(); }
+      else if (i === l.length - 1 && !e.shiftKey && suite) { e.preventDefault(); suite.focus(); }
+      else if (document.activeElement === suite && e.shiftKey) { e.preventDefault(); l[l.length - 1].focus(); }
+      return;
+    }
+    e.preventDefault();                                              // téléphone : Tab boucle dans le panneau
+    if (i < 0) l[e.shiftKey ? l.length - 1 : 0].focus();
+    else l[(i + (e.shiftKey ? -1 : 1) + l.length) % l.length].focus();
   });
-  large.addEventListener('change', function () { Array.prototype.forEach.call(blocs, function (li) { regler(li, false); li.classList.remove('replie'); }); });
+  document.addEventListener('click', function (e) {
+    if (ouvert() && large.matches && !panneau.contains(e.target) && !bouton.contains(e.target)) regler(false, false);
+  });
+  entete.addEventListener('focusout', function (e) {
+    if (ouvert() && large.matches && e.relatedTarget && !panneau.contains(e.relatedTarget) && e.relatedTarget !== bouton) regler(false, false);
+  });
+  panneau.addEventListener('click', function (e) { if (!e.defaultPrevented && e.target.closest('a[href]')) regler(false, false); });
+  large.addEventListener('change', function () { regler(false, false); });
 })();
 
 /* 20-apparition.js */
