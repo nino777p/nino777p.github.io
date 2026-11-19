@@ -15,9 +15,9 @@ Adresse de la page : https://fony.be/magasin-meubles-nivelles
 
 Nivelles, Seneffe, Pont-à-Celles
 
-# Depuis Nivelles, moins d’une demi-heure par l’E19.
+# Votre magasin de meubles près de Nivelles.
 
-Fony Meubles n’a qu’un magasin, à Leval-Trahegnies, dans l’entité de Binche. Depuis Nivelles, l’essentiel du trajet se fait par l’autoroute ; depuis Seneffe, par la N27.
+Depuis Nivelles, moins d’une demi-heure par l’E19. Fony Meubles n’a qu’un magasin, à Leval-Trahegnies, dans l’entité de Binche. Depuis Nivelles, l’essentiel du trajet se fait par l’autoroute ; depuis Seneffe, par la N27.
 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 

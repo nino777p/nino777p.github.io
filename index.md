@@ -108,7 +108,7 @@ Nous sélectionnons des collections aux styles et aux finitions variés. Au maga
 ## Les fabricants que vous trouverez au magasin
 
 - [Movis](https://fony.be/tables-chaises#movis)
-- [Modulax](https://modulax.be/)
+- [Modulax](https://fony.be/tables-chaises#chaises-modulax)
 
 Selon votre projet Un premier logement, une maison à embellir, un intérieur plus pratique
 

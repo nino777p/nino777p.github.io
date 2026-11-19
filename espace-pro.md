@@ -96,4 +96,6 @@ Mon projet pro
 
 Décrivez votre espace et son usage : nous organisons une visite, ou nous vous aiguillons par téléphone.
 
+Vous préférez en parler de vive voix ? Appelez le [064 46 07 72](tel:+3264460772) ou passez au magasin, [Route de Charleroi 160/1, 7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY). [Horaires et accès](https://fony.be/magasin-contact).
+
 (Formulaire de contact sur cette page.)

@@ -140,7 +140,16 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
    Forme, dimensions, plateau et pied au choix, avec les chaises assorties.
 
    [Voir les tables Perfecta](https://fony.be/tables-perfecta)
-5. (Photo : Salle à manger : table ovale au plateau clair sur pied central en bois, chaises grises, buffet arrondi)
+5. (Photo : Table au plateau allongé et arrondi, posée sur deux pieds sombres aux formes ovales)
+
+   Capodarte
+
+   ### Tables, chaises et décoration
+
+   Tables, chaises, buffets et objets de décoration italiens ; une partie au magasin, le reste sur catalogue.
+
+   [Voir Capodarte](https://fony.be/capodarte)
+6. (Photo : Salle à manger : table ovale au plateau clair sur pied central en bois, chaises grises, buffet arrondi)
 
    Movis
 
@@ -149,7 +158,7 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
    Au magasin, les tables Egg et Cahors, et les buffets Radius et Riga.
 
    [Voir la collection Movis](https://fony.be/tables-chaises#movis)
-6. (Photo : Table et buffet Tomasella dans un séjour urbain)
+7. (Photo : Table et buffet Tomasella dans un séjour urbain)
 
    Tomasella
 
@@ -158,6 +167,23 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
    Tables et buffets dans les finitions du mobilier de séjour.
 
    [Voir le séjour](https://fony.be/living)
+
+Bientôt au magasin
+
+## Les tables en céramique Cerata.
+
+De nouvelles collections arrivent prochainement. Demandez-nous les modèles : nous vous prévenons dès leur arrivée.
+
+- ### Cerata
+
+  Des tables de salle à manger en céramique, en différents modèles et finitions. Cerata est une collection de De Eiken Zetel, maison familiale d’Eeklo. Bientôt au magasin.
+
+  [Demandez-nous les modèles](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+- ### De Eiken Zetel
+
+  Des tables et des chaises de la maison qui signe nos fauteuils relax, prochainement au magasin.
+
+  [Voir les fauteuils relax](https://fony.be/salon-fauteuils-relax-releveurs)
 
 Buffets et dressoirs
 

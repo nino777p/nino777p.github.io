@@ -15,9 +15,9 @@ Adresse de la page : https://fony.be/magasin-meubles-charleroi
 
 Charleroi et l’ouest de l’agglomération
 
-# Sur la route de Charleroi, à vingt minutes de la ville.
+# Votre magasin de meubles près de Charleroi.
 
-Notre adresse le dit : le magasin est au bord de la N90, la route de Charleroi, à Leval-Trahegnies. Depuis Charleroi, on y vient presque en ligne droite, par Fontaine-l’Évêque et Anderlues.
+À vingt minutes de Charleroi. Notre adresse le dit : le magasin est au bord de la N90, la route de Charleroi, à Leval-Trahegnies. Depuis Charleroi, on y vient presque en ligne droite, par Fontaine-l’Évêque et Anderlues.
 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 

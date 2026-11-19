@@ -1,4 +1,4 @@
-# Le magasin à Leval-Trahegnies (Binche) — Fony Meubles
+# Magasin de meubles à Leval-Trahegnies (Binche) — Fony Meubles
 
 > Fony Meubles, Route de Charleroi 160/1, 7134 Leval-Trahegnies, entre Binche et La Louvière. Ouvert du lundi au samedi, parking. Préparez votre visite.
 

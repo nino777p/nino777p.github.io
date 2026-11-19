@@ -10,7 +10,7 @@ Adresse de la page : https://fony.be/literie-conseils
 
 Espace literie
 
-# Conseils.
+# Conseils literie.
 
 Bien choisir avant de venir essayer : le matelas, le boxspring, et comment dormir à deux.
 

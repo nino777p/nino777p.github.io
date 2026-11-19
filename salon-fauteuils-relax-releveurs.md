@@ -92,7 +92,7 @@ Le fabricant
 
 - ### Une maison familiale
 
-  De Eiken Zetel fabrique des sièges depuis 1960. C’est une entreprise familiale belge, connue pour ses fauteuils relax.
+  De Eiken Zetel crée des sièges depuis 1960. C’est une entreprise familiale d’Eeklo, connue pour ses fauteuils relax.
 - ### Au magasin
 
   Plusieurs fauteuils sont à essayer chez Fony Meubles. Les autres modèles, tailles et revêtements se choisissent avec nous.

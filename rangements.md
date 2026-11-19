@@ -13,7 +13,7 @@ Adresse de la page : https://fony.be/rangements
 
 Rangements et aménagement
 
-# Une solution adaptée à votre espace.
+# Rangements et dressings sur mesure.
 
 Un dressing, une bibliothèque, un mur à repenser : imaginons-la ensemble, à vos mesures.
 

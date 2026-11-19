@@ -808,7 +808,8 @@
   "ratio": [
    4800,
    2983
-  ]
+  ],
+  "og": "md-coffee-angle-og.jpg"
  },
  "md-osaka-relax": {
   "id": "md-osaka-relax",
@@ -888,7 +889,8 @@
   "ratio": [
    3200,
    2133
-  ]
+  ],
+  "og": "md-zebra-angle-og.jpg"
  },
  "md-zebra-detail": {
   "id": "md-zebra-detail",
@@ -944,7 +946,8 @@
   "ratio": [
    4800,
    2809
-  ]
+  ],
+  "og": "md-gala-ambiance-og.jpg"
  },
  "md-curry-relax": {
   "id": "md-curry-relax",
@@ -970,7 +973,8 @@
   "ratio": [
    3200,
    2133
-  ]
+  ],
+  "og": "md-curry-relax-og.jpg"
  },
  "eu-chaises-quatre": {
   "id": "eu-chaises-quatre",
@@ -1547,7 +1551,8 @@
   "ratio": [
    3200,
    2400
-  ]
+  ],
+  "og": "ak-phoenix-ambiance-og.jpg"
  },
  "ak-missouri-ambiance": {
   "id": "ak-missouri-ambiance",
@@ -1796,7 +1801,8 @@
   "ratio": [
    1600,
    1067
-  ]
+  ],
+  "og": "ve-chambre-claire-og.jpg"
  },
  "ve-chambre-rose": {
   "id": "ve-chambre-rose",
@@ -1908,7 +1914,8 @@
   "ratio": [
    2400,
    1599
-  ]
+  ],
+  "og": "ni-relax-ouvert-og.jpg"
  },
  "ni-relax-profil": {
   "id": "ni-relax-profil",
@@ -1964,7 +1971,8 @@
   "ratio": [
    2400,
    1600
-  ]
+  ],
+  "og": "ni-oakland-ouvert-og.jpg"
  },
  "mv-egg": {
   "id": "mv-egg",
@@ -3029,7 +3037,8 @@
   "ratio": [
    4800,
    3200
-  ]
+  ],
+  "og": "md-gala-chaise-longue-og.jpg"
  },
  "md-gala-profil": {
   "id": "md-gala-profil",
@@ -3085,7 +3094,8 @@
   "ratio": [
    3200,
    2133
-  ]
+  ],
+  "og": "md-osaka-duo-og.jpg"
  },
  "md-osaka-salon": {
   "id": "md-osaka-salon",
@@ -3141,7 +3151,8 @@
   "ratio": [
    2560,
    1707
-  ]
+  ],
+  "og": "ni-charleston-angle-og.jpg"
  },
  "ni-charleston-dos": {
   "id": "ni-charleston-dos",
@@ -3251,7 +3262,8 @@
   "ratio": [
    1200,
    800
-  ]
+  ],
+  "og": "md-dana-cuir-og.jpg"
  },
  "md-dana-chambre": {
   "id": "md-dana-chambre",
@@ -3303,7 +3315,8 @@
   "ratio": [
    1127,
    573
-  ]
+  ],
+  "og": "md-emu-angle-og.jpg"
  },
  "md-emu-relax": {
   "id": "md-emu-relax",
@@ -3355,7 +3368,8 @@
   "ratio": [
    3200,
    2400
-  ]
+  ],
+  "og": "ak-phoenix-face-og.jpg"
  },
  "ak-phoenix-longue": {
   "id": "ak-phoenix-longue",
@@ -3439,7 +3453,8 @@
   "ratio": [
    4000,
    3000
-  ]
+  ],
+  "og": "ak-kheops-fermee-og.jpg"
  },
  "ak-kheops-ouverte": {
   "id": "ak-kheops-ouverte",
@@ -3523,7 +3538,8 @@
   "ratio": [
    3200,
    2400
-  ]
+  ],
+  "og": "ak-milazzo-fermee-og.jpg"
  },
  "ak-milazzo-rotation": {
   "id": "ak-milazzo-rotation",
@@ -3635,7 +3651,8 @@
   "ratio": [
    3200,
    2400
-  ]
+  ],
+  "og": "ak-missouri-face-og.jpg"
  },
  "ak-missouri-noire": {
   "id": "ak-missouri-noire",
@@ -3719,7 +3736,8 @@
   "ratio": [
    1600,
    800
-  ]
+  ],
+  "og": "pf-canvas-ambiance-og.jpg"
  },
  "pf-canvas-face": {
   "id": "pf-canvas-face",
@@ -3831,7 +3849,8 @@
   "ratio": [
    4000,
    3000
-  ]
+  ],
+  "og": "ak-vancouver-fermee-og.jpg"
  },
  "ak-vancouver-ouverte": {
   "id": "ak-vancouver-ouverte",
@@ -3915,7 +3934,8 @@
   "ratio": [
    4000,
    3000
-  ]
+  ],
+  "og": "ak-influence-fermee-og.jpg"
  },
  "ak-influence-ouverte": {
   "id": "ak-influence-ouverte",
@@ -3999,7 +4019,8 @@
   "ratio": [
    4000,
    3000
-  ]
+  ],
+  "og": "ak-ontario-fermee-og.jpg"
  },
  "ak-ontario-ouverte": {
   "id": "ak-ontario-ouverte",
@@ -4195,7 +4216,8 @@
   "ratio": [
    4000,
    3000
-  ]
+  ],
+  "og": "ak-austin-fermee-og.jpg"
  },
  "ak-austin-ouverte": {
   "id": "ak-austin-ouverte",
@@ -4359,7 +4381,8 @@
   "ratio": [
    3200,
    2400
-  ]
+  ],
+  "og": "md-tata-angle-og.jpg"
  },
  "md-tata-relax": {
   "id": "md-tata-relax",
@@ -4851,7 +4874,8 @@
   "ratio": [
    799,
    1053
-  ]
+  ],
+  "og": "cp-fred-og.jpg"
  },
  "cp-malu": {
   "id": "cp-malu",
@@ -5222,11 +5246,17 @@
   "w": 612,
   "h": 684,
   "files": {
+   "160": "tx-01-160.webp",
+   "240": "tx-01-240.webp",
+   "320": "tx-01-320.webp",
    "600": "tx-01-600.webp",
    "612": "tx-01-612.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-01-160.avif",
+   "240": "tx-01-240.avif",
+   "320": "tx-01-320.avif",
    "600": "tx-01-600.avif",
    "612": "tx-01-612.avif"
   },
@@ -5246,10 +5276,16 @@
   "w": 599,
   "h": 670,
   "files": {
+   "160": "tx-02-160.webp",
+   "240": "tx-02-240.webp",
+   "320": "tx-02-320.webp",
    "599": "tx-02-599.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-02-160.avif",
+   "240": "tx-02-240.avif",
+   "320": "tx-02-320.avif",
    "599": "tx-02-599.avif"
   },
   "ratio": [
@@ -5268,11 +5304,17 @@
   "w": 601,
   "h": 671,
   "files": {
+   "160": "tx-03-160.webp",
+   "240": "tx-03-240.webp",
+   "320": "tx-03-320.webp",
    "600": "tx-03-600.webp",
    "601": "tx-03-601.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-03-160.avif",
+   "240": "tx-03-240.avif",
+   "320": "tx-03-320.avif",
    "600": "tx-03-600.avif",
    "601": "tx-03-601.avif"
   },
@@ -5292,10 +5334,16 @@
   "w": 600,
   "h": 670,
   "files": {
+   "160": "tx-04-160.webp",
+   "240": "tx-04-240.webp",
+   "320": "tx-04-320.webp",
    "600": "tx-04-600.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-04-160.avif",
+   "240": "tx-04-240.avif",
+   "320": "tx-04-320.avif",
    "600": "tx-04-600.avif"
   },
   "ratio": [
@@ -5314,11 +5362,17 @@
   "w": 660,
   "h": 737,
   "files": {
+   "160": "tx-05-160.webp",
+   "240": "tx-05-240.webp",
+   "320": "tx-05-320.webp",
    "600": "tx-05-600.webp",
    "660": "tx-05-660.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-05-160.avif",
+   "240": "tx-05-240.avif",
+   "320": "tx-05-320.avif",
    "600": "tx-05-600.avif",
    "660": "tx-05-660.avif"
   },
@@ -5338,10 +5392,16 @@
   "w": 600,
   "h": 671,
   "files": {
+   "160": "tx-06-160.webp",
+   "240": "tx-06-240.webp",
+   "320": "tx-06-320.webp",
    "600": "tx-06-600.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-06-160.avif",
+   "240": "tx-06-240.avif",
+   "320": "tx-06-320.avif",
    "600": "tx-06-600.avif"
   },
   "ratio": [
@@ -5360,10 +5420,16 @@
   "w": 600,
   "h": 670,
   "files": {
+   "160": "tx-07-160.webp",
+   "240": "tx-07-240.webp",
+   "320": "tx-07-320.webp",
    "600": "tx-07-600.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-07-160.avif",
+   "240": "tx-07-240.avif",
+   "320": "tx-07-320.avif",
    "600": "tx-07-600.avif"
   },
   "ratio": [
@@ -5382,10 +5448,16 @@
   "w": 600,
   "h": 670,
   "files": {
+   "160": "tx-08-160.webp",
+   "240": "tx-08-240.webp",
+   "320": "tx-08-320.webp",
    "600": "tx-08-600.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-08-160.avif",
+   "240": "tx-08-240.avif",
+   "320": "tx-08-320.avif",
    "600": "tx-08-600.avif"
   },
   "ratio": [
@@ -5404,11 +5476,17 @@
   "w": 658,
   "h": 735,
   "files": {
+   "160": "tx-09-160.webp",
+   "240": "tx-09-240.webp",
+   "320": "tx-09-320.webp",
    "600": "tx-09-600.webp",
    "658": "tx-09-658.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-09-160.avif",
+   "240": "tx-09-240.avif",
+   "320": "tx-09-320.avif",
    "600": "tx-09-600.avif",
    "658": "tx-09-658.avif"
   },
@@ -5428,10 +5506,16 @@
   "w": 600,
   "h": 670,
   "files": {
+   "160": "tx-10-160.webp",
+   "240": "tx-10-240.webp",
+   "320": "tx-10-320.webp",
    "600": "tx-10-600.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-10-160.avif",
+   "240": "tx-10-240.avif",
+   "320": "tx-10-320.avif",
    "600": "tx-10-600.avif"
   },
   "ratio": [
@@ -5450,10 +5534,16 @@
   "w": 600,
   "h": 670,
   "files": {
+   "160": "tx-11-160.webp",
+   "240": "tx-11-240.webp",
+   "320": "tx-11-320.webp",
    "600": "tx-11-600.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-11-160.avif",
+   "240": "tx-11-240.avif",
+   "320": "tx-11-320.avif",
    "600": "tx-11-600.avif"
   },
   "ratio": [
@@ -5472,10 +5562,16 @@
   "w": 600,
   "h": 670,
   "files": {
+   "160": "tx-12-160.webp",
+   "240": "tx-12-240.webp",
+   "320": "tx-12-320.webp",
    "600": "tx-12-600.webp"
   },
   "rendu": "naturel",
   "avif": {
+   "160": "tx-12-160.avif",
+   "240": "tx-12-240.avif",
+   "320": "tx-12-320.avif",
    "600": "tx-12-600.avif"
   },
   "ratio": [
@@ -5649,6 +5745,866 @@
   "ratio": [
    3935,
    4800
+  ]
+ },
+ "st-natural-1": {
+  "id": "st-natural-1",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Natural",
+  "alt": "Cuisine Stosa Natural : colonnes au décor bois foncé rainuré, fours encastrés et vitrine éclairée aux étagères en verre",
+  "source": "st-natural-1.jpg",
+  "w": 2560,
+  "h": 1946,
+  "files": {
+   "600": "st-natural-1-600.webp",
+   "900": "st-natural-1-900.webp",
+   "1400": "st-natural-1-1400.webp",
+   "2000": "st-natural-1-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-natural-1-600.avif",
+   "900": "st-natural-1-900.avif",
+   "1400": "st-natural-1-1400.avif",
+   "2000": "st-natural-1-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1946
+  ]
+ },
+ "st-natural-9": {
+  "id": "st-natural-9",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Natural",
+  "alt": "Cuisine Stosa Natural : colonnes au décor chêne clair et niche ouverte à étagères garnies au-dessus des tiroirs blancs",
+  "source": "st-natural-9.jpg",
+  "w": 1200,
+  "h": 1200,
+  "files": {
+   "600": "st-natural-9-600.webp",
+   "900": "st-natural-9-900.webp",
+   "1200": "st-natural-9-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-natural-9-600.avif",
+   "900": "st-natural-9-900.avif",
+   "1200": "st-natural-9-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1200
+  ]
+ },
+ "st-metropolis-6": {
+  "id": "st-metropolis-6",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Metropolis",
+  "alt": "Cuisine Stosa Metropolis : îlot avec plan de snack foncé, colonnes bronze et vitrines éclairées sous un plafond sombre",
+  "source": "st-metropolis-6.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-metropolis-6-600.webp",
+   "900": "st-metropolis-6-900.webp",
+   "1400": "st-metropolis-6-1400.webp",
+   "2000": "st-metropolis-6-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-metropolis-6-600.avif",
+   "900": "st-metropolis-6-900.avif",
+   "1400": "st-metropolis-6-1400.avif",
+   "2000": "st-metropolis-6-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-metropolis-1": {
+  "id": "st-metropolis-1",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Metropolis",
+  "alt": "Cuisine Stosa Metropolis : vitrines suspendues au fond bois éclairé, au-dessus de l’évier et de son mitigeur",
+  "source": "st-metropolis-1.jpg",
+  "w": 2560,
+  "h": 1946,
+  "files": {
+   "600": "st-metropolis-1-600.webp",
+   "900": "st-metropolis-1-900.webp",
+   "1400": "st-metropolis-1-1400.webp",
+   "2000": "st-metropolis-1-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-metropolis-1-600.avif",
+   "900": "st-metropolis-1-900.avif",
+   "1400": "st-metropolis-1-1400.avif",
+   "2000": "st-metropolis-1-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1946
+  ]
+ },
+ "st-aliant-2": {
+  "id": "st-aliant-2",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Aliant",
+  "alt": "Cuisine Stosa Aliant vue d’en haut : îlot à l’aspect pierre claire avec plan de snack bois foncé et deux tabourets",
+  "source": "st-aliant-2.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-aliant-2-600.webp",
+   "900": "st-aliant-2-900.webp",
+   "1400": "st-aliant-2-1400.webp",
+   "2000": "st-aliant-2-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-aliant-2-600.avif",
+   "900": "st-aliant-2-900.avif",
+   "1400": "st-aliant-2-1400.avif",
+   "2000": "st-aliant-2-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-aliant-3": {
+  "id": "st-aliant-3",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Aliant",
+  "alt": "Cuisine Stosa Aliant : tiroirs ivoire ouverts, intérieurs gris anthracite, ouverture par gorge",
+  "source": "st-aliant-3.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-aliant-3-600.webp",
+   "900": "st-aliant-3-900.webp",
+   "1400": "st-aliant-3-1400.webp",
+   "2000": "st-aliant-3-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-aliant-3-600.avif",
+   "900": "st-aliant-3-900.avif",
+   "1400": "st-aliant-3-1400.avif",
+   "2000": "st-aliant-3-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-aliant-11": {
+  "id": "st-aliant-11",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Aliant",
+  "alt": "Cuisine Stosa Aliant : tiroirs à casseroles ouverts sous une façade bois rainurée, assiettes rangées",
+  "source": "st-aliant-11.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-aliant-11-600.webp",
+   "900": "st-aliant-11-900.webp",
+   "1400": "st-aliant-11-1400.webp",
+   "2000": "st-aliant-11-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-aliant-11-600.avif",
+   "900": "st-aliant-11-900.avif",
+   "1400": "st-aliant-11-1400.avif",
+   "2000": "st-aliant-11-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-color-trend-5": {
+  "id": "st-color-trend-5",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Color Trend",
+  "alt": "Cuisine Stosa Color Trend : colonnes ivoire autour d’une niche éclairée à verres et d’une cave à vin, table de repas devant",
+  "source": "st-color-trend-5.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-color-trend-5-600.webp",
+   "900": "st-color-trend-5-900.webp",
+   "1400": "st-color-trend-5-1400.webp",
+   "2000": "st-color-trend-5-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-color-trend-5-600.avif",
+   "900": "st-color-trend-5-900.avif",
+   "1400": "st-color-trend-5-1400.avif",
+   "2000": "st-color-trend-5-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-color-trend-8": {
+  "id": "st-color-trend-8",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Color Trend",
+  "alt": "Cuisine Stosa Color Trend : façade ivoire rainurée et plan de travail à l’aspect marbre veiné d’or",
+  "source": "st-color-trend-8.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-color-trend-8-600.webp",
+   "900": "st-color-trend-8-900.webp",
+   "1400": "st-color-trend-8-1400.webp",
+   "2000": "st-color-trend-8-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-color-trend-8-600.avif",
+   "900": "st-color-trend-8-900.avif",
+   "1400": "st-color-trend-8-1400.avif",
+   "2000": "st-color-trend-8-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-color-trend-7": {
+  "id": "st-color-trend-7",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Color Trend",
+  "alt": "Cuisine Stosa Color Trend : portes de colonne ouvertes sur un garde-manger éclairé, à côté des fours encastrés",
+  "source": "st-color-trend-7.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-color-trend-7-600.webp",
+   "900": "st-color-trend-7-900.webp",
+   "1400": "st-color-trend-7-1400.webp",
+   "2000": "st-color-trend-7-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-color-trend-7-600.avif",
+   "900": "st-color-trend-7-900.avif",
+   "1400": "st-color-trend-7-1400.avif",
+   "2000": "st-color-trend-7-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-palio-6": {
+  "id": "st-palio-6",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Palio",
+  "alt": "Cuisine Stosa Palio : colonnes blanches à cadre, niche bois éclairée et îlot anthracite au plan veiné",
+  "source": "st-palio-6.jpg",
+  "w": 2560,
+  "h": 2560,
+  "files": {
+   "600": "st-palio-6-600.webp",
+   "900": "st-palio-6-900.webp",
+   "1400": "st-palio-6-1400.webp",
+   "2000": "st-palio-6-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-palio-6-600.avif",
+   "900": "st-palio-6-900.avif",
+   "1400": "st-palio-6-1400.avif",
+   "2000": "st-palio-6-2000.avif"
+  },
+  "ratio": [
+   2560,
+   2560
+  ]
+ },
+ "st-palio-3": {
+  "id": "st-palio-3",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Palio",
+  "alt": "Cuisine Stosa Palio : évier en pierre claire, façades à cadre beige et éléments hauts au décor noyer",
+  "source": "st-palio-3.jpg",
+  "w": 2560,
+  "h": 2560,
+  "files": {
+   "600": "st-palio-3-600.webp",
+   "900": "st-palio-3-900.webp",
+   "1400": "st-palio-3-1400.webp",
+   "2000": "st-palio-3-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-palio-3-600.avif",
+   "900": "st-palio-3-900.avif",
+   "1400": "st-palio-3-1400.avif",
+   "2000": "st-palio-3-2000.avif"
+  },
+  "ratio": [
+   2560,
+   2560
+  ]
+ },
+ "st-palio-7": {
+  "id": "st-palio-7",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Palio",
+  "alt": "Cuisine Stosa Palio : porte relevable au décor chêne ouverte sur l’égouttoir, crédence sombre veinée éclairée",
+  "source": "st-palio-7.jpg",
+  "w": 2560,
+  "h": 2560,
+  "files": {
+   "600": "st-palio-7-600.webp",
+   "900": "st-palio-7-900.webp",
+   "1400": "st-palio-7-1400.webp",
+   "2000": "st-palio-7-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-palio-7-600.avif",
+   "900": "st-palio-7-900.avif",
+   "1400": "st-palio-7-1400.avif",
+   "2000": "st-palio-7-2000.avif"
+  },
+  "ratio": [
+   2560,
+   2560
+  ]
+ },
+ "st-infinity-4": {
+  "id": "st-infinity-4",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Infinity",
+  "alt": "Cuisine Stosa Infinity : deux îlots taupe à poignée intégrée, bar et séjour en arrière-plan",
+  "source": "st-infinity-4.jpg",
+  "w": 1200,
+  "h": 1200,
+  "files": {
+   "600": "st-infinity-4-600.webp",
+   "900": "st-infinity-4-900.webp",
+   "1200": "st-infinity-4-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-infinity-4-600.avif",
+   "900": "st-infinity-4-900.avif",
+   "1200": "st-infinity-4-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1200
+  ]
+ },
+ "st-infinity-2": {
+  "id": "st-infinity-2",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Infinity",
+  "alt": "Cuisine Stosa Infinity : îlot taupe à table de cuisson, sous une hotte suspendue à éclairage linéaire",
+  "source": "st-infinity-2.jpg",
+  "w": 1200,
+  "h": 1200,
+  "files": {
+   "600": "st-infinity-2-600.webp",
+   "900": "st-infinity-2-900.webp",
+   "1200": "st-infinity-2-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-infinity-2-600.avif",
+   "900": "st-infinity-2-900.avif",
+   "1200": "st-infinity-2-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1200
+  ]
+ },
+ "st-young-11": {
+  "id": "st-young-11",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Young",
+  "alt": "Cuisine Stosa Young : colonnes au décor chêne clair et péninsule avec plan de snack bois",
+  "source": "st-young-11.jpg",
+  "w": 2148,
+  "h": 2500,
+  "files": {
+   "600": "st-young-11-600.webp",
+   "900": "st-young-11-900.webp",
+   "1400": "st-young-11-1400.webp",
+   "2000": "st-young-11-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-young-11-600.avif",
+   "900": "st-young-11-900.avif",
+   "1400": "st-young-11-1400.avif",
+   "2000": "st-young-11-2000.avif"
+  },
+  "ratio": [
+   2148,
+   2500
+  ]
+ },
+ "st-beverly-1": {
+  "id": "st-beverly-1",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Beverly",
+  "alt": "Cuisine Stosa Beverly : façades à cadre gris clair, colonnes vert sauge et niche bois éclairée",
+  "source": "st-beverly-1.jpg",
+  "w": 2560,
+  "h": 1946,
+  "files": {
+   "600": "st-beverly-1-600.webp",
+   "900": "st-beverly-1-900.webp",
+   "1400": "st-beverly-1-1400.webp",
+   "2000": "st-beverly-1-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-beverly-1-600.avif",
+   "900": "st-beverly-1-900.avif",
+   "1400": "st-beverly-1-1400.avif",
+   "2000": "st-beverly-1-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1946
+  ]
+ },
+ "st-beverly-6": {
+  "id": "st-beverly-6",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Beverly",
+  "alt": "Cuisine Stosa Beverly : vitrines vert sauge à petits carreaux, tiroirs à boutons et porte-assiettes",
+  "source": "st-beverly-6.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "st-beverly-6-600.webp",
+   "900": "st-beverly-6-900.webp",
+   "1400": "st-beverly-6-1400.webp",
+   "2000": "st-beverly-6-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-beverly-6-600.avif",
+   "900": "st-beverly-6-900.avif",
+   "1400": "st-beverly-6-1400.avif",
+   "2000": "st-beverly-6-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ]
+ },
+ "st-bolgheri-3": {
+  "id": "st-bolgheri-3",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Bolgheri",
+  "alt": "Cuisine Stosa Bolgheri : façades ivoire à cadre, vitrines à petits carreaux et îlot à étagère ouverte",
+  "source": "st-bolgheri-3.jpg",
+  "w": 1555,
+  "h": 2000,
+  "files": {
+   "600": "st-bolgheri-3-600.webp",
+   "900": "st-bolgheri-3-900.webp",
+   "1400": "st-bolgheri-3-1400.webp",
+   "1555": "st-bolgheri-3-1555.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-bolgheri-3-600.avif",
+   "900": "st-bolgheri-3-900.avif",
+   "1400": "st-bolgheri-3-1400.avif",
+   "1555": "st-bolgheri-3-1555.avif"
+  },
+  "ratio": [
+   1555,
+   2000
+  ]
+ },
+ "st-bolgheri-7": {
+  "id": "st-bolgheri-7",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Bolgheri",
+  "alt": "Cuisine Stosa Bolgheri : façade ivoire au bois veiné et poignée métal",
+  "source": "st-bolgheri-7.jpg",
+  "w": 1500,
+  "h": 2000,
+  "files": {
+   "600": "st-bolgheri-7-600.webp",
+   "900": "st-bolgheri-7-900.webp",
+   "1400": "st-bolgheri-7-1400.webp",
+   "1500": "st-bolgheri-7-1500.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-bolgheri-7-600.avif",
+   "900": "st-bolgheri-7-900.avif",
+   "1400": "st-bolgheri-7-1400.avif",
+   "1500": "st-bolgheri-7-1500.avif"
+  },
+  "ratio": [
+   1500,
+   2000
+  ]
+ },
+ "st-dolcevita-2": {
+  "id": "st-dolcevita-2",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Dolcevita",
+  "alt": "Cuisine Stosa Dolcevita : façades à moulures couleur tourterelle, vitrines à petits bois et colonne cannelée",
+  "source": "st-dolcevita-2.jpg",
+  "w": 1750,
+  "h": 2000,
+  "files": {
+   "600": "st-dolcevita-2-600.webp",
+   "900": "st-dolcevita-2-900.webp",
+   "1400": "st-dolcevita-2-1400.webp",
+   "1750": "st-dolcevita-2-1750.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-dolcevita-2-600.avif",
+   "900": "st-dolcevita-2-900.avif",
+   "1400": "st-dolcevita-2-1400.avif",
+   "1750": "st-dolcevita-2-1750.avif"
+  },
+  "ratio": [
+   1750,
+   2000
+  ]
+ },
+ "st-dolcevita-4": {
+  "id": "st-dolcevita-4",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Dolcevita",
+  "alt": "Cuisine Stosa Dolcevita : façade ivoire moulurée et poignée ajourée en losanges",
+  "source": "st-dolcevita-4.jpg",
+  "w": 1750,
+  "h": 2000,
+  "files": {
+   "600": "st-dolcevita-4-600.webp",
+   "900": "st-dolcevita-4-900.webp",
+   "1400": "st-dolcevita-4-1400.webp",
+   "1750": "st-dolcevita-4-1750.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-dolcevita-4-600.avif",
+   "900": "st-dolcevita-4-900.avif",
+   "1400": "st-dolcevita-4-1400.avif",
+   "1750": "st-dolcevita-4-1750.avif"
+  },
+  "ratio": [
+   1750,
+   2000
+  ]
+ },
+ "st-dolcevita-6": {
+  "id": "st-dolcevita-6",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Dolcevita",
+  "alt": "Cuisine Stosa Dolcevita : façades blanches à filets cuivrés, angle cannelé arrondi et plan de travail clair",
+  "source": "st-dolcevita-6.jpg",
+  "w": 1750,
+  "h": 2000,
+  "files": {
+   "600": "st-dolcevita-6-600.webp",
+   "900": "st-dolcevita-6-900.webp",
+   "1400": "st-dolcevita-6-1400.webp",
+   "1750": "st-dolcevita-6-1750.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-dolcevita-6-600.avif",
+   "900": "st-dolcevita-6-900.avif",
+   "1400": "st-dolcevita-6-1400.avif",
+   "1750": "st-dolcevita-6-1750.avif"
+  },
+  "ratio": [
+   1750,
+   2000
+  ]
+ },
+ "st-kaya-7": {
+  "id": "st-kaya-7",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Kaya",
+  "alt": "Cuisine Stosa Kaya : péninsule au décor bois avec tabourets, sous des vitrines suspendues à cadre noir éclairées",
+  "source": "st-kaya-7.jpg",
+  "w": 1600,
+  "h": 1600,
+  "files": {
+   "600": "st-kaya-7-600.webp",
+   "900": "st-kaya-7-900.webp",
+   "1400": "st-kaya-7-1400.webp",
+   "1600": "st-kaya-7-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-kaya-7-600.avif",
+   "900": "st-kaya-7-900.avif",
+   "1400": "st-kaya-7-1400.avif",
+   "1600": "st-kaya-7-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1600
+  ]
+ },
+ "st-kaya-4": {
+  "id": "st-kaya-4",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Kaya",
+  "alt": "Cuisine Stosa Kaya : chant d’une façade au décor chêne et profil de poignée noir, en très gros plan",
+  "source": "st-kaya-4.jpg",
+  "w": 1600,
+  "h": 1600,
+  "files": {
+   "600": "st-kaya-4-600.webp",
+   "900": "st-kaya-4-900.webp",
+   "1400": "st-kaya-4-1400.webp",
+   "1600": "st-kaya-4-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-kaya-4-600.avif",
+   "900": "st-kaya-4-900.avif",
+   "1400": "st-kaya-4-1400.avif",
+   "1600": "st-kaya-4-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1600
+  ]
+ },
+ "st-lumia-6": {
+  "id": "st-lumia-6",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Lumia",
+  "alt": "Cuisine Stosa Lumia : îlot et colonnes taupe brillant, vitrines éclairées et table au décor chêne",
+  "source": "st-lumia-6.jpg",
+  "w": 1600,
+  "h": 1600,
+  "files": {
+   "600": "st-lumia-6-600.webp",
+   "900": "st-lumia-6-900.webp",
+   "1400": "st-lumia-6-1400.webp",
+   "1600": "st-lumia-6-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-lumia-6-600.avif",
+   "900": "st-lumia-6-900.avif",
+   "1400": "st-lumia-6-1400.avif",
+   "1600": "st-lumia-6-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1600
+  ]
+ },
+ "st-lumia-2": {
+  "id": "st-lumia-2",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Lumia",
+  "alt": "Cuisine Stosa Lumia : façades beige clair à rainures verticales, éclairage linéaire sous les éléments",
+  "source": "st-lumia-2.jpg",
+  "w": 1600,
+  "h": 1600,
+  "files": {
+   "600": "st-lumia-2-600.webp",
+   "900": "st-lumia-2-900.webp",
+   "1400": "st-lumia-2-1400.webp",
+   "1600": "st-lumia-2-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-lumia-2-600.avif",
+   "900": "st-lumia-2-900.avif",
+   "1400": "st-lumia-2-1400.avif",
+   "1600": "st-lumia-2-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1600
+  ]
+ },
+ "st-sveva-2": {
+  "id": "st-sveva-2",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Sveva",
+  "alt": "Cuisine Stosa Sveva : façades blanches à cadre, vitrines suspendues éclairées sur un mur au décor chêne",
+  "source": "st-sveva-2.jpg",
+  "w": 1600,
+  "h": 1600,
+  "files": {
+   "600": "st-sveva-2-600.webp",
+   "900": "st-sveva-2-900.webp",
+   "1400": "st-sveva-2-1400.webp",
+   "1600": "st-sveva-2-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-sveva-2-600.avif",
+   "900": "st-sveva-2-900.avif",
+   "1400": "st-sveva-2-1400.avif",
+   "1600": "st-sveva-2-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1600
+  ]
+ },
+ "st-sveva-4": {
+  "id": "st-sveva-4",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Sveva",
+  "alt": "Cuisine Stosa Sveva : façade blanche à cadre, poignée métal et plan de travail à l’aspect marbre clair",
+  "source": "st-sveva-4.jpg",
+  "w": 1600,
+  "h": 1600,
+  "files": {
+   "600": "st-sveva-4-600.webp",
+   "900": "st-sveva-4-900.webp",
+   "1400": "st-sveva-4-1400.webp",
+   "1600": "st-sveva-4-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-sveva-4-600.avif",
+   "900": "st-sveva-4-900.avif",
+   "1400": "st-sveva-4-1400.avif",
+   "1600": "st-sveva-4-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1600
+  ]
+ },
+ "st-karma-1": {
+  "id": "st-karma-1",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Karma",
+  "alt": "Cuisine Stosa Karma : façades blanches à gorge et crédence noire équipée d’étagères, au-dessus d’une table de cuisson",
+  "source": "st-karma-1.jpg",
+  "w": 2560,
+  "h": 1707,
+  "files": {
+   "600": "st-karma-1-600.webp",
+   "900": "st-karma-1-900.webp",
+   "1400": "st-karma-1-1400.webp",
+   "2000": "st-karma-1-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-karma-1-600.avif",
+   "900": "st-karma-1-900.avif",
+   "1400": "st-karma-1-1400.avif",
+   "2000": "st-karma-1-2000.avif"
+  },
+  "ratio": [
+   2560,
+   1707
+  ]
+ },
+ "st-karma-2": {
+  "id": "st-karma-2",
+  "use": [
+   "cuisine"
+  ],
+  "credit": "Stosa Karma",
+  "alt": "Cuisine Stosa Karma : élément haut au décor bois foncé, niche ouverte bordeaux et étagère noire sur le plan, à côté d’une table de cuisson au gaz",
+  "source": "st-karma-2.jpg",
+  "w": 1200,
+  "h": 1200,
+  "files": {
+   "600": "st-karma-2-600.webp",
+   "900": "st-karma-2-900.webp",
+   "1200": "st-karma-2-1200.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "st-karma-2-600.avif",
+   "900": "st-karma-2-900.avif",
+   "1200": "st-karma-2-1200.avif"
+  },
+  "ratio": [
+   1200,
+   1200
   ]
  }
 }

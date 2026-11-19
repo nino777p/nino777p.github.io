@@ -1,21 +1,45 @@
 /* 10-menu.js */
-/* Menu du téléphone et de la tablette : ouvrir, fermer (bouton, lien, touche Échap). */
+/* Menu du téléphone et de la tablette : ouvrir, fermer (bouton, lien, touche Échap).
+   (18/11/2026, audit U1) Menu ouvert : le reste de la page est rendu inerte (contenu, pied, barre mobile, bandeau), le
+   focus va au premier lien, Tab et Maj+Tab bouclent entre les liens du menu et le bouton « Fermer » ; à la fermeture,
+   tout redevient actif et le focus revient au bouton. */
 (function () {
   var entete = document.querySelector('.entete'), bouton = document.querySelector('.menu-bouton');
   if (!entete || !bouton) return;
-  var texte = bouton.querySelector('.menu-bouton-texte');
-  function regler(ouvert) {
+  var texte = bouton.querySelector('.menu-bouton-texte'), nav = document.getElementById('navigation');
+  var dehors = ['main', '.pied', '.barre-mobile', '.promo', '.evitement'];
+  function focalisables() {
+    var l = Array.prototype.filter.call(nav.querySelectorAll('a[href], button:not([disabled])'), function (e) { return e.offsetParent !== null; });
+    l.push(bouton);
+    return l;
+  }
+  function regler(ouvert, rendre) {
+    var etait = entete.classList.contains('menu-ouvert');
     entete.classList.toggle('menu-ouvert', ouvert);
     document.documentElement.classList.toggle('menu-ouvert-page', ouvert);
     bouton.setAttribute('aria-expanded', ouvert ? 'true' : 'false');
     if (texte) texte.textContent = ouvert ? 'Fermer' : 'Menu';
+    dehors.forEach(function (s) {
+      Array.prototype.forEach.call(document.querySelectorAll(s), function (e) {
+        if (ouvert) e.setAttribute('inert', ''); else e.removeAttribute('inert');
+      });
+    });
+    if (ouvert && !etait) { var l = focalisables(); if (l.length > 1) l[0].focus(); }
+    if (!ouvert && etait && rendre) bouton.focus();
   }
-  bouton.addEventListener('click', function () { regler(!entete.classList.contains('menu-ouvert')); });
-  document.getElementById('navigation').addEventListener('click', function (e) { if (e.target.closest('a[href]')) regler(false); });
+  bouton.addEventListener('click', function () { regler(!entete.classList.contains('menu-ouvert'), true); });
+  nav.addEventListener('click', function (e) { if (e.target.closest('a[href]')) regler(false, false); });
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && entete.classList.contains('menu-ouvert')) { regler(false); bouton.focus(); }
+    if (!entete.classList.contains('menu-ouvert')) return;
+    if (e.key === 'Escape') { e.preventDefault(); regler(false, true); return; }
+    if (e.key !== 'Tab') return;
+    var l = focalisables(), i = l.indexOf(document.activeElement);
+    if (i < 0) { e.preventDefault(); l[e.shiftKey ? l.length - 1 : 0].focus(); }
+    else if (!e.shiftKey && i === l.length - 1) { e.preventDefault(); l[0].focus(); }
+    else if (e.shiftKey && i === 0) { e.preventDefault(); l[l.length - 1].focus(); }
+    else { e.preventDefault(); l[i + (e.shiftKey ? -1 : 1)].focus(); }
   });
-  window.matchMedia('(min-width:1120px)').addEventListener('change', function (m) { if (m.matches) regler(false); });
+  window.matchMedia('(min-width:1120px)').addEventListener('change', function (m) { if (m.matches) regler(false, false); });
 })();
 
 /* 20-apparition.js */
@@ -124,13 +148,53 @@
 if ('serviceWorker' in navigator) addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
 
 /* 50-fondu.js */
-/* Ouverture : fondu lent entre les photos (rien pour qui préfère moins d'animations, rien avec une seule photo). */
+/* Ouverture : fondu lent entre les photos (rien pour qui préfère moins d'animations, rien avec une seule photo).
+   (18/11/2026, audit P1) Seule la première photo est chargée d'emblée (eager, fetchpriority="high") ; les suivantes
+   arrivent sans adresse (data-src, data-srcset, outils/fabriquer.py, genre « ouverture-suite ») et ne sont demandées
+   qu'une fois la première affichée. Sans fondu (mouvement réduit) ou sans script, elles ne sont jamais chargées.
+   (18/11/2026, audit U10) Le fondu fait un seul tour puis s'arrête : rien ne bouge indéfiniment à côté du texte.
+   (18/11/2026, contre-vérification Codex, WCAG 2.2.2) Un tour dure plus de 5 s (19,5 s sur l'accueil) : un bouton
+   « Mettre en pause » / « Reprendre » permet de l'arrêter. Il est créé par le script (sans script, rien ne bouge, donc
+   pas de bouton), placé avant le titre dans l'ordre du clavier, et retiré quand le tour est fini (sauf s'il a le focus :
+   il disparaît alors dès que le focus le quitte). */
 (function () {
   var b = document.querySelector('[data-fondu]'); if (!b) return;
   var p = b.querySelectorAll('.ouverture-photo'); if (p.length < 2) return;
   try { if (matchMedia('(prefers-reduced-motion: reduce)').matches) return; } catch (e) {}
-  var i = 0;
-  setInterval(function () { p[i].classList.remove('active'); i = (i + 1) % p.length; p[i].classList.add('active'); }, 6500);
+  var i = 0, tours = 0, minuterie = null, fini = false, pret = false, enPause = false, bouton = document.createElement('button');
+  bouton.type = 'button'; bouton.className = 'ouverture-pause'; bouton.textContent = 'Mettre en pause';
+  bouton.setAttribute('aria-label', 'Mettre en pause les photos');
+  b.appendChild(bouton);
+  function retirer() { if (bouton.parentNode) bouton.parentNode.removeChild(bouton); }
+  function demarrer() {
+    // un seul tour : chaque photo passe une fois, puis le fondu s'arrête sur la première.
+    minuterie = setInterval(function () {
+      p[i].classList.remove('active'); i = (i + 1) % p.length; p[i].classList.add('active');
+      if (++tours >= p.length) {
+        clearInterval(minuterie); minuterie = null; fini = true;
+        if (document.activeElement === bouton) bouton.addEventListener('blur', retirer, { once: true }); else retirer();
+      }
+    }, 6500);
+  }
+  bouton.addEventListener('click', function () {
+    if (fini) return;
+    enPause = !enPause;
+    if (enPause) { if (minuterie) { clearInterval(minuterie); minuterie = null; } }
+    else if (pret) demarrer();
+    bouton.textContent = enPause ? 'Reprendre' : 'Mettre en pause';
+    bouton.setAttribute('aria-label', enPause ? 'Reprendre les photos' : 'Mettre en pause les photos');
+  });
+  function charger() {
+    Array.prototype.forEach.call(b.querySelectorAll('[data-srcset], [data-src]'), function (e) {
+      if (e.hasAttribute('data-srcset')) { e.setAttribute('srcset', e.getAttribute('data-srcset')); e.removeAttribute('data-srcset'); }
+      if (e.hasAttribute('data-src')) { e.setAttribute('src', e.getAttribute('data-src')); e.removeAttribute('data-src'); }
+    });
+    // si la personne a déjà mis en pause avant le chargement de la première photo, on ne démarre pas.
+    pret = true; if (!enPause) demarrer();
+  }
+  var premiere = p[0].querySelector('img');
+  if (!premiere || (premiere.complete && premiere.naturalWidth)) charger();
+  else { premiere.addEventListener('load', charger, { once: true }); premiere.addEventListener('error', charger, { once: true }); }
 })();
 
 /* 70-formulaire.js */
@@ -145,6 +209,9 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       if (!choix || !tel) return;
       var besoin = choix.getAttribute('data-telephone-si').split('|').indexOf(choix.value) > -1;
       tel.required = besoin;
+      var l = f.querySelector('label[for="' + tel.id + '"]'), etoile = l && l.querySelector('.etoile-tel');
+      if (l && besoin && !etoile) { etoile = document.createElement('span'); etoile.className = 'etoile-tel'; etoile.setAttribute('aria-hidden', 'true'); etoile.textContent = ' *'; l.appendChild(etoile); }
+      else if (etoile && !besoin) etoile.remove();
     }
     if (choix) { choix.addEventListener('change', maj); maj(); }
     // la page d'où l'on vient choisit la pièce (?projet=cuisine…) ; le visiteur peut toujours la changer
@@ -164,14 +231,83 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     // FormSubmit refuse les envois de plus de 10 Mo : on prévient avant plutôt qu'après
     var photo = f.querySelector('input[type=file]'), erreurPhoto = f.querySelector('[data-erreur-photo]');
     function tropLourde() { return photo && photo.files && photo.files[0] && photo.files[0].size > 10 * 1024 * 1024; }
-    if (photo) photo.addEventListener('change', function () { if (erreurPhoto) erreurPhoto.hidden = !tropLourde(); });
-    // (15/11/2026) le message « e-mail ou téléphone » disparaît dès qu'une coordonnée est saisie
-    [mail, tel].forEach(function (c) { if (c) c.addEventListener('input', function () { if (erreur && ((mail && mail.value.trim()) || (tel && tel.value.trim()))) erreur.hidden = true; }); });
+    // (18/11/2026, audit U3) chaque erreur s'affiche juste sous son champ, reliée par aria-describedby, le champ porte
+    // aria-invalid, et le focus va au PREMIER champ en erreur. Le navigateur ne valide plus seul (novalidate, posé ici :
+    // sans script, la validation native du navigateur reste en place).
+    f.setAttribute('novalidate', '');
+    function decrire(c, id, oui) {
+      var ids = (c.getAttribute('aria-describedby') || '').split(' ').filter(function (x) { return x && x !== id; });
+      if (oui) ids.push(id);
+      if (ids.length) c.setAttribute('aria-describedby', ids.join(' ')); else c.removeAttribute('aria-describedby');
+    }
+    function marquer(c, p, oui) {   // c : le champ ; p : le message (hors du champ, sous lui)
+      if (!c || !p) return;
+      p.hidden = !oui; decrire(c, p.id, oui);
+      // le champ reste « invalide » tant qu'un de ses messages d'erreur est affiché (e-mail mal formé ET coordonnée manquante)
+      var reste = (c.getAttribute('aria-describedby') || '').split(' ').some(function (i) { var m = document.getElementById(i); return m && !m.hidden && m.classList.contains('formulaire-erreur'); });
+      if (reste) c.setAttribute('aria-invalid', 'true'); else c.removeAttribute('aria-invalid');
+    }
+    function messageDe(c) {           // message d'un champ obligatoire, créé au besoin juste après son bloc
+      var id = c.id + '-erreur', p = document.getElementById(id);
+      if (p) return p;
+      p = document.createElement('p'); p.className = 'formulaire-erreur champ--large'; p.id = id; p.hidden = true;
+      var bloc = c.closest('.champ') || c, aide = document.getElementById(c.id + '-aide');
+      var apres = (aide && aide.previousElementSibling === bloc) ? aide : bloc;
+      apres.parentNode.insertBefore(p, apres.nextSibling);
+      return p;
+    }
+    function texteErreur(c) {
+      if (c.type === 'checkbox') return 'Cochez cette case pour que nous puissions vous recontacter.';
+      if (c.name === 'tel' && c.required) return 'Indiquez un téléphone pour être rappelé ou recevoir une visite chez vous.';
+      if (c.type === 'email' && c.value.trim()) return 'Cette adresse e-mail semble incomplète (exemple : nom@domaine.be).';
+      var l = f.querySelector('label[for="' + c.id + '"]');
+      return 'Indiquez ' + (l ? 'votre ' + l.textContent.replace(/\*|\(facultatif\)/g, '').trim().toLowerCase() : 'ce champ') + '.';
+    }
+    function verifier(c) {          // champ ordinaire : obligatoire vide ou e-mail mal formé
+      var faux = !c.checkValidity();
+      var p = (faux || document.getElementById(c.id + '-erreur')) ? messageDe(c) : null;
+      if (p && faux) p.textContent = texteErreur(c);
+      if (p) marquer(c, p, faux);
+      return !faux;
+    }
+    function contactManquant() { return mail && tel && !mail.value.trim() && !tel.value.trim(); }
+    function majContact() {
+      var manque = contactManquant();
+      if (!manque && erreur && !erreur.hidden) { marquer(mail, erreur, false); marquer(tel, erreur, false); }
+    }
+    var champs = Array.prototype.filter.call(f.querySelectorAll('input, select, textarea'), function (c) {
+      return c.type !== 'hidden' && c.type !== 'file' && !c.closest('.formulaire-pot');
+    });
+    // (18/11/2026) pendant la frappe, un message d'erreur peut seulement DISPARAÎTRE (le champ redevient valable) : il
+    // ne change pas de texte à la première lettre. La vérification complète se fait quand on quitte le champ.
+    champs.forEach(function (c) {
+      var frappe = !(c.type === 'checkbox' || c.tagName === 'SELECT');
+      c.addEventListener(frappe ? 'input' : 'change', function () {
+        if (c.getAttribute('aria-invalid') === 'true' && (!frappe || c.checkValidity())) verifier(c);
+        if (c === mail || c === tel) majContact();
+      });
+      if (frappe) c.addEventListener('blur', function () {
+        if (c.getAttribute('aria-invalid') === 'true' || (c.value.trim() && !c.checkValidity())) verifier(c);
+      });
+    });
+    if (photo) photo.addEventListener('change', function () { marquer(photo, erreurPhoto, tropLourde()); });
+    if (choix) choix.addEventListener('change', function () { if (tel && !tel.required && tel.getAttribute('aria-invalid') === 'true') verifier(tel); });
     f.addEventListener('submit', function (e) {
-      if (mail && tel && !mail.value.trim() && !tel.value.trim()) {
-        e.preventDefault(); if (erreur) erreur.hidden = false; (mail || tel).focus();
-      } else if (tropLourde()) {
-        e.preventDefault(); if (erreurPhoto) erreurPhoto.hidden = false; photo.focus();
+      var enErreur = [];
+      champs.forEach(function (c) { if (!verifier(c)) enErreur.push(c); });
+      if (contactManquant() && !tel.required) {   // téléphone exigé (rappel, visite) : son propre message suffit
+        marquer(mail, erreur, true); marquer(tel, erreur, true);
+        if (enErreur.indexOf(mail) < 0) enErreur.push(mail);
+      } else if (erreur && mail && tel) { marquer(mail, erreur, false); marquer(tel, erreur, false); }
+      if (tropLourde()) { marquer(photo, erreurPhoto, true); enErreur.push(photo); }
+      if (enErreur.length) {
+        e.preventDefault();
+        enErreur.sort(function (a, b) { return a.compareDocumentPosition(b) & Node.DOCUMENT_POSITION_FOLLOWING ? -1 : 1; });
+        // le champ et son message à l'écran (pas sous la barre du téléphone), puis le focus sans second défilement
+        var premier = enErreur[0], ids = (premier.getAttribute('aria-describedby') || '').split(' ');
+        var msg = ids.map(function (i) { return document.getElementById(i); }).filter(function (m) { return m && !m.hidden && m.classList.contains('formulaire-erreur'); })[0];
+        (msg || premier).scrollIntoView({ block: 'center' });
+        premier.focus({ preventScroll: true });
       }
     });
   });
@@ -323,6 +459,93 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   });
 })();
 
+/* 88-catalogue.js */
+/* Catalogue à balayer (cuisine, 18/11/2026) : sur chaque rangée, boutons précédent / suivant (souris), compteur discret,
+   barre de position, et flèches du clavier (← → début fin) quand la rangée a le focus. Aucune lecture automatique.
+   Sans ce script, la rangée reste une bande à glisser (design/51-catalogue.css). */
+(function () {
+  var rangees = document.querySelectorAll('[data-catalogue]');
+  if (!rangees.length) return;
+  function doux() { return !(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches); }
+  Array.prototype.forEach.call(rangees, function (r) {
+    var liste = r.querySelector('.catalogue-liste'), cmd = r.querySelector('[data-commandes]'), barre = r.querySelector('[data-progres]');
+    if (!liste) return;
+    var items = liste.children, rang = cmd && cmd.querySelector('[data-rang]'), bs = cmd ? cmd.querySelectorAll('button') : [];
+    /* 18/11 (relecture) : le compteur visible n'est plus une zone annoncée (il parlait à chaque arrêt du défilement) ;
+       une zone cachée annonce la position seulement après un bouton ou une touche. */
+    var compte = cmd && cmd.querySelector('.catalogue-compte'), parler = false, annonce = null;
+    if (compte) {
+      annonce = document.createElement('span'); annonce.className = 'visuellement-cache'; annonce.setAttribute('aria-live', 'polite');
+      cmd.appendChild(annonce);
+    }
+    function debut() { return parseFloat(getComputedStyle(liste).paddingLeft) || 0; }
+    function max() { return liste.scrollWidth - liste.clientWidth; }
+    /* la photo calée au début de la rangée (celle que l'accrochage vise) */
+    function courant() {
+      var x = liste.scrollLeft + debut(), i, m = 0, best = 1e9;
+      for (i = 0; i < items.length; i++) { var e = Math.abs(items[i].offsetLeft - x); if (e < best) { best = e; m = i; } }
+      return m;
+    }
+    /* compteur : les photos visibles au moins pour moitié, « 1 » sur téléphone, « 1–2 » sur un grand écran.
+       18/11 (relecture) : au bout de la rangée, l'ancien compteur affichait la dernière photo alors que la photo calée
+       à gauche était l'avant-dernière ; « précédent » semblait alors sauter une photo (13 → 11). */
+    function visibles() {
+      var g = liste.scrollLeft, d = g + liste.clientWidth, a = -1, z = -1, i;
+      for (i = 0; i < items.length; i++) {
+        var l = items[i].offsetLeft, w = items[i].offsetWidth, vu = Math.min(d, l + w) - Math.max(g, l);
+        if (vu >= w / 2 - 1) { if (a < 0) a = i; z = i; }
+      }
+      if (a < 0) a = z = courant();
+      return [a, z];
+    }
+    function cible(i) { return Math.min(max(), Math.max(0, items[i].offsetLeft - debut())); }
+    function aller(i) {
+      i = Math.max(0, Math.min(items.length - 1, i));
+      var x = cible(i);
+      if (Math.abs(x - liste.scrollLeft) < 1) { maj(); return; }
+      try { liste.scrollTo({ left: x, behavior: doux() ? 'smooth' : 'auto' }); } catch (e) { liste.scrollLeft = x; }
+    }
+    /* photo voisine dans un sens : la première dont la position calée est au-delà de la position actuelle.
+       18/11 (relecture) : « précédent » depuis la fin sautait une photo (13 → 11), plusieurs photos partageant la butée. */
+    function voisine(sens) {
+      var x = liste.scrollLeft, i;
+      if (sens > 0) { for (i = 0; i < items.length; i++) if (cible(i) > x + 2) return i; return items.length - 1; }
+      for (i = items.length - 1; i >= 0; i--) if (cible(i) < x - 2) return i; return 0;
+    }
+    /* annonce aux lecteurs d'écran seulement après un bouton ou une touche (pas à chaque arrêt du défilement) */
+    function annoncer() { parler = true; }
+    function maj() {
+      var defile = max() > 1;
+      if (cmd) cmd.hidden = !defile;
+      if (barre) barre.hidden = !defile;
+      if (!defile) return;
+      var v = visibles(), t = v[0] === v[1] ? String(v[0] + 1) : (v[0] + 1) + '–' + (v[1] + 1);
+      if (rang && rang.textContent !== t) rang.textContent = t;
+      if (parler && annonce) { parler = false; annonce.textContent = (v[0] === v[1] ? 'Photo ' + (v[0] + 1) : 'Photos ' + (v[0] + 1) + ' à ' + (v[1] + 1)) + ' sur ' + items.length; }
+      if (bs.length === 2) { bs[0].disabled = liste.scrollLeft <= 2; bs[1].disabled = liste.scrollLeft >= max() - 2; }
+      if (barre) barre.firstElementChild.style.setProperty('--part', Math.min(1, (liste.scrollLeft + liste.clientWidth) / liste.scrollWidth).toFixed(4));
+    }
+    Array.prototype.forEach.call(bs, function (b) {
+      b.addEventListener('click', function () { annoncer(); aller(voisine(+b.getAttribute('data-sens'))); });
+    });
+    liste.addEventListener('keydown', function (e) {
+      if (e.target !== liste || e.altKey || e.ctrlKey || e.metaKey) return;
+      var k = e.key, i = null;
+      if (k === 'ArrowRight') i = voisine(1); else if (k === 'ArrowLeft') i = voisine(-1);
+      else if (k === 'Home') i = 0; else if (k === 'End') i = items.length - 1;
+      if (i === null) return;
+      e.preventDefault(); annoncer(); aller(i);
+    });
+    var attente, img;
+    liste.addEventListener('scroll', function () {
+      if (barre && !img) { img = requestAnimationFrame(function () { img = 0; if (barre) barre.firstElementChild.style.setProperty('--part', Math.min(1, (liste.scrollLeft + liste.clientWidth) / liste.scrollWidth).toFixed(4)); }); }
+      clearTimeout(attente); attente = setTimeout(maj, 120);
+    }, { passive: true });
+    window.addEventListener('resize', function () { clearTimeout(attente); attente = setTimeout(maj, 150); });
+    maj();
+  });
+})();
+
 /* 89-espace.js */
 /* Espaces (« site dans le site », 17/11/2026) : apparitions lentes, atelier (bascule de vues, repères et couches),
    questionnaire « préparer l'essai ». Sans script, tout reste affiché et lisible. */
@@ -438,7 +661,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   // dans la même image : aucune couleur intermédiaire où ni l'encre claire ni l'encre foncée n'atteindrait 4,5:1.
   // Le pied de page et ce qui suit la dernière zone gardent la dernière teinte. En remontant, tout revient à l'envers.
   // « Réduire les animations » : chaque zone prend sa teinte d'un coup, sans glissement ni fondu.
-  var zones = [];
+  var zones = [], fondus = [];
   function versLineaire(v) { v /= 255; return v <= 0.04045 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4); }
   function versSrgb(v) { v = Math.max(0, Math.min(1, v)); return Math.round(255 * (v <= 0.0031308 ? 12.92 * v : 1.055 * Math.pow(v, 1 / 2.4) - 0.055)); }
   function lireCouleur(texte) {
@@ -472,6 +695,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     var parDefaut = lireCouleur(getComputedStyle(contenu).getPropertyValue('--fond'));
     Array.prototype.forEach.call(contenu.children, function (el) {
       if (/^(SCRIPT|TEMPLATE|STYLE|LINK)$/.test(el.tagName)) return;
+      if (el.classList.contains('fondu')) { fondus.push({ el: el }); return; }   // bande de fondu : pas une zone, un seuil
       var t = teintee(el);
       // Une section peut porter une suite de teintes, une par élément (« teinte: » d'un modèle, Max Divani, CAHIER.md §3.6) :
       // chaque élément [data-teinte-sous] devient une zone ; la première prend le haut de la section, la dernière son bas.
@@ -486,6 +710,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       zones.push({ el: el, t: t, c: t ? lireCouleur(getComputedStyle(t).getPropertyValue('--teinte-section')) : parDefaut });
     });
     if (zones.some(function (z) { return !z.c; })) zones = [];   // teinte illisible : on garde le repli sans script
+    if (!zones.length) fondus = [];
   }
   var vues = [];     // les zones rendues (hauteur non nulle), dans l'ordre de la page
   var hauteur = window.innerHeight;
@@ -520,6 +745,24 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     zones.forEach(function (z) { if (z.t) z.t.classList.toggle('teinte-propre', propres.indexOf(z) >= 0); });
     vues = rendues.filter(function (z) { return propres.indexOf(z) < 0; });
     if (!vues.length) vues = zones.slice(0, 1);
+    // Bandes de fondu (design/49-mouvement.css) : la bascule entre deux zones de familles différentes a lieu au milieu de la
+    // bande qui les sépare (z.seuil, sur la zone qui suit) ; sans bande, à la frontière des deux zones, comme avant.
+    // Les aplats prolongés sous les sections voisines vont jusqu'à 75 % de l'écran, sans dépasser la bande voisine.
+    fondus.forEach(function (f) { var r = f.el.getBoundingClientRect(); f.haut = r.top + y; f.bas = r.bottom + y; });
+    vues.forEach(function (z, i) {
+      z.seuil = null;
+      if (!i || vues[i - 1].c.sombre === z.c.sombre) return;
+      var A = vues[i - 1];
+      fondus.forEach(function (f) { if (f.haut >= A.centre && f.bas <= z.centre) z.seuil = (f.haut + f.bas) / 2; });
+      if (z.seuil === null) z.seuil = (A.bas + z.haut) / 2;
+    });
+    var cap = 0.75 * hauteur;
+    fondus.forEach(function (f, j) {
+      var avant = j ? fondus[j - 1].bas : 0, apres = j + 1 < fondus.length ? fondus[j + 1].haut : Infinity;
+      var h = Math.round(Math.max(0, Math.min(cap, f.haut - avant))) + 'px', b = Math.round(Math.max(0, Math.min(cap, apres - f.bas))) + 'px';
+      if (f.h !== h) { f.el.style.setProperty('--fondu-haut', h); f.h = h; }
+      if (f.b !== b) { f.el.style.setProperty('--fondu-bas', b); f.b = b; }
+    });
   }
   // Rangée défilant à l'horizontale : la teinte suit le modèle au milieu de la rangée, et glisse de l'un à l'autre pendant
   // le glissement du doigt (même règle que le défilement vertical : fondu dans une famille, saut net entre clair et sombre).
@@ -549,14 +792,14 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   function teinteA(m) {
     var zones = vues, n = zones.length, i;
     if (reduit.matches) {          // la zone sous le milieu de l'écran (ou la dernière dépassée)
-      for (i = n - 1; i > 0 && zones[i].haut > m; i--) {}
+      for (i = n - 1; i > 0 && (zones[i].seuil !== null ? zones[i].seuil : zones[i].haut) > m; i--) {}
       return cz(zones[i]);
     }
     if (m <= zones[0].centre) return cz(zones[0]);
     for (i = 0; i < n - 1 && zones[i + 1].centre <= m; i++) {}
     if (i === n - 1) return cz(zones[i]);
     var A = zones[i], B = zones[i + 1], cA = cz(A), cB = cz(B);
-    if (cA.sombre !== cB.sombre) return m < (A.bas + B.haut) / 2 ? cA : cB;
+    if (cA.sombre !== cB.sombre) return m < (B.seuil !== null ? B.seuil : (A.bas + B.haut) / 2) ? cA : cB;
     if (B.centre <= A.centre) return cB;
     var t = (m - A.centre) / (B.centre - A.centre); t = t * t * (3 - 2 * t);
     return melange(cA, cB, t);
@@ -632,6 +875,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   if (large.addEventListener) large.addEventListener('change', function () { regler(); planifier(); });
   if (zones.length) {
     racine.classList.add('teintes-continues');
+    if (fondus.length) racine.classList.add('teintes-fondues');   // l'encre suit chaque section (design/49-mouvement.css)
     if ('ResizeObserver' in window) new ResizeObserver(remesurer).observe(document.body);   // photos chargées, volets ouverts
     addEventListener('load', remesurer);
   }

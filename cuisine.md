@@ -27,58 +27,184 @@ La gamme Stosa
 
 ## Quatre familles, 1 000 finitions.
 
-- (Photo : Cuisine Stosa Metropolis en L ouverte sur le séjour, façades grises à effet pierre, péninsule en bois clair, hotte suspendue cuivrée)
+Ambiances et détails, modèle par modèle : faites glisser chaque rangée.
 
-  ### Evolution
+### Evolution
 
-  Natural, Metropolis, Aliant, Color Trend, Palio : bois, laque, Fenix® ou cadre aluminium.
+Natural, Metropolis, Aliant, Color Trend, Palio : bois, laque, Fenix® ou cadre aluminium.
+
+Photo  1 / 13
+
+- (Photo : Cuisine Stosa Natural : colonnes au décor bois foncé rainuré, fours encastrés et vitrine éclairée aux étagères en verre)
+
+  Natural Colonnes et vitrine éclairée
+- (Photo : Cuisine Stosa Natural : colonnes au décor chêne clair et niche ouverte à étagères garnies au-dessus des tiroirs blancs)
+
+  Natural Niche ouverte, décor chêne clair
+- (Photo : Cuisine Stosa Metropolis : îlot avec plan de snack foncé, colonnes bronze et vitrines éclairées sous un plafond sombre)
+
+  Metropolis Îlot et colonnes bronze
+- (Photo : Cuisine Stosa Metropolis : vitrines suspendues au fond bois éclairé, au-dessus de l’évier et de son mitigeur)
+
+  Metropolis Vitrines au fond bois éclairé
+- (Photo : Cuisine Stosa Aliant vue d’en haut : îlot à l’aspect pierre claire avec plan de snack bois foncé et deux tabourets)
+
+  Aliant Îlot, vue d’en haut
+- (Photo : Cuisine Stosa Aliant : tiroirs ivoire ouverts, intérieurs gris anthracite, ouverture par gorge)
+
+  Aliant Tiroirs, ouverture par gorge
+- (Photo : Cuisine Stosa Aliant : tiroirs à casseroles ouverts sous une façade bois rainurée, assiettes rangées)
+
+  Aliant Tiroirs à casseroles
+- (Photo : Cuisine Stosa Color Trend : colonnes ivoire autour d’une niche éclairée à verres et d’une cave à vin, table de repas devant)
+
+  Color Trend Colonnes ivoire et cave à vin
+- (Photo : Cuisine Stosa Color Trend : façade ivoire rainurée et plan de travail à l’aspect marbre veiné d’or)
+
+  Color Trend Façade rainurée, plan veiné
+- (Photo : Cuisine Stosa Color Trend : portes de colonne ouvertes sur un garde-manger éclairé, à côté des fours encastrés)
+
+  Color Trend Garde-manger éclairé
+- (Photo : Cuisine Stosa Palio : colonnes blanches à cadre, niche bois éclairée et îlot anthracite au plan veiné)
+
+  Palio Colonnes à cadre et îlot
+- (Photo : Cuisine Stosa Palio : évier en pierre claire, façades à cadre beige et éléments hauts au décor noyer)
+
+  Palio Évier et façades à cadre
+- (Photo : Cuisine Stosa Palio : porte relevable au décor chêne ouverte sur l’égouttoir, crédence sombre veinée éclairée)
+
+  Palio Porte relevable sur l’égouttoir
+
+### Modern
+
+Infinity, Karma, Young : lignes droites, poignée intégrée ou façades stratifiées.
+
+Photo  1 / 6
+
+- (Photo : Cuisine Stosa Infinity : deux îlots taupe à poignée intégrée, bar et séjour en arrière-plan)
+
+  Infinity Deux îlots, poignée intégrée
+- (Photo : Cuisine Stosa Infinity : îlot taupe à table de cuisson, sous une hotte suspendue à éclairage linéaire)
+
+  Infinity Îlot de cuisson
+- (Photo : Cuisine Stosa Karma : façades blanches à gorge et crédence noire équipée d’étagères, au-dessus d’une table de cuisson)
+
+  Karma Façades blanches, crédence équipée
+- (Photo : Cuisine Stosa Karma : élément haut au décor bois foncé, niche ouverte bordeaux et étagère noire sur le plan, à côté d’une table de cuisson au gaz)
+
+  Karma Niche bordeaux et étagère de plan
 - (Photo : Cuisine Stosa Young en L, meubles bas clairs à longues poignées noires, meubles hauts gris, étagères éclairées)
 
-  ### Modern
+  Young Cuisine en L
+- (Photo : Cuisine Stosa Young : colonnes au décor chêne clair et péninsule avec plan de snack bois)
 
-  Infinity, Karma, Young : lignes droites, poignée intégrée ou façades stratifiées.
-- (Photo : Cuisine Stosa Dolcevita aux façades à cadre beige, fenêtre à petits carreaux, meubles hauts vitrés)
+  Young Colonnes et péninsule, décor chêne clair
 
-  ### Classic Glam
+### Classic Glam
 
-  Beverly, Bolgheri, Dolcevita : façades à cadre, frêne, bois massif ou MDF laqué.
-- (Photo : Cuisine Stosa Lumia aux façades blanches brillantes, colonnes du sol au plafond, péninsule et tabourets noirs)
+Beverly, Bolgheri, Dolcevita : façades à cadre, frêne, bois massif ou MDF laqué.
 
-  ### ART
+Photo  1 / 7
 
-  Kaya, Sveva, Lumia : mélaminé, Alkorcell ou laque.
+- (Photo : Cuisine Stosa Beverly : façades à cadre gris clair, colonnes vert sauge et niche bois éclairée)
+
+  Beverly Façades à cadre et colonnes sauge
+- (Photo : Cuisine Stosa Beverly : vitrines vert sauge à petits carreaux, tiroirs à boutons et porte-assiettes)
+
+  Beverly Vitrines à petits carreaux
+- (Photo : Cuisine Stosa Bolgheri : façades ivoire à cadre, vitrines à petits carreaux et îlot à étagère ouverte)
+
+  Bolgheri Ivoire à cadre, îlot ouvert
+- (Photo : Cuisine Stosa Bolgheri : façade ivoire au bois veiné et poignée métal)
+
+  Bolgheri Poignée métal
+- (Photo : Cuisine Stosa Dolcevita : façades à moulures couleur tourterelle, vitrines à petits bois et colonne cannelée)
+
+  Dolcevita Moulures et colonne cannelée
+- (Photo : Cuisine Stosa Dolcevita : façade ivoire moulurée et poignée ajourée en losanges)
+
+  Dolcevita Poignée ajourée
+- (Photo : Cuisine Stosa Dolcevita : façades blanches à filets cuivrés, angle cannelé arrondi et plan de travail clair)
+
+  Dolcevita Filets cuivrés, angle cannelé
+
+### ART
+
+Kaya, Sveva, Lumia : mélaminé, Alkorcell ou laque.
+
+Photo  1 / 6
+
+- (Photo : Cuisine Stosa Kaya : péninsule au décor bois avec tabourets, sous des vitrines suspendues à cadre noir éclairées)
+
+  Kaya Péninsule et vitrines à cadre noir
+- (Photo : Cuisine Stosa Kaya : chant d’une façade au décor chêne et profil de poignée noir, en très gros plan)
+
+  Kaya Chant de façade et poignée, de près
+- (Photo : Cuisine Stosa Sveva : façades blanches à cadre, vitrines suspendues éclairées sur un mur au décor chêne)
+
+  Sveva Façades à cadre, mur décor chêne
+- (Photo : Cuisine Stosa Sveva : façade blanche à cadre, poignée métal et plan de travail à l’aspect marbre clair)
+
+  Sveva Poignée métal, plan clair
+- (Photo : Cuisine Stosa Lumia : îlot et colonnes taupe brillant, vitrines éclairées et table au décor chêne)
+
+  Lumia Taupe brillant et vitrines éclairées
+- (Photo : Cuisine Stosa Lumia : façades beige clair à rainures verticales, éclairage linéaire sous les éléments)
+
+  Lumia Façades rainurées
+
+Photos Stosa. Toutes les collections sur commande.
+
+[Voir les échantillons au magasin](https://fony.be/magasin-contact)
 
 Sous les façades
 
 ## Stosa, en chiffres.
 
-- 18 mm
+- 18  mm
 
   ### Les caissons
 
-  Panneaux de particules mélaminés sur les deux faces, classés E1 et conformes CARB P2 : très faible teneur en formaldéhyde.
-- 18 à 25 mm
+  Des meubles à très faible teneur en formaldéhyde, dans la pièce où l’on vit.
+
+  Panneaux mélaminés sur les deux faces, classés E1 et certifiés CARB P2.
+- 18 à 25  mm
 
   ### Les façades
 
-  Selon le modèle : 22 mm pour la plupart des modèles modernes, 24 à 25 mm pour Bolgheri, Beverly et Palio.
+  Une épaisseur qui suit le style : fine en moderne, plus marquée pour les façades à cadre.
+
+  22 mm pour la plupart des modèles modernes ; 24 à 25 mm pour Bolgheri, Beverly et Palio.
 - 200 000
 
-  ### Les ouvertures
+  ### Cycles d’ouverture garantis
 
-  Charnières garanties 200 000 cycles, coulisses de tiroirs 60 000 ; portes à fermeture amortie de série.
-- 1,2 à 6 cm
+  Une garantie chiffrée sur les charnières, et des portes qui se ferment sans claquer.
+
+  Charnières garanties 200 000 cycles, coulisses de tiroirs 60 000 ; fermeture amortie de série.
+- 70  kg
+
+  ### Les éléments hauts
+
+  La vaisselle lourde peut aussi se ranger en hauteur.
+
+  Charge nominale maximale des supports d’éléments hauts.
+- 1,2 à 6  cm
 
   ### Les plans de travail
+
+  Du plan fin au plan épais, dans la matière qui convient à votre usage.
 
   Stratifié, HPL, Fenix®, Neolith®, quartz, Dekton ou marbre.
 - ISO 9001
 
-  ### La qualité
+  ### La qualité et l’origine
 
-  Production certifiée ; origine italienne attestée selon la norme UNI 11674 ; bois FSC® sur certains modèles.
+  « Fabriqué en Italie » est certifié : les étapes clés de la fabrication y ont lieu.
 
-Données du fabricant (documentation Stosa 2024–2026).
+  Production certifiée ISO 9001 ; origine attestée selon la norme UNI 11674 ; bois FSC® sur certains modèles.
+
+Données du fabricant : manuel « Utilisation et entretien » 2025, fiches produit 2024, catalogue des plans de travail 2024, brochure Pocket 2026 (stosacucine.com).
 
 Teintes et matières
 

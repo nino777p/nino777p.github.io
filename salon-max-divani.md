@@ -92,6 +92,26 @@ Au magasin et sur catalogue
    Trois places et deux places en tissu, avec une place relax.
 
    [Dimensions et versions de Curry](https://fony.be/salon-max-divani-curry)
+7. (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
+
+   (Photo : Gros plan sur une place relax ouverte du canapé en cuir cognac, appui-tête relevé)
+
+   07
+
+   ### Emu
+
+   Appuie-têtes réglables, en deux ou trois places, avec chaise longue ou en angle.
+
+   [Dimensions et versions de Emu](https://fony.be/salon-max-divani-emu)
+8. (Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
+
+   08
+
+   ### Dana
+
+   Un fauteuil rond, fixe ou pivotant à 360°, souligné d’une bande de cuir.
+
+   [Dimensions et versions de Dana](https://fony.be/salon-max-divani-dana)
 
 (Photo : Coupe d’un canapé : l’assise sur ressorts ensachés sous la mousse)
 

@@ -15,9 +15,9 @@ Adresse de la page : https://fony.be/magasin-meubles-mons
 
 Mons et sa région
 
-# Depuis Mons, vingt-cinq minutes pour essayer votre salon.
+# Votre magasin de meubles près de Mons.
 
-Fony Meubles n’a qu’un magasin, à Leval-Trahegnies, dans l’entité de Binche. Depuis Mons, le trajet se fait presque entièrement par l’autoroute, puis par la N55.
+Depuis Mons, vingt-cinq minutes pour essayer votre salon. Fony Meubles n’a qu’un magasin, à Leval-Trahegnies, dans l’entité de Binche. Depuis Mons, le trajet se fait presque entièrement par l’autoroute, puis par la N55.
 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
