@@ -534,6 +534,46 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   });
 })();
 
+/* 84-video-projet.js */
+/* Vidéos des réalisations (20/11/2026). Le lecteur Instagram n'est créé qu'au clic du visiteur : avant, la page n'envoie
+   aucune requête vers Instagram (le cadre n'existe pas). Un seul lecteur à la fois ; si le cadre ne répond pas en
+   10 secondes, un message renvoie vers le lien direct. Sans script : le lien « Ouvrir sur Instagram » reste seul. */
+(() => {
+  let actif;
+  for (const mention of document.querySelectorAll('[data-video-mention]')) mention.hidden = false;
+  for (const bouton of document.querySelectorAll('[data-video-instagram]')) {
+    bouton.hidden = false;
+    bouton.addEventListener('click', () => {
+      const section = bouton.closest('[data-video-projet]');
+      const lecteur = section.querySelector('[data-video-lecteur]');
+      const etat = section.querySelector('[data-video-etat]');
+      if (actif) {
+        clearTimeout(actif.delai);
+        actif.lecteur.replaceChildren();
+        actif.etat.textContent = '';
+        actif.bouton.removeAttribute('aria-pressed');
+      }
+      const cadre = document.createElement('iframe');
+      cadre.title = bouton.dataset.titre + ' — Instagram';
+      // Adresse du cadre fourni par Instagram pour les publications et les Reels ; aucun script tiers dans la page FONY.
+      cadre.src = bouton.dataset.videoInstagram + 'embed/';
+      cadre.allowFullscreen = true;
+      const delai = setTimeout(() => {
+        if (actif && actif.cadre === cadre) etat.textContent = 'Le lecteur Instagram tarde à répondre : utilisez le lien « Ouvrir sur Instagram ».';
+      }, 10000);
+      cadre.addEventListener('load', () => {
+        clearTimeout(delai);
+        if (actif && actif.cadre === cadre) etat.textContent = '';
+      }, { once: true });
+      actif = { lecteur, etat, cadre, bouton, delai };
+      bouton.setAttribute('aria-pressed', 'true');
+      etat.textContent = 'Chargement du lecteur Instagram…';
+      lecteur.replaceChildren(cadre);
+      lecteur.scrollIntoView({ block: 'nearest', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    });
+  }
+})();
+
 /* 85-repli.js */
 /* Sections repliées : un lien ou une adresse (#methode…) qui vise une section repliée l'ouvre avant d'y aller. */
 (function () {

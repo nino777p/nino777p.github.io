@@ -1406,6 +1406,33 @@ padding:clamp(56px,7vw,112px) max(var(--marge),calc((100vw - var(--col)) / 2 + v
 .catalogue-compte{display:none}
 }
 @media (min-width:1053px){#pieces .catalogue-liste{--h:clamp(340px,27vw,440px)}}
+.journal-projets__liste,.video-projet__liste{list-style:none;padding:0;margin:0}
+.journal-projets__liste{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,18rem),1fr));gap:var(--gout);margin-top:var(--gout)}
+.journal-projets__liste li,.video-projet__liste li{padding:var(--pad);border:1px solid var(--trait);background:var(--carte)}
+.journal-projets__liste h3{margin:0}
+.journal-projets__liste p{margin:.65rem 0 0;color:var(--encre-2)}
+.video-projet__corps{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:var(--gout);align-items:start}
+.video-projet__liste--defile{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);gap:.75rem}
+.video-projet__liste h3{font:inherit;font-weight:700;margin:0 0 .75rem}
+.video-projet__liste button{display:block;margin:0 0 .65rem;white-space:normal;text-align:start}
+.video-projet__liste button[hidden]{display:none}
+.video-projet__etat{margin:.75rem 0;color:var(--encre-2)}
+.video-projet__etat:empty,.video-projet__lecteur:empty{display:none}
+.video-projet__lecteur{overflow-x:auto}
+.video-projet__lecteur iframe{display:block;width:100%;height:clamp(28rem,135vw,43rem);border:0;background:var(--carte)}
+.video-projet__locale{display:block;width:100%;max-height:70vh;aspect-ratio:9/16;background:var(--nuit)}
+@media(max-width:960px){
+.video-projet__corps{grid-template-columns:minmax(0,1fr)}
+.video-projet__liste--defile{grid-auto-columns:min(21rem,85%);overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 4px .65rem}
+.video-projet__liste--defile li{scroll-snap-align:start;min-width:0}
+}
+.video-projet__mention{margin:.9rem 0 0;font-size:var(--t-mini);color:var(--encre-2);max-width:46ch}
+.video-projet__mention[hidden]{display:none}
+.video-projet__mention a{color:inherit;text-underline-offset:3px}
+.video-projet__liste .lien-fleche{display:inline-flex;min-height:44px;align-items:center}
+.video-projet__texte .titre-section{margin-bottom:.55em}
+.video-projet__texte .texte+.texte{margin-top:.9em}
+.video-projet__texte .lien-fleche{display:inline-flex;margin-top:1.1rem}
 .apparition .vient{opacity:0;transform:translateY(10px)}
 .apparition .vient.vu{opacity:1;transform:none;transition:opacity .55s var(--courbe),transform .55s var(--courbe)}
 .apparition .vient.vu:nth-child(2){transition-delay:50ms}

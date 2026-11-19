@@ -114,6 +114,12 @@ Autour du séjour
 
   Voir le sur mesure
 
+## Dans nos réalisations
+
+- ### [Goliath · Le fil d’un séjour lumineux](https://fony.be/realisation-sejour-goliath)
+
+  Une table Goliath d’Akante, des meubles Tomasella, puis une console. Le récit d’un séjour aménagé en deux temps avec FONY.
+
 ## Composons votre séjour.
 
 Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module, et nous vous le montrons en projection 3D. Si vous préférez, nous venons prendre les mesures chez vous.

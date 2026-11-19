@@ -47,7 +47,9 @@ Pour savoir quelles pages sont lues et d’où viennent nos visiteurs, le site u
 
 ## Cookies
 
-Ce site n’utilise aucun cookie : ni cookie de mesure d’audience, ni cookie publicitaire, ni cookie de service tiers. Il n’y a donc pas de bandeau à accepter. Les polices et les photos sont servies depuis ce site, et le plan d’accès est un simple lien vers Google Maps, qui ne s’ouvre que si vous cliquez dessus.
+Ce site ne dépose aucun cookie : ni cookie de mesure d’audience, ni cookie publicitaire. Il n’y a donc pas de bandeau à accepter. Les polices et les photos sont servies depuis ce site, et le plan d’accès est un simple lien vers Google Maps, qui ne s’ouvre que si vous cliquez dessus.
+
+Les vidéos de nos réalisations sont hébergées par Instagram (Meta). Leur lecteur ne se charge que si vous cliquez sur « Lire la vidéo ici » : avant ce clic, aucune donnée n’est envoyée à Instagram. Une fois le lecteur chargé, Instagram peut déposer ses propres cookies et collecter des données selon sa politique. Vous pouvez aussi ouvrir la vidéo directement sur Instagram, ou ne pas la lancer.
 
 Deux mécanismes techniques travaillent dans votre navigateur, sans nous transmettre quoi que ce soit : une petite mémoire locale retient qu’une fenêtre d’information vous a déjà été montrée, pour ne pas vous la remontrer pendant sept jours ; et un agent de service garde les images, les polices et le logo dans le cache de votre navigateur, pour que vos visites suivantes soient plus rapides. Ces données restent sur votre appareil et s’effacent quand vous videz les données du site dans votre navigateur.
 
