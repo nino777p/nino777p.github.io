@@ -9,7 +9,10 @@
   var texte = bouton.querySelector('.menu-bouton-texte'), nav = document.getElementById('navigation');
   var dehors = ['main', '.pied', '.barre-mobile', '.promo', '.evitement'];
   function focalisables() {
-    var l = Array.prototype.filter.call(nav.querySelectorAll('a[href], button:not([disabled])'), function (e) { return e.offsetParent !== null; });
+    var l = Array.prototype.filter.call(nav.querySelectorAll('a[href], button:not([disabled])'), function (e) {
+      // (19/11/2026, Codex R1) les liens d'un panneau replié sont en visibility:hidden : hors de la boucle
+      return e.offsetParent !== null && getComputedStyle(e).visibility !== 'hidden';
+    });
     l.push(bouton);
     var cat = entete.querySelector('.entete-catalogue'); if (cat) l.unshift(cat);   // (19/11/2026) bouton Catalogue, visible menu ouvert
     return l;
@@ -41,6 +44,100 @@
     else { e.preventDefault(); l[i + (e.shiftKey ? -1 : 1)].focus(); }
   });
   window.matchMedia('(min-width:1120px)').addEventListener('change', function (m) { if (m.matches) regler(false, false); });
+})();
+
+/* 11-menu-deroulant.js */
+/* Menus déroulants des pièces (19/11/2026). Le chevron ouvre ou ferme le panneau (aria-expanded) ; Échap le ferme (et le
+   garde fermé sous la souris jusqu'à ce qu'elle quitte la pièce) et rend le focus au chevron. Sur ordinateur, un clic
+   ailleurs, le focus qui quitte la pièce ou l'ouverture d'une autre pièce le ferment. Sans script : design/13-menu-deroulant.css.
+   Retour tactile au téléphone (nino : « vraiment subtil ») : Android, une vibration de 8 ms ; iPhone (Safari 18 et plus, qui
+   n'a pas l'API de vibration), le léger « tic » du système produit par un interrupteur caché (<input type=checkbox switch>),
+   procédé non standard qu'Apple pourrait retirer : sans lui, rien ne change. Jamais au survol, jamais sur ordinateur. */
+(function () {
+  var entete = document.querySelector('.entete'), blocs = document.querySelectorAll('[data-panneau]');
+  if (!entete || !blocs.length) return;
+  entete.classList.add('panneau-js');
+  var large = window.matchMedia('(min-width:1120px)');
+  var tactile = window.matchMedia('(pointer:coarse)');
+
+  var tic = (function () {
+    if (!tactile.matches) return function () {};
+    if (navigator.vibrate) return function () { try { navigator.vibrate(8); } catch (e) {} };
+    var l = document.createElement('label'), i = document.createElement('input');
+    i.type = 'checkbox'; i.setAttribute('switch', ''); i.tabIndex = -1;
+    l.setAttribute('aria-hidden', 'true'); l.className = 'visuellement-cache'; l.appendChild(i);
+    document.body.appendChild(l);
+    return function () { l.click(); };
+  })();
+
+  // fond photo du panneau : son adresse n'est posée qu'à la première ouverture (survol, clic ou focus)
+  function fond(li) {
+    Array.prototype.forEach.call(li.querySelectorAll('.panneau-fond [data-srcset], .panneau-fond [data-src]'), function (e) {
+      if (e.hasAttribute('data-srcset')) { e.setAttribute('srcset', e.getAttribute('data-srcset')); e.removeAttribute('data-srcset'); }
+      if (e.hasAttribute('data-src')) { e.setAttribute('src', e.getAttribute('data-src')); e.removeAttribute('data-src'); }
+    });
+  }
+  var doux = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function regler(li, ouvert) {
+    if (ouvert) fond(li);
+    li.classList.toggle('ouvert', ouvert);
+    li.querySelector('.panneau-bouton').setAttribute('aria-expanded', ouvert ? 'true' : 'false');
+  }
+  function tous(sauf) { Array.prototype.forEach.call(blocs, function (b) { if (b !== sauf && b.classList.contains('ouvert')) regler(b, false); }); }
+  Array.prototype.forEach.call(blocs, function (li) {
+    var bouton = li.querySelector('.panneau-bouton');
+    bouton.addEventListener('click', function () {
+      // déjà visible = ouvert au clic, ou survolé à la souris (et pas replié par Échap ou un clic)
+      var visible = li.classList.contains('ouvert') || (large.matches && li._souris && li.matches(':hover') && !li.classList.contains('replie'));
+      var ouvrir = !visible;
+      if (ouvrir) tous(li);                    // une seule pièce dépliée à la fois : le menu reste court
+      li.classList.toggle('replie', !ouvrir && large.matches);   // refermé sous la souris : le survol ne le rouvre pas
+      regler(li, ouvrir);
+      if (tactile.matches && !large.matches) tic();
+    });
+    li.addEventListener('keydown', function (e) {
+      if (e.key !== 'Escape') return;
+      if (li.classList.contains('ouvert') || (large.matches && li.matches(':hover'))) {
+        e.stopPropagation(); regler(li, false); li.classList.add('replie'); bouton.focus();   // regler remet aria-expanded à false
+      }
+    });
+    // (19/11/2026, Codex R2) le survol ouvre le panneau (CSS) : l'état annoncé du chevron suit
+    li.addEventListener('mouseleave', function () {
+      li.classList.remove('replie');
+      if (!li.classList.contains('ouvert')) bouton.setAttribute('aria-expanded', 'false');
+    });
+    li.addEventListener('pointerenter', function (e) {
+      if (!large.matches) return;
+      fond(li);
+      li._souris = e.pointerType === 'mouse';     // au doigt (tablette), le survol simulé ne compte pas
+      if (li._souris && !li.classList.contains('replie')) bouton.setAttribute('aria-expanded', 'true');
+    });
+    li.addEventListener('focusin', function () { if (large.matches) fond(li); });
+    // lueur : une image par mouvement au plus, seulement sur ordinateur et sans mouvement réduit
+    var int = li.querySelector('.panneau-int'), att = 0;
+    if (int && doux) int.addEventListener('pointermove', function (e) {
+      if (att) return;
+      att = requestAnimationFrame(function () {
+        att = 0; var r = int.getBoundingClientRect();
+        int.style.setProperty('--mx', (e.clientX - r.left) + 'px'); int.style.setProperty('--my', (e.clientY - r.top) + 'px');
+      });
+    });
+    li.addEventListener('focusout', function (e) {
+      if (!(large.matches && li.classList.contains('ouvert') && !li.contains(e.relatedTarget))) return;
+      regler(li, false);
+      // (19/11/2026, Codex) la souris est encore dessus : le survol le garde visible, l'état annoncé aussi
+      if (li._souris && li.matches(':hover') && !li.classList.contains('replie')) bouton.setAttribute('aria-expanded', 'true');
+    });
+  });
+  document.addEventListener('click', function (e) {
+    if (!large.matches) return;
+    Array.prototype.forEach.call(blocs, function (li) { if (li.classList.contains('ouvert') && !li.contains(e.target)) regler(li, false); });
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key !== 'Escape' || !large.matches) return;
+    Array.prototype.forEach.call(blocs, function (li) { if (li.matches(':hover')) { regler(li, false); li.classList.add('replie'); } });
+  });
+  large.addEventListener('change', function () { Array.prototype.forEach.call(blocs, function (li) { regler(li, false); li.classList.remove('replie'); }); });
 })();
 
 /* 20-apparition.js */

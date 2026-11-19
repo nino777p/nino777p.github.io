@@ -24,13 +24,6 @@ Nos guides
   ### [Bien choisir son matelas](https://fony.be/literie-choisir-matelas)
 
   Lire le guide →
-- (Photo : Boxspring Velda Imagine électrique, tête de lit en tissu clair, dans une chambre lumineuse)
-
-  Literie
-
-  ### [Dormir à deux : quel lit choisir ?](https://fony.be/literie-dormir-a-deux)
-
-  Lire le guide →
 - (Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)
 
   Literie

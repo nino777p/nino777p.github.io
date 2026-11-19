@@ -168,12 +168,17 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
 
    [Voir le séjour](https://fony.be/living)
 
-Bientôt au magasin
+Aussi chez nous
 
-## Les tables en céramique Cerata.
+## Maxfurn, et bientôt Cerata.
 
-De nouvelles collections arrivent prochainement. Demandez-nous les modèles : nous vous prévenons dès leur arrivée.
+Demandez-nous les modèles : pour les nouvelles collections, nous vous prévenons dès leur arrivée.
 
+- ### Maxfurn
+
+  Des tables et des chaises de salle à manger, à commander au magasin.
+
+  [Demandez-nous les modèles](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 - ### Cerata
 
   Des tables de salle à manger en céramique, en différents modèles et finitions. Cerata est une collection de De Eiken Zetel, maison familiale d’Eeklo. Bientôt au magasin.

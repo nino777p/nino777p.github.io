@@ -42,8 +42,6 @@ Une commande relève la tête ou les jambes, pour lire confortablement ou change
 
 Avec deux éléments indépendants, l’un peut lire relevé pendant que l’autre dort à plat.
 
-[Voir les solutions à deux](https://fony.be/literie-dormir-a-deux)
-
 04 · Les tailles
 
 ### En électrique, quelles dimensions ?
@@ -127,11 +125,6 @@ Voir aussi
   Matières, fermeté, taille : les questions à se poser.
 
   [Voir comment choisir un matelas](https://fony.be/literie-choisir-matelas)
-- ### Dormir à deux
-
-  Deux conforts dans un même lit.
-
-  [Voir les solutions à deux](https://fony.be/literie-dormir-a-deux)
 - ### La chambre complète
 
   Lits, chevets, armoires et dressings.

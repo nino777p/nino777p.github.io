@@ -32,13 +32,6 @@ Trois conseils
   ### [Fixe ou électrique ?](https://fony.be/literie-boxspring-fixe-electrique)
 
   Lire le conseil →
-- (Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)
-
-  À deux
-
-  ### [Dormir à deux, chacun son confort](https://fony.be/literie-dormir-a-deux)
-
-  Lire le conseil →
 
 ## Venez essayer nos matelas et boxsprings.
 

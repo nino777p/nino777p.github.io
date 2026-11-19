@@ -64,11 +64,9 @@ Il travaille avec son sommier ou sa base de boxspring : le même matelas ne don
 
 05 · À deux
 
-### Deux conforts dans un même lit.
+### Un matelas, deux conforts.
 
-L’un aime un lit ferme, l’autre non ? Deux matelas côte à côte permettent à chacun de choisir. On vérifie aussi, en essayant ensemble, si l’un sent l’autre bouger.
-
-[Voir les solutions à deux](https://fony.be/literie-dormir-a-deux)
+L’un aime un lit ferme, l’autre non ? Un même matelas peut avoir deux intérieurs : plus ferme d’un côté, plus souple de l’autre. Au magasin, essayez-le ensemble.
 
 À l’intérieur
 
@@ -204,11 +202,6 @@ Voir aussi
   Ce qui change, et les tailles possibles.
 
   [Voir les boxsprings](https://fony.be/literie-boxspring-fixe-electrique)
-- ### Dormir à deux
-
-  Deux conforts dans un même lit.
-
-  [Voir les solutions à deux](https://fony.be/literie-dormir-a-deux)
 - ### La chambre complète
 
   Lits, chevets, armoires et dressings.

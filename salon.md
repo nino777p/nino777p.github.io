@@ -73,6 +73,16 @@ Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place re
 
 Voir aussi [les canapés relax Nicoletti](https://fony.be/salon-nicoletti), fabriqués en Italie, et [les fauteuils relax et releveurs De Eiken Zetel](https://fony.be/salon-fauteuils-relax-releveurs), d’un fabricant belge.
 
+Aussi au magasin
+
+## Un fabricant familial.
+
+- ### Confortluxe
+
+  Canapés, canapés relax et fauteuils releveurs, à essayer au magasin.
+
+  [Venir les essayer](https://fony.be/salon#visite)
+
 - (Photo : Rendu du fabricant : deux canapés relax en cuir brun foncé, disposés en angle autour d’une table basse)
 
   Max Divani Osaka
