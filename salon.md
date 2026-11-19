@@ -71,7 +71,7 @@ Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place re
 
 [Venir l’essayer](https://fony.be/salon#visite)
 
-Voir aussi [les canapés relax Nicoletti](https://fony.be/salon-nicoletti), fabriqués en Italie, et [les fauteuils relax et releveurs De Eiken Zetel](https://fony.be/salon-fauteuils-relax-releveurs), d’un fabricant belge.
+Voir aussi [les canapés relax Nicoletti](https://fony.be/salon-nicoletti), fabriqués en Italie, [les fauteuils relax et releveurs De Eiken Zetel](https://fony.be/salon-fauteuils-relax-releveurs), d’un fabricant belge, et [les canapés-lits](https://fony.be/literie#canapes-lits), dans l’espace literie.
 
 Aussi au magasin
 

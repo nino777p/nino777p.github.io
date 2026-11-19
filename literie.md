@@ -138,7 +138,7 @@ L’un aime un lit ferme, l’autre non. Nos conseils pour bien choisir, seul ou
 
 Au magasin
 
-## Trois fabricants belges.
+## Quatre fabricants de literie.
 
 Les modèles exposés se déclinent en d’autres tailles, tissus, coloris, têtes de lit et pieds.
 
@@ -151,6 +151,9 @@ Les modèles exposés se déclinent en d’autres tailles, tissus, coloris, têt
 - ### Polypreen
 
   Matelas, sommiers à lattes et boxsprings fabriqués à Lommel, en Belgique.
+- ### Stanford Bedding
+
+  Boxsprings, lits et matelas au design belge, aux lignes simples et intemporelles. Les lits et les boxsprings sont fabriqués à la main.
 
 Velda
 
@@ -167,6 +170,28 @@ Tissus, têtes de lit, pieds et fonctions : composez votre couchage selon les o
 - (Photo : Boxspring en tissu gris chiné, coussins vieux rose et gris bleu, chevet rond en bois clair)
 
   Tissu chiné et tête de lit arrondie.
+
+Canapés-lits
+
+## Un vrai canapé le jour, un vrai lit la nuit.
+
+Trois fabricants, pour la chambre d’amis ou le séjour qui accueille un invité.
+
+- ### Confortplus
+
+  Trois collections de canapés-lits et quatre hauteurs de matelas : 14, 16, 18 et 19 cm. Le revêtement et les détails se personnalisent.
+
+  [Le site de Confortplus](https://confortplus.it/fre/canapes-lit)
+- ### Vitarelax
+
+  Des canapés-lits fabriqués en Italie, plus de 300 tissus au choix. Le modèle, la couleur et les dimensions se choisissent.
+
+  [Le site de Vitarelax](https://www.vitarelax.it/fr/catalogue-produits/canapes/canapes-lits/)
+- ### Diva Divani
+
+  Un spécialiste du canapé et du fauteuil rembourrés, qui réalise toutes les étapes de fabrication dans sa propre usine. Confort, moelleux et soin des détails guident chaque modèle, avec une attention particulière au choix des matériaux. Revêtements en tissu, microfibre ou cuir véritable.
+
+  [Le site de Diva Divani](https://www.divadivani.com/fr/)
 
 (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
