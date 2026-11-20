@@ -194,22 +194,29 @@
     // (19/11/2026) les cartes des rangées à glisser ne sont pas suivies : leur décalage rendait la rangée défilable en
     // hauteur (design/48-defile.css).
     + ', main.ambiance-salon .defile-tete, main.ambiance-salon .immersion-texte, main.ambiance-salon .position');
-  var suivis = [];
-  for (var i = 0; i < blocs.length; i++) if (blocs[i].getBoundingClientRect().top > window.innerHeight) suivis.push(blocs[i]);
-  if (!suivis.length) return;
+  if (!blocs.length) return;
+  // (20/11/2026, PageSpeed « ajustement forcé de la mise en page ») les positions ne sont plus lues pendant l'exécution du
+  // script (getBoundingClientRect sur chaque bloc forçait la première mise en page de toute la page, 115 à 140 ms au
+  // téléphone ralenti) : la première réponse de l'observateur, calculée avec le premier affichage, donne la même position.
+  // Un bloc qui n'est pas sous le bas de l'écran à ce moment-là n'est plus suivi, comme avant.
   function fini(e) { if (e.target === this) { this.classList.remove('vient'); this.removeEventListener('animationend', fini); } }
   var o = new IntersectionObserver(function (es) {
+    var h = window.innerHeight;   // lu une fois, avant toute écriture (classe « vient »)
     es.forEach(function (e) {
+      if (!e.target._suivi) {
+        if (!(e.boundingClientRect.top > h)) { o.unobserve(e.target); return; }
+        e.target._suivi = true;
+      }
       if (!e.isIntersecting) return;
       o.unobserve(e.target);
       // Seulement si le bloc arrive par le bas et dépasse à peine (moins de 32 px) : un bloc déjà lisible ne bouge pas
       // (saut vers une ancre, retour en arrière, défilement très rapide, remontée de la page).
-      if (e.boundingClientRect.top < window.innerHeight - 32) return;
+      if (e.boundingClientRect.top < h - 32) return;
       e.target.addEventListener('animationend', fini);
       e.target.classList.add('vient');
     });
   }, { rootMargin: '0px 0px 24px 0px' });
-  suivis.forEach(function (b) { o.observe(b); });
+  Array.prototype.forEach.call(blocs, function (b) { o.observe(b); });
 })();
 
 /* 30-operations.js */
@@ -246,7 +253,10 @@
       var h = document.documentElement;
       if ((h.scrollTop + window.innerHeight) / h.scrollHeight > 0.5) { moitie = true; ouvrir(); window.removeEventListener('scroll', lu); }
     }
-    window.addEventListener('scroll', lu, { passive: true }); lu();
+    window.addEventListener('scroll', lu, { passive: true });
+    // (20/11/2026, PageSpeed « ajustement forcé ») premier contrôle juste après la mise en page suivante (ResizeObserver tout
+    // juste posé, qui répond une fois) : lire scrollHeight à l'arrivée de campagne.txt forçait la mise en page en plein chargement
+    if ('ResizeObserver' in window) { var r = new ResizeObserver(function () { r.disconnect(); lu(); }); r.observe(document.documentElement); } else lu();
     M.addEventListener('click', function (e) { if (e.target.closest('[data-fermer]')) fermer(); });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && M.classList.contains('ouverte')) fermer(); });
     M.addEventListener('keydown', function (e) {
@@ -620,17 +630,37 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 })();
 /* Galeries qui défilent sur une ligne (téléphone) : atteignables au clavier, avec un nom pour les lecteurs d'écran. */
 (function () {
-  function regler() {
-    Array.prototype.forEach.call(document.querySelectorAll('.galerie, .sequence-etapes, .modeles'), function (g) {
-      if (g.scrollWidth > g.clientWidth + 1) {
-        g.tabIndex = 0;
-        var t = (g.closest ? g.closest('section') : g.parentNode).querySelector('.titre-section'); g.setAttribute('aria-label', 'Photos' + (t ? ' : ' + t.textContent.trim() : '') + ', à faire défiler');
-      } else { g.removeAttribute('tabindex'); g.removeAttribute('aria-label'); }
-    });
+  var sel = '.galerie, .sequence-etapes, .modeles';
+  function ecrire1(g, defile) {
+    if (defile) {
+      g.tabIndex = 0;
+      var t = (g.closest ? g.closest('section') : g.parentNode).querySelector('.titre-section'); g.setAttribute('aria-label', 'Photos' + (t ? ' : ' + t.textContent.trim() : '') + ', à faire défiler');
+    } else { g.removeAttribute('tabindex'); g.removeAttribute('aria-label'); }
   }
-  regler(); window.addEventListener('resize', regler);
+  // toutes les largeurs d'abord, puis tous les attributs (une écriture avant la lecture suivante forçait la mise en page)
+  function regler1(liste) {
+    var d = liste.map(function (g) { return g.scrollWidth > g.clientWidth + 1; });
+    liste.forEach(function (g, i) { ecrire1(g, d[i]); });
+  }
+  function regler() { regler1(Array.prototype.slice.call(document.querySelectorAll(sel))); }
+  // (20/11/2026, PageSpeed « ajustement forcé ») premier réglage dans la réponse d'un ResizeObserver, juste après la mise
+  // en page du premier affichage et avant qu'il soit peint : la largeur est lue sans forcer de mise en page.
+  var gs = document.querySelectorAll(sel);
+  if (gs.length && 'ResizeObserver' in window) {
+    var ro = new ResizeObserver(function (es) { regler1(es.map(function (e) { return e.target; })); });
+    Array.prototype.forEach.call(gs, function (g) { ro.observe(g); });
+  } else regler();
+  // redimensionnement, section ouverte : réglage juste après la mise en page suivante (ResizeObserver tout juste posé, qui
+  // répond une fois), avant qu'elle soit peinte ; lire la largeur dans l'écouteur forçait la mise en page
+  var attente = false;
+  function apres() {
+    if (!('ResizeObserver' in window)) { regler(); return; }
+    if (attente) return; attente = true;
+    var r = new ResizeObserver(function () { r.disconnect(); attente = false; regler(); }); r.observe(document.documentElement);
+  }
+  window.addEventListener('resize', apres);
   /* une galerie dans une section repliée n'est mesurable qu'une fois la section ouverte */
-  Array.prototype.forEach.call(document.querySelectorAll('details.repli'), function (d) { d.addEventListener('toggle', regler); });
+  Array.prototype.forEach.call(document.querySelectorAll('details.repli'), function (d) { d.addEventListener('toggle', apres); });
 })();
 
 /* 86-sequence.js */
@@ -678,11 +708,16 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       for (i = 0; i < items.length; i++) { var x = items[i].offsetLeft + items[i].offsetWidth / 2, e = Math.abs(x - c); if (e < best) { best = e; m = i; } }
       return m;
     }
-    function maj() {
-      var defile = liste.scrollWidth > liste.clientWidth + 1; barre.hidden = !defile; if (!defile) return;
-      var i = courant(); if (rang.textContent !== String(i + 1)) rang.textContent = i + 1;   /* n'annonce que si le numéro change */
+    /* (20/11/2026, PageSpeed « ajustement forcé ») lectures puis écritures ; la barre est sous la liste : l'afficher ne
+       change pas la liste. */
+    function lire() { var d = liste.scrollWidth > liste.clientWidth + 1; return { defile: d, i: d ? courant() : 0 }; }
+    function ecrire(e) {
+      barre.hidden = !e.defile; if (!e.defile) return;
+      var i = e.i; if (rang.textContent !== String(i + 1)) rang.textContent = i + 1;   /* n'annonce que si le numéro change */
       bs[0].disabled = i === 0; bs[1].disabled = i === items.length - 1;
     }
+    function maj() { ecrire(lire()); }
+    liste._fiche = { lire: lire, ecrire: ecrire };
     Array.prototype.forEach.call(bs, function (b) { b.addEventListener('click', function () {
       var i = Math.max(0, Math.min(items.length - 1, courant() + (+b.getAttribute('data-sens'))));
       var doux = !(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches);
@@ -691,8 +726,34 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       if (!('scrollBehavior' in document.documentElement.style)) liste.scrollLeft = x;
     }); });
     var attente; liste.addEventListener('scroll', function () { clearTimeout(attente); attente = setTimeout(maj, 180); }, { passive: true });
-    window.addEventListener('resize', maj); maj();
+    window.addEventListener('resize', apres);
   });
+  // redimensionnement : réglage juste après la mise en page suivante (ResizeObserver tout juste posé, qui répond une fois),
+  // avant qu'elle soit peinte ; lire les largeurs dans l'écouteur forçait la mise en page
+  var enAttente = false;
+  function apres() {
+    if (!('ResizeObserver' in window)) { listes.forEach(function (l) { l._fiche.ecrire(l._fiche.lire()); }); return; }
+    if (enAttente) return; enAttente = true;
+    var r = new ResizeObserver(function () {
+      r.disconnect(); enAttente = false;
+      var l = listes.map(function (x) { return [x._fiche, x._fiche.lire()]; });
+      l.forEach(function (x) { x[0].ecrire(x[1]); });
+    });
+    r.observe(document.documentElement);
+  }
+  /* (20/11/2026, PageSpeed « ajustement forcé ») premier réglage dans la réponse d'un ResizeObserver, après la mise en page
+     du premier affichage et avant qu'il soit peint : toutes les listes sont lues, puis réglées. */
+  var listes = [];
+  Array.prototype.forEach.call(document.querySelectorAll('[data-fleches]'), function (barre) {
+    var l = barre.parentNode.querySelector('.fiche-photos, .modeles'); if (l && l._fiche && listes.indexOf(l) < 0) listes.push(l);
+  });
+  if ('ResizeObserver' in window) {
+    var ro = new ResizeObserver(function (es) {
+      var l = es.map(function (e) { var c = e.target._fiche; return [c, c.lire()]; });
+      l.forEach(function (x) { x[0].ecrire(x[1]); });
+    });
+    listes.forEach(function (l) { ro.observe(l); });
+  } else listes.forEach(function (l) { l._fiche.ecrire(l._fiche.lire()); });
 })();
 
 /* 88-catalogue.js */
@@ -765,19 +826,30 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     }
     /* annonce aux lecteurs d'écran seulement après un bouton ou une touche (pas à chaque arrêt du défilement) */
     function annoncer() { parler = true; }
-    function maj() {
-      var defile = max() > 1;
-      if (cmd) cmd.hidden = !defile;
-      if (barre) barre.hidden = !defile;
-      if (!defile) return;
-      var v = visibles(), t = v[0] === v[1] ? String(v[0] + 1) : (v[0] + 1) + '–' + (v[1] + 1);
+    /* (20/11/2026, PageSpeed « ajustement forcé ») lectures (lire) séparées des écritures (ecrire) : plusieurs rangées sont
+       mesurées d'abord, puis réglées, sans que l'écriture d'une rangée force la mise en page pour la lecture de la suivante.
+       Les commandes et la barre sont hors de la rangée : les montrer ne change ni sa largeur ni sa position de défilement. */
+    function lire() {
+      var m = max(), e = { defile: m > 1 };
+      if (!e.defile) return e;
+      e.v = visibles(); e.sl = liste.scrollLeft; e.m = m;
+      e.part = Math.min(1, (liste.scrollLeft + liste.clientWidth) / liste.scrollWidth).toFixed(4);
+      return e;
+    }
+    function ecrire(e) {
+      if (cmd) cmd.hidden = !e.defile;
+      if (barre) barre.hidden = !e.defile;
+      if (!e.defile) return;
+      var v = e.v, t = v[0] === v[1] ? String(v[0] + 1) : (v[0] + 1) + '–' + (v[1] + 1);
       if (rang && rang.textContent !== t) rang.textContent = t;
       if (parler && annonce) { parler = false; annonce.textContent = (v[0] === v[1] ? 'Photo ' + (v[0] + 1) : 'Photos ' + (v[0] + 1) + ' à ' + (v[1] + 1)) + ' sur ' + items.length; }
       // (19/11/2026, vérification adverse) aria-disabled plutôt que disabled : un bouton désactivé perdait le focus clavier
       // (renvoyé sur la page) au bout de la rangée.
-      if (bs.length === 2) { bs[0].setAttribute('aria-disabled', liste.scrollLeft <= 2 ? 'true' : 'false'); bs[1].setAttribute('aria-disabled', liste.scrollLeft >= max() - 2 ? 'true' : 'false'); }
-      if (barre) barre.firstElementChild.style.setProperty('--part', Math.min(1, (liste.scrollLeft + liste.clientWidth) / liste.scrollWidth).toFixed(4));
+      if (bs.length === 2) { bs[0].setAttribute('aria-disabled', e.sl <= 2 ? 'true' : 'false'); bs[1].setAttribute('aria-disabled', e.sl >= e.m - 2 ? 'true' : 'false'); }
+      if (barre) barre.firstElementChild.style.setProperty('--part', e.part);
     }
+    function maj() { ecrire(lire()); }
+    liste._catalogue = { lire: lire, ecrire: ecrire };
     Array.prototype.forEach.call(bs, function (b) {
       b.addEventListener('click', function () { if (b.getAttribute('aria-disabled') === 'true') return; annoncer(); aller(voisine(+b.getAttribute('data-sens'))); });
     });
@@ -797,8 +869,18 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       clearTimeout(attente); attente = setTimeout(maj, 120);
     }, { passive: true });
     window.addEventListener('resize', function () { clearTimeout(attente); attente = setTimeout(maj, 150); });
-    maj();
   });
+  /* (20/11/2026, PageSpeed « ajustement forcé ») premier réglage dans la réponse d'un ResizeObserver, juste après la mise en
+     page du premier affichage et avant qu'il soit peint (avant : pendant l'exécution du script, ce qui forçait la mise en
+     page) ; toutes les rangées sont lues, puis toutes réglées. Il suit aussi les changements de taille d'une rangée. */
+  var listes = Array.prototype.filter.call(document.querySelectorAll('[data-catalogue] .catalogue-liste'), function (l) { return l._catalogue; });
+  if ('ResizeObserver' in window) {
+    var ro = new ResizeObserver(function (es) {
+      var l = es.map(function (e) { var c = e.target._catalogue; return [c, c.lire()]; });
+      l.forEach(function (x) { x[0].ecrire(x[1]); });
+    });
+    listes.forEach(function (l) { ro.observe(l); });
+  } else listes.forEach(function (l) { l._catalogue.ecrire(l._catalogue.lire()); });
 })();
 
 /* 89-espace.js */
@@ -946,7 +1028,15 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 
   // la section teintée d'un enfant de <main> : lui-même, ou celle qu'il enveloppe (section repliée, <details class="repli">)
   function teintee(el) { return el.classList.contains('teinte') ? el : el.querySelector(':scope > .teinte[data-teinte]'); }
-  if (contenu && contenu.querySelector(':scope > .teinte[data-teinte], :scope > .repli > .teinte[data-teinte]')) {
+  // --teinte-section est posée dans l'attribut style par outils/fabriquer.py (gabarits/page.html, composants/modeles.html) :
+  // la lire là évite de calculer le style d'une section repliée (<details> fermé) ; getComputedStyle reste le repli.
+  function teinteDe(e) { return e.style.getPropertyValue('--teinte-section') || getComputedStyle(e).getPropertyValue('--teinte-section'); }
+  // (20/11/2026, PageSpeed « ajustement forcé de la mise en page ») les teintes (getComputedStyle) et les positions ne sont
+  // plus lues pendant l'exécution du script : le premier passage de maj() se fait dans la réponse d'un ResizeObserver,
+  // juste après la mise en page du premier affichage et avant qu'il soit peint. Le premier affichage a donc la même teinte
+  // qu'avant, sans recalcul forcé. Dans chaque passage : toutes les lectures, puis toutes les écritures.
+  var aTeintes = !!(contenu && contenu.querySelector(':scope > .teinte[data-teinte], :scope > .repli > .teinte[data-teinte]'));
+  function preparerZones() {
     var parDefaut = lireCouleur(getComputedStyle(contenu).getPropertyValue('--fond'));
     Array.prototype.forEach.call(contenu.children, function (el) {
       if (/^(SCRIPT|TEMPLATE|STYLE|LINK)$/.test(el.tagName)) return;
@@ -958,17 +1048,17 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       if (sous.length) {
         Array.prototype.forEach.call(sous, function (e, k) {
           zones.push({ el: e, t: k ? null : t, bloc: el, premier: k === 0, dernier: k === sous.length - 1,
-                       c: lireCouleur(getComputedStyle(e).getPropertyValue('--teinte-section')) });
+                       c: lireCouleur(teinteDe(e)) });
         });
         return;
       }
-      zones.push({ el: el, t: t, c: t ? lireCouleur(getComputedStyle(t).getPropertyValue('--teinte-section')) : parDefaut });
+      zones.push({ el: el, t: t, c: t ? lireCouleur(teinteDe(t)) : parDefaut });
     });
     if (zones.some(function (z) { return !z.c; })) zones = [];   // teinte illisible : on garde le repli sans script
     if (!zones.length) fondus = [];
   }
   var vues = [];     // les zones rendues (hauteur non nulle), dans l'ordre de la page
-  var hauteur = window.innerHeight;
+  var hauteur = 0;   // window.innerHeight, lu au premier passage de maj()
   // Une suite de zones sombres entre deux zones claires, plus courte que l'écran, ne fait pas basculer la page : deux
   // bascules en quelques secondes clignoteraient (revue « élégance » du 18/11, surtout en 390). Elle se peint alors
   // elle-même (.teinte-propre, design/49-mouvement.css) et le fond de page glisse d'une zone claire à l'autre.
@@ -997,7 +1087,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       if (i > 0 && k + 1 < rendues.length && rendues[k].bas - rendues[i].haut < hauteur) propres = propres.concat(rendues.slice(i, k + 1));
       i = k;
     }
-    zones.forEach(function (z) { if (z.t) z.t.classList.toggle('teinte-propre', propres.indexOf(z) >= 0); });
+    zones.forEach(function (z) { z.propre = propres.indexOf(z) >= 0; });   // écrit par ecrireMesure()
     vues = rendues.filter(function (z) { return propres.indexOf(z) < 0; });
     if (!vues.length) vues = zones.slice(0, 1);
     // Bandes de fondu (design/49-mouvement.css) : la bascule entre deux zones de familles différentes a lieu au milieu de la
@@ -1014,9 +1104,16 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     var cap = 0.75 * hauteur;
     fondus.forEach(function (f, j) {
       var avant = j ? fondus[j - 1].bas : 0, apres = j + 1 < fondus.length ? fondus[j + 1].haut : Infinity;
-      var h = Math.round(Math.max(0, Math.min(cap, f.haut - avant))) + 'px', b = Math.round(Math.max(0, Math.min(cap, apres - f.bas))) + 'px';
-      if (f.h !== h) { f.el.style.setProperty('--fondu-haut', h); f.h = h; }
-      if (f.b !== b) { f.el.style.setProperty('--fondu-bas', b); f.b = b; }
+      f.hv = Math.round(Math.max(0, Math.min(cap, f.haut - avant))) + 'px'; f.bv = Math.round(Math.max(0, Math.min(cap, apres - f.bas))) + 'px';
+    });
+  }
+  // écritures de mesurer(), faites après toutes les lectures de l'image (avant : écrites au milieu, ce qui forçait un
+  // recalcul de style à la lecture suivante)
+  function ecrireMesure() {
+    zones.forEach(function (z) { if (z.t) z.t.classList.toggle('teinte-propre', z.propre); });
+    fondus.forEach(function (f) {
+      if (f.h !== f.hv) { f.el.style.setProperty('--fondu-haut', f.hv); f.h = f.hv; }
+      if (f.b !== f.bv) { f.el.style.setProperty('--fondu-bas', f.bv); f.b = f.bv; }
     });
   }
   // Rangée défilant à l'horizontale : la teinte suit le modèle au milieu de la rangée, et glisse de l'un à l'autre pendant
@@ -1112,31 +1209,46 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   }
   regler();
 
-  if (!zones.length && !plans.length && !ouverture) return;
-  var demande = false, aMesurer = true;
+  if (!aTeintes && !plans.length && !ouverture) return;
+  var demande = false, aMesurer = true, pret = false, classes = false, aHauteur = true;
   function maj() {
     demande = false;
     // lectures
-    if (zones.length && aMesurer) { mesurer(); aMesurer = false; }   // (écrit seulement des classes, avant toute teinte)
+    if (aHauteur) { aHauteur = false; hauteur = window.innerHeight; }
+    if (!pret) { pret = true; if (aTeintes) preparerZones(); }
+    var mesure = zones.length && aMesurer;
+    if (mesure) { mesurer(); aMesurer = false; }
     if (zones.length) suivreRangees();
     var y = window.scrollY, valeurs = plans.length && !reduit.matches ? lirePlans() : [];
     // écritures
+    if (zones.length && !classes) {
+      classes = true;
+      racine.classList.add('teintes-continues');
+      if (fondus.length) racine.classList.add('teintes-fondues');   // l'encre suit chaque section (design/49-mouvement.css)
+    }
+    if (mesure) ecrireMesure();   // (classes de section et aplats, avant toute teinte)
     if (zones.length) peindre(y);
     valeurs.forEach(function (v) { v[0].style.setProperty('--p', v[1]); });
     if (parallaxe && y < hauteur) ouverture.style.transform = 'translateY(' + (y * 0.28) + 'px)';
   }
   function planifier() { if (!demande) { demande = true; requestAnimationFrame(maj); } }
   function remesurer() { aMesurer = true; planifier(); }
+  // Premier passage et chaque changement de taille de la page (photos chargées, polices, volets ouverts) : dans la réponse
+  // du ResizeObserver, la mise en page est déjà à jour, les lectures ne forcent rien ; la page est peinte juste après.
+  var suivi = 'ResizeObserver' in window ? new ResizeObserver(function () { aMesurer = true; maj(); }) : null;
+  // Redimensionnement et fin du chargement : prochain passage par ce même observateur (observer à nouveau le fait répondre
+  // une fois, juste après la mise en page suivante ; un seul passage même si la page change aussi de taille), sinon à
+  // l'image suivante. Lire la hauteur de la fenêtre dans l'écouteur forçait la mise en page (mesuré : page salon, téléphone).
+  function apres() {
+    aMesurer = true;
+    if (!suivi) { planifier(); return; }
+    suivi.unobserve(document.body); suivi.observe(document.body);
+  }
   // capture : reçoit aussi le défilement horizontal des rangées (l'événement « scroll » d'un élément ne remonte pas)
   addEventListener('scroll', planifier, { passive: true, capture: true });
-  addEventListener('resize', function () { hauteur = window.innerHeight; regler(); remesurer(); });
+  addEventListener('resize', function () { aHauteur = true; regler(); apres(); });
   if (reduit.addEventListener) reduit.addEventListener('change', function () { regler(); remesurer(); });
   if (large.addEventListener) large.addEventListener('change', function () { regler(); planifier(); });
-  if (zones.length) {
-    racine.classList.add('teintes-continues');
-    if (fondus.length) racine.classList.add('teintes-fondues');   // l'encre suit chaque section (design/49-mouvement.css)
-    if ('ResizeObserver' in window) new ResizeObserver(remesurer).observe(document.body);   // photos chargées, volets ouverts
-    addEventListener('load', remesurer);
-  }
-  maj();
+  if (suivi) suivi.observe(document.body); else planifier();
+  if (aTeintes) addEventListener('load', apres);
 })();
