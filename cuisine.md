@@ -23,20 +23,6 @@ Conçues avec vous à partir des mesures de votre pièce, livrées et installée
 - Conçues et fabriquées en Italie
 - Garantie cinq ans
 
-Réalisations
-
-## Une cuisine Stosa en images
-
-Découvrez en vidéo la première cuisine Stosa livrée par FONY.
-
-[Découvrir le projet](https://fony.be/realisation-premiere-cuisine-stosa)
-
-- ### La première cuisine Stosa
-
-  [Ouvrir sur Instagram](https://www.instagram.com/reel/Df7Ob6Hs7NU/)
-
-Vidéo hébergée par Instagram (Meta) : son lecteur ne se charge qu’après votre clic. [En savoir plus](https://fony.be/confidentialite#cookies)
-
 La gamme Stosa
 
 ## Quatre familles, 1 000 finitions.
@@ -170,6 +156,24 @@ Photo  1 / 6
 Photos Stosa. Toutes les collections sur commande.
 
 [Voir les échantillons au magasin](https://fony.be/magasin-contact)
+
+Réalisations
+
+## Une cuisine Stosa en images
+
+C’est la première cuisine Stosa que nous avons livrée. Un modèle Kaya, avec un plan de travail en compact.
+
+[Découvrir le projet](https://fony.be/realisation-premiere-cuisine-stosa)
+
+(Photo : Cuisine Stosa Kaya : péninsule au décor bois avec tabourets, sous des vitrines suspendues à cadre noir éclairées)
+
+Photo Stosa : le modèle Kaya. La vidéo montre la cuisine livrée.
+
+- ### La première cuisine Stosa
+
+  [Ouvrir sur Instagram](https://www.instagram.com/reel/Df7Ob6Hs7NU/)
+
+Vidéo hébergée par Instagram (Meta) : son lecteur ne se charge qu’après votre clic. [En savoir plus](https://fony.be/confidentialite#cookies)
 
 Sous les façades
 

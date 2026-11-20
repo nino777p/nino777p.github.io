@@ -24,96 +24,33 @@ Salons, tables et literie à voir et à essayer au magasin ; cuisines et sur m
 - Première visite et conseil offerts
 - Du lundi au samedi, avec ou sans rendez-vous
 
-Venir au magasin
-
-## Parlons de votre intérieur.
-
-### Horaires
-
-Lun.
-:   13h30 – 18h30
-
-Mar.–sam.
-:   10h30 – 18h30
-
-Dim.
-:   Fermé
-
-### Adresse
-
-[Route de Charleroi 160/1
-7134 Leval-Trahegnies (itinéraire, nouvel onglet)](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
-
-Entre Binche et La Louvière. Parking facile d’accès. [Voir les trajets jusqu’au magasin](https://fony.be/magasin-meubles-pres-de-chez-vous).
-
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
-
-### Téléphone
-
-[064 46 07 72](tel:+3264460772)
-
 Les univers
 
 ## Trois univers, un intérieur qui vous ressemble.
 
-### Espace de vie
+À Leval-Trahegnies, entre Binche et La Louvière : salons, tables et literie à voir et à essayer ; cuisines et rangements à concevoir avec votre conseiller.
 
-Salon, salle à manger, séjour et cuisine.
+- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
-[Découvrir l’espace de vie](https://fony.be/espace-de-vie)
+  Espace de vie
 
-Photo  1 / 4
+  ### [Un lieu où l’on aime se retrouver.](https://fony.be/espace-de-vie)
 
-- (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)  (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)
+  Découvrir →
+- (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
-  [Ontario](https://fony.be/tables-akante-ontario) Akante · table en céramique
-- (Photo : Rendu du fabricant, vu de dessus : deux canapés Gala aux coussins souples, en tissu beige et taupe, autour de deux tables basses sur un tapis clair)  (Photo : Rendu du fabricant, vu de dessus : deux canapés Gala aux coussins souples, en tissu beige et taupe, autour de deux tables basses sur un tapis clair)
+  Espace nuit
 
-  [Gala](https://fony.be/salon-max-divani-gala) Max Divani · vu de dessus
-- (Photo : Coin du plateau en céramique marbrée, vu de dessus, avec une chaise en velours vert)  (Photo : Coin du plateau en céramique marbrée, vu de dessus, avec une chaise en velours vert)
+  ### [Un couchage qui vous convient.](https://fony.be/espace-nuit)
 
-  Gold Sedit · céramique marbrée
-- (Photo : Cuisine moderne Stosa Metropolis avec îlot central)  (Photo : Cuisine moderne Stosa Metropolis avec îlot central)
+  Découvrir →
+- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
-  Metropolis Stosa · cuisine à îlot central
+  Rangements et aménagement
 
-### Espace nuit
+  ### [Une solution adaptée à votre espace.](https://fony.be/rangements)
 
-Literie à essayer, chambre assortie.
-
-[Découvrir l’espace nuit](https://fony.be/espace-nuit)
-
-Photo  1 / 3
-
-- (Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)  (Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)
-
-  Velda Boxspring aux lignes nettes, pieds métal
-- (Photo : Tête de lit Fly en tissu, avec sa poche latérale où glisser un magazine)  (Photo : Tête de lit Fly en tissu, avec sa poche latérale où glisser un magazine)
-
-  Fly Velda · une poche dans la tête de lit
-- (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)  (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
-
-  Corinto Tomasella · lit tapissé et chevets
-
-### Rangements et aménagement
-
-Dressings et bibliothèques sur mesure.
-
-[Découvrir les rangements](https://fony.be/rangements)
-
-Photo  1 / 3
-
-- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)  (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
-
-  Dressing Tomasella · dressing ouvert
-- (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)  (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
-
-  Bibliothèque Tomasella · bibliothèque murale
-- (Photo : Échantillon Tomasella : chêne cannelé cognac)  (Photo : Échantillon Tomasella : chêne cannelé cognac)
-
-  Cannelé Tomasella · chêne cannelé cognac
-
-[Tout le catalogue](https://fony.be/catalogue)
+  Découvrir →
 
 Au magasin
 

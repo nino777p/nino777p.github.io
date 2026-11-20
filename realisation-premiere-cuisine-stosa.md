@@ -18,6 +18,10 @@ C’est la première cuisine Stosa que nous avons livrée. Un modèle Kaya, avec
 
 [Découvrir les cuisines Stosa](https://fony.be/cuisine)
 
+(Photo : Cuisine Stosa Kaya : péninsule au décor bois avec tabourets, sous des vitrines suspendues à cadre noir éclairées)
+
+Photo Stosa : le modèle Kaya. La vidéo montre la cuisine livrée.
+
 - ### La première cuisine Stosa
 
   [Ouvrir sur Instagram](https://www.instagram.com/reel/Df7Ob6Hs7NU/)
