@@ -6,7 +6,11 @@ Adresse de la page : https://fony.be/
 
 (Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 
+(Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
+
 (Photo : Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé)
+
+(Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
 
 (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
 

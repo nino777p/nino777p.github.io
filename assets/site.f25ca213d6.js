@@ -325,7 +325,8 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   var b = document.querySelector('[data-fondu]'); if (!b) return;
   var p = b.querySelectorAll('.ouverture-photo'); if (p.length < 2) return;
   try { if (matchMedia('(prefers-reduced-motion: reduce)').matches) return; } catch (e) {}
-  var i = 0, tours = 0, minuterie = null, fini = false, pret = false, enPause = false, bouton = document.createElement('button');
+  b.classList.add('montage');   // (20/11/2026) travelling sur la photo affichée (design/20-ouverture.css)
+  var i = 0, tours = 0, minuterie = null, fini = false, dernier = false, pret = false, enPause = false, bouton = document.createElement('button');
   bouton.type = 'button'; bouton.className = 'ouverture-pause'; bouton.textContent = 'Mettre en pause';
   bouton.setAttribute('aria-label', 'Mettre en pause les photos');
   // (19/11/2026, vérification adverse) placé à côté du calque des photos et non dedans : ce calque bouge avec la parallaxe
@@ -339,18 +340,38 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
       // aplat sombre) ; elle réessaie au tour suivant. La photo d'après est demandée dès qu'une photo s'affiche.
       var j = (i + 1) % p.length;
       if (!prete(j)) { poser(j); return; }
-      p[i].classList.remove('active'); i = j; p[i].classList.add('active'); poser((i + 1) % p.length);
+      // (20/11/2026, Codex R2) la photo sortante garde son travelling pendant son fondu (classe « sortante »)
+      var sortante = p[i]; sortante.classList.add('sortante'); sortante.classList.remove('active');
+      // retirée à la fin réelle de son fondu (pas au bout d'un délai fixe) : une pause qui fige le fondu la garde en mouvement figé
+      sortante.addEventListener('transitionend', function fin(e) {
+        if (e.propertyName !== 'opacity' || sortante.classList.contains('active')) return;
+        sortante.classList.remove('sortante'); sortante.removeEventListener('transitionend', fin);
+      });
+      i = j; p[i].classList.add('active'); poser((i + 1) % p.length);
       if (++tours >= p.length) {
-        clearInterval(minuterie); minuterie = null; fini = true;
-        if (document.activeElement === bouton) bouton.addEventListener('blur', retirer, { once: true }); else retirer();
+        // (20/11/2026, Codex R1) le tour est fini mais la première photo avance encore 7,4 s : le bouton reste utilisable
+        // jusqu'à la fin de ce dernier mouvement, puis tout s'arrête.
+        clearInterval(minuterie); minuterie = null; dernier = true;   // plus aucun changement de photo, même après une reprise
+        var im = p[i].querySelector('img');
+        var finir = function () {
+          fini = true;
+          if (document.activeElement === bouton) bouton.addEventListener('blur', retirer, { once: true }); else retirer();
+        };
+        if (im) im.addEventListener('animationend', finir, { once: true }); else finir();
       }
-    }, 6500);
+    }, 5600);   // (20/11/2026) photomontage : 5 photos, un peu plus rapide (5,6 s chacune, un seul tour : 28 s)
   }
   bouton.addEventListener('click', function () {
     if (fini) return;
     enPause = !enPause;
+    b.classList.toggle('pause', enPause);   // (20/11/2026) le travelling s'arrête aussi
+    // (20/11/2026, Codex R1) un fondu en cours se fige aussi : chaque photo garde son opacité du moment, puis reprend
+    Array.prototype.forEach.call(p, function (e) {
+      if (enPause) { e.style.opacity = getComputedStyle(e).opacity; e.style.transition = 'none'; }
+      else { e.style.opacity = ''; e.style.transition = ''; }
+    });
     if (enPause) { if (minuterie) { clearInterval(minuterie); minuterie = null; } }
-    else if (pret) demarrer();
+    else if (pret && !dernier) demarrer();
     bouton.textContent = enPause ? 'Reprendre' : 'Mettre en pause';
     bouton.setAttribute('aria-label', enPause ? 'Reprendre les photos' : 'Mettre en pause les photos');
   });

@@ -17,15 +17,35 @@ Un meuble donne parfois le premier élan. D’autres choix suivent. Dans ce jour
 
 ## Dans le journal
 
-- ### [Stosa · La première cuisine](https://fony.be/realisation-premiere-cuisine-stosa)
+- (Photo : Cuisine Stosa Kaya : péninsule au décor bois avec tabourets, sous des vitrines suspendues à cadre noir éclairées)
+
+  Photo d’illustration Stosa, modèle Kaya : pas la cuisine livrée
+
+  Cuisine
+
+  ### [Stosa · La première cuisine](https://fony.be/realisation-premiere-cuisine-stosa)
 
   La première cuisine Stosa livrée par FONY, à découvrir en vidéo dans le journal des intérieurs.
-- ### [Goliath · Le fil d’un séjour lumineux](https://fony.be/realisation-sejour-goliath)
+
+  Lire le récit →
+- Séjour
+
+  ### [Goliath · Le fil d’un séjour lumineux](https://fony.be/realisation-sejour-goliath)
 
   Une table Goliath d’Akante, des meubles Tomasella, puis une console. Le récit d’un séjour aménagé en deux temps avec FONY.
-- ### [Cattelan Italia · Une table prend place](https://fony.be/realisation-table-cattelan-italia)
+
+  Lire le récit →
+- (Photo : Grande table en céramique marbrée sur piètement croisé en métal, dans un séjour clair)
+
+  Photo d’illustration Cattelan Italia, table Tyron : pas la table livrée
+
+  Salle à manger
+
+  ### [Cattelan Italia · Une table prend place](https://fony.be/realisation-table-cattelan-italia)
 
   Une table Tyron de Cattelan Italia, plateau en céramique, à découvrir dans la salle à manger qui l’accueille.
+
+  Lire le récit →
 
 ## Parlons de votre projet.
 

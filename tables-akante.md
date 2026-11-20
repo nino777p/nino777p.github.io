@@ -156,11 +156,15 @@ Voir aussi
 
   [Voir la salle à manger](https://fony.be/tables-chaises)
 
-## Chez un client
+## Dans nos réalisations
 
-- ### [Goliath · Le fil d’un séjour lumineux](https://fony.be/realisation-sejour-goliath)
+- Séjour
+
+  ### [Goliath · Le fil d’un séjour lumineux](https://fony.be/realisation-sejour-goliath)
 
   Une table Goliath d’Akante, des meubles Tomasella, puis une console. Le récit d’un séjour aménagé en deux temps avec FONY.
+
+  Lire le récit →
 
 ## Venez voir nos tables au magasin.
 

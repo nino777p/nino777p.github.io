@@ -108,11 +108,19 @@ Voir aussi
 
   [Voir la salle à manger](https://fony.be/tables-chaises)
 
-## Chez un client
+## Dans nos réalisations
 
-- ### [Cattelan Italia · Une table prend place](https://fony.be/realisation-table-cattelan-italia)
+- (Photo : Grande table en céramique marbrée sur piètement croisé en métal, dans un séjour clair)
+
+  Photo d’illustration Cattelan Italia, table Tyron : pas la table livrée
+
+  Salle à manger
+
+  ### [Cattelan Italia · Une table prend place](https://fony.be/realisation-table-cattelan-italia)
 
   Une table Tyron de Cattelan Italia, plateau en céramique, à découvrir dans la salle à manger qui l’accueille.
+
+  Lire le récit →
 
 ## Composons votre salle à manger Cattelan Italia.
 
