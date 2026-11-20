@@ -82,7 +82,7 @@ Au magasin et sur catalogue
 
    Deux places et trois places en cuir, une place relax ouverte.
 
-   [Dimensions et versions de Osaka](https://fony.be/salon-max-divani-osaka)
+   [Dimensions et versions d’Osaka](https://fony.be/salon-max-divani-osaka)
 6. (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
 
    06
@@ -102,7 +102,7 @@ Au magasin et sur catalogue
 
    Appuie-têtes réglables, en deux ou trois places, avec chaise longue ou en angle.
 
-   [Dimensions et versions de Emu](https://fony.be/salon-max-divani-emu)
+   [Dimensions et versions d’Emu](https://fony.be/salon-max-divani-emu)
 8. (Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
 
    08

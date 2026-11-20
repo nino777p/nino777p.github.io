@@ -1,4 +1,4 @@
-# Première cuisine Stosa · Réalisations FONY
+# Première cuisine Stosa · Réalisations Fony Meubles
 
 > La première cuisine Stosa livrée par FONY, à découvrir en vidéo dans le journal des intérieurs.
 

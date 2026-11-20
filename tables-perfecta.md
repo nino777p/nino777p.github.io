@@ -1,6 +1,6 @@
-# Perfecta, tables et chaises à composer près de Binche — Fony
+# Tables et chaises Perfecta, revendeur à Binche — Fony Meubles
 
-> Tables Perfecta Canvas, Onyx et Vienna : forme, dimensions, plateau et pied au choix, chaises assorties. À composer chez Fony Meubles, près de Binche.
+> Tables Perfecta Canvas, Onyx et Vienna : forme, dimensions, plateau et pied au choix, chaises assorties. Fony Meubles, revendeur Perfecta près de Binche.
 
 Adresse de la page : https://fony.be/tables-perfecta
 
@@ -12,9 +12,9 @@ Adresse de la page : https://fony.be/tables-perfecta
 2. [Salle à manger](https://fony.be/tables-chaises)
 3. Perfecta
 
-Tables et chaises à composer
+À composer, avec leurs chaises
 
-# Perfecta
+# Tables Perfecta
 
 Une table dont vous choisissez la forme, les dimensions, le plateau et le pied, avec les chaises qui vont avec. Nous la composons avec vous au magasin.
 
@@ -94,6 +94,19 @@ Le pied et le revêtement se choisissent pour s’accorder à la table. Nous pro
 
   En parler au magasin
 
+Avec nous, au magasin
+
+## Composer sa table Perfecta.
+
+Revendeur Perfecta, nous composons votre table avec vous, au magasin de Leval-Trahegnies, près de Binche.
+
+- ### Le conseil
+
+  Vous venez avec ou sans rendez-vous. Nous partons de votre pièce et du nombre de convives pour retenir la forme et le format de la table.
+- ### La commande et la livraison
+
+  La table se commande dans la forme, les dimensions, le plateau et le pied retenus, avec les chaises assorties. La livraison et l’installation sont assurées par nos soins.
+
 Vos questions
 
 ## Avant de composer.
@@ -124,6 +137,11 @@ Voir aussi
   Des tables en céramique au design affirmé.
 
   [Voir les tables Cattelan](https://fony.be/tables-cattelan)
+- ### Capodarte
+
+  Tables, chaises et décoration, d’une marque italienne.
+
+  [Voir Capodarte](https://fony.be/capodarte)
 - ### Toutes nos tables
 
   Et les chaises qui vont avec.

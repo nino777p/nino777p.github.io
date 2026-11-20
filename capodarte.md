@@ -1,4 +1,4 @@
-# Capodarte : tables, chaises et décoration près de Binche — Fony
+# Capodarte : tables, chaises et décoration — Fony Meubles
 
 > Capodarte, marque italienne du Ciciriello Group : tables, chaises, buffets, miroirs et horloges. Une partie au magasin, le reste sur catalogue, près de Binche.
 

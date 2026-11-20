@@ -77,7 +77,7 @@ Ambiances Max Divani
 
   [Découvrir Gala](https://fony.be/salon-max-divani-gala)
 
-Le revêtement se choisit modèle par modèle, échantillons en main, avec une photo de votre pièce.
+Le revêtement se choisit modèle par modèle, échantillons en main, avec une photo de votre pièce. À côté du canapé, le fauteuil [Dana](https://fony.be/salon-max-divani-dana), fixe ou pivotant, se choisit lui aussi en cuir ou en tissu.
 
 La matière
 
@@ -96,7 +96,7 @@ La matière
 - (Photo : Échantillon de cuir Texas Max Divani, teinte vert, grain visible)
 - (Photo : Échantillon de cuir Texas Max Divani, teinte bleu nuit, grain visible)
 
-Douze des 24 coloris du cuir Texas de Max Divani. Les couleurs varient selon l’écran : voyez-les sur échantillon, au magasin.
+Douze des 24 coloris du cuir Texas de Max Divani. Les couleurs varient selon l’écran : voyez-les sur échantillon, au magasin. Pour accorder le canapé au reste de la pièce, nos repères sont dans [les tendances](https://fony.be/tendances).
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite)
 
@@ -146,6 +146,8 @@ Autour du canapé
   ### [La bibliothèque](https://fony.be/living)
 
   Dans les finitions du séjour.
+
+Le salon, la table, le séjour et la cuisine se pensent ensemble : la suite se trouve dans l’[espace de vie](https://fony.be/espace-de-vie).
 
 Vos questions
 

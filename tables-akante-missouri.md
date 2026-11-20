@@ -1,4 +1,4 @@
-# Akante Missouri, grande table céramique 12 places — Fony
+# Akante Missouri, table céramique 12 places — Fony Meubles
 
 > Table Akante Missouri : céramique marbrée, deux rallonges indépendantes, 150 ou 190 cm fermée, jusqu’à 270 cm et 12 places. Fony Meubles, près de Binche.
 
@@ -98,6 +98,7 @@ Voir aussi
 - [Les tables Akante](https://fony.be/tables-akante)
 - [Akante Phoenix](https://fony.be/tables-akante-phoenix)
 - [Akante Kheops](https://fony.be/tables-akante-kheops)
+- [Akante Ontario](https://fony.be/tables-akante-ontario)
 
 ## Parlons de votre projet.
 

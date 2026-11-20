@@ -102,6 +102,11 @@ Voir aussi
   Des rallonges qui s’ouvrent en un geste.
 
   [Voir les tables Akante](https://fony.be/tables-akante)
+- ### Perfecta
+
+  Des tables à composer, avec leurs chaises.
+
+  [Voir les tables Perfecta](https://fony.be/tables-perfecta)
 - ### Toutes nos tables
 
   Et les chaises qui vont avec.

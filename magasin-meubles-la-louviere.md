@@ -31,17 +31,22 @@ Pour venir
 
 - ### Le trajet
 
-  Comptez environ 12 km et un quart d’heure depuis le centre de La Louvière, selon la circulation : par la N27, puis la N55 en direction de Binche. Le magasin est sur la N90, la route de Charleroi. Depuis Saint-Vaast, comptez environ 8 min ; depuis Strépy-Bracquegnies, environ 11 min ; depuis Morlanwelz, environ 12 min ; depuis Chapelle-lez-Herlaimont, environ 17 min. Ces temps s’entendent hors embouteillages.
+  Comptez environ 12 km et un quart d’heure depuis le centre de La Louvière, selon la circulation : par la N27, puis la N55 en direction de Binche. Le magasin est sur la N90, la route de Charleroi, à deux kilomètres de la N55. Depuis Saint-Vaast, comptez environ 8 min ; depuis Strépy-Bracquegnies, environ 11 min ; depuis Morlanwelz, environ 12 min ; depuis Chapelle-lez-Herlaimont, environ 17 min. Ces temps s’entendent hors embouteillages.
 
   [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Sur place
 
-  Le parking est facile d’accès. Vous venez quand vous voulez pendant les heures d’ouverture, avec ou sans rendez-vous.
+  Le parking est facile d’accès. Vous venez quand vous voulez pendant les heures d’ouverture, avec ou sans rendez-vous. La plupart de nos clients habitent à moins de quinze kilomètres : on vient s’asseoir, comparer, et l’on revient quand on a réfléchi.
 
   [Horaires et contact](https://fony.be/magasin-contact)
 - ### La livraison
 
   Nous livrons et installons nous-mêmes à La Louvière et dans les communes voisines : Manage, Morlanwelz, Chapelle-lez-Herlaimont, Seneffe, Soignies.
+- ### Chez vous
+
+  Pour un projet sur mesure ou une pièce difficile à meubler, nous venons prendre les mesures chez vous. Demandez-le avec le formulaire.
+
+  [Demander une visite](https://fony.be/magasin-contact#visite)
 
 Au magasin
 

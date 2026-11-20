@@ -1,6 +1,6 @@
-# Akante, tables extensibles à Binche — Fony Meubles
+# Tables Akante en céramique, revendeur à Binche — Fony Meubles
 
-> Tables extensibles Akante, à rallonge intégrée et plateaux en céramique : à voir au magasin de Leval-Trahegnies, près de Binche.
+> Tables Akante extensibles, à rallonge intégrée et plateaux en céramique. Fony Meubles, revendeur Akante à Leval-Trahegnies, près de Binche.
 
 Adresse de la page : https://fony.be/tables-akante
 
@@ -12,9 +12,9 @@ Adresse de la page : https://fony.be/tables-akante
 2. [Salle à manger](https://fony.be/tables-chaises)
 3. Akante
 
-Tables à rallonge
+Rallonge intégrée, plateau en céramique
 
-# Akante
+# Tables Akante
 
 Rallonge centrale, latérales synchronisées ou indépendantes : choisissez la table selon votre espace et le nombre de convives.
 
@@ -72,7 +72,7 @@ La collection
 
    Oblongue fermée, ronde ouverte : de 135 à 190 cm de diamètre.
 
-   [Dimensions et versions de Austin](https://fony.be/tables-akante-austin)
+   [Dimensions et versions d’Austin](https://fony.be/tables-akante-austin)
 6. (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)
 
    06
@@ -81,7 +81,7 @@ La collection
 
    Rectangulaire, deux rallonges indépendantes : jusqu’à 3 mètres en Grande Ontario.
 
-   [Dimensions et versions de Ontario](https://fony.be/tables-akante-ontario)
+   [Dimensions et versions d’Ontario](https://fony.be/tables-akante-ontario)
 7. (Photo : Table Akante Influence fermée sur fond blanc : plateau rectangulaire en céramique marbrée, pied central à branches en acier noir)
 
    07
@@ -90,7 +90,7 @@ La collection
 
    Rectangulaire sur pied central, deux rallonges indépendantes, pied noir ou taupe.
 
-   [Dimensions et versions de Influence](https://fony.be/tables-akante-influence)
+   [Dimensions et versions d’Influence](https://fony.be/tables-akante-influence)
 8. (Photo : Table Akante Vancouver fermée sur fond blanc : plateau en céramique marbrée blanche, pied central à branches en acier noir)
 
    08
@@ -100,6 +100,27 @@ La collection
    Rallonge centrale automatique, bords arrondis, pied central à branches.
 
    [Dimensions et versions de Vancouver](https://fony.be/tables-akante-vancouver)
+
+Avec nous, au magasin
+
+## Choisir sa table Akante.
+
+Fony Meubles est revendeur Akante. Votre table se choisit avec nous, au magasin de Leval-Trahegnies, près de Binche, de la première visite à la livraison.
+
+- ### Le conseil
+
+  La première visite et le conseil sont offerts, avec ou sans rendez-vous. Notre équipe part de votre pièce et du nombre de convives pour vous orienter vers un modèle.
+- ### Les dimensions
+
+  Apportez les dimensions de votre pièce et, si vous le pouvez, quelques photos. Une table à rallonge se compare fermée, puis ouverte : notre page sur les [tables extensibles en céramique](https://fony.be/tables-extensibles-ceramique) met les modèles côte à côte.
+- ### Le plateau
+
+  La finition du plateau en céramique se choisit avec nous. Pour accorder une pierre veinée à votre sol et à votre lumière, nos repères sont dans [les tendances](https://fony.be/tendances).
+- ### La commande et la livraison
+
+  Une fois le modèle retenu, la table se commande dans les dimensions et la finition choisies. Nous la livrons et l’installons nous-mêmes.
+
+Vous préférez composer la forme, le plateau et le pied de votre table ? Les [tables Perfecta](https://fony.be/tables-perfecta) se composent ainsi, avec leurs chaises assorties.
 
 Devant le canapé
 
@@ -150,6 +171,11 @@ Voir aussi
   Céramique ou bois, fabriquées en Italie.
 
   [Voir les tables Sedit](https://fony.be/tables-sedit)
+- ### Perfecta
+
+  Des tables à composer, avec leurs chaises.
+
+  [Voir les tables Perfecta](https://fony.be/tables-perfecta)
 - ### Toutes nos tables
 
   Et les chaises qui vont avec.

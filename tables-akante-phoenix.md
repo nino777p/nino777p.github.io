@@ -1,4 +1,4 @@
-# Akante Phoenix, table céramique à rallonge centrale — Fony
+# Akante Phoenix, table céramique à rallonge — Fony Meubles
 
 > Table Akante Phoenix : plateau en céramique, rallonge centrale, 160 ou 200 cm (210 ou 260 cm ouverte), pied en étoile. Chez Fony Meubles, près de Binche.
 
@@ -98,6 +98,7 @@ Voir aussi
 - [Les tables Akante](https://fony.be/tables-akante)
 - [Akante Kheops](https://fony.be/tables-akante-kheops)
 - [Akante Missouri](https://fony.be/tables-akante-missouri)
+- [Akante Vancouver](https://fony.be/tables-akante-vancouver)
 
 ## Parlons de votre projet.
 

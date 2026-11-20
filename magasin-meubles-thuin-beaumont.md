@@ -31,12 +31,12 @@ Pour venir
 
 - ### Le trajet
 
-  Depuis Thuin, comptez environ 14 km et 19 min par la N59, puis la N90 ; depuis Lobbes, environ 15 min. Depuis Beaumont, comptez 26 km et environ 30 min par la N40, puis la N55 en direction de Binche. Merbes-le-Château est à environ 16 min, Erquelinnes à environ 23 min. De l’autre côté de la frontière, Jeumont est à environ 24 min.
+  Le magasin est sur la N90, entre Binche et Anderlues. Depuis Thuin, comptez environ 14 km et 19 min par la N59, puis la N90 ; depuis Lobbes, environ 15 min. Depuis Beaumont, comptez 26 km et environ 30 min par la N40, puis la N55 en direction de Binche. Merbes-le-Château est à environ 16 min, Erquelinnes à environ 23 min. De l’autre côté de la frontière, Jeumont est à environ 24 min et Marpent à environ 27 min. Ces temps s’entendent hors embouteillages.
 
   [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
-- ### Sur place
+- ### Préparer la visite
 
-  Le parking est facile d’accès. Vous venez quand vous voulez pendant les heures d’ouverture, avec ou sans rendez-vous.
+  Depuis Beaumont ou depuis la frontière, la route est un peu plus longue : vous pouvez nous décrire votre projet à l’avance, nous préparons votre venue. Vous venez avec ou sans rendez-vous, pendant les heures d’ouverture ; le parking est facile d’accès.
 
   [Horaires et contact](https://fony.be/magasin-contact)
 - ### La livraison

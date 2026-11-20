@@ -1,4 +1,4 @@
-# Akante Austin, table céramique ronde extensible — Fony
+# Akante Austin, table céramique ronde extensible — Fony Meubles
 
 > Table Akante Austin : oblongue fermée, ronde ouverte, plateau en céramique, de 135 à 190 cm de diamètre, jusqu’à 10 places. Fony Meubles, près de Binche.
 

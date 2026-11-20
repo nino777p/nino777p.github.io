@@ -53,7 +53,7 @@ Dressing
 
 ### Quand la pièce a ses contraintes.
 
-Un dressing ouvert, un recoin, une sous-pente, un mur aux dimensions particulières : le sur mesure prend le relais.
+Un dressing ouvert, un recoin, une sous-pente, un mur aux dimensions particulières : le sur mesure prend le relais. Modules ou sur mesure : la page [Rangements et aménagement](https://fony.be/rangements) aide à choisir.
 
 - [Voir le sur mesure](https://fony.be/sur-mesure)
 
@@ -63,7 +63,7 @@ L’ensemble
 
 ### Le meilleur de chaque fabricant, dans la même chambre.
 
-Une armoire Tomasella, un boxspring belge, des chevets assortis : nous composons votre chambre en associant les fabricants. Le matelas et le boxspring, eux, se choisissent allongé, au magasin.
+Une armoire Tomasella, un boxspring belge, des chevets assortis : nous composons votre chambre en associant les fabricants. Le matelas et le boxspring, eux, se choisissent allongé, au magasin. Par quoi commencer ? L’[espace nuit](https://fony.be/espace-nuit) réunit la literie et la chambre.
 
 - [Voir la literie](https://fony.be/literie)
 

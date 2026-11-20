@@ -1,4 +1,4 @@
-# Nicoletti, canapés relax italiens près de Binche — Fony
+# Nicoletti, canapés relax italiens — Fony Meubles
 
 > Canapés relax Nicoletti Home, fabriqués en Italie, avec le système Cozy³ : modèles Memphis et Oakland à essayer au magasin de Leval-Trahegnies (Binche).
 

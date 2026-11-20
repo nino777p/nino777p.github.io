@@ -86,6 +86,8 @@ Deux savoir-faire
 
   Pour les systèmes modulables : armoires, dressings, compositions de séjour.
 
+Modules ou sur mesure ? La page [Rangements et aménagement](https://fony.be/rangements) aide à choisir.
+
 ## De la visite à la pose.
 
 - (Photo : Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée)

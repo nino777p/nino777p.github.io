@@ -1,4 +1,4 @@
-# Nicoletti Memphis, relax avec têtière électrique — Fony
+# Nicoletti Memphis, relax à têtière électrique — Fony Meubles
 
 > Nicoletti Memphis : canapé relax avec têtière électrique et soutien lombaire en version Comfort. À essayer chez Fony Meubles près de Binche.
 

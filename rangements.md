@@ -1,6 +1,6 @@
-# Rangements et aménagement sur mesure près de Binche — Fony
+# Rangements, dressings et aménagement sur mesure — Fony Meubles
 
-> Dressings, bibliothèques et rangements adaptés à votre pièce, avec les systèmes modulables Tomasella. Fony Meubles, entre Binche et La Louvière.
+> Dressing, bibliothèque, sous-pente ou meuble TV : modules Tomasella ou fabrication sur mesure, comment choisir et ce que Fony Meubles réalise, près de Binche.
 
 Adresse de la page : https://fony.be/rangements
 
@@ -15,7 +15,7 @@ Rangements et aménagement
 
 # Rangements et dressings sur mesure.
 
-Un dressing, une bibliothèque, un mur à repenser : imaginons-la ensemble, à vos mesures.
+Un dressing, une bibliothèque, un mur à repenser : imaginons-le ensemble, à vos mesures.
 
 [Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
@@ -41,6 +41,41 @@ Dans cet univers
   Séjour, dressing et chambre, composés module par module.
 
   Voir Tomasella →
+
+Par où commencer
+
+## Modules ou sur mesure : comment choisir.
+
+Un mur à occuper, une garde-robe à organiser, un recoin où la place se perd ? Modules ou pièce unique : voici ce qui les distingue, et où les retrouver.
+
+- ### Un mur à composer
+
+  Les systèmes modulables [Tomasella](https://fony.be/tomasella), fabriqués en Italie, se combinent pour s’ajuster à votre mur : armoires, dressings, compositions de séjour. Portes battantes ou coulissantes, dressing ouvert, compartiments : vous choisissez la façade et l’organisation intérieure selon ce que vous souhaitez ranger.
+- ### Une pente, un recoin
+
+  Quand les modules ne couvrent pas une pente ou un recoin, notre atelier partenaire en Belgique fabrique la pièce unique : formes atypiques, matériaux choisis avec vous. Notre page [Sur mesure](https://fony.be/sur-mesure) montre ce que nous réalisons : sous-pente, entrée et hall, dessous d’escalier.
+- ### Dans le séjour
+
+  Meuble TV, bibliothèque et buffet se composent module par module : l’écran, la box et les câbles trouvent leur place, les niches ouvertes mettent le reste en valeur. Ces compositions sont détaillées dans la rubrique [Séjour](https://fony.be/living) ; [le récit d’un séjour](https://fony.be/realisation-sejour-goliath), dans nos réalisations, en montre une terminée.
+- ### Dans la chambre
+
+  Armoires et garde-robes s’accordent au lit et aux chevets, dans des finitions coordonnées selon les collections. Côté [chambre](https://fony.be/chambre), vous trouverez aussi les armoires à portes coulissantes Sinfonie, de Staud, dont la largeur, la hauteur et la profondeur se choisissent.
+
+Votre projet
+
+## De la première visite à l’installation.
+
+- ### Ce qu’il faut apporter
+
+  Les cotes du mur (largeur, hauteur et profondeur), une photo et une idée de ce que vous voulez ranger. Sans mesures, nous pouvons venir les relever chez vous, si vous le souhaitez.
+- ### Voir avant de commander
+
+  Nous préparons une projection 3D de votre aménagement : vous voyez les volumes, les façades et les teintes avant de décider. Les matières (bois, laques mates et décors) se comparent au magasin.
+- ### La livraison et l’installation
+
+  La livraison est assurée par nos soins, finitions comprises. Et vous pouvez assortir le sur mesure à vos meubles existants : nous partons de ce que vous avez déjà.
+
+Vous êtes professionnel ? Nous aménageons aussi vos espaces : voyez l’[espace pro](https://fony.be/espace-pro). Pour le reste de la maison : l’[espace de vie](https://fony.be/espace-de-vie) et l’[espace nuit](https://fony.be/espace-nuit).
 
 ## Parlons de votre pièce.
 

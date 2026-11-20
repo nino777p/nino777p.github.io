@@ -291,6 +291,8 @@ Dans la pièce
 
 ## À associer à votre table.
 
+La salle à manger fait partie de l’[espace de vie](https://fony.be/espace-de-vie), avec le salon, le séjour et la cuisine.
+
 - (Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
 
   ### [Avec le séjour](https://fony.be/living)

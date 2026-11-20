@@ -1,4 +1,4 @@
-# Akante Milazzo, table céramique extensible compacte — Fony
+# Akante Milazzo, table céramique compacte — Fony Meubles
 
 > Table Akante Milazzo : plateau en céramique, deux rallonges latérales, 120 ou 130 cm fermée, 180 ou 190 cm ouverte. Chez Fony Meubles, près de Binche.
 

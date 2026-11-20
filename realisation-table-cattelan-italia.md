@@ -1,4 +1,4 @@
-# Cattelan Italia · Une table prend place — FONY
+# Cattelan Italia · Une table prend place — Fony Meubles
 
 > Une table Tyron de Cattelan Italia, plateau en céramique, à découvrir dans la salle à manger qui l’accueille.
 

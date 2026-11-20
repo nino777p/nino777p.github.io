@@ -1,4 +1,4 @@
-# Akante Vancouver, table céramique à rallonge centrale — Fony
+# Akante Vancouver, table à rallonge automatique — Fony Meubles
 
 > Table Akante Vancouver : plateau en céramique, rallonge centrale automatique, 160 ou 200 cm fermée, 210 ou 260 cm ouverte. Chez Fony Meubles, près de Binche.
 

@@ -1,4 +1,4 @@
-# Max Divani Emu, canapé à appuie-têtes réglables — Fony
+# Max Divani Emu, canapé à appuie-têtes réglables — Fony Meubles
 
 > Canapé Max Divani Emu : appuie-têtes réglables, en angle ou en 2 et 3 places, relax électrique en option, cuir ou tissu. À voir au magasin près de Binche.
 

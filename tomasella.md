@@ -1,4 +1,4 @@
-# Tomasella : séjour, dressing et chambre près de Binche — Fony
+# Tomasella : séjour, dressing et chambre — Fony Meubles
 
 > Meubles TV, bibliothèques, garde-robes, dressings et chambres Tomasella, composés module par module et montrés en projection 3D. Fony Meubles, près de Binche.
 
@@ -44,7 +44,7 @@ Retrouvez des bois et des laques coordonnés du séjour à la chambre, selon les
 
    ### Une garde-robe organisée selon vos habitudes.
 
-   Portes battantes ou coulissantes, dressing ouvert, compartiments : choisissez la façade et l’organisation intérieure selon ce que vous souhaitez ranger.
+   Portes battantes ou coulissantes, dressing ouvert, compartiments : choisissez la façade et l’organisation intérieure selon ce que vous souhaitez ranger. Modules ou sur mesure ? [Rangements et aménagement](https://fony.be/rangements) aide à choisir.
 
    [Voir le sur mesure](https://fony.be/sur-mesure)
 3. (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)

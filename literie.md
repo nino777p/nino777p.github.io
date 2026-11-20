@@ -201,6 +201,8 @@ Autour du lit
 
 Le cadre et la tête de lit se choisissent avec les chevets et les rangements, dans des finitions qui s’accordent : ils ont leur page.
 
+Le lit, puis la chambre : les deux sont réunis dans l’[espace nuit](https://fony.be/espace-nuit).
+
 [Voir la chambre](https://fony.be/chambre)
 
 Vos questions

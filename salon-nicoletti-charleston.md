@@ -1,4 +1,4 @@
-# Nicoletti Charleston, ancien modèle : dimensions — Fony
+# Nicoletti Charleston, ancien modèle : dimensions — Fony Meubles
 
 > Dimensions du canapé Nicoletti Charleston, qui n’est plus disponible à la commande chez Fony. Découvrez les modèles Nicoletti proposés au magasin.
 

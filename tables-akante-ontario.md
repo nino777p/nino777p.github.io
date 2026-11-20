@@ -1,4 +1,4 @@
-# Akante Ontario, table céramique jusqu’à 3 mètres — Fony
+# Akante Ontario, table céramique jusqu’à 3 m — Fony Meubles
 
 > Table Akante Ontario : céramique, deux rallonges indépendantes, de 150 à 200 cm fermée, jusqu’à 300 cm et 12 places. Chez Fony Meubles, près de Binche.
 

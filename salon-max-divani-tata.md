@@ -134,6 +134,8 @@ Voir aussi
 - [Tous nos salons](https://fony.be/salon)
 - [Canapés relax](https://fony.be/salon-canapes-relax-electriques)
 - [Les salons Max Divani](https://fony.be/salon-max-divani)
+- [Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
+- [Fauteuil Max Divani Dana](https://fony.be/salon-max-divani-dana)
 
 ## Parlons de votre projet.
 

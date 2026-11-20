@@ -259,7 +259,7 @@ Cuisine et pièce de vie
 
 Nous proposons à la fois la cuisine et le mobilier : les teintes s’accordent d’une pièce à l’autre, et toute la maison se prépare au même endroit.
 
-Salon, séjour, table et rangements sur mesure se choisissent dans des finitions assorties.
+Salon, séjour, table et rangements sur mesure se choisissent dans des finitions assorties : voyez tout l’[espace de vie](https://fony.be/espace-de-vie).
 
 [Voir le séjour](https://fony.be/living)
 

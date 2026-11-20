@@ -1,4 +1,4 @@
-# Akante Influence, table céramique à deux rallonges — Fony
+# Akante Influence, table céramique à rallonges — Fony Meubles
 
 > Table Akante Influence : plateau rectangulaire en céramique, deux rallonges indépendantes, 150 ou 190 cm fermée, 230 ou 270 cm ouverte. Fony, près de Binche.
 

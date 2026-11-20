@@ -1,4 +1,4 @@
-# Canapés relax électriques à essayer près de Binche — Fony
+# Canapés relax électriques près de Binche — Fony Meubles
 
 > Canapés relax électriques Max Divani et Nicoletti : dimensions, versions et moteurs, à essayer au magasin de Leval-Trahegnies, près de Binche.
 

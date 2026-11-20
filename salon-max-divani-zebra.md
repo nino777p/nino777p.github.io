@@ -159,6 +159,7 @@ Voir aussi
 - [Les salons Max Divani](https://fony.be/salon-max-divani)
 - [Max Divani Curry](https://fony.be/salon-max-divani-curry)
 - [Max Divani Osaka](https://fony.be/salon-max-divani-osaka)
+- [Fauteuil Max Divani Dana](https://fony.be/salon-max-divani-dana)
 
 ## Venez essayer Zebra.
 

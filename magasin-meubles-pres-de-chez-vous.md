@@ -32,19 +32,19 @@ Le magasin est sur la N90, entre Binche et Anderlues, à deux kilomètres de la 
 
 - ### Depuis La Louvière et le Centre
 
-  Par la N55, en direction de Binche. Comptez environ 8 min depuis Saint-Vaast, 11 min depuis Strépy-Bracquegnies, 12 min depuis Morlanwelz, 16 min depuis La Louvière ou Manage et 17 min depuis Chapelle-lez-Herlaimont. Plus loin, [Nivelles](https://fony.be/magasin-meubles-nivelles) est à environ 27 min par l’E19.
+  Par la N55, en direction de Binche. Comptez environ 8 min depuis Saint-Vaast, 11 min depuis Strépy-Bracquegnies, 12 min depuis Morlanwelz, 16 min depuis La Louvière ou Manage et 17 min depuis Chapelle-lez-Herlaimont.
 
   [Venir depuis La Louvière](https://fony.be/magasin-meubles-la-louviere)
 - ### Depuis Charleroi
 
   La N90 passe devant le magasin. Comptez environ 6 min depuis Anderlues, 12 min depuis Fontaine-l’Évêque, 17 min depuis Montigny-le-Tilleul, 21 min depuis Courcelles et 22 min depuis Charleroi.
 
-  [Venir depuis Charleroi](https://fony.be/magasin-meubles-charleroi)
+  [La route depuis Charleroi](https://fony.be/magasin-meubles-pres-de-chez-vous#plus-loin)
 - ### Depuis Binche et Mons
 
   Comptez environ 4 min depuis le centre de Binche, 7 min depuis Péronnes-lez-Binche, 10 min depuis Bray et 11 min depuis Estinnes. Depuis Mons, comptez environ 24 min par l’E19 puis la N55.
 
-  [Venir depuis Mons](https://fony.be/magasin-meubles-mons)
+  [La route depuis Mons](https://fony.be/magasin-meubles-pres-de-chez-vous#plus-loin)
 - ### Depuis la Thudinie et la frontière
 
   Par la N59, comptez environ 15 min depuis Lobbes et 19 min depuis Thuin ; par la N55, environ 23 min depuis Erquelinnes et 30 min depuis Beaumont. Côté français, Jeumont est à environ 24 min et Marpent à environ 27 min.
@@ -53,13 +53,34 @@ Le magasin est sur la N90, entre Binche et Anderlues, à deux kilomètres de la 
 
 Temps indicatifs, calculés hors embouteillages.
 
+Vous venez de plus loin
+
+## Depuis Charleroi, Mons ou Nivelles.
+
+Notre seul magasin est à Leval-Trahegnies : depuis Charleroi, Mons ou Nivelles, voici la route à prendre et ce qu’il est utile de préparer avant de venir.
+
+- ### La route depuis Charleroi
+
+  Comptez environ 20 km depuis le centre de Charleroi, presque en ligne droite par la N90 : le magasin est au bord de la route. Depuis Marchienne-au-Pont, comptez environ 17 min ; depuis Gosselies, environ 27 min.
+- ### La route depuis Mons
+
+  Comptez environ 31 km depuis le centre de Mons, presque entièrement par l’autoroute : l’E19 en direction de Charleroi, puis la N55 vers Binche. Depuis Havré, prévoyez environ 18 min ; depuis Cuesmes, environ 27 min ; depuis Frameries, environ 28 min.
+- ### La route depuis Nivelles
+
+  Comptez environ 32 km et 27 min depuis le centre de Nivelles : l’E19 en direction de Mons, puis la N55 vers Binche. Depuis Seneffe, comptez environ 20 min par la N27 ; depuis Pont-à-Celles, un peu moins d’une demi-heure.
+- ### Préparer votre visite
+
+  Un [canapé relax](https://fony.be/salon-canapes-relax-electriques) ne se choisit pas sur photo : il faut s’asseoir, ouvrir le repose-jambes, régler l’appui-tête. Pour une [table extensible](https://fony.be/tables-extensibles-ceramique), comparez ses dimensions, fermée puis ouverte. Apportez les dimensions de votre pièce et, si vous le pouvez, quelques photos. Vous pouvez aussi nous décrire votre projet à l’avance : nous préparons votre venue.
+
+  [Décrire mon projet](https://fony.be/magasin-contact#visite)
+
 Chez vous
 
 ## Nous venons jusqu’à vous.
 
 - ### Livraison et installation
 
-  Nous livrons et installons nous-mêmes dans toutes ces localités.
+  Nous livrons et installons nous-mêmes dans toutes ces localités, comme dans le reste du Hainaut et la province de Namur.
 - ### Côté français
 
   Nous livrons aussi dans le nord de la France, principalement près de la frontière : Jeumont, Marpent et les communes voisines d’Erquelinnes.

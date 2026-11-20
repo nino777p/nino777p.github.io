@@ -1,4 +1,4 @@
-# Goliath · Un séjour lumineux en deux temps — FONY
+# Goliath · Un séjour lumineux en deux temps — Fony Meubles
 
 > Une table Goliath d’Akante, des meubles Tomasella, puis une console. Le récit d’un séjour aménagé en deux temps avec FONY.
 

@@ -102,6 +102,7 @@ Voir aussi
 - [Tous nos salons](https://fony.be/salon)
 - [Les salons Max Divani](https://fony.be/salon-max-divani)
 - [Max Divani Gala](https://fony.be/salon-max-divani-gala)
+- [Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
 
 ## Parlons de votre projet.
 

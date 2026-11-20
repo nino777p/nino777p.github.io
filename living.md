@@ -1,6 +1,6 @@
 # Séjour, meuble TV et bibliothèque à Binche — Fony Meubles
 
-> Meubles TV, bibliothèques et buffets Tomasella, composés par modules à la mesure de votre mur, à voir au magasin près de Binche.
+> Meubles TV, bibliothèques et buffets Tomasella pour le living, composés par modules à la mesure de votre mur, à voir au magasin près de Binche.
 
 Adresse de la page : https://fony.be/living
 
@@ -11,7 +11,7 @@ Adresse de la page : https://fony.be/living
 1. [Accueil](https://fony.be/)
 2. Séjour
 
-Meuble TV, bibliothèque, buffet
+Le living, à la mesure de votre mur
 
 # Séjour : meubles TV, bibliothèques et buffets.
 
@@ -27,7 +27,7 @@ Explorer le séjour
 
 ## Composez votre séjour autour de vos besoins.
 
-Que souhaitez-vous ranger, exposer ou dissimuler ? Nous partons de votre mur pour choisir les modules et les finitions qui correspondent à votre pièce.
+Que souhaitez-vous ranger, exposer ou dissimuler dans votre living ? Nous partons de votre mur pour choisir les modules et les finitions qui correspondent à votre pièce.
 
 (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
@@ -91,6 +91,8 @@ Comparez les échantillons avec une photo de votre pièce. Les buffets existent 
 Autour du séjour
 
 ## Pour compléter la pièce.
+
+Le séjour fait partie de l’[espace de vie](https://fony.be/espace-de-vie), avec le salon, la salle à manger et la cuisine. Les objets de décoration, miroirs et horloges compris, sont chez [Capodarte](https://fony.be/capodarte).
 
 - (Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 

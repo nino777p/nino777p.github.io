@@ -1,4 +1,4 @@
-# Akante Kheops, table céramique à deux rallonges — Fony
+# Akante Kheops, table céramique à deux rallonges — Fony Meubles
 
 > Table Akante Kheops : plateau en céramique, deux rallonges latérales synchronisées, de 120 à 160 cm (180 à 240 cm ouverte). Fony Meubles, près de Binche.
 
@@ -103,6 +103,7 @@ Voir aussi
 - [Les tables Akante](https://fony.be/tables-akante)
 - [Akante Milazzo](https://fony.be/tables-akante-milazzo)
 - [Akante Phoenix](https://fony.be/tables-akante-phoenix)
+- [Akante Austin](https://fony.be/tables-akante-austin)
 
 ## Parlons de votre projet.
 
