@@ -67,7 +67,7 @@ Vos questions
 
 ### Quelle longueur de table choisir ?
 
-Partez de la table fermée, celle de tous les jours : de 120 à 200 cm selon le modèle. Ouverte, elle mesure de 180 à 300 cm, ou devient ronde pour le modèle Austin. Apportez les dimensions de votre pièce, nous vérifions avec vous.
+Partez de la table fermée, celle de tous les jours : de 120 à 200 cm selon le modèle. Ouverte, elle mesure de 180 à 300 cm, ou devient ronde pour le modèle Austin. Apportez les dimensions de votre pièce, nous vérifions avec vous.
 
 ### Rallonge centrale ou rallonges latérales ?
 
@@ -103,4 +103,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

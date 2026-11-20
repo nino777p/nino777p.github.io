@@ -25,7 +25,7 @@ Un canapé relax sur pieds en métal, en fauteuil, deux ou trois places, ou en a
 
 - Relax électrique, commande sur le flanc de l’accoudoir avec prise USB
 - Appuie-têtes relevables à la main
-- Pieds en métal, hauteur 13 cm
+- Pieds en métal, hauteur 13 cm
 - En fauteuil, deux places, trois places ou en angle
 
 - Ce modèle n’est plus disponible à la commande
@@ -61,11 +61,11 @@ Dimensions communes aux éléments
 
 |  |  |
 | --- | --- |
-| Hauteur | 79 cm, 98 cm appui-tête relevé |
-| Profondeur | 109 cm |
-| Hauteur d’assise | 43 cm |
-| Profondeur d’assise | 58 cm |
-| Profondeur relax ouvert | 164 cm au maximum |
+| Hauteur | 79 cm, 98 cm appui-tête relevé |
+| Profondeur | 109 cm |
+| Hauteur d’assise | 43 cm |
+| Profondeur d’assise | 58 cm |
+| Profondeur relax ouvert | 164 cm au maximum |
 
 Fabrication
 
@@ -76,7 +76,7 @@ Fabrication
 | Suspension | Sangles élastiques |
 | Assise, dossier et accoudoirs | Mousse polyuréthane, ouate 100 % polyester |
 | Densité des mousses | Assise 30 kg/m³, dossier 28 kg/m³ |
-| Pieds | Métal brillant, hauteur 13 cm |
+| Pieds | Métal brillant, hauteur 13 cm |
 | Déhoussable | Non |
 
 Mécanismes
@@ -165,4 +165,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

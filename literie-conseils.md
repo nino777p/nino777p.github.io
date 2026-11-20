@@ -1,6 +1,6 @@
-# Conseils literie : matelas, boxspring, à deux — Fony Meubles
+# Conseils literie : matelas et boxsprings — Fony Meubles
 
-> Bien choisir son matelas, boxspring fixe ou électrique, dormir à deux : les conseils de Fony Meubles, à essayer ensuite au magasin près de Binche.
+> Choisir son matelas, ou comparer boxspring fixe et boxspring électrique : nos guides pour préparer votre essai chez Fony Meubles, près de Binche.
 
 Adresse de la page : https://fony.be/literie-conseils
 
@@ -12,9 +12,9 @@ Espace literie
 
 # Conseils literie.
 
-Bien choisir avant de venir essayer : le matelas, le boxspring, et comment dormir à deux.
+Pour préparer votre essai en magasin : choisir un matelas, ou comparer boxspring fixe et boxspring électrique.
 
-Trois conseils
+Nos guides
 
 ## Par où commencer ?
 
@@ -59,4 +59,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

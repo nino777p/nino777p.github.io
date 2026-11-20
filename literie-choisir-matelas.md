@@ -110,10 +110,10 @@ Deux matelas belges, chacun en plusieurs versions. Sur le papier, elles se resse
 
 - ### Superqueen
 
-  23 cm, à ressorts ensachés. Trois accueils : Hybride (mousse à froid), Impulse (latex) et HR Gel (mousse à gel). À essayer au magasin : Hybride et HR Gel.
+  23 cm, à ressorts ensachés. Trois accueils : Hybride (mousse à froid), Impulse (latex) et HR Gel (mousse à gel). À essayer au magasin : Hybride et HR Gel.
 - ### Eclipse
 
-  21 cm. Quatre versions : une tout en mousse, trois à ressorts ensachés avec un accueil en mousse à froid, en latex ou en mousse à gel. À essayer au magasin : l’Eclipse Hybride à ressorts ensachés.
+  21 cm. Quatre versions : une tout en mousse, trois à ressorts ensachés avec un accueil en mousse à froid, en latex ou en mousse à gel. À essayer au magasin : l’Eclipse Hybride à ressorts ensachés.
 - ### Lequel pour vous ?
 
   Souple, médium ou ferme, quel accueil, quelle hauteur : cela se décide allongé, avec nous. Les versions qui ne sont pas exposées, nous vous les expliquons sur place.
@@ -234,4 +234,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

@@ -70,7 +70,7 @@ Wall-away
 
 ### Trouver sa taille.
 
-Un même fauteuil peut exister en plusieurs largeurs, de 68 à 97 cm selon les modèles, avec des hauteurs d’assise de 46 à 53 cm. On l’essaie assis, pieds à plat.
+Un même fauteuil peut exister en plusieurs largeurs, de 68 à 97 cm selon les modèles, avec des hauteurs d’assise de 46 à 53 cm. On l’essaie assis, pieds à plat.
 
 Les matières
 
@@ -156,4 +156,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

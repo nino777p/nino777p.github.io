@@ -23,7 +23,7 @@ Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 Un canapé aux formes souples, garni de mousse et de plumes, à composer en canapé droit, avec chaise longue ou en angle. En cuir ou en tissu, avec un détail en cuir sur l’accoudoir.
 
 - Assise, dossier et accoudoirs garnis de mousse et de plumes
-- Assise profonde : 66 cm
+- Assise profonde : 66 cm
 - Modulable : canapé droit, chaise longue, angle, pouf
 - Détail en cuir sur l’accoudoir, six coloris
 - Fabriqué en Italie
@@ -66,12 +66,12 @@ Dimensions
 
 |  |  |
 | --- | --- |
-| Hauteur | 82 cm |
-| Profondeur | 105 cm |
-| Hauteur d’assise | 42 cm |
-| Profondeur d’assise | 66 cm |
-| Largeur d’accoudoir | 29 cm |
-| Hauteur d’accoudoir | 58 cm |
+| Hauteur | 82 cm |
+| Profondeur | 105 cm |
+| Hauteur d’assise | 42 cm |
+| Profondeur d’assise | 66 cm |
+| Largeur d’accoudoir | 29 cm |
+| Hauteur d’accoudoir | 58 cm |
 
 Fabrication
 
@@ -131,7 +131,7 @@ Vos questions
 
 ### Gala existe-t-il en angle ?
 
-Oui. Le fabricant présente deux compositions d’angle, de 378 × 277 cm et de 418 × 291 cm ; d’autres se composent à partir des éléments.
+Oui. Le fabricant présente deux compositions d’angle, de 378 × 277 cm et de 418 × 291 cm ; d’autres se composent à partir des éléments.
 
 Voir aussi
 
@@ -168,4 +168,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

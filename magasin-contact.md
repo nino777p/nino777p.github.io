@@ -1,4 +1,4 @@
-# Magasin de meubles à Leval-Trahegnies (Binche) — Fony Meubles
+# Horaires, adresse et itinéraire — Fony Meubles à Binche
 
 > Fony Meubles, Route de Charleroi 160/1, 7134 Leval-Trahegnies, entre Binche et La Louvière. Ouvert du lundi au samedi, parking. Préparez votre visite.
 
@@ -49,7 +49,7 @@ Notre équipe vous renseigne au magasin sur les modalités de paiement.
 
 ### Pour venir
 
-Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche). Parking facile d’accès. Comptez environ un quart d’heure depuis La Louvière et vingt-cinq minutes depuis Mons ou Charleroi, selon la circulation. [Temps de trajet depuis votre commune](https://fony.be/magasin-meubles-pres-de-chez-vous).
+Route de Charleroi 160/1, 7134 Leval-Trahegnies (Binche). Parking facile d’accès. Comptez environ 16 min depuis La Louvière, 22 min depuis Charleroi et 24 min depuis Mons, hors embouteillages. [Temps de trajet depuis votre localité](https://fony.be/magasin-meubles-pres-de-chez-vous).
 
 ### Sur place
 

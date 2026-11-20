@@ -43,7 +43,7 @@ La collection
 
    ### Kheops
 
-   Deux rallonges latérales qui sortent ensemble : de 120 à 160 cm fermée.
+   Deux rallonges latérales qui sortent ensemble : de 120 à 160 cm fermée.
 
    [Dimensions et versions de Kheops](https://fony.be/tables-akante-kheops)
 3. (Photo : Table Akante Milazzo au plateau chêne clair entourée de quatre fauteuils en velours terracotta)
@@ -52,7 +52,7 @@ La collection
 
    ### Milazzo
 
-   Le format compact : 120 ou 130 cm fermée, deux rallonges sous le plateau.
+   Le format compact : 120 ou 130 cm fermée, deux rallonges sous le plateau.
 
    [Dimensions et versions de Milazzo](https://fony.be/tables-akante-milazzo)
 4. (Photo : Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois)
@@ -70,7 +70,7 @@ La collection
 
    ### Austin
 
-   Oblongue fermée, ronde ouverte : de 135 à 190 cm de diamètre.
+   Oblongue fermée, ronde ouverte : de 135 à 190 cm de diamètre.
 
    [Dimensions et versions de Austin](https://fony.be/tables-akante-austin)
 6. (Photo : Table Akante Grande Ontario au plateau marbré dans une salle à manger aux murs clairs, avec trois fauteuils beiges)
@@ -111,28 +111,28 @@ En céramique ou en verre, pour accompagner le canapé.
 
   ### [Goliath](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 
-  Plateau ovale en céramique, 140 × 70 cm, hauteur 38 cm.
+  Plateau ovale en céramique, 140 × 70 cm, hauteur 38 cm.
 
   En parler au magasin
 - (Photo : Table basse Akante Galet sur fond blanc : plateau en céramique marbrée noire en forme de galet, trois pieds noirs)
 
   ### [Galet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 
-  Plateau en céramique en forme de galet, 92 × 76 cm, hauteur 33 cm.
+  Plateau en céramique en forme de galet, 92 × 76 cm, hauteur 33 cm.
 
   En parler au magasin
 - (Photo : Table basse ronde Akante Tamara sur fond blanc : plateau en céramique marbrée blanche, structure en acier poli)
 
   ### [Tamara](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 
-  Ronde, plateau en céramique de 90 cm, structure en acier poli.
+  Ronde, plateau en céramique de 90 cm, structure en acier poli.
 
   En parler au magasin
 - (Photo : Table basse ronde Akante Venezia sur fond blanc : plateau en verre fumé, piétement fin en acier noir)
 
   ### [Venezia](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 
-  Ronde, plateau en verre trempé fumé de 90 cm, piétement en acier noir.
+  Ronde, plateau en verre trempé fumé de 90 cm, piétement en acier noir.
 
   En parler au magasin
 
@@ -188,4 +188,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

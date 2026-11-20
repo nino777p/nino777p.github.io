@@ -21,11 +21,11 @@ Akante · Table de repas extensible
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
-Une table oblongue qui devient ronde : deux rallonges latérales sortent ensemble et ferment le cercle. Plateau en céramique, en trois tailles, de 135 à 190 cm de diamètre une fois ouverte.
+Une table oblongue qui devient ronde : deux rallonges latérales sortent ensemble et ferment le cercle. Plateau en céramique, en trois tailles, de 135 à 190 cm de diamètre une fois ouverte.
 
 - Oblongue fermée, ronde ouverte
 - Deux rallonges latérales, mécanisme synchronisé
-- Trois tailles : ronde de 135, 150 ou 190 cm ouverte
+- Trois tailles : ronde de 135, 150 ou 190 cm ouverte
 - Plateau en céramique collée sur verre
 
 - Dimensions, plateau et finitions au choix
@@ -62,9 +62,9 @@ Formats
 
 |  |  |
 | --- | --- |
-| New Austin 135 | 135 × 95 cm, ronde de 135 cm ouverte — jusqu’à 4 places, 6 ouverte |
-| New Austin 150 | 150 × 100 cm, ronde de 150 cm ouverte — jusqu’à 6 places, 8 ouverte |
-| Grande Austin | 190 × 115 cm, ronde de 190 cm ouverte — jusqu’à 8 places, 10 ouverte |
+| New Austin 135 | 135 × 95 cm, ronde de 135 cm ouverte — jusqu’à 4 places, 6 ouverte |
+| New Austin 150 | 150 × 100 cm, ronde de 150 cm ouverte — jusqu’à 6 places, 8 ouverte |
+| Grande Austin | 190 × 115 cm, ronde de 190 cm ouverte — jusqu’à 8 places, 10 ouverte |
 
 Fabrication
 
@@ -91,7 +91,7 @@ Deux rallonges latérales sont rangées sous le plateau ; un mécanisme synchr
 
 ### Quelle taille choisir ?
 
-La New Austin, ronde de 135 ou 150 cm ouverte, reçoit six à huit convives. La Grande Austin, ronde de 190 cm ouverte, en reçoit dix.
+La New Austin, ronde de 135 ou 150 cm ouverte, reçoit six à huit convives. La Grande Austin, ronde de 190 cm ouverte, en reçoit dix.
 
 Voir aussi
 
@@ -129,4 +129,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

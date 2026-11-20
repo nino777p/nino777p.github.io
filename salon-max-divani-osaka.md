@@ -72,10 +72,10 @@ Dimensions
 
 |  |  |
 | --- | --- |
-| Hauteur | 100 cm |
-| Profondeur | 95 cm |
-| Hauteur d’assise | 47 cm |
-| Profondeur relax ouvert | 153 cm |
+| Hauteur | 100 cm |
+| Profondeur | 95 cm |
+| Hauteur d’assise | 47 cm |
+| Profondeur relax ouvert | 153 cm |
 
 Fabrication
 
@@ -119,7 +119,7 @@ Vos questions
 
 ### Peut-on avoir un relax sur Osaka ?
 
-Oui : le trois places peut recevoir deux relax électriques. Relax ouvert, il mesure 153 cm de profondeur, contre 95 cm refermé.
+Oui : le trois places peut recevoir deux relax électriques. Relax ouvert, il mesure 153 cm de profondeur, contre 95 cm refermé.
 
 Voir aussi
 
@@ -157,4 +157,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

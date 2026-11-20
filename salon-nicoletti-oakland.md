@@ -72,11 +72,11 @@ Dimensions communes aux éléments
 
 |  |  |
 | --- | --- |
-| Hauteur | 101 cm |
-| Profondeur | 100 cm |
-| Hauteur d’assise | 46 cm |
-| Profondeur d’assise | 52 cm |
-| Profondeur relax ouvert | 157 cm |
+| Hauteur | 101 cm |
+| Profondeur | 100 cm |
+| Hauteur d’assise | 46 cm |
+| Profondeur d’assise | 52 cm |
+| Profondeur relax ouvert | 157 cm |
 
 Fabrication
 
@@ -90,7 +90,7 @@ Fabrication
 | Dossier et têtières | Flocons de fibre synthétique |
 | Accoudoirs | Mousse polyuréthane, ouate 100 % polyester |
 | Densité de la mousse d’assise | 30 kg/m³ |
-| Pieds | Noir, hauteur 4 cm |
+| Pieds | Noir, hauteur 4 cm |
 | Déhoussable | Non |
 
 Mécanismes
@@ -143,7 +143,7 @@ Vos questions
 
 ### Quelle place prévoir pour le relax ?
 
-Relax ouvert, Oakland mesure 157 cm de profondeur, contre 100 cm refermé. Prévoyez ce dégagement devant le canapé.
+Relax ouvert, Oakland mesure 157 cm de profondeur, contre 100 cm refermé. Prévoyez ce dégagement devant le canapé.
 
 ### Quelles sont les différences entre les trois versions électriques ?
 
@@ -189,4 +189,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

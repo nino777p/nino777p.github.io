@@ -51,33 +51,6 @@ Formes souples et assise profonde : Tata est attendu mi-janvier 2027.
 
 [Découvrir Tata](https://fony.be/salon-max-divani-tata)
 
-Nicoletti, le relax Cozy³
-
-## Un confort réglable, place par place.
-
-Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place relax a sa propre commande, pour que chacun choisisse sa position. Le système Cozy³ de Nicoletti réunit trois moteurs indépendants.
-
-(Photo : Canapé relax deux places en cuir beige, en position assise)
-
-01 Position assise.
-
-(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
-
-02 Une place ouverte : jambes relevées, appui-tête redressé.
-
-- **Le relax** Le dossier s’incline et le repose-jambes se relève, ensemble ou séparément selon le modèle.
-- **La tête** L’appui-tête se redresse séparément, pour lire ou regarder l’écran.
-- **Le bas du dos** Un soutien lombaire réglable complète le confort (sur Memphis : version Comfort).
-
-[Venir l’essayer](https://fony.be/salon#visite)
-
-Aussi au magasin
-
-- [Nicoletti](https://fony.be/salon-nicoletti) canapés relax, fabriqués en Italie
-- [De Eiken Zetel](https://fony.be/salon-fauteuils-relax-releveurs) fauteuils relax et releveurs, d’un fabricant belge
-- **Confortluxe** canapés, canapés relax et fauteuils releveurs
-- [Canapés-lits](https://fony.be/literie#canapes-lits) dans l’espace literie
-
 Ambiances Max Divani
 
 ## Osaka, Coffee, Gala.
@@ -126,6 +99,33 @@ La matière
 Douze des 24 coloris du cuir Texas de Max Divani. Les couleurs varient selon l’écran : voyez-les sur échantillon, au magasin.
 
 [Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite)
+
+Nicoletti, le relax Cozy³
+
+## Un confort réglable, place par place.
+
+Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place relax a sa propre commande, pour que chacun choisisse sa position. Le système Cozy³ de Nicoletti réunit trois moteurs indépendants.
+
+(Photo : Canapé relax deux places en cuir beige, en position assise)
+
+01 Position assise.
+
+(Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
+
+02 Une place ouverte : jambes relevées, appui-tête redressé.
+
+- **Le relax** Le dossier s’incline et le repose-jambes se relève, ensemble ou séparément selon le modèle.
+- **La tête** L’appui-tête se redresse séparément, pour lire ou regarder l’écran.
+- **Le bas du dos** Un soutien lombaire réglable complète le confort (sur Memphis : version Comfort).
+
+[Venir l’essayer](https://fony.be/salon#visite)
+
+Aussi au magasin
+
+- [Nicoletti](https://fony.be/salon-nicoletti) canapés relax, fabriqués en Italie
+- [De Eiken Zetel](https://fony.be/salon-fauteuils-relax-releveurs) fauteuils relax et releveurs, d’un fabricant belge
+- **Confortluxe** canapés, canapés relax et fauteuils releveurs
+- [Canapés-lits](https://fony.be/literie#canapes-lits) dans l’espace literie
 
 Autour du canapé
 
@@ -185,4 +185,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

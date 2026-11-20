@@ -1433,16 +1433,15 @@ padding:clamp(56px,7vw,112px) max(var(--marge),calc((100vw - var(--col)) / 2 + v
 .video-projet__texte .titre-section{margin-bottom:.55em}
 .video-projet__texte .texte+.texte{margin-top:.9em}
 .video-projet__texte .lien-fleche{display:inline-flex;margin-top:1.1rem}
-.apparition .vient{opacity:0;transform:translateY(10px)}
-.apparition .vient.vu{opacity:1;transform:none;transition:opacity .55s var(--courbe),transform .55s var(--courbe)}
-.apparition .vient.vu:nth-child(2){transition-delay:50ms}
-.apparition .vient.vu:nth-child(3){transition-delay:100ms}
-.apparition .vient.vu:nth-child(n+4){transition-delay:150ms}
+@keyframes monte{from{translate:0 10px}}
+.vient{animation:monte .45s var(--courbe)}
+.js-espace .es-apparait{opacity:1;transform:none;transition:none}
 .section--sombre{position:relative;isolation:isolate;overflow:clip}
 .section--sombre::before{content:"";position:absolute;inset:-20%;z-index:-1;pointer-events:none;background:radial-gradient(60% 50% at 30% 40%,rgba(255,255,255,.07),transparent 70%);animation:lumiere 22s ease-in-out infinite alternate}
 @keyframes lumiere{from{transform:translate(-8%,-6%) scale(1)}to{transform:translate(10%,8%) scale(1.15)}}
 .parallaxe .ouverture-photos{will-change:transform}
-@media (prefers-reduced-motion:reduce){.apparition .vient{opacity:1;transform:none}.section--sombre::before{animation:none}.ouverture-photo{transition:none}}
+@media (prefers-reduced-motion:reduce){.vient{animation:none}.section--sombre::before{animation:none}.ouverture-photo{transition:none}}
+@media print{.vient,.es-apparait,.js-espace .es-apparait{opacity:1!important;transform:none!important;translate:none!important;animation:none!important;transition:none!important}}
 .fenetre{position:fixed;inset:0;z-index:80;display:none;align-items:center;justify-content:center;padding:24px;opacity:0;transition:opacity .16s var(--courbe),display .16s allow-discrete}
 .fenetre.ouverte{display:flex;opacity:1;transition:opacity .22s var(--courbe),display .22s allow-discrete}
 .fenetre-boite{transform:scale(.97);transition:transform .16s var(--courbe)}

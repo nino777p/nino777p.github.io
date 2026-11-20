@@ -86,7 +86,7 @@ Buffets et dressoirs
 
    ### Kayak
 
-   Dessiné par Andrea Lucatello, avec des façades à facettes. En deux portes (147 cm) ou trois portes (220 cm), profondeur 53 cm, hauteur 73 ou 83 cm. Finition titane, bronze brossé ou gris brossé. Sur commande.
+   Dessiné par Andrea Lucatello, avec des façades à facettes. En deux portes (147 cm) ou trois portes (220 cm), profondeur 53 cm, hauteur 73 ou 83 cm. Finition titane, bronze brossé ou gris brossé. Sur commande.
 
 Voir aussi
 
@@ -140,4 +140,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

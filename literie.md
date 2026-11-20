@@ -104,7 +104,7 @@ Modélisation 3D de principe d’un boxspring. Ce n’est pas la photo d’un mo
 
    En détail
 
-   Six modèles en métal, de 12 à 20 cm.
+   Six modèles en métal, de 12 à 20 cm.
 
 [Boxspring fixe ou électrique →](https://fony.be/literie-boxspring-fixe-electrique)
 
@@ -179,7 +179,7 @@ Trois fabricants, pour la chambre d’amis ou le séjour qui accueille un invit�
 
 - ### Confortplus
 
-  Trois collections de canapés-lits et quatre hauteurs de matelas : 14, 16, 18 et 19 cm. Le revêtement et les détails se personnalisent.
+  Trois collections de canapés-lits et quatre hauteurs de matelas : 14, 16, 18 et 19 cm. Le revêtement et les détails se personnalisent.
 
   [Le site de Confortplus](https://confortplus.it/fre/canapes-lit)
 - ### Vitarelax
@@ -241,4 +241,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

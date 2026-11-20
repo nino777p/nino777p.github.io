@@ -33,7 +33,7 @@ Sur commande
   Ronde, ovale, en ellipse, carrée aux angles arrondis ou rectangulaire, selon le modèle. Certaines versions ont une allonge.
 - ### La hauteur
 
-  Hauteur de table, autour de 75 cm, ou hauteur de plan de travail, autour de 90 cm, pour une table haute avec tabourets.
+  Hauteur de table, autour de 75 cm, ou hauteur de plan de travail, autour de 90 cm, pour une table haute avec tabourets.
 - ### Le plateau
 
   En stratifié HPL, en décor Halifax ou en mélaminé, dans les coloris du fabricant.
@@ -45,7 +45,7 @@ Sur catalogue
 
 ## Les tables Perfecta.
 
-Canvas et Onyx en photos. Nous proposons aussi Vienna, dans les petits formats : de 80 × 80 à 150 × 90 cm, avec trois versions à allonge (de 80 à 140 cm, de 110 à 183 cm, de 120 à 200 cm).
+Canvas et Onyx en photos. Nous proposons aussi Vienna, dans les petits formats : de 80 × 80 à 150 × 90 cm, avec trois versions à allonge (de 80 à 140 cm, de 110 à 183 cm, de 120 à 200 cm).
 
 1. (Photo : Table ovale Perfecta Canvas au plateau effet marbre sur deux pieds à lamelles, entourée de six chaises claires)
 
@@ -55,7 +55,7 @@ Canvas et Onyx en photos. Nous proposons aussi Vienna, dans les petits formats 
 
    ### Canvas
 
-   Deux pieds à lamelles en acier. Ovale de 180 × 100 ou 220 × 120 cm, ellipse de 240 × 120 cm, ronde de 140 cm ; une version ovale s’allonge de 180 à 260 cm.
+   Deux pieds à lamelles en acier. Ovale de 180 × 100 ou 220 × 120 cm, ellipse de 240 × 120 cm, ronde de 140 cm ; une version ovale s’allonge de 180 à 260 cm.
 2. (Photo : Table haute Perfecta Onyx au plateau effet marbre sur pied croisé clair, avec quatre tabourets orange)
 
    (Photo : Table Perfecta Onyx sur fond blanc : plateau en décor chêne aux angles arrondis, pied central croisé en acier noir)
@@ -64,7 +64,7 @@ Canvas et Onyx en photos. Nous proposons aussi Vienna, dans les petits formats 
 
    ### Onyx
 
-   Un pied central croisé. Ronde de 100 à 140 cm, ovale de 150 à 220 cm, rectangulaire de 180 ou 200 cm, en hauteur de table ou en table haute.
+   Un pied central croisé. Ronde de 100 à 140 cm, ovale de 150 à 220 cm, rectangulaire de 180 ou 200 cm, en hauteur de table ou en table haute.
 
 Autour de la table
 
@@ -156,4 +156,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

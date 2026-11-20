@@ -21,7 +21,7 @@ Lobbes est à un quart d’heure, Thuin à moins de vingt minutes, Beaumont à u
 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
-- À 14 km de Thuin
+- À 14 km de Thuin
 - Parking facile d’accès
 - Livraison par nos soins
 
@@ -31,7 +31,7 @@ Pour venir
 
 - ### Le trajet
 
-  Depuis Thuin, comptez environ 14 km et 19 minutes par la N59, puis la N90 ; depuis Lobbes, un quart d’heure. Depuis Beaumont, comptez 26 km et une demi-heure par la N40, puis la N55 en direction de Binche. Merbes-le-Château est à 16 minutes, Erquelinnes à 23.
+  Depuis Thuin, comptez environ 14 km et 19 min par la N59, puis la N90 ; depuis Lobbes, environ 15 min. Depuis Beaumont, comptez 26 km et environ 30 min par la N40, puis la N55 en direction de Binche. Merbes-le-Château est à environ 16 min, Erquelinnes à environ 23 min. De l’autre côté de la frontière, Jeumont est à environ 24 min.
 
   [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Sur place
@@ -41,7 +41,7 @@ Pour venir
   [Horaires et contact](https://fony.be/magasin-contact)
 - ### La livraison
 
-  Nous livrons et installons nous-mêmes à Thuin, Lobbes, Erquelinnes et Beaumont. Pour une adresse plus au sud, parlons-en.
+  Nous livrons et installons nous-mêmes à Thuin, Lobbes, Erquelinnes et Beaumont. Nous livrons aussi côté français, à Jeumont et à Marpent. Pour une adresse plus au sud, parlons-en.
 
 Au magasin
 
@@ -69,27 +69,15 @@ Au magasin
 
   Voir les tables
 
-À essayer
+Avant la visite
 
-## Quelques salons exposés.
+## Préparer l’essai de votre literie.
 
-La composition exposée change au fil des arrivages. Chaque fiche donne les dimensions et les versions du modèle.
+- ### Ce qu’il faut noter
 
-- ### Max Divani Curry
+  Avant de prendre la route, notez la taille de votre couchage et ce que vous souhaitez changer : le soutien, la sensation d’accueil ou le type de sommier.
 
-  Trois places, deux places et fauteuil, sur ressorts ensachés.
-
-  [Voir la fiche](https://fony.be/salon-max-divani-curry)
-- ### Nicoletti Memphis
-
-  Canapé relax électrique, têtière et soutien lombaire réglables.
-
-  [Voir la fiche](https://fony.be/salon-nicoletti-memphis)
-- ### Nicoletti Oakland
-
-  Canapé relax en trois versions électriques.
-
-  [Voir la fiche](https://fony.be/salon-nicoletti-oakland)
+  [Lire le guide pour choisir un matelas](https://fony.be/literie-choisir-matelas)
 
 Vos questions
 
@@ -103,9 +91,9 @@ Non. Notre seul magasin est à Leval-Trahegnies, dans l’entité de Binche, à 
 
 Oui. Nous livrons et installons nous-mêmes à Thuin, Lobbes, Erquelinnes et Beaumont, comme dans le reste du Hainaut et la province de Namur.
 
-### Faut-il prendre rendez-vous ?
+### Livrez-vous en France, à Jeumont ou à Marpent ?
 
-Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture. Pour préparer votre visite, décrivez-nous votre projet avec [le formulaire](https://fony.be/magasin-contact#visite).
+Oui. Nous passons la frontière pour livrer à Jeumont, à Marpent et dans les communes françaises proches d’Erquelinnes. [Donnez-nous votre adresse](https://fony.be/magasin-contact#visite) : nous organisons la livraison avec vous.
 
 ## Venez nous voir à Leval-Trahegnies.
 
@@ -133,4 +121,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

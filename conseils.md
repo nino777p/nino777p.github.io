@@ -1,6 +1,6 @@
 # Conseils pour bien choisir vos meubles — Fony Meubles
 
-> Guides de Fony Meubles pour choisir un matelas, un lit à deux, un boxspring et des teintes qui s’accordent, avant de venir essayer au magasin près de Binche.
+> Guides de Fony Meubles pour choisir un matelas, comparer boxspring fixe et électrique ou accorder les teintes, avant de venir essayer près de Binche.
 
 Adresse de la page : https://fony.be/conseils
 
@@ -11,7 +11,7 @@ Conseils
 
 # Bien choisir, avant de venir essayer.
 
-Nos guides répondent aux questions que l’on nous pose au magasin.
+À lire chez vous, pour savoir quoi regarder et quoi essayer une fois au magasin.
 
 Nos guides
 
@@ -28,9 +28,9 @@ Nos guides
 
   Literie
 
-  ### [Matelas, boxspring, sommier : nos conseils](https://fony.be/literie-conseils)
+  ### [Boxspring fixe ou électrique](https://fony.be/literie-boxspring-fixe-electrique)
 
-  Lire le guide →
+  Comparer les boxsprings →
 - (Photo : Échantillon Tomasella : noyer ambré)
 
   Teintes et matières
@@ -65,4 +65,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

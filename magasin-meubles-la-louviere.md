@@ -21,7 +21,7 @@ Fony Meubles se trouve à Leval-Trahegnies, sur la route de Charleroi, entre Bin
 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
-- À 12 km du centre de La Louvière
+- À 12 km du centre de La Louvière
 - Parking facile d’accès
 - Avec ou sans rendez-vous
 
@@ -31,7 +31,7 @@ Pour venir
 
 - ### Le trajet
 
-  Comptez environ 12 km et un quart d’heure depuis le centre de La Louvière, selon la circulation : par la N27, puis la N55 en direction de Binche. Le magasin est sur la N90, la route de Charleroi.
+  Comptez environ 12 km et un quart d’heure depuis le centre de La Louvière, selon la circulation : par la N27, puis la N55 en direction de Binche. Le magasin est sur la N90, la route de Charleroi. Depuis Saint-Vaast, comptez environ 8 min ; depuis Strépy-Bracquegnies, environ 11 min ; depuis Morlanwelz, environ 12 min ; depuis Chapelle-lez-Herlaimont, environ 17 min. Ces temps s’entendent hors embouteillages.
 
   [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Sur place
@@ -71,32 +71,15 @@ Découvrez nos univers et demandez-nous quels modèles sont exposés avant votre
 
   Voir la literie
 
-À essayer
+Avant la visite
 
-## Quelques salons exposés.
+## Comparer un relax et un releveur.
 
-La composition exposée change au fil des arrivages. Chaque fiche donne les dimensions et les versions du modèle.
+- ### Ce qui compte à l’essai
 
-- ### Nicoletti Memphis
+  Vous venez essayer un fauteuil ? Repérez ce qui compte pour vous : la hauteur de l’assise, le réglage du dossier ou l’aide pour vous relever.
 
-  Canapé relax électrique, têtière et soutien lombaire réglables.
-
-  [Voir la fiche](https://fony.be/salon-nicoletti-memphis)
-- ### Nicoletti Oakland
-
-  Canapé relax en trois versions électriques.
-
-  [Voir la fiche](https://fony.be/salon-nicoletti-oakland)
-- ### Max Divani Zebra
-
-  Canapé d’angle, avec ou sans relax électrique.
-
-  [Voir la fiche](https://fony.be/salon-max-divani-zebra)
-- ### Max Divani Curry
-
-  Trois places, deux places et fauteuil, sur ressorts ensachés.
-
-  [Voir la fiche](https://fony.be/salon-max-divani-curry)
+  [Comparer les fauteuils relax et releveurs](https://fony.be/salon-fauteuils-relax-releveurs)
 
 Vos questions
 
@@ -109,10 +92,6 @@ Non. Notre seul magasin est à Leval-Trahegnies, dans l’entité de Binche, à 
 ### Livrez-vous à La Louvière ?
 
 Oui. Nous livrons et installons nous-mêmes à La Louvière et dans les communes voisines, comme dans le reste du Hainaut et la province de Namur.
-
-### Faut-il prendre rendez-vous ?
-
-Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture. Pour préparer votre visite, décrivez-nous votre projet avec [le formulaire](https://fony.be/magasin-contact#visite).
 
 ## Venez nous voir à Leval-Trahegnies.
 
@@ -140,4 +119,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

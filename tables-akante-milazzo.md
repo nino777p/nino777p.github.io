@@ -21,11 +21,11 @@ Akante · Table de repas extensible
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
-Une table dont le plateau pivote pour libérer deux rallonges latérales. Plateau en céramique, en deux longueurs : 120 ou 130 cm fermée.
+Une table dont le plateau pivote pour libérer deux rallonges latérales. Plateau en céramique, en deux longueurs : 120 ou 130 cm fermée.
 
 - Deux rallonges latérales, mécanisme synchronisé
 - Plateau en céramique collée sur verre
-- Deux longueurs : 120 ou 130 cm, 180 ou 190 cm ouverte
+- Deux longueurs : 120 ou 130 cm, 180 ou 190 cm ouverte
 - Douze finitions de plateau
 
 - Dimensions, plateau et finitions au choix
@@ -67,18 +67,18 @@ Formats
 
 |  |  |
 | --- | --- |
-| 120 cm | 120 × 90 cm, 180 × 90 cm ouverte — jusqu’à 6 places, 8 ouverte |
-| 130 cm | 130 × 100 cm, 190 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
-| Hauteur | 76 cm |
+| 120 cm | 120 × 90 cm, 180 × 90 cm ouverte — jusqu’à 6 places, 8 ouverte |
+| 130 cm | 130 × 100 cm, 190 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
+| Hauteur | 76 cm |
 
 Fabrication
 
 |  |  |
 | --- | --- |
-| Mécanisme | Deux rallonges latérales synchronisées, de 30 cm chacune |
+| Mécanisme | Deux rallonges latérales synchronisées, de 30 cm chacune |
 | Plateau | Céramique de 3 ou 6 mm collée sur un verre de 6 ou 8 mm |
 | Piétement | Acier thermolaqué noir mat, patins réglables |
-| Poids net | 95 kg (120 cm) ou 107 kg (130 cm) |
+| Poids net | 95 kg (120 cm) ou 107 kg (130 cm) |
 
 Finitions du plateau
 
@@ -96,7 +96,7 @@ Les deux rallonges latérales sont rangées sous le plateau ; le mécanisme sy
 
 ### Milazzo convient-elle à une petite salle à manger ?
 
-Oui : fermée, elle mesure 120 × 90 cm ou 130 × 100 cm pour six personnes, et reçoit huit convives une fois ouverte.
+Oui : fermée, elle mesure 120 × 90 cm ou 130 × 100 cm pour six personnes, et reçoit huit convives une fois ouverte.
 
 Voir aussi
 
@@ -134,4 +134,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

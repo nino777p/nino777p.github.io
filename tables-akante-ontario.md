@@ -21,10 +21,10 @@ Akante · Table de repas extensible
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
-Une table rectangulaire à deux rallonges latérales indépendantes, sur quatre pieds inclinés en acier noir. Plateau en céramique, en trois longueurs : 150, 190 ou 200 cm fermée.
+Une table rectangulaire à deux rallonges latérales indépendantes, sur quatre pieds inclinés en acier noir. Plateau en céramique, en trois longueurs : 150, 190 ou 200 cm fermée.
 
 - Deux rallonges latérales indépendantes
-- Trois longueurs : de 150 à 200 cm, de 230 à 300 cm ouverte
+- Trois longueurs : de 150 à 200 cm, de 230 à 300 cm ouverte
 - Jusqu’à 12 places en Grande Ontario
 - Plateau en céramique collée sur verre
 
@@ -62,19 +62,19 @@ Formats
 
 |  |  |
 | --- | --- |
-| 150 cm | 150 × 100 cm, 230 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
-| 190 cm | 190 × 100 cm, 270 × 100 cm ouverte — jusqu’à 8 places, 10 ouverte |
-| 200 cm (Grande Ontario) | 200 × 120 cm, 300 × 120 cm ouverte — jusqu’à 8 places, 12 ouverte |
-| Hauteur | 76 cm |
+| 150 cm | 150 × 100 cm, 230 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
+| 190 cm | 190 × 100 cm, 270 × 100 cm ouverte — jusqu’à 8 places, 10 ouverte |
+| 200 cm (Grande Ontario) | 200 × 120 cm, 300 × 120 cm ouverte — jusqu’à 8 places, 12 ouverte |
+| Hauteur | 76 cm |
 
 Fabrication
 
 |  |  |
 | --- | --- |
-| Mécanisme | Deux rallonges latérales indépendantes, de 40 cm chacune (50 cm sur la Grande Ontario) |
+| Mécanisme | Deux rallonges latérales indépendantes, de 40 cm chacune (50 cm sur la Grande Ontario) |
 | Plateau | Céramique de 3 ou 6 mm collée sur un verre de 8 mm |
 | Piétement | Acier thermolaqué, patins réglables |
-| Poids net | 101 kg (150 cm) ou 112 kg (190 cm) |
+| Poids net | 101 kg (150 cm) ou 112 kg (190 cm) |
 
 Finitions du plateau
 
@@ -126,4 +126,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

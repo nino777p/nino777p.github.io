@@ -179,25 +179,37 @@
 })();
 
 /* 20-apparition.js */
-/* Apparition discrète des blocs situés sous la ligne de flottaison (rien pour qui préfère moins d'animations). */
+/* Glissement discret des blocs qui arrivent par le bas de l'écran (rien pour qui préfère moins d'animations).
+   (20/11/2026, nino : le site « met du temps à charger ») Avant, les blocs sous la ligne de flottaison étaient masqués
+   (opacité 0) puis révélés après leur entrée à l'écran ; mesuré sur téléphone 390 px : retard de 0,15 à 0,45 s, et un
+   bloc arrêté dans la bande basse (marge de −8 %) restait invisible. Maintenant RIEN n'est masqué, jamais : le bloc est
+   à sa place et lisible sans script. Le script ajoute seulement « vient » (design/90-mouvement.css : 10 px de montée,
+   sans toucher à l'opacité) au moment où le bloc arrive au bord bas de l'écran, puis retire la classe. */
 (function () {
   if (!('IntersectionObserver' in window)) return;
   try { if (matchMedia('(prefers-reduced-motion: reduce)').matches) return; } catch (e) {}
   var blocs = document.querySelectorAll('main .tete-section, main .tuile, main .point, main .fabricant-logo, main .echantillon,'
     + ' main .assemblage-carte, main .visite-carte, main .visite-texte, main .echantillons-texte, main .moment, main .etape'
     // 17/11/2026 : page salon (espace salon) : titres des défilés, textes des grandes photos, cartes, positions
-    // (19/11/2026) les cartes des rangées à glisser ne sont plus masquées : celles de droite restaient invisibles tant
-    // qu'on n'avait pas glissé jusqu'à elles (nino : « les autres modèles, on ne les voit pas »), et leur décalage rendait
-    // la rangée défilable en hauteur (design/48-defile.css).
+    // (19/11/2026) les cartes des rangées à glisser ne sont pas suivies : leur décalage rendait la rangée défilable en
+    // hauteur (design/48-defile.css).
     + ', main.ambiance-salon .defile-tete, main.ambiance-salon .immersion-texte, main.ambiance-salon .position');
-  var bas = window.innerHeight * 0.92, suivis = [];
-  for (var i = 0; i < blocs.length; i++) if (blocs[i].getBoundingClientRect().top > bas) suivis.push(blocs[i]);
+  var suivis = [];
+  for (var i = 0; i < blocs.length; i++) if (blocs[i].getBoundingClientRect().top > window.innerHeight) suivis.push(blocs[i]);
   if (!suivis.length) return;
-  document.documentElement.classList.add('apparition');
+  function fini(e) { if (e.target === this) { this.classList.remove('vient'); this.removeEventListener('animationend', fini); } }
   var o = new IntersectionObserver(function (es) {
-    es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('vu'); o.unobserve(e.target); } });
-  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
-  suivis.forEach(function (b) { b.classList.add('vient'); o.observe(b); });
+    es.forEach(function (e) {
+      if (!e.isIntersecting) return;
+      o.unobserve(e.target);
+      // Seulement si le bloc arrive par le bas et dépasse à peine (moins de 32 px) : un bloc déjà lisible ne bouge pas
+      // (saut vers une ancre, retour en arrière, défilement très rapide, remontée de la page).
+      if (e.boundingClientRect.top < window.innerHeight - 32) return;
+      e.target.addEventListener('animationend', fini);
+      e.target.classList.add('vient');
+    });
+  }, { rootMargin: '0px 0px 24px 0px' });
+  suivis.forEach(function (b) { o.observe(b); });
 })();
 
 /* 30-operations.js */

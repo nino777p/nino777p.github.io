@@ -21,9 +21,9 @@ Akante · Table de repas extensible
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
-Une grande table à deux rallonges latérales indépendantes, pour dix à douze convives. Plateau en céramique marbrée, en deux longueurs : 150 ou 190 cm fermée.
+Une grande table à deux rallonges latérales indépendantes, pour dix à douze convives. Plateau en céramique marbrée, en deux longueurs : 150 ou 190 cm fermée.
 
-- Deux rallonges latérales indépendantes de 40 cm
+- Deux rallonges latérales indépendantes de 40 cm
 - Jusqu’à 12 places, rallonges ouvertes
 - Plateau en céramique de 6 mm collée sur verre
 - Quatre finitions marbre
@@ -62,18 +62,18 @@ Formats
 
 |  |  |
 | --- | --- |
-| 150 cm | 150 × 110 cm, 230 × 110 cm ouverte — jusqu’à 6 places, 10 ouverte |
-| 190 cm | 190 × 120 cm, 270 × 120 cm ouverte — jusqu’à 8 places, 12 ouverte |
-| Hauteur | 76 cm |
+| 150 cm | 150 × 110 cm, 230 × 110 cm ouverte — jusqu’à 6 places, 10 ouverte |
+| 190 cm | 190 × 120 cm, 270 × 120 cm ouverte — jusqu’à 8 places, 12 ouverte |
+| Hauteur | 76 cm |
 
 Fabrication
 
 |  |  |
 | --- | --- |
-| Mécanisme | Deux rallonges latérales indépendantes de 40 cm |
+| Mécanisme | Deux rallonges latérales indépendantes de 40 cm |
 | Plateau | Céramique de 6 mm collée sur un verre de 8 mm |
 | Piétement | Acier thermolaqué noir mat, patins réglables |
-| Poids net | 108 kg (150 cm) ou 151 kg (190 cm) |
+| Poids net | 108 kg (150 cm) ou 151 kg (190 cm) |
 
 Finitions du plateau
 
@@ -87,7 +87,7 @@ Vos questions
 
 ### Peut-on n’ouvrir qu’une rallonge ?
 
-Oui : les deux rallonges latérales de 40 cm sont indépendantes.
+Oui : les deux rallonges latérales de 40 cm sont indépendantes.
 
 Voir aussi
 
@@ -125,4 +125,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

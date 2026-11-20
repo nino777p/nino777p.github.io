@@ -25,7 +25,7 @@ Photos : Max Divani. Visuels du fabricant, coloris non contractuels.
 
 Un canapé avance-recule sur piètement en métal : le dossier se recule pour approfondir l’assise. En deux ou trois places, avec chaise longue ou en angle. En cuir, en tissu ou en microfibre.
 
-- Dossiers avance-recule : le canapé passe de 112 à 140 cm de profondeur
+- Dossiers avance-recule : le canapé passe de 112 à 140 cm de profondeur
 - Dossier et accoudoirs garnis de mousse et de plumes
 - En canapé droit, avec chaise longue ou en angle
 - Pouf assorti
@@ -51,8 +51,8 @@ Dimensions
 
 |  |  |
 | --- | --- |
-| Hauteur | 88 cm |
-| Profondeur | 112 cm, 140 cm dossier reculé |
+| Hauteur | 88 cm |
+| Profondeur | 112 cm, 140 cm dossier reculé |
 
 Fabrication
 
@@ -107,7 +107,7 @@ Vos questions
 
 ### Qu’est-ce qu’un canapé avance-recule ?
 
-Le dossier coulisse : avancé, on s’assoit droit ; reculé, l’assise est plus profonde. Sur Coffee, la profondeur passe de 112 à 140 cm.
+Le dossier coulisse : avancé, on s’assoit droit ; reculé, l’assise est plus profonde. Sur Coffee, la profondeur passe de 112 à 140 cm.
 
 Voir aussi
 
@@ -143,4 +143,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

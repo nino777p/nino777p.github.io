@@ -55,10 +55,10 @@ Dimensions
 
 |  |  |
 | --- | --- |
-| Hauteur | 77 cm, 97 cm appui-tête relevé |
-| Profondeur | 109 cm |
-| Hauteur d’assise | 44 cm |
-| Hauteur d’accoudoir | 62 cm |
+| Hauteur | 77 cm, 97 cm appui-tête relevé |
+| Profondeur | 109 cm |
+| Hauteur d’assise | 44 cm |
+| Hauteur d’accoudoir | 62 cm |
 
 Fabrication
 
@@ -67,7 +67,7 @@ Fabrication
 | Structure | Bois |
 | Assise, dossier et accoudoirs | Mousse polyuréthane |
 | Confort | Standard ou ferme |
-| Pieds | Métal, hauteur 12 cm, quatre finitions |
+| Pieds | Métal, hauteur 12 cm, quatre finitions |
 
 Fonctions et options
 
@@ -151,4 +151,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

@@ -82,10 +82,10 @@ Dimensions
 
 |  |  |
 | --- | --- |
-| Hauteur | 92 cm, 103 cm appuie-tête relevé |
-| Profondeur | 98 cm |
-| Hauteur d’assise | 51 cm |
-| Profondeur relax ouvert | 156 cm |
+| Hauteur | 92 cm, 103 cm appuie-tête relevé |
+| Profondeur | 98 cm |
+| Hauteur d’assise | 51 cm |
+| Profondeur relax ouvert | 156 cm |
 
 Fabrication
 
@@ -133,7 +133,7 @@ Vos questions
 
 ### Peut-on avoir un relax sur Curry ?
 
-Oui : le trois places peut recevoir deux relax électriques. Relax ouvert, il mesure 156 cm de profondeur, contre 98 cm refermé.
+Oui : le trois places peut recevoir deux relax électriques. Relax ouvert, il mesure 156 cm de profondeur, contre 98 cm refermé.
 
 Voir aussi
 
@@ -171,4 +171,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

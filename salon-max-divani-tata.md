@@ -23,8 +23,8 @@ Photo : Max Divani. Visuel du fabricant, coloris non contractuel.
 
 Un grand canapé d’angle à assise profonde et appuie-têtes réglables, avec relax électrique. Assise sur ressorts ensachés, en cuir ou en tissu.
 
-- Grandes compositions d’angle, jusqu’à 439 cm
-- Assise profonde : 60 cm
+- Grandes compositions d’angle, jusqu’à 439 cm
+- Assise profonde : 60 cm
 - Relax électrique à boutons
 - Appuie-têtes réglables, à la main ou électriques
 - Fabriqué en Italie
@@ -69,13 +69,13 @@ Dimensions
 
 |  |  |
 | --- | --- |
-| Hauteur | 78 cm, 103 cm appui-tête relevé |
-| Profondeur | 117 cm |
-| Hauteur d’assise | 45 cm |
-| Profondeur d’assise | 60 cm |
-| Largeur d’accoudoir | 25 cm |
-| Hauteur d’accoudoir | 61 cm |
-| Profondeur relax ouvert | 166 cm |
+| Hauteur | 78 cm, 103 cm appui-tête relevé |
+| Profondeur | 117 cm |
+| Hauteur d’assise | 45 cm |
+| Profondeur d’assise | 60 cm |
+| Largeur d’accoudoir | 25 cm |
+| Hauteur d’accoudoir | 61 cm |
+| Profondeur relax ouvert | 166 cm |
 
 Fabrication
 
@@ -125,7 +125,7 @@ Vos questions
 
 ### Quelle place prévoir pour le relax ?
 
-Relax ouvert, Tata mesure 166 cm de profondeur, contre 117 cm refermé.
+Relax ouvert, Tata mesure 166 cm de profondeur, contre 117 cm refermé.
 
 Voir aussi
 
@@ -161,4 +161,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

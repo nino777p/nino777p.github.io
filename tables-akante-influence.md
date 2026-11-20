@@ -21,10 +21,10 @@ Akante · Table de repas extensible
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
-Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied central à branches. Plateau en céramique, en deux longueurs : 150 ou 190 cm fermée.
+Une table rectangulaire à deux rallonges latérales indépendantes, sur un pied central à branches. Plateau en céramique, en deux longueurs : 150 ou 190 cm fermée.
 
-- Deux rallonges latérales indépendantes de 40 cm
-- Deux longueurs : 150 ou 190 cm, 230 ou 270 cm ouverte
+- Deux rallonges latérales indépendantes de 40 cm
+- Deux longueurs : 150 ou 190 cm, 230 ou 270 cm ouverte
 - Piétement en acier laqué noir, ou taupe avec les plateaux Marbre mat et Argile
 - Plateau en céramique collée sur verre
 
@@ -62,18 +62,18 @@ Formats
 
 |  |  |
 | --- | --- |
-| 150 cm | 150 × 100 cm, 230 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
-| 190 cm | 190 × 100 cm, 270 × 100 cm ouverte — jusqu’à 8 places, 10 ouverte |
-| Hauteur | 76 cm |
+| 150 cm | 150 × 100 cm, 230 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
+| 190 cm | 190 × 100 cm, 270 × 100 cm ouverte — jusqu’à 8 places, 10 ouverte |
+| Hauteur | 76 cm |
 
 Fabrication
 
 |  |  |
 | --- | --- |
-| Mécanisme | Deux rallonges latérales indépendantes de 40 cm |
+| Mécanisme | Deux rallonges latérales indépendantes de 40 cm |
 | Plateau | Céramique de 3 et 6 mm collée sur un verre de 8 mm |
 | Piétement | Acier thermolaqué, patins réglables |
-| Poids net | 128 kg (150 cm) ou 138 kg (190 cm) |
+| Poids net | 128 kg (150 cm) ou 138 kg (190 cm) |
 
 Finitions du plateau
 
@@ -117,4 +117,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

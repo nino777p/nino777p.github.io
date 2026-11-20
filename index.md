@@ -44,7 +44,7 @@ Dim.
 [Route de Charleroi 160/1
 7134 Leval-Trahegnies (itinéraire, nouvel onglet)](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
-Parking facile d’accès.
+Entre Binche et La Louvière. Parking facile d’accès. [Voir les trajets jusqu’au magasin](https://fony.be/magasin-meubles-pres-de-chez-vous).
 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
@@ -174,6 +174,26 @@ Nous sélectionnons des collections aux styles et aux finitions variés. Au maga
 
 ## Les fabricants que vous trouverez au magasin
 
+- [(Photo : Max Divani)](https://fony.be/salon-max-divani)
+- [(Photo : Tomasella)](https://fony.be/tomasella)
+- [(Photo : Stosa)](https://fony.be/cuisine)
+- [(Photo : Cattelan Italia)](https://fony.be/tables-cattelan)
+- [(Photo : Nicoletti)](https://fony.be/salon-nicoletti)
+- [(Photo : Sedit)](https://fony.be/tables-sedit)
+- [(Photo : Akante)](https://fony.be/tables-akante)
+- [(Photo : Perfecta)](https://fony.be/tables-perfecta)
+- [(Photo : Capodarte)](https://fony.be/capodarte)
+- [(Photo : Maxfurn)](https://fony.be/tables-chaises#maxfurn)
+- [(Photo : Velda)](https://fony.be/literie)
+- [(Photo : Van Landschoot)](https://fony.be/literie#fab-van-landschoot)
+- [(Photo : Polypreen)](https://fony.be/literie#fab-polypreen)
+- [(Photo : Stanford Bedding)](https://fony.be/literie#fab-stanford)
+- [(Photo : De Eiken Zetel)](https://fony.be/salon-fauteuils-relax-releveurs)
+- [(Photo : Confortluxe)](https://fony.be/salon#confortluxe)
+- [(Photo : Confortplus)](https://fony.be/literie#canapes-lits)
+- [(Photo : Vitarelax)](https://fony.be/literie#canapes-lits)
+- [(Photo : Diva Divani)](https://fony.be/literie#canapes-lits)
+- [(Photo : Cerata)](https://fony.be/tables-chaises#cerata)
 - [Movis](https://fony.be/tables-chaises#movis)
 - [Modulax](https://fony.be/tables-chaises#chaises-modulax)
 

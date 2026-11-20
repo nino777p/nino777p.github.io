@@ -49,13 +49,13 @@ Avec deux éléments indépendants, l’un peut lire relevé pendant que l’aut
 Les dimensions dépendent du modèle.
 
 Pour deux
-:   Deux éléments côte à côte : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 cm.
+:   Deux éléments côte à côte : 2 × 70, 2 × 80, 2 × 90 ou 2 × 100 cm.
 
 Pour une personne
-:   Un élément de 120 cm.
+:   Un élément de 120 cm.
 
 En longueur
-:   200, 210 ou 220 cm selon le modèle.
+:   200, 210 ou 220 cm selon le modèle.
 
 05 · Le style
 
@@ -98,7 +98,7 @@ Chez Axelsson, elle existe en plusieurs hauteurs, avec deux types de ressorts, f
 
 ### Ils règlent la hauteur du lit.
 
-Six modèles en métal, de 12 à 20 cm : ils changent la hauteur du couchage et l’allure de la chambre.
+Six modèles en métal, de 12 à 20 cm : ils changent la hauteur du couchage et l’allure de la chambre.
 
 Vos questions
 
@@ -157,4 +157,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

@@ -21,7 +21,7 @@ Depuis Nivelles, moins d’une demi-heure par l’E19. Fony Meubles n’a qu’u
 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
-- À 32 km du centre de Nivelles
+- À 32 km du centre de Nivelles
 - Parking facile d’accès
 - Livraison par nos soins à Nivelles
 
@@ -31,7 +31,7 @@ Pour venir
 
 - ### Le trajet
 
-  Comptez environ 32 km et 27 minutes depuis le centre de Nivelles, selon la circulation : l’E19 en direction de Mons, puis la N55 vers Binche. Depuis Seneffe, comptez 20 minutes par la N27 ; depuis Pont-à-Celles, un peu moins d’une demi-heure. Le magasin est sur la N90, la route de Charleroi.
+  Comptez environ 32 km et 27 minutes depuis le centre de Nivelles, selon la circulation : l’E19 en direction de Mons, puis la N55 vers Binche. Depuis Seneffe, comptez 20 minutes par la N27 ; depuis Pont-à-Celles, un peu moins d’une demi-heure. Le magasin est sur la N90, la route de Charleroi.
 
   [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Préparer la visite
@@ -91,9 +91,9 @@ Non. Notre seul magasin est à Leval-Trahegnies, dans l’entité de Binche, à 
 
 Oui. Nous livrons et installons nous-mêmes à Nivelles, ainsi que dans le Hainaut et la province de Namur.
 
-### Faut-il prendre rendez-vous ?
+### Livrez-vous plus au nord, vers Bruxelles ?
 
-Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture. Pour préparer votre visite, décrivez-nous votre projet avec [le formulaire](https://fony.be/magasin-contact#visite).
+Oui, sur demande. Ailleurs en Belgique, Bruxelles comprise, la livraison s’organise au cas par cas : [indiquez-nous votre adresse](https://fony.be/magasin-contact#visite).
 
 ## Venez nous voir à Leval-Trahegnies.
 
@@ -121,4 +121,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

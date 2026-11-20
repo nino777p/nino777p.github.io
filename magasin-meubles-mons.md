@@ -21,7 +21,7 @@ Depuis Mons, vingt-cinq minutes pour essayer votre salon. Fony Meubles n’a qu�
 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
-- À 31 km du centre de Mons
+- À 31 km du centre de Mons
 - Parking facile d’accès
 - Livraison par nos soins à Mons
 
@@ -31,7 +31,7 @@ Pour venir
 
 - ### Le trajet
 
-  Comptez environ 31 km et 25 minutes depuis le centre de Mons, selon la circulation : l’E19 en direction de Charleroi, puis la N55 vers Binche. Le magasin est sur la N90, la route de Charleroi. Depuis Havré, comptez un peu moins de 20 minutes ; depuis Cuesmes ou Frameries, un peu moins d’une demi-heure.
+  Comptez environ 31 km et 25 minutes depuis le centre de Mons, selon la circulation : l’E19 en direction de Charleroi, puis la N55 vers Binche. Le magasin est sur la N90, la route de Charleroi.
 
   [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Pourquoi faire la route
@@ -69,27 +69,15 @@ Au magasin
 
   Voir la literie
 
-À essayer
+Avant la visite
 
-## Quelques salons exposés.
+## Repérer un canapé avant de venir.
 
-La composition exposée change au fil des arrivages. Chaque fiche donne les dimensions et les versions du modèle.
+- ### Les mesures à prendre chez vous
 
-- ### Nicoletti Memphis
+  Avant de choisir une composition, mesurez le mur disponible et vérifiez le passage par lequel le canapé devra entrer. Gardez les références qui vous intéressent pour préparer votre essai.
 
-  Canapé relax électrique, têtière et soutien lombaire réglables.
-
-  [Voir la fiche](https://fony.be/salon-nicoletti-memphis)
-- ### Max Divani Zebra
-
-  Canapé d’angle, avec ou sans relax électrique.
-
-  [Voir la fiche](https://fony.be/salon-max-divani-zebra)
-- ### Max Divani Curry
-
-  Trois places, deux places et fauteuil, sur ressorts ensachés.
-
-  [Voir la fiche](https://fony.be/salon-max-divani-curry)
+  [Découvrir les canapés relax électriques](https://fony.be/salon-canapes-relax-electriques)
 
 Vos questions
 
@@ -103,9 +91,9 @@ Non. Notre seul magasin est à Leval-Trahegnies, dans l’entité de Binche, à 
 
 Oui. Nous livrons et installons nous-mêmes à Mons, comme dans le reste du Hainaut et la province de Namur.
 
-### Faut-il prendre rendez-vous ?
+### Combien de temps faut-il depuis Havré, Cuesmes ou Frameries ?
 
-Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture. Pour préparer votre visite, décrivez-nous votre projet avec [le formulaire](https://fony.be/magasin-contact#visite).
+Depuis Havré, prévoyez environ 18 min ; depuis Cuesmes, environ 27 min ; depuis Frameries, environ 28 min. Ces temps sont relevés hors embouteillages.
 
 ## Venez nous voir à Leval-Trahegnies.
 
@@ -133,4 +121,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

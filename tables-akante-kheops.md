@@ -21,11 +21,11 @@ Akante · Table de repas extensible
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
-Une table à deux rallonges latérales synchronisées, sur un piétement croisé en acier noir. Plateau en céramique, en trois longueurs : 120, 130 ou 160 cm fermée.
+Une table à deux rallonges latérales synchronisées, sur un piétement croisé en acier noir. Plateau en céramique, en trois longueurs : 120, 130 ou 160 cm fermée.
 
 - Deux rallonges latérales, mécanisme synchronisé
 - Plateau en céramique collée sur verre
-- Trois longueurs : de 120 à 160 cm, de 180 à 240 cm ouverte
+- Trois longueurs : de 120 à 160 cm, de 180 à 240 cm ouverte
 - Douze finitions de plateau
 
 - Dimensions, plateau et finitions au choix
@@ -62,19 +62,19 @@ Formats
 
 |  |  |
 | --- | --- |
-| 120 cm | 120 × 90 cm, 180 × 90 cm ouverte — jusqu’à 6 places, 8 ouverte |
-| 130 cm | 130 × 100 cm, 190 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
-| 160 cm (Grande Kheops) | 160 × 100 cm, 240 × 100 cm ouverte — jusqu’à 6 places, 10 ouverte |
-| Hauteur | 76 cm |
+| 120 cm | 120 × 90 cm, 180 × 90 cm ouverte — jusqu’à 6 places, 8 ouverte |
+| 130 cm | 130 × 100 cm, 190 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
+| 160 cm (Grande Kheops) | 160 × 100 cm, 240 × 100 cm ouverte — jusqu’à 6 places, 10 ouverte |
+| Hauteur | 76 cm |
 
 Fabrication
 
 |  |  |
 | --- | --- |
-| Mécanisme | Deux rallonges latérales synchronisées, de 30 cm chacune (40 cm sur la Grande Kheops) |
+| Mécanisme | Deux rallonges latérales synchronisées, de 30 cm chacune (40 cm sur la Grande Kheops) |
 | Plateau | Céramique de 3 ou 6 mm collée sur un verre de 6 ou 8 mm |
 | Piétement | Acier thermolaqué noir mat, patins réglables |
-| Poids net | 82 kg (120 cm), 102 kg (130 cm) ou 147 kg (160 cm) |
+| Poids net | 82 kg (120 cm), 102 kg (130 cm) ou 147 kg (160 cm) |
 
 Finitions du plateau
 
@@ -92,7 +92,7 @@ Deux rallonges latérales sont rangées sous le plateau ; un mécanisme synchr
 
 ### Quelle différence entre Kheops et Grande Kheops ?
 
-La longueur : 120 ou 130 cm pour Kheops, 160 cm pour la Grande Kheops, qui s’ouvre jusqu’à 240 cm pour dix convives.
+La longueur : 120 ou 130 cm pour Kheops, 160 cm pour la Grande Kheops, qui s’ouvre jusqu’à 240 cm pour dix convives.
 
 Voir aussi
 
@@ -130,4 +130,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

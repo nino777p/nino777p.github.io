@@ -87,11 +87,11 @@ Dimensions
 
 |  |  |
 | --- | --- |
-| Profondeur | 110 cm |
-| Hauteur | 78 à 100 cm, appuie-têtes réglables |
-| Hauteur d’assise | 48 cm |
-| Profondeur d’assise | 57 cm |
-| Profondeur relax ouvert | 162 cm |
+| Profondeur | 110 cm |
+| Hauteur | 78 à 100 cm, appuie-têtes réglables |
+| Hauteur d’assise | 48 cm |
+| Profondeur d’assise | 57 cm |
+| Profondeur relax ouvert | 162 cm |
 
 Fabrication
 
@@ -148,7 +148,7 @@ Vos questions
 
 ### Quelle place prévoir pour le relax ?
 
-Relax ouvert, Zebra mesure 162 cm de profondeur, contre 110 cm refermé. Prévoyez ce dégagement devant le canapé.
+Relax ouvert, Zebra mesure 162 cm de profondeur, contre 110 cm refermé. Prévoyez ce dégagement devant le canapé.
 
 Voir aussi
 
@@ -186,4 +186,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

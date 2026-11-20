@@ -77,12 +77,12 @@ Dimensions communes aux éléments
 
 |  |  |
 | --- | --- |
-| Hauteur | 79 cm |
-| Profondeur | 107 cm |
-| Hauteur d’assise | 47 cm |
-| Profondeur d’assise | 56 cm |
-| Hauteur têtière relevée | 100 cm au maximum |
-| Profondeur relax ouvert | 160 cm au maximum |
+| Hauteur | 79 cm |
+| Profondeur | 107 cm |
+| Hauteur d’assise | 47 cm |
+| Profondeur d’assise | 56 cm |
+| Hauteur têtière relevée | 100 cm au maximum |
+| Profondeur relax ouvert | 160 cm au maximum |
 
 Fabrication
 
@@ -95,7 +95,7 @@ Fabrication
 | Dossier et têtières | Mousse polyuréthane, ouate 100 % polyester |
 | Accoudoirs | Mousse polyuréthane, ouate 100 % polyester |
 | Densité des mousses | Assise 30 kg/m³ avec ressorts, dossier 28 kg/m³ |
-| Pieds | Hauteur 4 cm |
+| Pieds | Hauteur 4 cm |
 | Déhoussable | Non |
 
 Mécanismes
@@ -159,7 +159,7 @@ Vos questions
 
 ### Faut-il beaucoup d’espace derrière et devant le canapé ?
 
-Relax ouvert, Memphis mesure au plus 160 cm de profondeur, contre 107 cm refermé. Prévoyez ce dégagement devant le canapé ; pour l’espace derrière, nous vérifions avec vous selon l’élément choisi.
+Relax ouvert, Memphis mesure au plus 160 cm de profondeur, contre 107 cm refermé. Prévoyez ce dégagement devant le canapé ; pour l’espace derrière, nous vérifions avec vous selon l’élément choisi.
 
 ### Peut-on le choisir en tissu ?
 
@@ -205,4 +205,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

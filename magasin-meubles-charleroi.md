@@ -21,7 +21,7 @@ Charleroi et l’ouest de l’agglomération
 
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY) [Mon projet](https://fony.be/magasin-contact#visite)
 
-- À 20 km du centre de Charleroi
+- À 20 km du centre de Charleroi
 - Au bord de la N90
 - Parking facile d’accès
 
@@ -31,7 +31,7 @@ Pour venir
 
 - ### Le trajet
 
-  Comptez environ 20 km et un peu plus de 20 minutes depuis le centre de Charleroi, selon la circulation, par la N90 : Marchienne-au-Pont, Fontaine-l’Évêque, Anderlues, puis Leval-Trahegnies. Le magasin est au bord de la route. Depuis Marchienne-au-Pont ou Montigny-le-Tilleul, comptez 17 minutes ; depuis Fontaine-l’Évêque, 12.
+  Comptez environ 20 km et un peu plus de 20 minutes depuis le centre de Charleroi, selon la circulation, par la N90 : Marchienne-au-Pont, Fontaine-l’Évêque, Anderlues, puis Leval-Trahegnies. Le magasin est au bord de la route. Depuis Marchienne-au-Pont ou Montigny-le-Tilleul, comptez environ 17 min ; depuis Fontaine-l’Évêque, environ 12 min.
 
   [Ouvrir l’itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 - ### Sur place
@@ -69,27 +69,15 @@ Au magasin
 
   Voir les cuisines
 
-À essayer
+Avant la visite
 
-## Quelques salons exposés.
+## Comparer les tables extensibles.
 
-La composition exposée change au fil des arrivages. Chaque fiche donne les dimensions et les versions du modèle.
+- ### Les mesures à comparer
 
-- ### Nicoletti Oakland
+  Pour vérifier qu’une table vous convient, comparez ses dimensions, fermée puis ouverte. Pensez aussi à la place des chaises et au passage autour de la table.
 
-  Canapé relax en trois versions électriques.
-
-  [Voir la fiche](https://fony.be/salon-nicoletti-oakland)
-- ### Max Divani Zebra
-
-  Canapé d’angle, avec ou sans relax électrique.
-
-  [Voir la fiche](https://fony.be/salon-max-divani-zebra)
-- ### Max Divani Curry
-
-  Trois places, deux places et fauteuil, sur ressorts ensachés.
-
-  [Voir la fiche](https://fony.be/salon-max-divani-curry)
+  [Voir les tables extensibles en céramique](https://fony.be/tables-extensibles-ceramique)
 
 Vos questions
 
@@ -97,15 +85,15 @@ Vos questions
 
 ### Fony Meubles a-t-il un magasin à Charleroi ?
 
-Non. Notre seul magasin est à Leval-Trahegnies, dans l’entité de Binche, à environ 20 km du centre de Charleroi, par la N90.
+Non. Notre seul magasin est à Leval-Trahegnies, dans l’entité de Binche, à environ 20 km du centre de Charleroi, par la N90.
 
 ### Livrez-vous à Charleroi ?
 
 Oui. Nous livrons et installons nous-mêmes à Charleroi et dans les communes voisines, comme dans le reste du Hainaut et la province de Namur.
 
-### Faut-il prendre rendez-vous ?
+### Combien de temps faut-il depuis Courcelles ou Gosselies ?
 
-Non, vous pouvez venir avec ou sans rendez-vous pendant les heures d’ouverture. Pour préparer votre visite, décrivez-nous votre projet avec [le formulaire](https://fony.be/magasin-contact#visite).
+Comptez environ 21 min depuis Courcelles et 27 min depuis Gosselies, hors embouteillages.
 
 ## Venez nous voir à Leval-Trahegnies.
 
@@ -133,4 +121,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

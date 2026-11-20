@@ -49,11 +49,11 @@ Dimensions
 
 |  |  |
 | --- | --- |
-| Largeur | 104 cm |
-| Profondeur | 93 cm |
-| Hauteur | 74 cm |
-| Hauteur d’assise | 40 cm |
-| Profondeur d’assise | 62 cm |
+| Largeur | 104 cm |
+| Profondeur | 93 cm |
+| Hauteur | 74 cm |
+| Hauteur d’assise | 40 cm |
+| Profondeur d’assise | 62 cm |
 
 Fabrication
 
@@ -129,4 +129,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.

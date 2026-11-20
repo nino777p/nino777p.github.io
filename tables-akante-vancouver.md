@@ -21,10 +21,10 @@ Akante · Table de repas extensible
 
 Photos : Akante. Visuels du fabricant, coloris non contractuels.
 
-Une table à rallonge centrale automatique, sur un pied central à branches en acier laqué noir mat. Plateau en céramique aux bords arrondis, en deux longueurs : 160 ou 200 cm fermée.
+Une table à rallonge centrale automatique, sur un pied central à branches en acier laqué noir mat. Plateau en céramique aux bords arrondis, en deux longueurs : 160 ou 200 cm fermée.
 
-- Rallonge centrale automatique de 50 ou 60 cm
-- Deux longueurs : 160 ou 200 cm, 210 ou 260 cm ouverte
+- Rallonge centrale automatique de 50 ou 60 cm
+- Deux longueurs : 160 ou 200 cm, 210 ou 260 cm ouverte
 - Plateau en céramique collée sur verre
 - Onze finitions de plateau
 
@@ -62,15 +62,15 @@ Formats
 
 |  |  |
 | --- | --- |
-| 160 cm | 160 × 100 cm, 210 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
-| 200 cm | 200 × 100 cm, 260 × 100 cm ouverte — jusqu’à 8 places, 10 ouverte |
-| Hauteur | 76 cm |
+| 160 cm | 160 × 100 cm, 210 × 100 cm ouverte — jusqu’à 6 places, 8 ouverte |
+| 200 cm | 200 × 100 cm, 260 × 100 cm ouverte — jusqu’à 8 places, 10 ouverte |
+| Hauteur | 76 cm |
 
 Fabrication
 
 |  |  |
 | --- | --- |
-| Mécanisme | Rallonge centrale automatique de 50 ou 60 cm |
+| Mécanisme | Rallonge centrale automatique de 50 ou 60 cm |
 | Plateau | Céramique de 3 ou 6 mm collée sur un verre de 8 mm |
 | Piétement | Acier thermolaqué, patins réglables |
 
@@ -86,7 +86,7 @@ Vos questions
 
 ### Où se range la rallonge de la table Vancouver ?
 
-Au centre du plateau : c’est une rallonge automatique de 50 ou 60 cm selon la longueur choisie.
+Au centre du plateau : c’est une rallonge automatique de 50 ou 60 cm selon la longueur choisie.
 
 ### Quelle différence avec la table Phoenix ?
 
@@ -128,4 +128,4 @@ Téléphone
 Livraison
 :   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
 
-Ailleurs en Belgique, dont Bruxelles : sur demande.
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.
