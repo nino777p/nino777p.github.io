@@ -112,7 +112,7 @@ Fony Meubles est revendeur Akante. Votre table se choisit avec nous, au magasin 
   La première visite et le conseil sont offerts, avec ou sans rendez-vous. Notre équipe part de votre pièce et du nombre de convives pour vous orienter vers un modèle.
 - ### Les dimensions
 
-  Apportez les dimensions de votre pièce et, si vous le pouvez, quelques photos. Une table à rallonge se compare fermée, puis ouverte : notre page sur les [tables extensibles en céramique](https://fony.be/tables-extensibles-ceramique) met les modèles côte à côte.
+  Apportez les dimensions de votre pièce et, si vous le pouvez, quelques photos. Une table à rallonge se compare fermée, puis ouverte : notre page sur les [tables extensibles en céramique](https://fony.be/tables-extensibles-ceramique) présente les modèles par mécanisme de rallonge.
 - ### Le plateau
 
   La finition du plateau en céramique se choisit avec nous. Pour accorder une pierre veinée à votre sol et à votre lumière, nos repères sont dans [les tendances](https://fony.be/tendances).

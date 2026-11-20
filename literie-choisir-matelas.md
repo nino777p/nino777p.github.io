@@ -191,7 +191,7 @@ Oui, par la garantie d’usine de Van Landschoot. Nous vous en donnons le détai
 
 ### Quelles marques de matelas trouve-t-on chez Fony Meubles ?
 
-Trois fabricants belges : Velda, Van Landschoot — dont les matelas Eclipse et Superqueen — et Polypreen.
+Ce guide détaille les matelas Eclipse et Superqueen de Van Landschoot. Notre [page Literie](https://fony.be/literie#marques) présente les quatre marques de literie de FONY : Velda, Van Landschoot, Polypreen et Stanford Bedding.
 
 Voir aussi
 

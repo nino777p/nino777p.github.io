@@ -132,9 +132,9 @@ Conseils
 
 ## L’un lit, *l’autre dort.*
 
-L’un aime un lit ferme, l’autre non. Nos conseils pour bien choisir, seul ou à deux.
+Avec deux éléments réglables séparément, vous pouvez lire le dos relevé pendant que l’autre dort à plat.
 
-[Voir les conseils →](https://fony.be/literie-conseils)
+[Voir comment chacun règle son côté →](https://fony.be/literie-boxspring-fixe-electrique#a-deux)
 
 Au magasin
 

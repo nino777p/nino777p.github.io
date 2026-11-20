@@ -48,7 +48,7 @@ Rallonge
 
 Selon le modèle, la rallonge se range dans la table ou se déploie à l’aide d’un mécanisme intégré. Venez essayer l’ouverture pour choisir celle qui vous convient. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
 
-- [Comparer les dimensions](https://fony.be/tables-extensibles-ceramique)
+- [Comparer les mécanismes de rallonge](https://fony.be/tables-extensibles-ceramique)
 - [Voir les tables Akante](https://fony.be/tables-akante)
 
 (Photo : Longue table en céramique claire sur piètement croisé, dix chaises en cuir brun, vue en plongée)
@@ -63,9 +63,9 @@ Pensez à vos repas quotidiens et aux occasions où vous recevez. Certains modè
 
 Modèle par modèle
 
-## Comparer les dimensions.
+## Choisir sa table à rallonge.
 
-Les tables à rallonge, avec leurs mesures fermée et ouverte.
+Découvrez les mécanismes de rallonge. Chaque fiche indique les dimensions de la table fermée et ouverte.
 
 - [Tables extensibles en céramique : 8 modèles Voir](https://fony.be/tables-extensibles-ceramique)
 
