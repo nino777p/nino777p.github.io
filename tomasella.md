@@ -17,7 +17,7 @@ Fabriqué en Italie, composé pour votre pièce
 
 Composez votre meuble TV, votre bibliothèque, votre garde-robe ou votre chambre avec les systèmes modulables Tomasella. Nous adaptons la composition à votre espace et à vos finitions.
 
-[Mon projet](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Séjour, rangements, chambre
 - Projection 3D de votre projet
@@ -35,7 +35,7 @@ Retrouvez des bois et des laques coordonnés du séjour à la chambre, selon les
 
    ### Un meuble TV, une bibliothèque, un buffet : votre composition.
 
-   Avec Atlante et Time, associez modules bas ou suspendus, rangements fermés et espaces ouverts. Composez le meuble qui convient à votre mur.
+   Avec Atlante et Time, associez modules bas ou suspendus, rangements fermés et espaces ouverts. Composez le meuble qui convient à votre mur. Un exemple : [le meuble TV et le dressoir du séjour Goliath](https://fony.be/realisation-sejour-goliath).
 
    [Voir le séjour](https://fony.be/living)
 2. (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
@@ -90,7 +90,7 @@ Vos mesures et une photo suffisent pour commencer. Si vous le souhaitez, nous ve
 
 Apportez une photo de la pièce et les dimensions du mur. Parking facile d’accès, avec ou sans rendez-vous.
 
-[Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
+[Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse

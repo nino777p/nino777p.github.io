@@ -423,6 +423,9 @@ visibility:hidden;opacity:0;transform:translateY(-12px);transition:opacity .2s v
 .etape-modeles .cadre{display:block;aspect-ratio:4/3;background:#fff;border:1px solid var(--trait);transition:border-color .2s var(--courbe)}
 .etape-modeles .cadre img{object-fit:contain}
 .etape-modeles .nom{font-size:var(--t-petit);line-height:1.3}
+.etape-modeles .format span{display:block}
+.etape-modeles .format{display:block;margin-top:2px;font-size:var(--t-petit);line-height:1.35;color:var(--encre-2)}
+.etape-modeles a{gap:6px}
 .etape-modeles a:hover .cadre{border-color:var(--accent)}
 .etape-modeles a:hover .nom{text-decoration:underline;text-underline-offset:3px}
 .marques{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));column-gap:var(--gout);border-top:1px solid var(--trait)}

@@ -27,7 +27,7 @@ La gamme Stosa
 
 ## Quatre familles, 1 000 finitions.
 
-Ambiances et détails, modèle par modèle : faites glisser chaque rangée.
+Ambiances et détails, modèle par modèle : faites glisser chaque rangée. Au magasin, comparez les façades et les plans de travail pour votre projet.
 
 ### Evolution
 
@@ -163,7 +163,7 @@ Réalisations
 
 C’est la première cuisine Stosa que nous avons livrée. Un modèle Kaya, avec un plan de travail en compact.
 
-[Découvrir le projet](https://fony.be/realisation-premiere-cuisine-stosa)
+[Voir la cuisine Kaya et son plan de travail en compact](https://fony.be/realisation-premiere-cuisine-stosa)
 
 (Photo : Cuisine Stosa Kaya : péninsule au décor bois avec tabourets, sous des vitrines suspendues à cadre noir éclairées)
 

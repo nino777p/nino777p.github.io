@@ -1,6 +1,6 @@
 # Séjour, meuble TV et bibliothèque à Binche — Fony Meubles
 
-> Meubles TV, bibliothèques et buffets Tomasella pour le living, composés par modules à la mesure de votre mur, à voir au magasin près de Binche.
+> Composez votre meuble TV, votre bibliothèque ou votre buffet Tomasella. Comparez les finitions au magasin et préparez votre projet en 3D.
 
 Adresse de la page : https://fony.be/living
 

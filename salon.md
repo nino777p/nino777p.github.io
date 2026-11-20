@@ -25,9 +25,9 @@ Canapés et fauteuils relax italiens et européens, du classique au contemporain
 
 Max Divani
 
-## Le savoir-faire italien du confort.
+## Deux façons de régler son confort.
 
-Née en 1956 à Altamura, dans les Pouilles, Max Divani fabrique des canapés et des fauteuils. Au magasin : une sélection de salons, du 3-2 classique au grand angle.
+Sur Zebra, les appuie-têtes se règlent. Sur Coffee, le dossier coulisse : la profondeur du canapé passe de 112 à 140 cm. Au magasin : une sélection de salons, du 3-2 classique au grand angle.
 
 [Découvrir Max Divani](https://fony.be/salon-max-divani)
 

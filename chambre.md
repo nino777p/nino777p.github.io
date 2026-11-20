@@ -33,7 +33,7 @@ Lit et chevets
 
 ### Le lit et les chevets.
 
-Lits et chevets Tomasella, entre autres, dans des finitions qui s’accordent à votre armoire.
+Lits et chevets Tomasella, entre autres.
 
 - [Voir Tomasella](https://fony.be/tomasella)
 
@@ -75,7 +75,7 @@ Tomasella pour composer la chambre entière. Staud et GBO by Bauwens se commande
 
 - ### Tomasella
 
-  Lits, chevets, armoires et dressings fabriqués en Italie, dans des finitions coordonnées.
+  Lits, chevets, armoires et dressings fabriqués en Italie.
 
   [Voir Tomasella](https://fony.be/tomasella)
 - ### Staud
@@ -121,7 +121,7 @@ Sur la page [Literie](https://fony.be/literie) : boxsprings, matelas et sommier
 
 ## Parlons de votre chambre.
 
-Apportez une photo de la pièce et les dimensions des murs. Parking facile d’accès, avec ou sans rendez-vous.
+Apportez une photo des meubles que vous gardez et les dimensions du mur à aménager. Parking facile d’accès, avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
