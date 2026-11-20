@@ -1165,6 +1165,8 @@ html{overflow-x:hidden;overflow-x:clip}
 .immersion .surtitre{color:var(--accent-sur-nuit)}
 .immersion .titre-section{color:var(--sur-nuit);margin-bottom:18px}
 .immersion .chapo{color:var(--sur-nuit-2);margin-bottom:28px}
+.immersion-legende{font-size:var(--t-petit);color:var(--sur-nuit-2);margin:18px 0 0}
+.immersion--clair .immersion-legende{color:inherit}
 @media (max-width:960px){
 .immersion{min-height:0;display:block}
 .immersion-photo{position:relative;height:auto;aspect-ratio:3/2;overflow:hidden}
