@@ -584,8 +584,17 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
 (() => {
   let actif;
   for (const mention of document.querySelectorAll('[data-video-mention]')) mention.hidden = false;
+  let rang = 0;
   for (const bouton of document.querySelectorAll('[data-video-instagram]')) {
     bouton.hidden = false;
+    // (21/11/2026, constat de Codex) le bouton ouvre une zone de lecture : il l'annonce (aria-expanded) et la désigne
+    // (aria-controls), au lieu de se dire « enfoncé » (aria-pressed), qui décrit un interrupteur.
+    const zone = bouton.closest('[data-video-projet]').querySelector('[data-video-lecteur]');
+    if (zone) {
+      if (!zone.id) zone.id = 'video-lecteur-' + (++rang);
+      bouton.setAttribute('aria-controls', zone.id);
+      bouton.setAttribute('aria-expanded', 'false');
+    }
     bouton.addEventListener('click', () => {
       const section = bouton.closest('[data-video-projet]');
       const lecteur = section.querySelector('[data-video-lecteur]');
@@ -594,7 +603,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
         clearTimeout(actif.delai);
         actif.lecteur.replaceChildren();
         actif.etat.textContent = '';
-        actif.bouton.removeAttribute('aria-pressed');
+        actif.bouton.setAttribute('aria-expanded', 'false');
       }
       const cadre = document.createElement('iframe');
       cadre.title = bouton.dataset.titre + ' — Instagram';
@@ -609,7 +618,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
         if (actif && actif.cadre === cadre) etat.textContent = '';
       }, { once: true });
       actif = { lecteur, etat, cadre, bouton, delai };
-      bouton.setAttribute('aria-pressed', 'true');
+      bouton.setAttribute('aria-expanded', 'true');
       etat.textContent = 'Chargement du lecteur Instagram…';
       lecteur.replaceChildren(cadre);
       lecteur.scrollIntoView({ block: 'nearest', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
