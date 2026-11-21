@@ -8,14 +8,19 @@
   if (!entete || !bouton) return;
   var texte = bouton.querySelector('.menu-bouton-texte'), nav = document.getElementById('navigation');
   var dehors = ['main', '.pied', '.barre-mobile', '.promo', '.evitement'];
+  function visible(e) { return e && e.offsetParent !== null && getComputedStyle(e).visibility !== 'hidden'; }
+  function entrees() {     // les entrées du menu lui-même
+    // (19/11/2026, Codex R1) les liens d'un panneau replié sont en visibility:hidden : hors de la boucle
+    return Array.prototype.filter.call(nav.querySelectorAll('a[href], button:not([disabled])'), visible);
+  }
   function focalisables() {
-    var l = Array.prototype.filter.call(nav.querySelectorAll('a[href], button:not([disabled])'), function (e) {
-      // (19/11/2026, Codex R1) les liens d'un panneau replié sont en visibility:hidden : hors de la boucle
-      return e.offsetParent !== null && getComputedStyle(e).visibility !== 'hidden';
-    });
-    l.push(bouton);
-    var cat = entete.querySelector('.entete-catalogue:not([hidden])'); if (cat) l.unshift(cat);   // (19/11/2026) bouton Catalogue, visible menu ouvert
-    return l;
+    // (21/11/2026, constat de Codex) menu ouvert, la boucle du clavier suit l'ordre de l'écran : d'abord les commandes
+    // visibles de la barre (logo, Catalogue, « Le magasin », puis « Fermer »), ensuite les entrées du menu. Le menu reste
+    // un panneau dépliable (aria-expanded), pas une fenêtre modale : son bouton « Fermer » est dans la barre.
+    var barre = [entete.querySelector('.entete-barre a.logo'), entete.querySelector('.entete-catalogue:not([hidden])'),
+                 entete.querySelector('.entete-actions .entete-magasin')].filter(visible);
+    barre.push(bouton);
+    return barre.concat(entrees().filter(function (e) { return barre.indexOf(e) < 0; }));
   }
   function regler(ouvert, rendre) {
     var etait = entete.classList.contains('menu-ouvert');
@@ -28,7 +33,7 @@
         if (ouvert) e.setAttribute('inert', ''); else e.removeAttribute('inert');
       });
     });
-    if (ouvert && !etait) { var l = focalisables(); if (l.length > 1) l[0].focus(); }
+    if (ouvert && !etait) { var l = entrees(); if (l.length) l[0].focus(); }   // à l'ouverture : la première entrée du menu
     if (!ouvert && etait && rendre) bouton.focus();
   }
   bouton.addEventListener('click', function () { regler(!entete.classList.contains('menu-ouvert'), true); });
@@ -337,12 +342,16 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
   try { if (matchMedia('(prefers-reduced-motion: reduce)').matches) return; } catch (e) {}
   b.classList.add('montage');   // (20/11/2026) travelling sur la photo affichée (design/20-ouverture.css)
   var i = 0, tours = 0, minuterie = null, fini = false, dernier = false, pret = false, enPause = false, bouton = document.createElement('button');
-  bouton.type = 'button'; bouton.className = 'ouverture-pause'; bouton.textContent = 'Mettre en pause';
+  bouton.type = 'button'; bouton.className = 'ouverture-pause'; bouton.innerHTML = '<span aria-hidden="true"></span>';   // (21/11/2026, nino : « pas esthétique ») un simple pictogramme ; le nom est dans aria-label
   bouton.setAttribute('aria-label', 'Mettre en pause les photos');
   // (19/11/2026, vérification adverse) placé à côté du calque des photos et non dedans : ce calque bouge avec la parallaxe
   // (transform), qui enfermait le bouton sous le texte sur ordinateur (aucun clic possible). Ordre du clavier inchangé.
-  b.parentNode.insertBefore(bouton, b.nextSibling);
-  function retirer() { if (bouton.parentNode) bouton.parentNode.removeChild(bouton); }
+  // (21/11/2026) rangé à la fin du texte du bloc (après les boutons et les faits), dans le flux : il ne peut plus
+  // recouvrir ni la photo ni une ligne de texte, quelle que soit la largeur de l'écran.
+  var contenu = b.parentNode.querySelector('.ouverture-contenu');
+  if (contenu) contenu.appendChild(bouton); else b.parentNode.insertBefore(bouton, b.nextSibling);
+  // (21/11/2026, relecture Codex) à la fin du tour le bouton est caché mais garde sa place : rien ne se décale dans le bloc
+  function retirer() { bouton.style.visibility = 'hidden'; bouton.disabled = true; }
   function demarrer() {
     // un seul tour : chaque photo passe une fois, puis le fondu s'arrête sur la première.
     minuterie = setInterval(function () {
@@ -382,7 +391,7 @@ if ('serviceWorker' in navigator) addEventListener('load', function () { navigat
     });
     if (enPause) { if (minuterie) { clearInterval(minuterie); minuterie = null; } }
     else if (pret && !dernier) demarrer();
-    bouton.textContent = enPause ? 'Reprendre' : 'Mettre en pause';
+    bouton.classList.toggle('en-pause', enPause);   // le pictogramme passe de « pause » à « lecture »
     bouton.setAttribute('aria-label', enPause ? 'Reprendre les photos' : 'Mettre en pause les photos');
   });
   // (19/11/2026, vérification adverse : poids sur téléphone) une photo à la fois : la 2e après la 1re, la 3e quand la 2e s'affiche.
