@@ -112,20 +112,7 @@ Composition et revêtements
 
 ## Composez votre Oakland.
 
-Quelques éléments parmi les 24 proposés par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Fauteuil fixe
-
-  L 98 × P 100 × H 101 cm
-- ### Fauteuil relax électrique
-
-  L 98 × P 100 × H 101 cm
-- ### Canapé deux places
-
-  L 156 × P 100 × H 101 cm
-- ### Canapé trois places
-
-  L 198 × P 100 × H 101 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 

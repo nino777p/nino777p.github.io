@@ -47,10 +47,6 @@ Vos questions
 
 Memphis et Oakland. La composition exposée change au fil des arrivages : les moteurs s’essaient toujours.
 
-### Et le modèle Charleston ?
-
-Charleston n’est plus disponible à la commande. Sa [fiche technique](https://fony.be/salon-nicoletti-charleston) reste consultable ; Oakland, très proche, s’essaie au magasin.
-
 Voir aussi
 
 ## D’autres façons de chercher.

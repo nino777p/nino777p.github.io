@@ -81,32 +81,7 @@ Composition et revêtements
 
 ## Composez votre Emu.
 
-Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Deux places
-
-  L 196 × P 109 cm
-- ### Trois places
-
-  L 216 × P 109 cm
-- ### Deux places avec deux relax
-
-  L 204 × P 109 cm
-- ### Trois places avec deux relax
-
-  L 234 × P 109 cm
-- ### Trois places avec chaise longue
-
-  L 291 × P 171 cm
-- ### Angle
-
-  L 285 × P 238 cm
-- ### Angle avec un relax
-
-  L 295 × P 238 cm
-- ### Pouf carré
-
-  L 80 × P 80 × H 47 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 

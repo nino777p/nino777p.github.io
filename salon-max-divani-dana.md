@@ -73,20 +73,7 @@ Composition et revêtements
 
 ## Composez votre Dana.
 
-Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Fauteuil fixe
-
-  L 104 × P 93 × H 74 cm
-- ### Fauteuil pivotant à 360°
-
-  L 104 × P 93 × H 74 cm
-- ### Pouf
-
-  L 90 × P 70 × H 40 cm
-- ### Petit pouf
-
-  L 90 × P 58 × H 40 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 

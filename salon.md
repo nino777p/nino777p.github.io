@@ -27,7 +27,7 @@ Max Divani
 
 ## Deux façons de régler son confort.
 
-Sur Zebra, les appuie-têtes se règlent. Sur Coffee, le dossier coulisse : la profondeur du canapé passe de 112 à 140 cm. Au magasin : une sélection de salons, du 3-2 classique au grand angle.
+Appuie-têtes réglables sur Zebra, dossier coulissant sur Coffee. Au magasin : une sélection de salons, du 3-2 classique au grand angle.
 
 [Découvrir Max Divani](https://fony.be/salon-max-divani)
 
@@ -39,7 +39,7 @@ Exposé au magasin
 
 ## Zebra, l’angle qui se compose.
 
-Un canapé à appuie-têtes réglables, en angle avec chaise longue ou en deux et trois places. Avec ou sans relax électrique, en tissu ou en cuir.
+Un canapé à appuie-têtes réglables, à composer selon votre pièce, en tissu ou en cuir.
 
 [Découvrir Zebra](https://fony.be/salon-max-divani-zebra)
 
@@ -61,25 +61,35 @@ Ambiances Max Divani
 
   Max Divani Osaka
 
-  Un salon sur pieds en bois, avec une assise sur ressorts ensachés.
+  Un salon sur pieds en bois.
 
   [Découvrir Osaka](https://fony.be/salon-max-divani-osaka)
 - (Photo : Rendu du fabricant : canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 
   Max Divani Coffee
 
-  Un canapé avance-recule : le dossier se recule pour approfondir l’assise.
+  Un canapé avance-recule.
 
   [Découvrir Coffee](https://fony.be/salon-max-divani-coffee)
 - (Photo : Rendu du fabricant, vu de dessus : deux canapés Gala aux coussins souples, en tissu beige et taupe, autour de deux tables basses sur un tapis clair)
 
   Max Divani Gala
 
-  Un canapé aux formes souples, à composer en droit, avec chaise longue ou en angle.
+  Un canapé aux formes souples, à composer selon votre pièce.
 
   [Découvrir Gala](https://fony.be/salon-max-divani-gala)
 
-Le revêtement se choisit modèle par modèle, échantillons en main, avec une photo de votre pièce. À côté du canapé, le fauteuil [Dana](https://fony.be/salon-max-divani-dana), fixe ou pivotant, se choisit lui aussi en cuir ou en tissu.
+Le revêtement se choisit modèle par modèle, échantillons en main, avec une photo de votre pièce. À côté du canapé, le fauteuil [Dana](https://fony.be/salon-max-divani-dana) se choisit lui aussi en cuir ou en tissu.
+
+(Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
+
+Fiches techniques
+
+## Dimensions et revêtements, modèle par modèle.
+
+Chaque salon a sa fiche technique au Catalogue. Les compositions se découvrent au magasin.
+
+[Voir les fiches au Catalogue](https://fony.be/catalogue#pieces)
 
 La matière
 
@@ -106,7 +116,7 @@ Nicoletti, le relax Cozy³
 
 ## Un confort réglable, place par place.
 
-Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place relax a sa propre commande, pour que chacun choisisse sa position. Le système Cozy³ de Nicoletti réunit trois moteurs indépendants.
+Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place relax a sa propre commande, pour que chacun choisisse sa position.
 
 (Photo : Canapé relax deux places en cuir beige, en position assise)
 
@@ -117,8 +127,8 @@ Au magasin, essayez les moteurs des modèles Memphis et Oakland. Chaque place re
 02 Une place ouverte : jambes relevées, appui-tête redressé.
 
 - **Le relax** Le dossier s’incline et le repose-jambes se relève, ensemble ou séparément selon le modèle.
-- **La tête** L’appui-tête se redresse séparément, pour lire ou regarder l’écran.
-- **Le bas du dos** Un soutien lombaire réglable complète le confort (sur Memphis : version Comfort).
+- **La tête** L’appui-tête se redresse séparément.
+- **Le bas du dos** Soutien lombaire réglable, selon la version.
 
 [Venir l’essayer](https://fony.be/salon#visite)
 

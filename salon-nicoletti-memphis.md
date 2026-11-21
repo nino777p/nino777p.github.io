@@ -117,24 +117,7 @@ Composition et revêtements
 
 ## Composez votre Memphis.
 
-Quelques éléments parmi les 22 proposés par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Fauteuil fixe
-
-  L 110 × P 107 × H 79 cm
-- ### Fauteuil relax électrique
-
-  L 111 × P 107 × H 79 cm
-- ### Fauteuil relax électrique Comfort
-
-  L 111 × P 107 × H 79 cm
-- ### Canapé deux places fixe
-
-  L 174 × P 107 × H 79 cm
-- ### Angle carré à têtière relevable
-
-  L 113 × P 113 × H 79 cm
-  Profondeur d’assise 80 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 

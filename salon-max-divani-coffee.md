@@ -75,23 +75,7 @@ Composition et revêtements
 
 ## Composez votre Coffee.
 
-Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Deux places
-
-  L 216 × P 112 cm
-- ### Trois places
-
-  L 236 × P 112 cm
-- ### Trois places avec chaise longue
-
-  L 322 cm
-- ### Angle
-
-  L 316 × P 316 cm
-- ### Pouf carré
-
-  L 112 × P 112 × H 44 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 

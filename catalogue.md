@@ -11,7 +11,7 @@ Catalogue
 
 # Tous nos meubles, pièce par pièce.
 
-Certains modèles sont exposés au magasin ; d’autres se découvrent sur catalogue et se commandent dans les configurations proposées par nos fabricants.
+Certains modèles sont exposés au magasin ; d’autres se découvrent sur catalogue et se commandent dans les configurations proposées par nos fabricants. Les fiches indiquent les dimensions, les revêtements des salons et les plateaux et finitions des tables.
 
 Par pièce
 
@@ -19,54 +19,75 @@ Par pièce
 
 ### Salon
 
-Canapés, relax et fauteuils, à essayer au magasin.
+Les fiches techniques de nos canapés et fauteuils : dimensions et revêtements. Les compositions se découvrent au magasin.
 
 [Tous les salons](https://fony.be/salon)
 
-Photo  1 / 6
+Photo  1 / 10
 
-- (Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
+- (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
 
-  Gala Max Divani
-- (Photo : Détail du canapé Curry en tissu clair : accoudoir arrondi et pied en métal)
+  [Zebra](https://fony.be/salon-max-divani-zebra) Max Divani
+- (Photo : Canapé en tissu écru aux formes souples, avec chaise longue, vu de face)
 
-  Curry Max Divani
-- (Photo : Canapé relax blanc, une place en position relax, à côté d’un canapé deux places en tissu gris)
+  [Gala](https://fony.be/salon-max-divani-gala) Max Divani
+- (Photo : Rendu du fabricant : canapé d’angle en cuir gris taupe sur piètement métal, avec son pouf)
 
-  Oakland Nicoletti
-- (Photo : Canapé d’angle Zebra en tissu gris vu de trois quarts, appuie-têtes relevés, chaise longue à droite)
+  [Coffee](https://fony.be/salon-max-divani-coffee) Max Divani
+- (Photo : Canapés trois places et deux places en tissu gris clair, une place relax ouverte)
 
-  Zebra Max Divani
-- (Photo : Canapé d’angle en cuir noir avec chaise longue, une place relax ouverte, pieds en métal)
+  [Curry](https://fony.be/salon-max-divani-curry) Max Divani
+- (Photo : Canapés deux places et trois places en cuir gris anthracite, sur fond blanc)
 
-  Charleston Nicoletti
-- (Photo : Rendu du fabricant : canapé d’angle Coffee en cuir gris taupe avec chaise longue, devant une baie vitrée sur la ville)
+  [Osaka](https://fony.be/salon-max-divani-osaka) Max Divani
+- (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
-  Coffee Max Divani
+  [Tata](https://fony.be/salon-max-divani-tata) Max Divani
+- (Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)
+
+  [Emu](https://fony.be/salon-max-divani-emu) Max Divani
+- (Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
+
+  [Dana](https://fony.be/salon-max-divani-dana) Max Divani
+- (Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)
+
+  [Oakland](https://fony.be/salon-nicoletti-oakland) Nicoletti
+- (Photo : Le même canapé, une place ouverte : repose-jambes sorti et appui-tête relevé, l’autre place assise)
+
+  [Memphis](https://fony.be/salon-nicoletti-memphis) Nicoletti
 
 ### Salle à manger
 
-Tables en céramique ou en bois, extensibles, et chaises assorties.
+Les fiches techniques de nos tables : dimensions, plateaux et finitions.
 
 [Toutes les tables](https://fony.be/tables-chaises)
 
-Photo  1 / 5
+Photo  1 / 8
 
-- (Photo : Grande table en céramique marbrée sur piètement croisé en métal, dans un séjour clair)
+- (Photo : Table Akante New Austin fermée sur fond blanc : plateau oblong en céramique marbrée, quatre pieds inclinés en acier noir)
 
-  Tyron Keramik Cattelan Italia
-- (Photo : Table Akante Milazzo au plateau chêne clair entourée de quatre fauteuils en velours terracotta)
+  [Austin](https://fony.be/tables-akante-austin) Akante
+- (Photo : Table Akante Influence fermée sur fond blanc : plateau rectangulaire en céramique marbrée, pied central à branches en acier noir)
 
-  Milazzo Akante
-- (Photo : Table en céramique marbrée sur piètement croisé, chaises vertes, lumière du soir)
+  [Influence](https://fony.be/tables-akante-influence) Akante
+- (Photo : Table Akante Kheops fermée sur fond blanc : plateau en céramique travertin, piétement croisé en acier noir)
 
-  Gold Sedit
-- (Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
+  [Kheops](https://fony.be/tables-akante-kheops) Akante
+- (Photo : Table Akante Milazzo fermée sur fond blanc : plateau en céramique chêne clair, piétement en acier noir)
 
-  Napoleon Keramik Cattelan Italia
-- (Photo : Table à rallonge au plateau céramique clair sur pied central en étoile, chaises grises)
+  [Milazzo](https://fony.be/tables-akante-milazzo) Akante
+- (Photo : Table Akante Missouri sur fond blanc : grand plateau en céramique marbrée blanche, quatre pieds inclinés noirs)
 
-  Phoenix Akante
+  [Missouri](https://fony.be/tables-akante-missouri) Akante
+- (Photo : Table Akante Grande Ontario fermée sur fond blanc : plateau en céramique marbrée, quatre pieds inclinés en acier noir)
+
+  [Ontario](https://fony.be/tables-akante-ontario) Akante
+- (Photo : Table Akante Phoenix sur fond blanc : plateau en céramique claire aux bords arrondis, pied central en étoile noir)
+
+  [Phoenix](https://fony.be/tables-akante-phoenix) Akante
+- (Photo : Table Akante Vancouver fermée sur fond blanc : plateau en céramique marbrée blanche, pied central à branches en acier noir)
+
+  [Vancouver](https://fony.be/tables-akante-vancouver) Akante
 
 ### Séjour
 

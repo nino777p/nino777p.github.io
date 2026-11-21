@@ -92,29 +92,7 @@ Composition et revêtements
 
 ## Composez votre Gala.
 
-Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Fauteuil
-
-  L 125 × P 105 cm
-- ### Canapé deux places
-
-  L 252 × P 105 cm
-- ### Canapé avec chaise longue
-
-  L 292 × P 160 cm
-- ### Trois places avec chaise longue
-
-  L 299 × P 160 cm
-- ### Angle
-
-  L 378 × P 277 cm
-- ### Grand angle
-
-  L 418 × P 291 cm
-- ### Pouf carré
-
-  L 100 × P 100 × H 42 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 
@@ -131,7 +109,7 @@ Vos questions
 
 ### Gala existe-t-il en angle ?
 
-Oui. Le fabricant présente deux compositions d’angle, de 378 × 277 cm et de 418 × 291 cm ; d’autres se composent à partir des éléments.
+Oui. Gala se compose en angle ; les compositions possibles se découvrent au magasin.
 
 Voir aussi
 

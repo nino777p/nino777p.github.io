@@ -114,26 +114,7 @@ Composition et revêtements
 
 ## Composez votre Zebra.
 
-Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Angle fixe avec chaise longue
-
-  L 287 × P 238 cm
-- ### Angle avec un relax électrique
-
-  L 291 × P 238 cm
-- ### Trois places fixe
-
-  L 206 × P 110 cm
-- ### Trois places avec deux relax
-
-  L 214 × P 110 cm
-- ### Deux places fixe
-
-  L 186 × P 110 cm
-- ### Deux places avec deux relax
-
-  L 194 × P 110 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 

@@ -97,14 +97,7 @@ Composition et revêtements
 
 ## Composez votre Osaka.
 
-Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Trois places
-
-  L 204 × P 95 × H 100 cm
-- ### Deux places
-
-  L 172 × P 95 × H 100 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 

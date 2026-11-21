@@ -108,17 +108,7 @@ Composition et revêtements
 
 ## Composez votre Curry.
 
-Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Trois places, deux grandes assises
-
-  L 202 × P 98 × H 92 cm
-- ### Deux places
-
-  L 172 × P 98 × H 92 cm
-- ### Fauteuil
-
-  L 109 × P 98 × H 92 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 

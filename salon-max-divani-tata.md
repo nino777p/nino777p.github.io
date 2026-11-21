@@ -97,20 +97,7 @@ Composition et revêtements
 
 ## Composez votre Tata.
 
-Les compositions proposées par le fabricant. Nous dessinons avec vous celle qui convient à votre pièce.
-
-- ### Trois places avec relax et chaise longue
-
-  L 305 cm
-- ### Angle arrondi avec relax
-
-  L 370 × P 230 cm
-- ### Angle avec relax et pouf
-
-  L 370 × P 260 cm
-- ### Grand angle ouvert
-
-  L 439 × P 224 cm
+Toutes les compositions se découvrent au magasin.
 
 ### Revêtements possibles
 
