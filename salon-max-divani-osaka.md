@@ -36,7 +36,7 @@ Un salon sur pieds en bois, en trois places, deux places et fauteuil. Assise sur
 La composition exposée change au fil des arrivages. Cuir et tissu à voir au magasin.
 
 [Venir l’essayer](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Osaka&demande=essai#visite)
-[Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Osaka&demande=devis#visite)
+[Choisir ma version pour un devis](https://fony.be/catalogue-salons-a-composer#osaka)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -97,14 +97,16 @@ Composition et revêtements
 
 ## Composez votre Osaka.
 
-Toutes les compositions se découvrent au magasin.
+Comparez les plans cotés et choisissez la version à joindre à votre demande de devis.
+
+[Schéma de principe FONY · Deux places · L 172 × P 95 × H 100 cm](https://fony.be/assets/salons-composition/plans/osaka-172-95.svg)
 
 ### Revêtements possibles
 
 - Tissu
 - Cuir
 
-[Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Osaka&demande=devis#visite)
+[Voir les 4 versions cotées](https://fony.be/catalogue-salons-a-composer#osaka)
 
 Vos questions
 

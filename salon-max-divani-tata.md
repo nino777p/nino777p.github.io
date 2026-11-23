@@ -33,7 +33,7 @@ Un grand canapé d’angle à assise profonde et appuie-têtes réglables, avec 
 - Sur commande : composition et revêtement au choix
 - Garantie du fabricant Max Divani, conditions détaillées au magasin.
 
-[Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Tata&demande=devis#visite)
+[Choisir ma version pour un devis](https://fony.be/catalogue-salons-a-composer#tata)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -97,14 +97,16 @@ Composition et revêtements
 
 ## Composez votre Tata.
 
-Toutes les compositions se découvrent au magasin.
+Comparez les plans cotés et choisissez la version à joindre à votre demande de devis.
+
+[Schéma de principe FONY · Angle arrondi avec relax · L 370 × P 230 cm](https://fony.be/assets/salons-composition/plans/tata-370-230.svg)
 
 ### Revêtements possibles
 
 - Cuir
 - Tissu
 
-[Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Tata&demande=devis#visite)
+[Voir les 4 versions cotées](https://fony.be/catalogue-salons-a-composer#tata)
 
 Vos questions
 

@@ -35,7 +35,7 @@ Un canapé avance-recule sur piètement en métal : le dossier se recule pour a
 - Sur commande : composition et revêtement au choix
 - Garantie du fabricant Max Divani, conditions détaillées au magasin.
 
-[Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Coffee&demande=devis#visite)
+[Choisir ma version pour un devis](https://fony.be/catalogue-salons-a-composer#coffee)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -75,7 +75,9 @@ Composition et revêtements
 
 ## Composez votre Coffee.
 
-Toutes les compositions se découvrent au magasin.
+Comparez les plans cotés et choisissez la version à joindre à votre demande de devis.
+
+[Schéma de principe FONY · Trois places · L 236 × P 112 cm](https://fony.be/assets/salons-composition/plans/coffee-236-112.svg)
 
 ### Revêtements possibles
 
@@ -83,7 +85,7 @@ Toutes les compositions se découvrent au magasin.
 - Tissu
 - Microfibre
 
-[Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Coffee&demande=devis#visite)
+[Voir les 5 versions cotées](https://fony.be/catalogue-salons-a-composer#coffee)
 
 Vos questions
 

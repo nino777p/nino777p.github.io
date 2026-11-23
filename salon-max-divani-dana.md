@@ -33,7 +33,7 @@ Un fauteuil rond, fixe ou pivotant à 360°, souligné d’une bande de cuir. En
 - Sur commande : composition et revêtement au choix
 - Garantie du fabricant Max Divani, conditions détaillées au magasin.
 
-[Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Dana&demande=devis#visite)
+[Choisir ma version pour un devis](https://fony.be/catalogue-salons-a-composer#dana)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -73,14 +73,16 @@ Composition et revêtements
 
 ## Composez votre Dana.
 
-Toutes les compositions se découvrent au magasin.
+Comparez les plans cotés et choisissez la version à joindre à votre demande de devis.
+
+[Schéma de principe FONY · Fauteuil fixe · L 104 × P 93 × H 74 cm](https://fony.be/assets/salons-composition/plans/dana-104-93-fixe.svg)
 
 ### Revêtements possibles
 
 - Cuir
 - Tissu
 
-[Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Dana&demande=devis#visite)
+[Voir les 4 versions cotées](https://fony.be/catalogue-salons-a-composer#dana)
 
 Voir aussi
 

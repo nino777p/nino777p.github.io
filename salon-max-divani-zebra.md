@@ -36,7 +36,7 @@ Un canapé à appuie-têtes réglables, en angle avec chaise longue ou en deux e
 La composition exposée change au fil des arrivages. Cuir et tissu à voir au magasin.
 
 [Venir l’essayer](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Zebra&demande=essai#visite)
-[Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Zebra&demande=devis#visite)
+[Choisir ma version pour un devis](https://fony.be/catalogue-salons-a-composer#zebra)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -114,14 +114,16 @@ Composition et revêtements
 
 ## Composez votre Zebra.
 
-Toutes les compositions se découvrent au magasin.
+Comparez les plans cotés et choisissez la version à joindre à votre demande de devis.
+
+[Schéma de principe FONY · Angle fixe avec chaise longue · L 287 × P 238 cm](https://fony.be/assets/salons-composition/plans/zebra-287-238.svg)
 
 ### Revêtements possibles
 
 - Tissu
 - Cuir
 
-[Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Zebra&demande=devis#visite)
+[Voir les 6 versions cotées](https://fony.be/catalogue-salons-a-composer#zebra)
 
 Vos questions
 

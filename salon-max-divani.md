@@ -18,7 +18,7 @@ Le savoir-faire italien du confort
 
 Née en 1956 à Altamura, en Italie, Max Divani fabrique des canapés et des fauteuils. Chez Fony : une sélection de salons, à dossiers avance-recule, modulables ou relax selon les modèles.
 
-[Mon projet salon](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+[Composer mon salon](https://fony.be/catalogue-salons-a-composer) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Fabriqués en Italie
 - Cuir, microfibre ou tissu
@@ -112,6 +112,33 @@ Au magasin et sur catalogue
    Un fauteuil rond, fixe ou pivotant à 360°, souligné d’une bande de cuir.
 
    [Dimensions et versions de Dana](https://fony.be/salon-max-divani-dana)
+9. (Photo : Canapé relax deux places en cuir gris-bleu à passepoil clair, une place relax ouverte)
+
+   09
+
+   ### Kuma
+
+   À venir au magasin. Deux ou trois places, avec relax et appui-tête électriques.
+
+   [Dimensions et versions de Kuma](https://fony.be/salon-max-divani-kuma)
+10. (Photo : Canapé relax en tissu ocre sur pieds métal, deux places ouvertes, à côté d’un deux places assorti)
+
+    10
+
+    ### Nest
+
+    À venir au magasin. Trois moteurs règlent séparément le repose-pieds, l’appui-tête et le soutien lombaire.
+
+    [Dimensions et versions de Nest](https://fony.be/salon-max-divani-nest)
+11. (Photo : Canapé relax en cuir gris à accoudoirs soulignés de noir, une place ouverte, à côté d’un deux places assorti)
+
+    11
+
+    ### Willy
+
+    À venir au magasin. Une assise sur ressorts ensachés, en confort standard ou ferme.
+
+    [Dimensions et versions de Willy](https://fony.be/salon-max-divani-willy)
 
 (Photo : Coupe d’un canapé : l’assise sur ressorts ensachés sous la mousse)
 

@@ -19,11 +19,11 @@ Par pièce
 
 ### Salon
 
-Les fiches techniques de nos canapés et fauteuils : dimensions et revêtements. Les compositions se découvrent au magasin.
+Retrouvez les dimensions et les revêtements de nos canapés et fauteuils. [Découvrir l’espace Salon](https://fony.be/salon).
 
-[Tous les salons](https://fony.be/salon)
+[Composer mon salon Max Divani](https://fony.be/catalogue-salons-a-composer)
 
-Photo  1 / 10
+Photo  1 / 13
 
 - (Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)
 
@@ -49,6 +49,15 @@ Photo  1 / 10
 - (Photo : Deux fauteuils ronds en cuir orange à bande claire, devant une baie vitrée)
 
   [Dana](https://fony.be/salon-max-divani-dana) Max Divani
+- (Photo : Canapé relax deux places en cuir gris-bleu à passepoil clair, une place relax ouverte)
+
+  [Kuma](https://fony.be/salon-max-divani-kuma) Max Divani · À venir au magasin
+- (Photo : Canapé relax en tissu ocre sur pieds métal, deux places ouvertes, à côté d’un deux places assorti)
+
+  [Nest](https://fony.be/salon-max-divani-nest) Max Divani · À venir au magasin
+- (Photo : Canapé relax en cuir gris à accoudoirs soulignés de noir, une place ouverte, à côté d’un deux places assorti)
+
+  [Willy](https://fony.be/salon-max-divani-willy) Max Divani · À venir au magasin
 - (Photo : Canapé relax blanc, une place ouverte, à côté d’un canapé deux places en tissu gris)
 
   [Oakland](https://fony.be/salon-nicoletti-oakland) Nicoletti

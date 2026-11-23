@@ -36,7 +36,7 @@ Un salon à appuie-têtes réglables, en trois places, deux places et fauteuil. 
 La composition exposée change au fil des arrivages. Cuir et tissu à voir au magasin.
 
 [Venir l’essayer](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Curry&demande=essai#visite)
-[Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Curry&demande=devis#visite)
+[Choisir ma version pour un devis](https://fony.be/catalogue-salons-a-composer#curry)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -108,14 +108,16 @@ Composition et revêtements
 
 ## Composez votre Curry.
 
-Toutes les compositions se découvrent au magasin.
+Comparez les plans cotés et choisissez la version à joindre à votre demande de devis.
+
+[Schéma de principe FONY · Trois places, deux grandes assises · L 202 × P 98 × H 92 cm](https://fony.be/assets/salons-composition/plans/curry-202-98.svg)
 
 ### Revêtements possibles
 
 - Cuir
 - Tissu microfibre
 
-[Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Curry&demande=devis#visite)
+[Voir les 3 versions cotées](https://fony.be/catalogue-salons-a-composer#curry)
 
 Vos questions
 

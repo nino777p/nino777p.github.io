@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="228" viewBox="0 0 360 228" role="img" aria-labelledby="titre description">
+  <title id="titre">Dana · Fauteuil fixe</title>
+  <desc id="description">Largeur 104 cm. Profondeur 93 cm. Le rectangle représente l’encombrement au sol.</desc>
+  <defs>
+    <pattern id="hachures" width="9" height="9" patternUnits="userSpaceOnUse">
+      <rect width="9" height="9" fill="#eef3ef"/>
+      <path d="M-2 2 L2 -2 M0 9 L9 0 M7 11 L11 7" stroke="#dbe4df" stroke-width="1"/>
+    </pattern>
+    <style>
+      text { font-family: system-ui, sans-serif; fill: #203b33 }
+      .titre { font-size: 13px; font-weight: 600 }
+      .cote { font-size: 16px; font-weight: 650 }
+      .indication { font-size: 13px; fill: #475d54 }
+      .mesure { fill: none; stroke: #345c4f; stroke-width: 1.4 }
+    </style>
+  </defs>
+  <rect width="360" height="228" fill="#fbfcfa"/>
+  <text x="16" y="23" class="titre">Dana · Fauteuil fixe</text>
+  <rect x="78.82" y="72.50" width="126.37" height="113.00" fill="url(#hachures)" stroke="#637b73" stroke-width="1.25" stroke-dasharray="4 3"/>
+  <path class="mesure" d="M78.82 60.50 H205.18 M78.82 56.50 v8 M205.18 56.50 v8"/>
+  <text x="142" y="53.50" class="cote" text-anchor="middle">Largeur 104 cm</text>
+  <path class="mesure" d="M217.18 72.50 V185.50 M213.18 72.50 h8 M213.18 185.50 h8"/>
+  <text x="226.18" y="124.00" class="indication">Prof.</text>
+  <text x="226.18" y="142.00" class="cote">93 cm</text>
+  <text x="16" y="213" class="indication">Vue de dessus · encombrement au sol</text>
+</svg>

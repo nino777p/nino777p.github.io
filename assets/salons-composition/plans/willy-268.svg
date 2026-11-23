@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="228" viewBox="0 0 360 228" role="img" aria-labelledby="titre description">
+  <title id="titre">Willy · Trois places avec relax et chaise longue</title>
+  <desc id="description">Largeur 268 cm. La profondeur de cette composition reste à confirmer.</desc>
+  <defs>
+    <pattern id="hachures" width="9" height="9" patternUnits="userSpaceOnUse">
+      <rect width="9" height="9" fill="#eef3ef"/>
+      <path d="M-2 2 L2 -2 M0 9 L9 0 M7 11 L11 7" stroke="#dbe4df" stroke-width="1"/>
+    </pattern>
+    <style>
+      text { font-family: system-ui, sans-serif; fill: #203b33 }
+      .titre { font-size: 13px; font-weight: 600 }
+      .cote { font-size: 16px; font-weight: 650 }
+      .indication { font-size: 13px; fill: #475d54 }
+      .mesure { fill: none; stroke: #345c4f; stroke-width: 1.4 }
+    </style>
+  </defs>
+  <rect width="360" height="228" fill="#fbfcfa"/>
+  <text x="16" y="23" class="titre">Willy · Trois places avec relax et chaise longue</text>
+  <text x="180" y="83" text-anchor="middle" class="cote">Largeur 268 cm</text>
+  <path class="mesure" d="M31 100 H329 M31 91 v18 M329 91 v18"/>
+  <text x="180" y="146" text-anchor="middle" class="indication">Profondeur à confirmer</text>
+</svg>

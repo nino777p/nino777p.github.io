@@ -35,7 +35,7 @@ Un canapé aux formes souples, garni de mousse et de plumes, à composer en cana
 La composition exposée change au fil des arrivages. Cuir et tissu à voir au magasin.
 
 [Venir l’essayer](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Gala&demande=essai#visite)
-[Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Gala&demande=devis#visite)
+[Choisir ma version pour un devis](https://fony.be/catalogue-salons-a-composer#gala)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -92,7 +92,9 @@ Composition et revêtements
 
 ## Composez votre Gala.
 
-Toutes les compositions se découvrent au magasin.
+Comparez les plans cotés et choisissez la version à joindre à votre demande de devis.
+
+[Schéma de principe FONY · Canapé avec chaise longue · L 292 × P 160 cm](https://fony.be/assets/salons-composition/plans/gala-292-160.svg)
 
 ### Revêtements possibles
 
@@ -101,7 +103,7 @@ Toutes les compositions se découvrent au magasin.
 
 Au magasin, Gala est exposé en tissu.
 
-[Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Gala&demande=devis#visite)
+[Voir les 7 versions cotées](https://fony.be/catalogue-salons-a-composer#gala)
 
 Vos questions
 
@@ -109,7 +111,7 @@ Vos questions
 
 ### Gala existe-t-il en angle ?
 
-Oui. Gala se compose en angle ; les compositions possibles se découvrent au magasin.
+Oui. Gala se compose en angle ; les plans cotés présentent plusieurs exemples de composition.
 
 Voir aussi
 

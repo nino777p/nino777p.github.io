@@ -39,7 +39,7 @@ Un canapé à appuie-têtes réglables, sur pieds en métal, en deux ou trois pl
 La composition exposée change au fil des arrivages. Cuir et tissu à voir au magasin.
 
 [Venir l’essayer](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Emu&demande=essai#visite)
-[Demander un devis](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Emu&demande=devis#visite)
+[Choisir ma version pour un devis](https://fony.be/catalogue-salons-a-composer#emu)
 
 Ou appelez le magasin : [064 46 07 72](tel:+3264460772)
 
@@ -81,14 +81,16 @@ Composition et revêtements
 
 ## Composez votre Emu.
 
-Toutes les compositions se découvrent au magasin.
+Comparez les plans cotés et choisissez la version à joindre à votre demande de devis.
+
+[Schéma de principe FONY · Trois places · L 216 × P 109 cm](https://fony.be/assets/salons-composition/plans/emu-216-109.svg)
 
 ### Revêtements possibles
 
 - Cuir
 - Tissu
 
-[Demander un devis pour ma composition](https://fony.be/magasin-contact?projet=salon&modele=Max%20Divani%20Emu&demande=devis#visite)
+[Voir les 8 versions cotées](https://fony.be/catalogue-salons-a-composer#emu)
 
 Voir aussi
 
