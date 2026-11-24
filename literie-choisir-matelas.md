@@ -215,6 +215,12 @@ Allongez-vous dans votre position habituelle : c’est le test le plus fiable. 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Bien%20choisir%20son%20matelas%20pr%C3%A8s%20de%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/literie-choisir-matelas)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/literie-choisir-matelas)
+- [E-mail](mailto:?subject=Bien%20choisir%20son%20matelas%20pr%C3%A8s%20de%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/literie-choisir-matelas)
+
 Adresse
 :   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

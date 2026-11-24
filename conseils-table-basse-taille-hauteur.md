@@ -16,6 +16,12 @@ Pour poser une tasse, vous tendez la main. Pour jouer aux cartes, vous vous penc
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Table%20basse%20%3A%20quelle%20taille%2C%20quelle%20hauteur%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-table-basse-taille-hauteur)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-table-basse-taille-hauteur)
+- [E-mail](mailto:?subject=Table%20basse%20%3A%20quelle%20taille%2C%20quelle%20hauteur%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-table-basse-taille-hauteur)
+
 (Photo : Table basse carrée Mobliberica au plateau clair, posée sur un tapis devant un canapé)
 
 ## Assis, la main tendue vers la tasse.
@@ -46,6 +52,12 @@ Avec la photo et la hauteur d’assise de votre canapé, nous comparons les tabl
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Table%20basse%20%3A%20quelle%20taille%2C%20quelle%20hauteur%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-table-basse-taille-hauteur)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-table-basse-taille-hauteur)
+- [E-mail](mailto:?subject=Table%20basse%20%3A%20quelle%20taille%2C%20quelle%20hauteur%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-table-basse-taille-hauteur)
 
 Adresse
 :   [Route de Charleroi 160/1

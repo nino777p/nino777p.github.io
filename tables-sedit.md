@@ -91,6 +91,12 @@ Dimensions, plateaux et couleurs du pied se choisissent avec nous, au magasin ou
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Sedit%2C%20tables%20italiennes%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/tables-sedit)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/tables-sedit)
+- [E-mail](mailto:?subject=Sedit%2C%20tables%20italiennes%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/tables-sedit)
+
 Adresse
 :   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

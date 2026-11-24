@@ -16,6 +16,12 @@ Le revêtement se choisit avec la main, avec la lumière de votre pièce, et ave
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Canap%C3%A9%20en%20cuir%2C%20en%20microfibre%20ou%20en%20tissu%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-canape-cuir-microfibre-tissu)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-canape-cuir-microfibre-tissu)
+- [E-mail](mailto:?subject=Canap%C3%A9%20en%20cuir%2C%20en%20microfibre%20ou%20en%20tissu%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-canape-cuir-microfibre-tissu)
+
 (Photo : Canapé Max Divani Tata en tissu brun doré, vu de près)
 
 ## Un revêtement se choisit à la main.
@@ -128,6 +134,12 @@ Cuir, microfibre et tissu se comparent au magasin, à la lumière du jour. Avec 
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Canap%C3%A9%20en%20cuir%2C%20en%20microfibre%20ou%20en%20tissu%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-canape-cuir-microfibre-tissu)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-canape-cuir-microfibre-tissu)
+- [E-mail](mailto:?subject=Canap%C3%A9%20en%20cuir%2C%20en%20microfibre%20ou%20en%20tissu%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-canape-cuir-microfibre-tissu)
 
 Adresse
 :   [Route de Charleroi 160/1

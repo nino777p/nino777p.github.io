@@ -16,6 +16,12 @@ Dans une cuisine ouverte, on dessine d’abord les trajets : du frigo à l’é
 
 [Mon projet](https://fony.be/magasin-contact?projet=cuisine#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Am%C3%A9nager%20une%20petite%20cuisine%20ouverte%20sur%20salon%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-cuisine-ouverte-sur-salon)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-cuisine-ouverte-sur-salon)
+- [E-mail](mailto:?subject=Am%C3%A9nager%20une%20petite%20cuisine%20ouverte%20sur%20salon%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-cuisine-ouverte-sur-salon)
+
 (Photo : Cuisine Stosa Beverly : îlot prolongé d’une table ovale en bois, deux tabourets, baie sur le jardin)
 
 ## Où poserez-vous le plat en sortant du four ?
@@ -86,11 +92,11 @@ Distinguez le côté où l’on passe du côté où l’on cuisine. Reprenez les
 
 ### Comment séparer la cuisine du salon sans cloison ?
 
-Un îlot ou un meuble bas dessine une limite. Si vous préférez y ranger des livres, regardez [la bibliothèque ajourée Andromeda AN101](https://fony.be/tomasella#andromeda) entre le salon et le coin repas. Vérifiez le passage jusqu’à la table avec une chaise tirée.
+Un îlot ou un meuble bas dessine une limite. Une bibliothèque ouverte, sans fond, marque aussi la limite en laissant passer la lumière. La [bibliothèque Andromeda](https://fony.be/tomasella#andromeda) donne une idée de ces montants fins. Vérifiez le passage jusqu’à la table avec une chaise tirée.
 
 ### Quel délai pour une cuisine ?
 
-Comptez environ huit semaines entre la commande signée, acompte versé, et la pose, selon le fabricant et la saison.
+Une fois la commande signée et l’acompte versé, comptez environ huit semaines jusqu’à la pose. Ce délai peut varier selon la saison.
 
 ### Peut-on voir les matières au magasin ?
 
@@ -126,6 +132,12 @@ Un croquis avec les mesures, les fenêtres et les arrivées d’eau suffit pour 
 
 [Mon projet](https://fony.be/magasin-contact?projet=cuisine#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Am%C3%A9nager%20une%20petite%20cuisine%20ouverte%20sur%20salon%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-cuisine-ouverte-sur-salon)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-cuisine-ouverte-sur-salon)
+- [E-mail](mailto:?subject=Am%C3%A9nager%20une%20petite%20cuisine%20ouverte%20sur%20salon%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-cuisine-ouverte-sur-salon)
 
 Adresse
 :   [Route de Charleroi 160/1

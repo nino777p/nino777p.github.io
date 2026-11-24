@@ -13,7 +13,7 @@ Le living, à la mesure de votre mur
 
 # Séjour : meubles TV, bibliothèques et buffets.
 
-Des livres à portée du canapé, l’écran en face et les câbles à cacher. Partons de ce que vous voulez garder près de vous pour dessiner le meuble.
+Des livres à portée de main depuis le canapé, l’écran en face et les câbles à cacher. Partons de ce que vous voulez garder près de vous pour dessiner le meuble.
 
 [Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite) [Voir un séjour aménagé](https://fony.be/realisation-sejour-goliath)
 
@@ -31,15 +31,15 @@ Le soir
 
 Atlante AT150, photo Tomasella.
 
-(Photo : Séjour ouvert Tomasella : bibliothèque Andromeda entre salon et salle à manger)
+(Photo : Séjour ouvert Tomasella : bibliothèque Andromeda adossée au mur, derrière le canapé)
 
 Les livres
 
-## Des livres entre la table et le canapé.
+## Les livres, derrière le canapé.
 
 [Découvrir la bibliothèque Andromeda](https://fony.be/tomasella#andromeda)
 
-Bibliothèque Andromeda AN101, photo Tomasella.
+Bibliothèque Andromeda, photo Tomasella.
 
 (Photo : Mur en bois Tomasella qui intègre l’écran et cache un bureau)
 
@@ -85,6 +85,12 @@ Apportez une photo du mur prise depuis votre canapé et, si vous les avez, sa la
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=S%C3%A9jour%2C%20meuble%20TV%20et%20biblioth%C3%A8que%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/living)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/living)
+- [E-mail](mailto:?subject=S%C3%A9jour%2C%20meuble%20TV%20et%20biblioth%C3%A8que%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/living)
+
 Adresse
 :   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
@@ -114,13 +120,13 @@ Explorer le séjour
 
 Que souhaitez-vous ranger, exposer ou dissimuler dans votre living ? Nous partons de votre mur pour choisir les modules et les finitions qui correspondent à votre pièce.
 
-(Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+(Photo : Séjour Tomasella Time : meuble TV TI130 en chêne moka sur piétement en métal)
 
 Meuble TV
 
 ### Cacher les câbles, montrer le reste.
 
-Écran, box et câbles trouvent leur place dans une composition Atlante. Associez meubles bas ou suspendus, portes et niches ouvertes pour ranger ce qui doit disparaître et mettre le reste en valeur.
+Écran, box et câbles trouvent leur place dans une composition de séjour Tomasella. Associez meubles bas ou suspendus, portes et niches ouvertes pour ranger ce qui doit disparaître et mettre le reste en valeur.
 
 - [Tout Tomasella](https://fony.be/tomasella)
 

@@ -16,6 +16,12 @@ Le bon canapé n’est pas le plus grand qui entre : c’est celui qui laisse v
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelle%20taille%20de%20canap%C3%A9%20pour%20mon%20salon%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-taille-canape-salon)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-taille-canape-salon)
+- [E-mail](mailto:?subject=Quelle%20taille%20de%20canap%C3%A9%20pour%20mon%20salon%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-taille-canape-salon)
+
 (Photo : Séjour Tomasella : canapé d’angle clair, table basse et composition murale)
 
 ## Le canapé laisse vivre la pièce.
@@ -54,6 +60,12 @@ Les mesures du mur, de la pièce et du passage : nous regardons avec vous la co
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelle%20taille%20de%20canap%C3%A9%20pour%20mon%20salon%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-taille-canape-salon)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-taille-canape-salon)
+- [E-mail](mailto:?subject=Quelle%20taille%20de%20canap%C3%A9%20pour%20mon%20salon%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-taille-canape-salon)
 
 Adresse
 :   [Route de Charleroi 160/1

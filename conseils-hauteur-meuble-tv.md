@@ -16,6 +16,12 @@ La bonne hauteur se décide assis dans le canapé, pas debout devant le mur.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=%C3%80%20quelle%20hauteur%20placer%20la%20t%C3%A9l%C3%A9vision%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-hauteur-meuble-tv)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-hauteur-meuble-tv)
+- [E-mail](mailto:?subject=%C3%80%20quelle%20hauteur%20placer%20la%20t%C3%A9l%C3%A9vision%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-hauteur-meuble-tv)
+
 (Photo : Meuble TV bas Tomasella vert-gris sous un écran, étagère murale et fauteuil)
 
 ## La hauteur se décide depuis le canapé.
@@ -122,6 +128,12 @@ La largeur du mur, la place des prises et la taille de votre écran : avec cela
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=%C3%80%20quelle%20hauteur%20placer%20la%20t%C3%A9l%C3%A9vision%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-hauteur-meuble-tv)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-hauteur-meuble-tv)
+- [E-mail](mailto:?subject=%C3%80%20quelle%20hauteur%20placer%20la%20t%C3%A9l%C3%A9vision%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-hauteur-meuble-tv)
 
 Adresse
 :   [Route de Charleroi 160/1

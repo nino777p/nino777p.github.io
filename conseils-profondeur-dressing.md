@@ -16,6 +16,12 @@ Partez de vos vêtements les plus encombrants. Ce sont eux qui donnent la profon
 
 [Parler de mon dressing](https://fony.be/magasin-contact?projet=sur-mesure#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelle%20profondeur%20pour%20un%20dressing%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-profondeur-dressing)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-profondeur-dressing)
+- [E-mail](mailto:?subject=Quelle%20profondeur%20pour%20un%20dressing%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-profondeur-dressing)
+
 (Photo : Dressing Tomasella ouvert sur la chambre, penderies et étagères visibles)
 
 ## Le manteau d’hiver donne la profondeur.
@@ -117,6 +123,12 @@ Largeur, hauteur sous plafond, emplacement de la porte et de la fenêtre : nous
 
 [Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelle%20profondeur%20pour%20un%20dressing%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-profondeur-dressing)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-profondeur-dressing)
+- [E-mail](mailto:?subject=Quelle%20profondeur%20pour%20un%20dressing%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-profondeur-dressing)
 
 Adresse
 :   [Route de Charleroi 160/1

@@ -16,6 +16,12 @@ Imaginez votre retour à la maison, les bras chargés. Où déposeriez-vous votr
 
 [Parler de mon placard](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Que%20ranger%20sous%20un%20escalier%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-placard-sous-escalier)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-placard-sous-escalier)
+- [E-mail](mailto:?subject=Que%20ranger%20sous%20un%20escalier%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-placard-sous-escalier)
+
 (Photo : Rangements Tomasella intégrés sous un escalier, dans un séjour clair)
 
 Un exemple en images
@@ -46,6 +52,12 @@ Apportez une photo du passage et vos premières cotes au magasin. Si vous hésit
 
 [Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Que%20ranger%20sous%20un%20escalier%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-placard-sous-escalier)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-placard-sous-escalier)
+- [E-mail](mailto:?subject=Que%20ranger%20sous%20un%20escalier%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-placard-sous-escalier)
 
 Adresse
 :   [Route de Charleroi 160/1

@@ -47,6 +47,12 @@ Allongez-vous sur les deux, dans votre position habituelle : la différence se 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Sommier%20%C3%A0%20lattes%20fixe%20ou%20%C3%A9lectrique%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/literie-sommiers)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/literie-sommiers)
+- [E-mail](mailto:?subject=Sommier%20%C3%A0%20lattes%20fixe%20ou%20%C3%A9lectrique%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/literie-sommiers)
+
 Adresse
 :   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

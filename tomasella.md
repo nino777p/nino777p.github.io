@@ -36,13 +36,13 @@ Allez directement au [mur TV](https://fony.be/tomasella#atlante), à la [bibliot
    Sur cette composition Atlante, la télévision se détache sur un panneau sombre. Les livres et les objets occupent les étagères éclairées à côté. Pour dessiner le vôtre, prenez une photo depuis votre place habituelle. On verra où tombe le regard et de quel côté arrivent les prises.
 
    [Choisir la hauteur de mon écran](https://fony.be/conseils-hauteur-meuble-tv)
-2. (Photo : Séjour ouvert Tomasella : bibliothèque Andromeda entre salon et salle à manger)
+2. (Photo : Séjour ouvert Tomasella : bibliothèque Andromeda adossée au mur, derrière le canapé)
 
-   Bibliothèque · Andromeda AN101
+   Bibliothèque · Andromeda
 
-   ### Séparer le coin repas sans perdre la vue.
+   ### Des livres derrière le canapé.
 
-   Dans ce séjour ouvert, la bibliothèque prend place entre la table et le salon. Les cases ajourées laissent voir l’autre côté. Avant de choisir sa longueur, regardez par où vous passez avec un plat à la main. C’est ce trajet qu’il faut garder libre.
+   Dans ce séjour ouvert, la bibliothèque Andromeda s’adosse au mur, entre deux fenêtres, derrière le canapé. Ses montants fins laissent voir le mur. Avant de choisir sa largeur, mesurez la place entre les fenêtres et gardez un passage derrière le canapé.
 
    [Aménager mon séjour](https://fony.be/espace-de-vie)
 3. (Photo : Entrée Tomasella : armoires vertes, niche éclairée et portemanteau)
@@ -91,11 +91,11 @@ Ces deux mesures se rapportent aux compositions du fabricant. Le [guide de profo
   ### Les matières en main
 
   Bois, laques mates et décors, au magasin.
-- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+- (Photo : Séjour Tomasella Time : meuble TV TI130 en chêne moka sur piétement en métal)
 
-  ### Bois clair et rangements suspendus
+  ### Chêne moka et piétement en métal
 
-  Une composition de la collection Atlante.
+  Meuble TV Time TI130, ambiance Tomasella.
 
 (Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
@@ -131,6 +131,12 @@ Apportez une photo de la pièce et les dimensions du mur. Parking facile d’acc
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Tomasella%20%3A%20s%C3%A9jour%2C%20dressing%20et%20chambre%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/tomasella)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/tomasella)
+- [E-mail](mailto:?subject=Tomasella%20%3A%20s%C3%A9jour%2C%20dressing%20et%20chambre%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/tomasella)
 
 Adresse
 :   [Route de Charleroi 160/1

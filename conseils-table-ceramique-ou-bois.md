@@ -16,6 +16,12 @@ Les deux durent. Ce qui change, c’est ce que vous sentez sous la main et ce qu
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Table%20en%20c%C3%A9ramique%20ou%20en%20bois%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-table-ceramique-ou-bois)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-table-ceramique-ou-bois)
+- [E-mail](mailto:?subject=Table%20en%20c%C3%A9ramique%20ou%20en%20bois%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-table-ceramique-ou-bois)
+
 (Photo : Plateau de table Mobliberica en céramique claire, vu de près, piètement croisé sombre)
 
 ## La main décide avant les yeux.
@@ -106,6 +112,12 @@ Les plateaux et les échantillons se comparent au magasin, côte à côte. Avec 
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Table%20en%20c%C3%A9ramique%20ou%20en%20bois%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-table-ceramique-ou-bois)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-table-ceramique-ou-bois)
+- [E-mail](mailto:?subject=Table%20en%20c%C3%A9ramique%20ou%20en%20bois%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-table-ceramique-ou-bois)
 
 Adresse
 :   [Route de Charleroi 160/1

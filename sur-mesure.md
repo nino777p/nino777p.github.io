@@ -27,7 +27,7 @@ Dans l’angle
 
 ## Le mur tourne, le meuble aussi.
 
-L’armoire fait le tour de l’angle en gardant le passage entre les pièces. Photo Tomasella, Logica Plus+ 03.
+L’armoire fait le tour de l’angle en gardant le passage entre les pièces. Photo Tomasella, Logica Plus+ 03.A.
 
 (Photo : Lit encastré dans un pont d’armoires Tomasella en bois)
 
@@ -88,7 +88,7 @@ Bibliothèque
 
 Prenez votre plus grand album comme repère pour la hauteur des étagères. Les livres du quotidien peuvent rester à vue, les dossiers rejoindre un élément fermé.
 
-(Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+(Photo : Séjour Tomasella Time : meuble TV TI130 en chêne moka sur piétement en métal)
 
 Meuble TV
 
@@ -214,6 +214,12 @@ Avez-vous déjà un plan ou simplement une idée ? Appelez le magasin ou décr
 
 [Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Am%C3%A9nagement%20sur%20mesure%20%C3%A0%20Binche%2C%20du%20plan%20%C3%A0%20la%20pose%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/sur-mesure)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/sur-mesure)
+- [E-mail](mailto:?subject=Am%C3%A9nagement%20sur%20mesure%20%C3%A0%20Binche%2C%20du%20plan%20%C3%A0%20la%20pose%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/sur-mesure)
 
 Adresse
 :   [Route de Charleroi 160/1

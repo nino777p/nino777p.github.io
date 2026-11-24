@@ -40,7 +40,7 @@ Une cuisine ouverte, un placard dans l’entrée ou simplement une nouvelle tabl
   ### [Dressings et placards](https://fony.be/rangements)
 
   Trouver ma solution de rangement →
-- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+- (Photo : Séjour Tomasella Time : meuble TV TI130 en chêne moka sur piétement en métal)
 
   ### [Le séjour](https://fony.be/espace-de-vie)
 
@@ -127,7 +127,7 @@ Nos fabricants
 
 ## Un séjour autour de la table que vous gardez.
 
-Votre table reste. Autour d’elle, vous cherchez où ranger la vaisselle, poser l’écran ou laisser des livres à portée de main. Regardez [les compositions de séjour Tomasella](https://fony.be/tomasella#atlante). Pour une table ou une chaise à choisir à la pièce, retrouvez [les meubles du catalogue](https://fony.be/catalogue).
+Votre table reste. Autour d’elle, vous cherchez où ranger la vaisselle, poser l’écran ou laisser des livres à portée de main. Regardez [les compositions de séjour Tomasella](https://fony.be/tomasella#atlante). Pour une table à choisir à la pièce, retrouvez [les meubles du catalogue](https://fony.be/catalogue). Pour les chaises, voyez [notre sélection](https://fony.be/tables-chaises#chaises).
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 

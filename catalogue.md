@@ -11,7 +11,7 @@ Catalogue
 
 # Tous nos meubles, pièce par pièce.
 
-Choisissez un meuble en photo pour découvrir son modèle. Certains sont exposés au magasin, d’autres se composent sur commande.
+Plusieurs photos mènent à leur modèle : touchez-les pour le découvrir. Certains meubles sont exposés au magasin, d’autres se composent sur commande.
 
 Par pièce
 
@@ -109,9 +109,9 @@ Photo  1 / 3
 - (Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
   [Séjour Time](https://fony.be/tomasella#time) Tomasella
-- (Photo : Séjour ouvert Tomasella : bibliothèque Andromeda entre salon et salle à manger)
+- (Photo : Séjour ouvert Tomasella : bibliothèque Andromeda adossée au mur, derrière le canapé)
 
-  [Bibliothèque Andromeda AN101](https://fony.be/tomasella#andromeda) Tomasella
+  [Bibliothèque Andromeda](https://fony.be/tomasella#andromeda) Tomasella
 - (Photo : Séjour Tomasella : écran posé sur une boiserie sombre, étagères éclairées)
 
   [Meuble TV Atlante AT150](https://fony.be/tomasella#atlante) Tomasella
@@ -183,6 +183,12 @@ Retrouvez-nous à Leval-Trahegnies, entre Binche et La Louvière, du lundi au sa
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Catalogue%20%3A%20salons%2C%20tables%2C%20literie%20et%20chambre%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/catalogue)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/catalogue)
+- [E-mail](mailto:?subject=Catalogue%20%3A%20salons%2C%20tables%2C%20literie%20et%20chambre%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/catalogue)
 
 Adresse
 :   [Route de Charleroi 160/1

@@ -64,6 +64,12 @@ Les pièces de l’exposition se voient et s’essaient sur place, du lundi au s
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Offres%2C%20d%C3%A9stockage%20et%20soldes%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/offres)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/offres)
+- [E-mail](mailto:?subject=Offres%2C%20d%C3%A9stockage%20et%20soldes%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/offres)
+
 Adresse
 :   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

@@ -16,6 +16,12 @@ Le soir, imaginez que vous êtes déjà en pyjama. Où posez-vous la table basse
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quel%20canap%C3%A9-lit%20pour%20dormir%20tous%20les%20jours%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-canape-lit-tous-les-jours)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-canape-lit-tous-les-jours)
+- [E-mail](mailto:?subject=Quel%20canap%C3%A9-lit%20pour%20dormir%20tous%20les%20jours%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-canape-lit-tous-les-jours)
+
 (Photo : Canapé-lit Diva Divani Rocky en cuir blanc, fermé, vu de face : deux places, têtières relevées, pieds fins en métal noir)
 
 ## Fermé, c’est un canapé.
@@ -133,6 +139,12 @@ La largeur de la pièce et la place de la porte : nous regardons avec vous ce q
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quel%20canap%C3%A9-lit%20pour%20dormir%20tous%20les%20jours%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-canape-lit-tous-les-jours)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-canape-lit-tous-les-jours)
+- [E-mail](mailto:?subject=Quel%20canap%C3%A9-lit%20pour%20dormir%20tous%20les%20jours%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-canape-lit-tous-les-jours)
 
 Adresse
 :   [Route de Charleroi 160/1

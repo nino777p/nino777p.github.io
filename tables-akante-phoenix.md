@@ -107,6 +107,12 @@ Notre équipe vous aide à choisir les dimensions, le plateau et les finitions q
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Akante%20Phoenix%2C%20table%20c%C3%A9ramique%20%C3%A0%20rallonge%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/tables-akante-phoenix)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/tables-akante-phoenix)
+- [E-mail](mailto:?subject=Akante%20Phoenix%2C%20table%20c%C3%A9ramique%20%C3%A0%20rallonge%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/tables-akante-phoenix)
+
 Adresse
 :   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

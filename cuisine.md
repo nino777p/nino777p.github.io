@@ -269,7 +269,7 @@ Vos questions
 
 ### Combien de temps faut-il prévoir ?
 
-Environ huit semaines entre la commande signée (acompte versé) et la pose, selon le fabricant et la saison.
+Une fois la commande signée et l’acompte versé, comptez environ huit semaines jusqu’à la pose. Ce délai peut varier selon la saison.
 
 ### Puis-je voir une cuisine en vrai ?
 
@@ -296,6 +296,12 @@ Au magasin, vous trouverez les échantillons de façades et de plans de travail.
 
 [Mon projet](https://fony.be/magasin-contact?projet=cuisine#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Cuisine%20%C3%A9quip%C3%A9e%20italienne%20Stosa%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/cuisine)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/cuisine)
+- [E-mail](mailto:?subject=Cuisine%20%C3%A9quip%C3%A9e%20italienne%20Stosa%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/cuisine)
 
 Adresse
 :   [Route de Charleroi 160/1

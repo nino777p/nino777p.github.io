@@ -39,7 +39,7 @@ Dans cet univers
   Tables fixes et extensibles, en céramique ou en bois, et chaises assorties.
 
   Voir les tables →
-- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+- (Photo : Séjour Tomasella Time : meuble TV TI130 en chêne moka sur piétement en métal)
 
   ### [Séjour](https://fony.be/living)
 
@@ -169,6 +169,12 @@ Apportez les dimensions de votre pièce et, si possible, une photo. Nous accordo
 
 [Mon projet](https://fony.be/magasin-contact?projet=complet#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Espace%20de%20vie%20%3A%20salon%2C%20table%2C%20s%C3%A9jour%20et%20cuisine%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/espace-de-vie)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/espace-de-vie)
+- [E-mail](mailto:?subject=Espace%20de%20vie%20%3A%20salon%2C%20table%2C%20s%C3%A9jour%20et%20cuisine%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/espace-de-vie)
 
 Adresse
 :   [Route de Charleroi 160/1

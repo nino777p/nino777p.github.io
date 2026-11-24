@@ -111,6 +111,12 @@ Notre équipe vous aide à choisir la composition, le revêtement et la version 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Max%20Divani%20Coffee%2C%20canap%C3%A9%20avance-recule%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/salon-max-divani-coffee)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/salon-max-divani-coffee)
+- [E-mail](mailto:?subject=Max%20Divani%20Coffee%2C%20canap%C3%A9%20avance-recule%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/salon-max-divani-coffee)
+
 Adresse
 :   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

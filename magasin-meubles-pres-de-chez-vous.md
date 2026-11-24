@@ -160,6 +160,12 @@ Notre équipe vous accueille et vous conseille au magasin. Parking facile d’ac
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Venir%20chez%20Fony%20%3A%20trajets%20depuis%20Binche%2C%20La%20Louvi%C3%A8re%2C%20Charleroi%20https%3A//fony.be/magasin-meubles-pres-de-chez-vous)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/magasin-meubles-pres-de-chez-vous)
+- [E-mail](mailto:?subject=Venir%20chez%20Fony%20%3A%20trajets%20depuis%20Binche%2C%20La%20Louvi%C3%A8re%2C%20Charleroi&body=https%3A//fony.be/magasin-meubles-pres-de-chez-vous)
+
 Adresse
 :   [Route de Charleroi 160/1
     7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

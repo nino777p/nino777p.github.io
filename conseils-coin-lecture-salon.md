@@ -16,6 +16,12 @@ Un coin lecture peut commencer avec le fauteuil que vous avez déjà.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Comment%20am%C3%A9nager%20un%20coin%20lecture%20dans%20le%20salon%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-coin-lecture-salon)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-coin-lecture-salon)
+- [E-mail](mailto:?subject=Comment%20am%C3%A9nager%20un%20coin%20lecture%20dans%20le%20salon%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-coin-lecture-salon)
+
 (Photo : Fauteuil bleu et lampe de lecture près d’une baie vitrée, à côté d’un meuble TV Tomasella)
 
 ## Un fauteuil, une lampe, la fenêtre.
@@ -104,6 +110,12 @@ Un fauteuil se juge livre en main. Avec ou sans rendez-vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Comment%20am%C3%A9nager%20un%20coin%20lecture%20dans%20le%20salon%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-coin-lecture-salon)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-coin-lecture-salon)
+- [E-mail](mailto:?subject=Comment%20am%C3%A9nager%20un%20coin%20lecture%20dans%20le%20salon%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-coin-lecture-salon)
 
 Adresse
 :   [Route de Charleroi 160/1

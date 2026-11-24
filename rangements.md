@@ -63,7 +63,7 @@ Placard d’entrée
 
 ## Une place pour les manteaux et les clés.
 
-Un banc se glisse entre les armoires pour enlever ses chaussures. À côté, le petit meuble sous le miroir laisse les clés à portée de main.
+Entre les armoires, un banc permet de s’asseoir pour enlever ses chaussures. À côté, le petit meuble sous le miroir laisse les clés à portée de main.
 
 [Voir le système de rangement de cette entrée](https://fony.be/tomasella#logica-plus)
 
@@ -163,6 +163,12 @@ Une photo prise depuis la porte aide à voir le mur et le passage. Apportez-la a
 
 [Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cette page
+
+- [WhatsApp](https://wa.me/?text=Dressings%20et%20placards%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/rangements)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/rangements)
+- [E-mail](mailto:?subject=Dressings%20et%20placards%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/rangements)
 
 Adresse
 :   [Route de Charleroi 160/1

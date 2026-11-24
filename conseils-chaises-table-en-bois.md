@@ -16,6 +16,12 @@ Votre table a déjà sa place dans la famille. La question est : qu’aimeriez-
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelles%20chaises%20avec%20une%20table%20en%20bois%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-chaises-table-en-bois)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-chaises-table-en-bois)
+- [E-mail](mailto:?subject=Quelles%20chaises%20avec%20une%20table%20en%20bois%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-chaises-table-en-bois)
+
 (Photo : Chaises Mobliberica en tissu clair et en tissu vert autour d’une table, devant un mur végétal)
 
 ## On garde la table, on change l’ambiance.
@@ -97,6 +103,12 @@ Avec la photo et la hauteur sous le plateau, nous comparons les chaises avec vou
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelles%20chaises%20avec%20une%20table%20en%20bois%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-chaises-table-en-bois)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-chaises-table-en-bois)
+- [E-mail](mailto:?subject=Quelles%20chaises%20avec%20une%20table%20en%20bois%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-chaises-table-en-bois)
 
 Adresse
 :   [Route de Charleroi 160/1

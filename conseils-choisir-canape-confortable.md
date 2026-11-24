@@ -16,6 +16,12 @@ Un canapé confortable est celui qui convient à votre façon de vous asseoir. C
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Comment%20choisir%20un%20canap%C3%A9%20confortable%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-choisir-canape-confortable)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-choisir-canape-confortable)
+- [E-mail](mailto:?subject=Comment%20choisir%20un%20canap%C3%A9%20confortable%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-choisir-canape-confortable)
+
 (Photo : Canapé Max Divani Zebra en tissu gris, têtière relevée, vu de face)
 
 ## Un canapé se choisit assis.
@@ -46,6 +52,12 @@ Prenez le temps de comparer plusieurs assises : c’est le test le plus fiable.
 
 [Mon projet](https://fony.be/magasin-contact?projet=salon#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Comment%20choisir%20un%20canap%C3%A9%20confortable%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-choisir-canape-confortable)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-choisir-canape-confortable)
+- [E-mail](mailto:?subject=Comment%20choisir%20un%20canap%C3%A9%20confortable%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-choisir-canape-confortable)
 
 Adresse
 :   [Route de Charleroi 160/1

@@ -16,6 +16,12 @@ Comptez la place de chacun, puis la place autour de la table. Le reste se choisi
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelle%20taille%20de%20table%20pour%204%2C%206%20ou%208%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-taille-table-salle-a-manger)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-taille-table-salle-a-manger)
+- [E-mail](mailto:?subject=Quelle%20taille%20de%20table%20pour%204%2C%206%20ou%208%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-taille-table-salle-a-manger)
+
 (Photo : Table ronde Sedit au plateau sombre, deux chaises, devant une cheminée)
 
 ## Une table ronde n’a pas de bout de table.
@@ -121,6 +127,12 @@ Longueur, largeur, emplacement des portes et des fenêtres : avec ces mesures, 
 
 [Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelle%20taille%20de%20table%20pour%204%2C%206%20ou%208%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-taille-table-salle-a-manger)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-taille-table-salle-a-manger)
+- [E-mail](mailto:?subject=Quelle%20taille%20de%20table%20pour%204%2C%206%20ou%208%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-taille-table-salle-a-manger)
 
 Adresse
 :   [Route de Charleroi 160/1

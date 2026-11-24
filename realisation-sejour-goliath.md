@@ -14,6 +14,12 @@ Réalisations
 
 La cuisine blanche donnait déjà le ton. Dans son prolongement, le séjour devait garder la même lumière tout en laissant au salon et à la salle à manger leur caractère.
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Goliath%20%C2%B7%20Un%20s%C3%A9jour%20lumineux%20en%20deux%20temps%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/realisation-sejour-goliath)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/realisation-sejour-goliath)
+- [E-mail](mailto:?subject=Goliath%20%C2%B7%20Un%20s%C3%A9jour%20lumineux%20en%20deux%20temps%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/realisation-sejour-goliath)
+
 ## Le même veinage, de la salle à manger au salon
 
 Regardez le plateau de la table Goliath d’Akante, puis les tables basses devant le canapé en bouclette. On y retrouve le même veinage Fiorentino. Le dressoir et le meuble TV viennent de chez Tomasella.
@@ -37,15 +43,15 @@ Ce que ce séjour montre
 
 ### Comment relier la salle à manger et le salon dans une pièce ouverte ?
 
-Ici, c’est un motif qui fait le lien : le veinage Fiorentino du plateau de la table se retrouve sur les tables basses. Chez vous, ce peut être un bois, une teinte ou une matière reprise à deux endroits de la pièce.
+Reprenez un même motif à deux endroits. Un bois, une teinte ou une matière qui revient d’un côté à l’autre suffit à relier les deux espaces.
 
 ### Peut-on aménager un séjour en plusieurs fois ?
 
-Oui. Dans ce séjour, les premiers meubles ont donné la direction. La console et son miroir ont suivi plus tard. Commencez par la pièce qui donne le ton, souvent la table ou le canapé.
+Oui. Commencez par le meuble qui donne le ton, souvent la table ou le canapé. Le reste peut suivre quand vous avez vécu avec les premiers meubles.
 
-### Que faut-il apporter au magasin ?
+### Je garde ma cuisine ou ma table : que faut-il montrer au magasin ?
 
-Une photo de la pièce et ses dimensions. Si vous gardez la cuisine, la table ou le sol, photographiez-les dans la même lumière : c’est à partir d’eux que nous choisissons le reste avec vous.
+Photographiez ce que vous gardez, cuisine, table ou sol, dans la même lumière, de jour. C’est à partir de ces teintes que nous choisissons le reste avec vous.
 
 ## Parlons de votre séjour.
 
@@ -53,6 +59,12 @@ Une photo et les dimensions de la pièce nous aident à comprendre ce que vous s
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Goliath%20%C2%B7%20Un%20s%C3%A9jour%20lumineux%20en%20deux%20temps%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/realisation-sejour-goliath)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/realisation-sejour-goliath)
+- [E-mail](mailto:?subject=Goliath%20%C2%B7%20Un%20s%C3%A9jour%20lumineux%20en%20deux%20temps%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/realisation-sejour-goliath)
 
 Adresse
 :   [Route de Charleroi 160/1

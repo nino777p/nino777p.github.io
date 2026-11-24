@@ -16,6 +16,12 @@ On choisit la largeur du lit pour bien dormir, puis on vérifie que la chambre r
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelle%20taille%20de%20lit%20pour%20ma%20chambre%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-taille-lit-chambre)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-taille-lit-chambre)
+- [E-mail](mailto:?subject=Quelle%20taille%20de%20lit%20pour%20ma%20chambre%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-taille-lit-chambre)
+
 (Photo : Chambre Tomasella : lit rembourré Luna et chevets)
 
 ## La largeur se décide allongés.
@@ -122,6 +128,12 @@ C’est à deux, allongés, que la bonne largeur se décide. Avec ou sans rendez
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Partager cet article
+
+- [WhatsApp](https://wa.me/?text=Quelle%20taille%20de%20lit%20pour%20ma%20chambre%20%3F%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/conseils-taille-lit-chambre)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/conseils-taille-lit-chambre)
+- [E-mail](mailto:?subject=Quelle%20taille%20de%20lit%20pour%20ma%20chambre%20%3F%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/conseils-taille-lit-chambre)
 
 Adresse
 :   [Route de Charleroi 160/1
