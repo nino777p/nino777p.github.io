@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://fony.be/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://fony.be/catalogue</loc><lastmod>2026-11-23</lastmod></url>
-  <url><loc>https://fony.be/chambre</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://fony.be/chambre</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/confidentialite</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/conseils</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://fony.be/conseils</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/cuisine</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/espace-de-vie</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/espace-nuit</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/espace-pro</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://fony.be/literie</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/living</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://fony.be/living</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/magasin-contact</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/mentions-legales</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://fony.be/offres</loc><lastmod>2026-11-20</lastmod></url>
@@ -20,16 +20,19 @@
   <url><loc>https://fony.be/sur-mesure</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/tables-akante</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/tables-cattelan</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/tables-chaises</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/tables-sedit</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/tendances</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://fony.be/tables-chaises</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/tables-sedit</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/tendances</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/salon-max-divani-coffee</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/salon-max-divani-curry</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/salon-max-divani-dana</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/salon-max-divani-emu</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/salon-max-divani-gala</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://fony.be/salon-max-divani-kuma</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://fony.be/salon-max-divani-nest</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/salon-max-divani-osaka</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/salon-max-divani-tata</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://fony.be/salon-max-divani-willy</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/salon-max-divani-zebra</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/salon-nicoletti-memphis</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/salon-nicoletti-oakland</loc><lastmod>2026-11-17</lastmod></url>
@@ -41,16 +44,31 @@
   <url><loc>https://fony.be/tables-akante-ontario</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/tables-akante-phoenix</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/tables-akante-vancouver</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/salon-canapes-relax-electriques</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/salon-canapes-angle</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://fony.be/salon-canapes-cuir-italiens</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://fony.be/salon-canapes-relax-electriques</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://fony.be/salon-canapes-angle</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://fony.be/salon-canapes-cuir-italiens</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/salon-nicoletti</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/tables-extensibles-ceramique</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/magasin-meubles-la-louviere</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/magasin-meubles-pres-de-chez-vous</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/magasin-meubles-thuin-beaumont</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/capodarte</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/literie-boxspring-fixe-electrique</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://fony.be/conseils-amenager-maison-selon-son-projet</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-canape-cuir-microfibre-tissu</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-canape-lit-tous-les-jours</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-chaises-table-en-bois</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-choisir-canape-confortable</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-coin-lecture-salon</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-cuisine-ouverte-sur-salon</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-hauteur-meuble-tv</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-mesurer-sa-piece</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-profondeur-dressing</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-table-basse-taille-hauteur</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-table-ceramique-ou-bois</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-taille-canape-salon</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-taille-lit-chambre</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-taille-table-salle-a-manger</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/literie-boxspring-fixe-electrique</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/literie-choisir-matelas</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/literie-conseils</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/literie-sommiers</loc><lastmod>2026-11-18</lastmod></url>
@@ -61,8 +79,5 @@
   <url><loc>https://fony.be/realisation-premiere-cuisine-stosa</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/realisation-sejour-goliath</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/realisation-table-cattelan-italia</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/salon-max-divani-kuma</loc><lastmod>2026-11-23</lastmod></url>
-  <url><loc>https://fony.be/salon-max-divani-nest</loc><lastmod>2026-11-23</lastmod></url>
-  <url><loc>https://fony.be/salon-max-divani-willy</loc><lastmod>2026-11-23</lastmod></url>
   <url><loc>https://fony.be/catalogue-salons-a-composer</loc><lastmod>2026-11-23</lastmod></url>
 </urlset>

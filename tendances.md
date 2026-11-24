@@ -81,6 +81,22 @@ Pièce par pièce
 
    [Voir la chambre](https://fony.be/chambre)
 
+L’essai à la maison
+
+## Quelle couleur de canapé avec un sol gris clair ?
+
+Un sol gris clair peut rendre le salon froid le soir. Le canapé peut le réchauffer.
+
+- ### Prenez deux textiles
+
+  Deux tissus que vous avez déjà : par exemple un plaid écru et un coussin terracotta. Posez-les tour à tour là où viendrait l’assise.
+- ### Regardez à deux moments
+
+  Près de la fenêtre en journée, puis le soir sous votre lampe habituelle. Lequel donne à la pièce l’ambiance que vous cherchez ?
+- ### Si les deux vous plaisent
+
+  Gardez le plus discret pour le canapé et essayez l’autre en petite touche. On change d’avis sur un coussin bien plus facilement que sur tout un salon.
+
 Matières et finitions
 
 ## Comparez les échantillons côte à côte.

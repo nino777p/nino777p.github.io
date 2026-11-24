@@ -4,9 +4,7 @@
 
 Adresse de la page : https://fony.be/tables-sedit
 
-(Photo : Table au plateau céramique marbré sur piètement croisé doré, chaises en velours vert, près d’une cheminée)
-
-(Photo : Table au plateau céramique noir marbré sur pied en arc, chaises cognac, devant un jardin)
+(Photo : Table Sedit en bois sur piètement croisé, dans une salle à manger baignée de soleil)
 
 1. [Accueil](https://fony.be/)
 2. [Salle à manger](https://fony.be/tables-chaises)
@@ -16,13 +14,103 @@ Tables fabriquées en Italie
 
 # Sedit
 
-Une table Sedit se choisit par son plateau, son piètement et son format : céramique ou bois, fixe ou à rallonge.
+Une industrie à l’âme artisanale.
 
 [Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Fabriquées en Italie
 - Céramique ou bois
-- Fixes ou à rallonge
+- Tables fixes ou à rallonge
+- Chaises et tabourets
+
+(Photo : Atelier Sedit : le métal d’un piètement travaillé à la main, gerbe d’étincelles)
+
+À l’atelier
+
+## La matière prend forme.
+
+Photo Sedit.
+
+(Photo : Table Sedit au plateau en céramique claire veinée, vue de dessus, devant une baie vitrée)
+
+Le plateau
+
+## Céramique ou bois.
+
+Photo Sedit.
+
+(Photo : Table Sedit au plateau en bois sombre posé sur un pied en arc, dans une pièce en béton clair)
+
+Le pied
+
+## Il dessine la table.
+
+Photo Sedit.
+
+(Photo : Rallonge d’une table Sedit en train de s’ouvrir, vue de près)
+
+Quand on est nombreux
+
+## Elle s’allonge.
+
+[Comparer les rallonges Akante](https://fony.be/tables-extensibles-ceramique)
+
+Photo Sedit.
+
+(Photo : Petit fauteuil de table Sedit en tissu beige, pieds fins en métal sombre)
+
+Autour de la table
+
+## Et les chaises.
+
+Photo Sedit.
+
+Ambiances
+
+## Chacune son caractère.
+
+- (Photo : Table Sedit au plateau marbré sur pieds croisés fins, chaises beiges, tapis rayé)
+
+  Plateau marbré et lignes fines
+- (Photo : Table Sedit au plateau clair sur piètement en fils dorés, chaises ocre)
+
+  Une touche d’ocre
+- (Photo : Table Sedit au plateau en verre sur piètement sculpté, face au jardin)
+
+  Le verre, face au jardin
+- (Photo : Table ronde Sedit devant une cheminée, grande baie sur la forêt)
+
+  Ronde, près du feu
+
+## Venez voir nos tables au magasin.
+
+Dimensions, plateaux et couleurs du pied se choisissent avec nous, au magasin ou sur catalogue.
+
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Adresse
+:   [Route de Charleroi 160/1
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Lundi
+:   13h30 – 18h30
+
+Mardi au samedi
+:   10h30 – 18h30
+
+Dimanche
+:   Fermé
+
+Téléphone
+:   [064 46 07 72](tel:+3264460772)
+
+Livraison
+:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
+
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.
+
+Données techniques · Les modèles Sedit
 
 Au magasin et sur catalogue
 
@@ -75,30 +163,12 @@ Voir aussi
 
   [Voir la salle à manger](https://fony.be/tables-chaises)
 
-## Venez voir nos tables au magasin.
+Conseils
 
-Dimensions, plateaux et couleurs du pied se choisissent avec nous, au magasin ou sur catalogue.
+## Pour aller plus loin.
 
-[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+- ### Quelle taille de table pour 4, 6 ou 8 personnes ?
 
-Adresse
-:   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+  Les repères à prendre chez vous, avant de venir.
 
-Lundi
-:   13h30 – 18h30
-
-Mardi au samedi
-:   10h30 – 18h30
-
-Dimanche
-:   Fermé
-
-Téléphone
-:   [064 46 07 72](tel:+3264460772)
-
-Livraison
-:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
-
-Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.
+  [Lire le guide](https://fony.be/conseils-taille-table-salle-a-manger)

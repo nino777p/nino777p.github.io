@@ -116,6 +116,10 @@ Des boxsprings belges : Velda, dont le Fly et l’Imagine en version fixe ou é
 
 Les deux offrent des sensations différentes, selon le matelas et la base : essayez-les au magasin pour choisir.
 
+### Mon matelas peut-il suivre un sommier électrique ?
+
+Pas toujours : tous les matelas ne se plient pas. Relevez la référence sur l’étiquette de votre matelas et apportez-la : nous vérifions avec la documentation du fabricant s’il convient à la base articulée choisie.
+
 Voir aussi
 
 ## Continuer votre choix.

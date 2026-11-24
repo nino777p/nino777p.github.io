@@ -50,7 +50,10 @@ La sélection
 
    - [(Photo : Canapé d’angle en tissu gris, têtières réglables, piètement métal noir)  Max Divani Zebra](https://fony.be/salon-max-divani-zebra)
    - [(Photo : Canapé d’angle en cuir cognac sur pieds en métal noir, appuie-têtes relevés, dans un séjour)  Max Divani Emu](https://fony.be/salon-max-divani-emu)
+   - [(Photo : Canapé relax deux places en cuir gris-bleu à passepoil clair, une place relax ouverte)  Max Divani Kuma : À venir](https://fony.be/salon-max-divani-kuma)
+   - [(Photo : Canapé relax en tissu ocre sur pieds métal, deux places ouvertes, à côté d’un deux places assorti)  Max Divani Nest : À venir](https://fony.be/salon-max-divani-nest)
    - [(Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)  Max Divani Tata : À venir · mi-janvier 2027](https://fony.be/salon-max-divani-tata)
+   - [(Photo : Canapé relax en cuir gris à accoudoirs soulignés de noir, une place ouverte, à côté d’un deux places assorti)  Max Divani Willy : À venir](https://fony.be/salon-max-divani-willy)
 
 Vos questions
 
@@ -72,8 +75,8 @@ Voir aussi
 
 ## D’autres façons de chercher.
 
-- [Canapés d’angle : 5 modèles Voir](https://fony.be/salon-canapes-angle)
-- [Canapés en cuir italiens : 9 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
+- [Canapés d’angle : 8 modèles Voir](https://fony.be/salon-canapes-angle)
+- [Canapés en cuir italiens : 12 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
 - [Nicoletti : 2 modèles Voir](https://fony.be/salon-nicoletti)
 
 ## Venez essayer nos salons.

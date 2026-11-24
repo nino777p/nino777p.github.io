@@ -121,6 +121,7 @@ Nous sélectionnons des collections aux styles et aux finitions variés. Au maga
 - [(Photo : Cattelan Italia)](https://fony.be/tables-cattelan)
 - [(Photo : Nicoletti)](https://fony.be/salon-nicoletti)
 - [(Photo : Sedit)](https://fony.be/tables-sedit)
+- [(Photo : Mobliberica)](https://fony.be/tables-chaises#mobliberica)
 - [(Photo : Akante)](https://fony.be/tables-akante)
 - [(Photo : Perfecta)](https://fony.be/tables-perfecta)
 - [(Photo : Capodarte)](https://fony.be/capodarte)

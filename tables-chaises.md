@@ -4,9 +4,7 @@
 
 Adresse de la page : https://fony.be/tables-chaises
 
-(Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
-
-(Photo : Table au plateau céramique noir marbré sur pied en arc, chaises cognac, devant un jardin)
+(Photo : Table Tomasella Aragona et ses chaises dans un séjour ouvert sur le jardin)
 
 1. [Accueil](https://fony.be/)
 2. Salle à manger
@@ -15,7 +13,7 @@ Salle à manger
 
 # Tables et chaises
 
-Une table pour les repas de tous les jours, les grandes occasions et les moments partagés. Découvrez nos tables fixes et extensibles, en céramique ou en bois, et les chaises qui les accompagnent.
+Une table se choisit pour tout ce qui va s’y passer.
 
 [Mon projet table](https://fony.be/magasin-contact?projet=salle-a-manger#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
@@ -23,76 +21,98 @@ Une table pour les repas de tous les jours, les grandes occasions et les moments
 - Du lundi au samedi, avec ou sans rendez-vous
 - Première visite et conseil offerts
 
-Explorer les tables
+(Photo : Table ronde et chaises Tomasella Dada devant un buffet en bois sombre)
 
-## Des tables extensibles pensées pour votre quotidien.
+Tous les jours
 
-Une table à rallonge adapte l’espace au nombre de convives. Au magasin, comparez les formes, les matières et les mécanismes des tables exposées.
+## Le matin, elle est à vous.
 
-(Photo : Table ronde sur pied central galbé, posée sur un tapis rond)
-
-Forme et plateau
-
-### Ronde, ovale ou rectangulaire.
-
-Ronde, ovale ou rectangulaire, la table s’adapte à la circulation dans la pièce. Céramique, bois ou effet bois : comparez les finitions et les piètements.
-
-- [Voir les marques de tables](https://fony.be/tables-chaises#fabricants)
-- [Buffets et dressoirs](https://fony.be/tables-chaises#buffets)
+Photo Tomasella.
 
 (Photo : Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois)
 
-Rallonge
+Le dimanche
 
-### Rangée dans la table, ou déployée par un mécanisme.
+## On ouvre la rallonge.
 
-Selon le modèle, la rallonge se range dans la table ou se déploie à l’aide d’un mécanisme intégré. Venez essayer l’ouverture pour choisir celle qui vous convient. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
+[Voir les tables à rallonge](https://fony.be/tables-extensibles-ceramique)
 
-- [Comparer les mécanismes de rallonge](https://fony.be/tables-extensibles-ceramique)
-- [Voir les tables Akante](https://fony.be/tables-akante)
+Photo Akante, table Missouri.
 
 (Photo : Longue table en céramique claire sur piètement croisé, dix chaises en cuir brun, vue en plongée)
 
-Convives
+Les grandes occasions
 
-### Du repas de tous les jours aux grandes tablées.
+## Les grandes tablées.
 
-Pensez à vos repas quotidiens et aux occasions où vous recevez. Certains modèles atteignent trois mètres et reçoivent jusqu’à douze convives.
+[Voir le Catalogue](https://fony.be/catalogue)
 
-- [Les chaises](https://fony.be/tables-chaises#chaises)
+Photo Cattelan Italia.
 
-Modèle par modèle
+(Photo : Grande table Mobliberica au piètement sculpté, entourée de fauteuils clairs, devant un mur végétal brun)
 
-## Choisir sa table à rallonge.
+Mobliberica · Espagne, depuis 1979
 
-Découvrez les mécanismes de rallonge. Chaque fiche indique les dimensions de la table fermée et ouverte.
+## Dessinée au bord de la Méditerranée.
 
-- [Tables extensibles en céramique : 8 modèles Voir](https://fony.be/tables-extensibles-ceramique)
+[Demandez-nous les modèles](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
 
-Movis
+Photo Mobliberica.
 
-## Une salle à manger, des meubles assortis.
+Autour de la table
 
-Table, chaises, buffet et vaisselier s’accordent dans un même ensemble. Photos du fabricant.
+## Ce qui fait qu’on y reste.
 
-- (Photo : Table ovale au plateau en céramique veinée d’or sur pied en bois, vue de près)
+- (Photo : Deux chaises Tomasella Adele au dossier ajouré)
 
-  Table Egg : plateau ovale en céramique, pied central en bois. Au magasin.
-- (Photo : Table au plateau sombre sur pieds en bois clair, chaises grises, buffet vert d’eau)
+  Les chaises
 
-  Table Cahors. Au magasin.
-- (Photo : Buffet aux angles arrondis, laque vert sapin et plateau en noyer, poignée lumineuse)
+  [Voir les chaises](https://fony.be/tables-chaises#chaises)
+- (Photo : Buffet Tomasella Calipso aux façades arrondies devant une boiserie)
 
-  Buffet Radius : angles arrondis, poignée lumineuse. Au magasin.
-- (Photo : Vaisselier en chêne noueux, vitrine centrale éclairée)
+  Le buffet
 
-  Vaisselier Riga en chêne. Au magasin.
-- (Photo : Buffet aux angles arrondis, laque gris clair et plateau bois, poignée lumineuse)
+  [Voir les buffets](https://fony.be/tables-chaises#buffets)
+- (Photo : Table ovale, chaises et buffet Tomasella Bliss devant un mur en bois)
 
-  Le buffet Radius dans une autre laque.
-- (Photo : Chaise en tissu vert au dossier piqué, pieds noirs en étoile)
+  L’ensemble
 
-  Chaise Walk, sur commande.
+  [Voir les fabricants](https://fony.be/tables-chaises#fabricants)
+- (Photo : Cuisine bleu profond avec table en chêne et vitrines éclairées)
+
+  La cuisine ouverte
+
+  [Voir la cuisine](https://fony.be/cuisine)
+
+## Venez essayer nos tables et nos chaises.
+
+Apportez les dimensions de votre salle à manger et, si possible, une photo de la pièce. Venez essayer les chaises et ouvrir les rallonges au magasin, entre Binche et La Louvière, avec ou sans rendez-vous. Parking facile d’accès.
+
+[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Adresse
+:   [Route de Charleroi 160/1
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Lundi
+:   13h30 – 18h30
+
+Mardi au samedi
+:   10h30 – 18h30
+
+Dimanche
+:   Fermé
+
+Téléphone
+:   [064 46 07 72](tel:+3264460772)
+
+Livraison
+:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
+
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.
+
+Données techniques · Les fabricants de tables Cattelan Italia, Sedit, Akante, Perfecta, Capodarte, Movis, Tomasella
 
 Les tables
 
@@ -168,27 +188,84 @@ Plateaux, matières et dimensions se comparent au magasin : apportez les mesure
 
    [Voir le séjour](https://fony.be/living)
 
-Aussi chez nous
+Formes, rallonges et nombre de convives
 
-## Maxfurn, et bientôt Cerata.
+Explorer les tables
 
-Demandez-nous les modèles : pour les nouvelles collections, nous vous prévenons dès leur arrivée.
+## Des tables extensibles pensées pour votre quotidien.
 
-- ### Maxfurn
+Une table à rallonge adapte l’espace au nombre de convives. Au magasin, comparez les formes, les matières et les mécanismes des tables exposées.
 
-  Des tables et des chaises de salle à manger, à commander au magasin.
+(Photo : Table ronde sur pied central galbé, posée sur un tapis rond)
 
-  [Demandez-nous les modèles](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-- ### Cerata
+Forme et plateau
 
-  Des tables de salle à manger en céramique, en différents modèles et finitions. Cerata est une collection de De Eiken Zetel, maison familiale d’Eeklo. Bientôt au magasin.
+### Ronde, ovale ou rectangulaire.
 
-  [Demandez-nous les modèles](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-- ### De Eiken Zetel
+Ronde, ovale ou rectangulaire, la table s’adapte à la circulation dans la pièce. Céramique, bois ou effet bois : comparez les finitions et les piètements.
 
-  Des tables et des chaises de la maison qui signe nos fauteuils relax, prochainement au magasin.
+- [Voir les marques de tables](https://fony.be/tables-chaises#fabricants)
+- [Buffets et dressoirs](https://fony.be/tables-chaises#buffets)
 
-  [Voir les fauteuils relax](https://fony.be/salon-fauteuils-relax-releveurs)
+(Photo : Grande table à rallonge au plateau céramique marbré, chaises vertes, parquet en bois)
+
+Rallonge
+
+### Rangée dans la table, ou déployée par un mécanisme.
+
+Selon le modèle, la rallonge se range dans la table ou se déploie à l’aide d’un mécanisme intégré. Venez essayer l’ouverture pour choisir celle qui vous convient. D’autres tables restent fixes, pour les pièces où la place ne manque pas.
+
+- [Comparer les mécanismes de rallonge](https://fony.be/tables-extensibles-ceramique)
+- [Voir les tables Akante](https://fony.be/tables-akante)
+
+(Photo : Longue table en céramique claire sur piètement croisé, dix chaises en cuir brun, vue en plongée)
+
+Convives
+
+### Du repas de tous les jours aux grandes tablées.
+
+Pensez à vos repas quotidiens et aux occasions où vous recevez. Certains modèles atteignent trois mètres et reçoivent jusqu’à douze convives.
+
+- [Les chaises](https://fony.be/tables-chaises#chaises)
+
+Les tables à rallonge, modèle par modèle
+
+Modèle par modèle
+
+## Choisir sa table à rallonge.
+
+Découvrez les mécanismes de rallonge. Chaque fiche indique les dimensions de la table fermée et ouverte.
+
+- [Tables extensibles en céramique : 8 modèles Voir](https://fony.be/tables-extensibles-ceramique)
+
+Movis : table, chaises et buffet assortis
+
+Movis
+
+## Une salle à manger, des meubles assortis.
+
+Table, chaises, buffet et vaisselier s’accordent dans un même ensemble. Photos du fabricant.
+
+- (Photo : Table ovale au plateau en céramique veinée d’or sur pied en bois, vue de près)
+
+  Table Egg : plateau ovale en céramique, pied central en bois. Au magasin.
+- (Photo : Table au plateau sombre sur pieds en bois clair, chaises grises, buffet vert d’eau)
+
+  Table Cahors. Au magasin.
+- (Photo : Buffet aux angles arrondis, laque vert sapin et plateau en noyer, poignée lumineuse)
+
+  Buffet Radius : angles arrondis, poignée lumineuse. Au magasin.
+- (Photo : Vaisselier en chêne noueux, vitrine centrale éclairée)
+
+  Vaisselier Riga en chêne. Au magasin.
+- (Photo : Buffet aux angles arrondis, laque gris clair et plateau bois, poignée lumineuse)
+
+  Le buffet Radius dans une autre laque.
+- (Photo : Chaise en tissu vert au dossier piqué, pieds noirs en étoile)
+
+  Chaise Walk, sur commande.
+
+Buffets et dressoirs
 
 Buffets et dressoirs
 
@@ -209,6 +286,8 @@ Buffets et dressoirs
 
   Voir le dressoir Kayak
 
+Les chaises
+
 (Photo : Trois chaises à accoudoirs enveloppantes, en tissu beige, gris et vert sauge, pieds noirs)
 
 Les chaises
@@ -218,6 +297,8 @@ Les chaises
 Une chaise se choisit autant pour son assise que pour son allure : comparez les dossiers, les accoudoirs, les revêtements et les piètements. Notre sélection comprend notamment les chaises Modulax (ici le modèle Bari, en trois coloris).
 
 Choisissez la table et les chaises ensemble, pour que les hauteurs s’accordent, et partez du nombre de convives plutôt que de la longueur.
+
+Chaises Modulax, modèle par modèle
 
 Modulax
 
@@ -275,6 +356,30 @@ Découvrez comment les chaises s’accordent avec différents styles de tables.
 
 [Choisir la table](https://fony.be/tables-chaises#fabricants)
 
+Maxfurn, et bientôt Cerata
+
+Aussi chez nous
+
+## Maxfurn, et bientôt Cerata.
+
+Demandez-nous les modèles : pour les nouvelles collections, nous vous prévenons dès leur arrivée.
+
+- ### Maxfurn
+
+  Des tables et des chaises de salle à manger, à commander au magasin.
+
+  [Demandez-nous les modèles](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+- ### Cerata
+
+  Des tables de salle à manger en céramique, en différents modèles et finitions. Cerata est une collection de De Eiken Zetel, maison familiale d’Eeklo. Bientôt au magasin.
+
+  [Demandez-nous les modèles](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
+- ### De Eiken Zetel
+
+  Des tables et des chaises de la maison qui signe nos fauteuils relax, prochainement au magasin.
+
+  [Voir les fauteuils relax](https://fony.be/salon-fauteuils-relax-releveurs)
+
 Vos questions
 
 ## Avant de choisir.
@@ -308,30 +413,12 @@ La salle à manger fait partie de l’[espace de vie](https://fony.be/espace-de-
 
   Voir la cuisine
 
-## Venez essayer nos tables et nos chaises.
+Conseils
 
-Apportez les dimensions de votre salle à manger et, si possible, une photo de la pièce. Venez essayer les chaises et ouvrir les rallonges au magasin, entre Binche et La Louvière, avec ou sans rendez-vous. Parking facile d’accès.
+## Pour aller plus loin.
 
-[Mon projet](https://fony.be/magasin-contact?projet=salle-a-manger#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+- ### Quelle taille de table pour 4, 6 ou 8 personnes ?
 
-Adresse
-:   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+  Les repères à prendre chez vous, avant de venir.
 
-Lundi
-:   13h30 – 18h30
-
-Mardi au samedi
-:   10h30 – 18h30
-
-Dimanche
-:   Fermé
-
-Téléphone
-:   [064 46 07 72](tel:+3264460772)
-
-Livraison
-:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
-
-Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.
+  [Lire le guide](https://fony.be/conseils-taille-table-salle-a-manger)

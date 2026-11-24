@@ -2869,7 +2869,8 @@
   "ratio": [
    1897,
    1000
-  ]
+  ],
+  "og": "md-kuma-og.jpg"
  },
  "md-nest": {
   "id": "md-nest",
@@ -2897,7 +2898,8 @@
   "ratio": [
    1897,
    1000
-  ]
+  ],
+  "og": "md-nest-og.jpg"
  },
  "md-tata": {
   "id": "md-tata",
@@ -2953,7 +2955,8 @@
   "ratio": [
    1897,
    1000
-  ]
+  ],
+  "og": "md-willy-og.jpg"
  },
  "md-curry-face": {
   "id": "md-curry-face",
@@ -6606,5 +6609,1364 @@
    1200,
    1200
   ]
+ },
+ "tom-aragona-table": {
+  "id": "tom-aragona-table",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Tomasella Table Aragona",
+  "alt": "Table Tomasella Aragona et ses chaises dans un séjour ouvert sur le jardin",
+  "source": "tom-aragona-table.webp",
+  "w": 1920,
+  "h": 1306,
+  "files": {
+   "600": "tom-aragona-table-600.webp",
+   "900": "tom-aragona-table-900.webp",
+   "1400": "tom-aragona-table-1400.webp",
+   "1920": "tom-aragona-table-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-aragona-table-600.avif",
+   "900": "tom-aragona-table-900.avif",
+   "1400": "tom-aragona-table-1400.avif",
+   "1920": "tom-aragona-table-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1306
+  ]
+ },
+ "tom-dada-table": {
+  "id": "tom-dada-table",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Tomasella Chaises Dada",
+  "alt": "Table ronde et chaises Tomasella Dada devant un buffet en bois sombre",
+  "source": "tom-dada-table.webp",
+  "w": 1920,
+  "h": 1306,
+  "files": {
+   "600": "tom-dada-table-600.webp",
+   "900": "tom-dada-table-900.webp",
+   "1400": "tom-dada-table-1400.webp",
+   "1920": "tom-dada-table-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-dada-table-600.avif",
+   "900": "tom-dada-table-900.avif",
+   "1400": "tom-dada-table-1400.avif",
+   "1920": "tom-dada-table-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1306
+  ]
+ },
+ "tom-bliss-table": {
+  "id": "tom-bliss-table",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Tomasella Buffet Bliss",
+  "alt": "Table ovale, chaises et buffet Tomasella Bliss devant un mur en bois",
+  "source": "tom-bliss-table.webp",
+  "w": 1920,
+  "h": 1319,
+  "files": {
+   "600": "tom-bliss-table-600.webp",
+   "900": "tom-bliss-table-900.webp",
+   "1400": "tom-bliss-table-1400.webp",
+   "1920": "tom-bliss-table-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-bliss-table-600.avif",
+   "900": "tom-bliss-table-900.avif",
+   "1400": "tom-bliss-table-1400.avif",
+   "1920": "tom-bliss-table-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1319
+  ]
+ },
+ "tom-calipso-buffet": {
+  "id": "tom-calipso-buffet",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Tomasella Buffet Calipso",
+  "alt": "Buffet Tomasella Calipso aux façades arrondies devant une boiserie",
+  "source": "tom-calipso-buffet.webp",
+  "w": 1920,
+  "h": 1110,
+  "files": {
+   "600": "tom-calipso-buffet-600.webp",
+   "900": "tom-calipso-buffet-900.webp",
+   "1400": "tom-calipso-buffet-1400.webp",
+   "1920": "tom-calipso-buffet-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-calipso-buffet-600.avif",
+   "900": "tom-calipso-buffet-900.avif",
+   "1400": "tom-calipso-buffet-1400.avif",
+   "1920": "tom-calipso-buffet-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1110
+  ]
+ },
+ "tom-adele-chaises": {
+  "id": "tom-adele-chaises",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Tomasella Chaises Adele",
+  "alt": "Deux chaises Tomasella Adele au dossier ajouré",
+  "source": "tom-adele-chaises.jpg",
+  "w": 1920,
+  "h": 1280,
+  "files": {
+   "600": "tom-adele-chaises-600.webp",
+   "900": "tom-adele-chaises-900.webp",
+   "1400": "tom-adele-chaises-1400.webp",
+   "1920": "tom-adele-chaises-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-adele-chaises-600.avif",
+   "900": "tom-adele-chaises-900.avif",
+   "1400": "tom-adele-chaises-1400.avif",
+   "1920": "tom-adele-chaises-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1280
+  ]
+ },
+ "tom-cocoon-chambre": {
+  "id": "tom-cocoon-chambre",
+  "use": [
+   "chambre"
+  ],
+  "credit": "Tomasella Lit Cocoon",
+  "alt": "Chambre Tomasella : lit Cocoon à tête arrondie devant un mur de panneaux clairs",
+  "source": "tom-cocoon-chambre.webp",
+  "w": 1920,
+  "h": 1166,
+  "files": {
+   "600": "tom-cocoon-chambre-600.webp",
+   "900": "tom-cocoon-chambre-900.webp",
+   "1400": "tom-cocoon-chambre-1400.webp",
+   "1920": "tom-cocoon-chambre-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-cocoon-chambre-600.avif",
+   "900": "tom-cocoon-chambre-900.avif",
+   "1400": "tom-cocoon-chambre-1400.avif",
+   "1920": "tom-cocoon-chambre-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1166
+  ]
+ },
+ "tom-ophelia-chambre": {
+  "id": "tom-ophelia-chambre",
+  "use": [
+   "chambre"
+  ],
+  "credit": "Tomasella Lit Ophelia",
+  "alt": "Chambre Tomasella : lit Ophelia en bois devant une boiserie, baie ouverte sur les arbres",
+  "source": "tom-ophelia-chambre.webp",
+  "w": 1920,
+  "h": 1076,
+  "files": {
+   "600": "tom-ophelia-chambre-600.webp",
+   "900": "tom-ophelia-chambre-900.webp",
+   "1400": "tom-ophelia-chambre-1400.webp",
+   "1920": "tom-ophelia-chambre-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-ophelia-chambre-600.avif",
+   "900": "tom-ophelia-chambre-900.avif",
+   "1400": "tom-ophelia-chambre-1400.avif",
+   "1920": "tom-ophelia-chambre-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1076
+  ]
+ },
+ "tom-denver-armoire": {
+  "id": "tom-denver-armoire",
+  "use": [
+   "chambre"
+  ],
+  "credit": "Tomasella Armoire Denver",
+  "alt": "Armoire Tomasella Denver à portes battantes dans une chambre aux murs verts",
+  "source": "tom-denver-armoire.jpg",
+  "w": 3840,
+  "h": 1590,
+  "files": {
+   "600": "tom-denver-armoire-600.webp",
+   "900": "tom-denver-armoire-900.webp",
+   "1400": "tom-denver-armoire-1400.webp",
+   "2000": "tom-denver-armoire-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-denver-armoire-600.avif",
+   "900": "tom-denver-armoire-900.avif",
+   "1400": "tom-denver-armoire-1400.avif",
+   "2000": "tom-denver-armoire-2000.avif"
+  },
+  "ratio": [
+   3840,
+   1590
+  ]
+ },
+ "tom-doxa-dressing": {
+  "id": "tom-doxa-dressing",
+  "use": [
+   "chambre"
+  ],
+  "credit": "Tomasella Dressing Doxa",
+  "alt": "Dressing Tomasella Doxa derrière une paroi vitrée, à côté du lit",
+  "source": "tom-doxa-dressing.jpg",
+  "w": 1920,
+  "h": 1010,
+  "files": {
+   "600": "tom-doxa-dressing-600.webp",
+   "900": "tom-doxa-dressing-900.webp",
+   "1400": "tom-doxa-dressing-1400.webp",
+   "1920": "tom-doxa-dressing-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-doxa-dressing-600.avif",
+   "900": "tom-doxa-dressing-900.avif",
+   "1400": "tom-doxa-dressing-1400.avif",
+   "1920": "tom-doxa-dressing-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1010
+  ]
+ },
+ "tom-bravo-chambre": {
+  "id": "tom-bravo-chambre",
+  "use": [
+   "chambre"
+  ],
+  "credit": "Tomasella Lit Bravo Plus",
+  "alt": "Chambre Tomasella avec vue : lit Bravo Plus et commode en bois sombre",
+  "source": "tom-bravo-chambre.webp",
+  "w": 1920,
+  "h": 1166,
+  "files": {
+   "600": "tom-bravo-chambre-600.webp",
+   "900": "tom-bravo-chambre-900.webp",
+   "1400": "tom-bravo-chambre-1400.webp",
+   "1920": "tom-bravo-chambre-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-bravo-chambre-600.avif",
+   "900": "tom-bravo-chambre-900.avif",
+   "1400": "tom-bravo-chambre-1400.avif",
+   "1920": "tom-bravo-chambre-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1166
+  ]
+ },
+ "tom-anubis-chambre": {
+  "id": "tom-anubis-chambre",
+  "use": [
+   "chambre"
+  ],
+  "credit": "Tomasella Lit Anubis",
+  "alt": "Chambre Tomasella : lit Anubis, tête de lit verte sur boiserie éclairée",
+  "source": "tom-anubis-chambre.webp",
+  "w": 1920,
+  "h": 1165,
+  "files": {
+   "600": "tom-anubis-chambre-600.webp",
+   "900": "tom-anubis-chambre-900.webp",
+   "1400": "tom-anubis-chambre-1400.webp",
+   "1920": "tom-anubis-chambre-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-anubis-chambre-600.avif",
+   "900": "tom-anubis-chambre-900.avif",
+   "1400": "tom-anubis-chambre-1400.avif",
+   "1920": "tom-anubis-chambre-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1165
+  ]
+ },
+ "tom-yuki-chevet": {
+  "id": "tom-yuki-chevet",
+  "use": [
+   "chambre"
+  ],
+  "credit": "Tomasella Lit Yuki",
+  "alt": "Lit Tomasella Yuki de près : tête de lit matelassée et chevet suspendu éclairé",
+  "source": "tom-yuki-chevet.webp",
+  "w": 1920,
+  "h": 1304,
+  "files": {
+   "600": "tom-yuki-chevet-600.webp",
+   "900": "tom-yuki-chevet-900.webp",
+   "1400": "tom-yuki-chevet-1400.webp",
+   "1920": "tom-yuki-chevet-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-yuki-chevet-600.avif",
+   "900": "tom-yuki-chevet-900.avif",
+   "1400": "tom-yuki-chevet-1400.avif",
+   "1920": "tom-yuki-chevet-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1304
+  ]
+ },
+ "tom-cabine-ouverte": {
+  "id": "tom-cabine-ouverte",
+  "use": [
+   "chambre"
+  ],
+  "credit": "Tomasella Dressing",
+  "alt": "Dressing Tomasella ouvert, vêtements rangés par niveaux",
+  "source": "tom-cabine-ouverte.webp",
+  "w": 1920,
+  "h": 1280,
+  "files": {
+   "600": "tom-cabine-ouverte-600.webp",
+   "900": "tom-cabine-ouverte-900.webp",
+   "1400": "tom-cabine-ouverte-1400.webp",
+   "1920": "tom-cabine-ouverte-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-cabine-ouverte-600.avif",
+   "900": "tom-cabine-ouverte-900.avif",
+   "1400": "tom-cabine-ouverte-1400.avif",
+   "1920": "tom-cabine-ouverte-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1280
+  ]
+ },
+ "tom-at152-sejour": {
+  "id": "tom-at152-sejour",
+  "use": [
+   "living"
+  ],
+  "credit": "Tomasella Composition Atlante",
+  "alt": "Séjour Tomasella : meuble TV et boiseries autour de deux canapés clairs",
+  "source": "tom-at152-sejour.webp",
+  "w": 1920,
+  "h": 1308,
+  "files": {
+   "600": "tom-at152-sejour-600.webp",
+   "900": "tom-at152-sejour-900.webp",
+   "1400": "tom-at152-sejour-1400.webp",
+   "1920": "tom-at152-sejour-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-at152-sejour-600.avif",
+   "900": "tom-at152-sejour-900.avif",
+   "1400": "tom-at152-sejour-1400.avif",
+   "1920": "tom-at152-sejour-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1308
+  ]
+ },
+ "tom-at150-sejour": {
+  "id": "tom-at150-sejour",
+  "use": [
+   "living"
+  ],
+  "credit": "Tomasella Composition Atlante",
+  "alt": "Séjour Tomasella : écran posé sur une boiserie sombre, étagères éclairées",
+  "source": "tom-at150-sejour.webp",
+  "w": 1920,
+  "h": 1306,
+  "files": {
+   "600": "tom-at150-sejour-600.webp",
+   "900": "tom-at150-sejour-900.webp",
+   "1400": "tom-at150-sejour-1400.webp",
+   "1920": "tom-at150-sejour-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-at150-sejour-600.avif",
+   "900": "tom-at150-sejour-900.avif",
+   "1400": "tom-at150-sejour-1400.avif",
+   "1920": "tom-at150-sejour-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1306
+  ]
+ },
+ "tom-andromeda-bibliotheque": {
+  "id": "tom-andromeda-bibliotheque",
+  "use": [
+   "living"
+  ],
+  "credit": "Tomasella Bibliothèque Andromeda",
+  "alt": "Séjour ouvert Tomasella : bibliothèque Andromeda entre salon et salle à manger",
+  "source": "tom-andromeda-bibliotheque.webp",
+  "w": 1920,
+  "h": 1165,
+  "files": {
+   "600": "tom-andromeda-bibliotheque-600.webp",
+   "900": "tom-andromeda-bibliotheque-900.webp",
+   "1400": "tom-andromeda-bibliotheque-1400.webp",
+   "1920": "tom-andromeda-bibliotheque-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-andromeda-bibliotheque-600.avif",
+   "900": "tom-andromeda-bibliotheque-900.avif",
+   "1400": "tom-andromeda-bibliotheque-1400.avif",
+   "1920": "tom-andromeda-bibliotheque-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1165
+  ]
+ },
+ "tom-mur-bureau": {
+  "id": "tom-mur-bureau",
+  "use": [
+   "living"
+  ],
+  "credit": "Tomasella Armoire de séjour",
+  "alt": "Mur en bois Tomasella qui intègre l’écran et cache un bureau",
+  "source": "tom-mur-bureau.webp",
+  "w": 1920,
+  "h": 1335,
+  "files": {
+   "600": "tom-mur-bureau-600.webp",
+   "900": "tom-mur-bureau-900.webp",
+   "1400": "tom-mur-bureau-1400.webp",
+   "1920": "tom-mur-bureau-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-mur-bureau-600.avif",
+   "900": "tom-mur-bureau-900.avif",
+   "1400": "tom-mur-bureau-1400.avif",
+   "1920": "tom-mur-bureau-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1335
+  ]
+ },
+ "tom-at148-sejour": {
+  "id": "tom-at148-sejour",
+  "use": [
+   "living"
+  ],
+  "credit": "Tomasella Composition Atlante",
+  "alt": "Meuble TV Tomasella en bois sombre et laque claire",
+  "source": "tom-at148-sejour.webp",
+  "w": 1920,
+  "h": 1305,
+  "files": {
+   "600": "tom-at148-sejour-600.webp",
+   "900": "tom-at148-sejour-900.webp",
+   "1400": "tom-at148-sejour-1400.webp",
+   "1920": "tom-at148-sejour-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-at148-sejour-600.avif",
+   "900": "tom-at148-sejour-900.avif",
+   "1400": "tom-at148-sejour-1400.avif",
+   "1920": "tom-at148-sejour-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1305
+  ]
+ },
+ "tom-at233-sejour": {
+  "id": "tom-at233-sejour",
+  "use": [
+   "living"
+  ],
+  "credit": "Tomasella Composition Atlante",
+  "alt": "Grand séjour Tomasella : table, salon et boiseries dans la même pièce",
+  "source": "tom-at233-sejour.webp",
+  "w": 1920,
+  "h": 1150,
+  "files": {
+   "600": "tom-at233-sejour-600.webp",
+   "900": "tom-at233-sejour-900.webp",
+   "1400": "tom-at233-sejour-1400.webp",
+   "1920": "tom-at233-sejour-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-at233-sejour-600.avif",
+   "900": "tom-at233-sejour-900.avif",
+   "1400": "tom-at233-sejour-1400.avif",
+   "1920": "tom-at233-sejour-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1150
+  ]
+ },
+ "tom-at231-bibliotheque": {
+  "id": "tom-at231-bibliotheque",
+  "use": [
+   "living"
+  ],
+  "credit": "Tomasella Bibliothèque",
+  "alt": "Bibliothèque Tomasella à vitrines derrière une table de repas",
+  "source": "tom-at231-bibliotheque.jpg",
+  "w": 1920,
+  "h": 1010,
+  "files": {
+   "600": "tom-at231-bibliotheque-600.webp",
+   "900": "tom-at231-bibliotheque-900.webp",
+   "1400": "tom-at231-bibliotheque-1400.webp",
+   "1920": "tom-at231-bibliotheque-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-at231-bibliotheque-600.avif",
+   "900": "tom-at231-bibliotheque-900.avif",
+   "1400": "tom-at231-bibliotheque-1400.avif",
+   "1920": "tom-at231-bibliotheque-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1010
+  ]
+ },
+ "tom-angle-sejour": {
+  "id": "tom-angle-sejour",
+  "use": [
+   "living"
+  ],
+  "credit": "Tomasella Armoire de séjour",
+  "alt": "Séjour Tomasella : armoires en angle autour de l’écran, canapé vert",
+  "source": "tom-angle-sejour.webp",
+  "w": 1920,
+  "h": 1166,
+  "files": {
+   "600": "tom-angle-sejour-600.webp",
+   "900": "tom-angle-sejour-900.webp",
+   "1400": "tom-angle-sejour-1400.webp",
+   "1920": "tom-angle-sejour-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-angle-sejour-600.avif",
+   "900": "tom-angle-sejour-900.avif",
+   "1400": "tom-angle-sejour-1400.avif",
+   "1920": "tom-angle-sejour-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1166
+  ]
+ },
+ "sd-soleil-salle": {
+  "id": "sd-soleil-salle",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Gold",
+  "alt": "Table Sedit en bois sur piètement croisé, dans une salle à manger baignée de soleil",
+  "source": "sd-soleil-salle.jpg",
+  "w": 1440,
+  "h": 840,
+  "files": {
+   "600": "sd-soleil-salle-600.webp",
+   "900": "sd-soleil-salle-900.webp",
+   "1400": "sd-soleil-salle-1400.webp",
+   "1440": "sd-soleil-salle-1440.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-soleil-salle-600.avif",
+   "900": "sd-soleil-salle-900.avif",
+   "1400": "sd-soleil-salle-1400.avif",
+   "1440": "sd-soleil-salle-1440.avif"
+  },
+  "ratio": [
+   1440,
+   840
+  ],
+  "og": "sd-soleil-salle-og.jpg"
+ },
+ "sd-atelier-etincelles": {
+  "id": "sd-atelier-etincelles",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit atelier",
+  "alt": "Atelier Sedit : le métal d’un piètement travaillé à la main, gerbe d’étincelles",
+  "source": "sd-atelier-etincelles.jpg",
+  "w": 1928,
+  "h": 1286,
+  "files": {
+   "600": "sd-atelier-etincelles-600.webp",
+   "900": "sd-atelier-etincelles-900.webp",
+   "1400": "sd-atelier-etincelles-1400.webp",
+   "1928": "sd-atelier-etincelles-1928.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-atelier-etincelles-600.avif",
+   "900": "sd-atelier-etincelles-900.avif",
+   "1400": "sd-atelier-etincelles-1400.avif",
+   "1928": "sd-atelier-etincelles-1928.avif"
+  },
+  "ratio": [
+   1928,
+   1286
+  ]
+ },
+ "sd-ceramique-claire": {
+  "id": "sd-ceramique-claire",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Baltik",
+  "alt": "Table Sedit au plateau en céramique claire veinée, vue de dessus, devant une baie vitrée",
+  "source": "sd-ceramique-claire.jpg",
+  "w": 1920,
+  "h": 1280,
+  "files": {
+   "600": "sd-ceramique-claire-600.webp",
+   "900": "sd-ceramique-claire-900.webp",
+   "1400": "sd-ceramique-claire-1400.webp",
+   "1920": "sd-ceramique-claire-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-ceramique-claire-600.avif",
+   "900": "sd-ceramique-claire-900.avif",
+   "1400": "sd-ceramique-claire-1400.avif",
+   "1920": "sd-ceramique-claire-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1280
+  ]
+ },
+ "sd-pied-arc": {
+  "id": "sd-pied-arc",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Arcus",
+  "alt": "Table Sedit au plateau en bois sombre posé sur un pied en arc, dans une pièce en béton clair",
+  "source": "sd-pied-arc.jpg",
+  "w": 1920,
+  "h": 1280,
+  "files": {
+   "600": "sd-pied-arc-600.webp",
+   "900": "sd-pied-arc-900.webp",
+   "1400": "sd-pied-arc-1400.webp",
+   "1920": "sd-pied-arc-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-pied-arc-600.avif",
+   "900": "sd-pied-arc-900.avif",
+   "1400": "sd-pied-arc-1400.avif",
+   "1920": "sd-pied-arc-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1280
+  ]
+ },
+ "sd-rallonge-ouverte": {
+  "id": "sd-rallonge-ouverte",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Movida",
+  "alt": "Rallonge d’une table Sedit en train de s’ouvrir, vue de près",
+  "source": "sd-rallonge-ouverte.jpg",
+  "w": 1920,
+  "h": 1280,
+  "files": {
+   "600": "sd-rallonge-ouverte-600.webp",
+   "900": "sd-rallonge-ouverte-900.webp",
+   "1400": "sd-rallonge-ouverte-1400.webp",
+   "1920": "sd-rallonge-ouverte-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-rallonge-ouverte-600.avif",
+   "900": "sd-rallonge-ouverte-900.avif",
+   "1400": "sd-rallonge-ouverte-1400.avif",
+   "1920": "sd-rallonge-ouverte-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1280
+  ]
+ },
+ "sd-salle-rayee": {
+  "id": "sd-salle-rayee",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Tiffany",
+  "alt": "Table Sedit au plateau marbré sur pieds croisés fins, chaises beiges, tapis rayé",
+  "source": "sd-salle-rayee.jpg",
+  "w": 1613,
+  "h": 1075,
+  "files": {
+   "600": "sd-salle-rayee-600.webp",
+   "900": "sd-salle-rayee-900.webp",
+   "1400": "sd-salle-rayee-1400.webp",
+   "1613": "sd-salle-rayee-1613.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-salle-rayee-600.avif",
+   "900": "sd-salle-rayee-900.avif",
+   "1400": "sd-salle-rayee-1400.avif",
+   "1613": "sd-salle-rayee-1613.avif"
+  },
+  "ratio": [
+   1613,
+   1075
+  ]
+ },
+ "sd-salle-ocre": {
+  "id": "sd-salle-ocre",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Roulette",
+  "alt": "Table Sedit au plateau clair sur piètement en fils dorés, chaises ocre",
+  "source": "sd-salle-ocre.jpg",
+  "w": 1613,
+  "h": 1075,
+  "files": {
+   "600": "sd-salle-ocre-600.webp",
+   "900": "sd-salle-ocre-900.webp",
+   "1400": "sd-salle-ocre-1400.webp",
+   "1613": "sd-salle-ocre-1613.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-salle-ocre-600.avif",
+   "900": "sd-salle-ocre-900.avif",
+   "1400": "sd-salle-ocre-1400.avif",
+   "1613": "sd-salle-ocre-1613.avif"
+  },
+  "ratio": [
+   1613,
+   1075
+  ]
+ },
+ "sd-verre-jardin": {
+  "id": "sd-verre-jardin",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Aliante",
+  "alt": "Table Sedit au plateau en verre sur piètement sculpté, face au jardin",
+  "source": "sd-verre-jardin.jpg",
+  "w": 1613,
+  "h": 1075,
+  "files": {
+   "600": "sd-verre-jardin-600.webp",
+   "900": "sd-verre-jardin-900.webp",
+   "1400": "sd-verre-jardin-1400.webp",
+   "1613": "sd-verre-jardin-1613.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-verre-jardin-600.avif",
+   "900": "sd-verre-jardin-900.avif",
+   "1400": "sd-verre-jardin-1400.avif",
+   "1613": "sd-verre-jardin-1613.avif"
+  },
+  "ratio": [
+   1613,
+   1075
+  ]
+ },
+ "sd-ronde-cheminee": {
+  "id": "sd-ronde-cheminee",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit Elica",
+  "alt": "Table ronde Sedit devant une cheminée, grande baie sur la forêt",
+  "source": "sd-ronde-cheminee.jpg",
+  "w": 1440,
+  "h": 780,
+  "files": {
+   "600": "sd-ronde-cheminee-600.webp",
+   "900": "sd-ronde-cheminee-900.webp",
+   "1400": "sd-ronde-cheminee-1400.webp",
+   "1440": "sd-ronde-cheminee-1440.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-ronde-cheminee-600.avif",
+   "900": "sd-ronde-cheminee-900.avif",
+   "1400": "sd-ronde-cheminee-1400.avif",
+   "1440": "sd-ronde-cheminee-1440.avif"
+  },
+  "ratio": [
+   1440,
+   780
+  ]
+ },
+ "sd-fauteuil-table": {
+  "id": "sd-fauteuil-table",
+  "use": [
+   "tables-sedit"
+  ],
+  "credit": "Sedit",
+  "alt": "Petit fauteuil de table Sedit en tissu beige, pieds fins en métal sombre",
+  "source": "sd-fauteuil-table.jpg",
+  "w": 1920,
+  "h": 1280,
+  "files": {
+   "600": "sd-fauteuil-table-600.webp",
+   "900": "sd-fauteuil-table-900.webp",
+   "1400": "sd-fauteuil-table-1400.webp",
+   "1920": "sd-fauteuil-table-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "sd-fauteuil-table-600.avif",
+   "900": "sd-fauteuil-table-900.avif",
+   "1400": "sd-fauteuil-table-1400.avif",
+   "1920": "sd-fauteuil-table-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1280
+  ]
+ },
+ "mb-table-sculptee": {
+  "id": "mb-table-sculptee",
+  "use": [
+   "tables-chaises"
+  ],
+  "credit": "Mobliberica Plec",
+  "alt": "Grande table Mobliberica au piètement sculpté, entourée de fauteuils clairs, devant un mur végétal brun",
+  "source": "mb-table-sculptee.jpg",
+  "w": 2000,
+  "h": 1000,
+  "files": {
+   "600": "mb-table-sculptee-600.webp",
+   "900": "mb-table-sculptee-900.webp",
+   "1400": "mb-table-sculptee-1400.webp",
+   "2000": "mb-table-sculptee-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "mb-table-sculptee-600.avif",
+   "900": "mb-table-sculptee-900.avif",
+   "1400": "mb-table-sculptee-1400.avif",
+   "2000": "mb-table-sculptee-2000.avif"
+  },
+  "ratio": [
+   2000,
+   1000
+  ]
+ },
+ "cs-table-ronde": {
+  "id": "cs-table-ronde",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Sedit",
+  "alt": "Table ronde Sedit au plateau sombre, deux chaises, devant une cheminée",
+  "source": "cs-table-ronde.jpg",
+  "w": 1613,
+  "h": 1075,
+  "files": {
+   "600": "cs-table-ronde-600.webp",
+   "900": "cs-table-ronde-900.webp",
+   "1400": "cs-table-ronde-1400.webp",
+   "1613": "cs-table-ronde-1613.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-table-ronde-600.avif",
+   "900": "cs-table-ronde-900.avif",
+   "1400": "cs-table-ronde-1400.avif",
+   "1613": "cs-table-ronde-1613.avif"
+  },
+  "ratio": [
+   1613,
+   1075
+  ],
+  "og": "cs-table-ronde-og.jpg"
+ },
+ "cs-meuble-tv": {
+  "id": "cs-meuble-tv",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Tomasella",
+  "alt": "Meuble TV bas Tomasella vert-gris sous un écran, étagère murale et fauteuil",
+  "source": "cs-meuble-tv.webp",
+  "w": 1920,
+  "h": 1165,
+  "files": {
+   "600": "cs-meuble-tv-600.webp",
+   "900": "cs-meuble-tv-900.webp",
+   "1400": "cs-meuble-tv-1400.webp",
+   "1920": "cs-meuble-tv-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-meuble-tv-600.avif",
+   "900": "cs-meuble-tv-900.avif",
+   "1400": "cs-meuble-tv-1400.avif",
+   "1920": "cs-meuble-tv-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1165
+  ],
+  "og": "cs-meuble-tv-og.jpg"
+ },
+ "cs-dressing-ouvert": {
+  "id": "cs-dressing-ouvert",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Tomasella",
+  "alt": "Dressing Tomasella ouvert sur la chambre, penderies et étagères visibles",
+  "source": "cs-dressing-ouvert.jpg",
+  "w": 1920,
+  "h": 998,
+  "files": {
+   "600": "cs-dressing-ouvert-600.webp",
+   "900": "cs-dressing-ouvert-900.webp",
+   "1400": "cs-dressing-ouvert-1400.webp",
+   "1920": "cs-dressing-ouvert-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-dressing-ouvert-600.avif",
+   "900": "cs-dressing-ouvert-900.avif",
+   "1400": "cs-dressing-ouvert-1400.avif",
+   "1920": "cs-dressing-ouvert-1920.avif"
+  },
+  "ratio": [
+   1920,
+   998
+  ],
+  "og": "cs-dressing-ouvert-og.jpg"
+ },
+ "cs-canape-angle": {
+  "id": "cs-canape-angle",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Max Divani Zebra",
+  "alt": "Canapé Max Divani Zebra en tissu gris, têtière relevée, vu de face",
+  "source": "cs-canape-angle.jpg",
+  "w": 2600,
+  "h": 1733,
+  "files": {
+   "600": "cs-canape-angle-600.webp",
+   "900": "cs-canape-angle-900.webp",
+   "1400": "cs-canape-angle-1400.webp",
+   "2000": "cs-canape-angle-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-canape-angle-600.avif",
+   "900": "cs-canape-angle-900.avif",
+   "1400": "cs-canape-angle-1400.avif",
+   "2000": "cs-canape-angle-2000.avif"
+  },
+  "ratio": [
+   2600,
+   1733
+  ],
+  "og": "cs-canape-angle-og.jpg"
+ },
+ "cs-cuisine-ilot": {
+  "id": "cs-cuisine-ilot",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Stosa Beverly",
+  "alt": "Cuisine Stosa Beverly : îlot prolongé d’une table ovale en bois, deux tabourets, baie sur le jardin",
+  "source": "cs-cuisine-ilot.jpg",
+  "w": 2500,
+  "h": 2500,
+  "files": {
+   "600": "cs-cuisine-ilot-600.webp",
+   "900": "cs-cuisine-ilot-900.webp",
+   "1400": "cs-cuisine-ilot-1400.webp",
+   "2000": "cs-cuisine-ilot-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-cuisine-ilot-600.avif",
+   "900": "cs-cuisine-ilot-900.avif",
+   "1400": "cs-cuisine-ilot-1400.avif",
+   "2000": "cs-cuisine-ilot-2000.avif"
+  },
+  "ratio": [
+   2500,
+   2500
+  ],
+  "og": "cs-cuisine-ilot-og.jpg"
+ },
+ "cs-sejour-plan": {
+  "id": "cs-sejour-plan",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Tomasella",
+  "alt": "Séjour Tomasella : meuble TV suspendu en bois et terracotta, table d’appoint ronde et tapis",
+  "source": "cs-sejour-plan.webp",
+  "w": 1920,
+  "h": 1164,
+  "files": {
+   "600": "cs-sejour-plan-600.webp",
+   "900": "cs-sejour-plan-900.webp",
+   "1400": "cs-sejour-plan-1400.webp",
+   "1920": "cs-sejour-plan-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-sejour-plan-600.avif",
+   "900": "cs-sejour-plan-900.avif",
+   "1400": "cs-sejour-plan-1400.avif",
+   "1920": "cs-sejour-plan-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1164
+  ],
+  "og": "cs-sejour-plan-og.jpg"
+ },
+ "cs-chaises-tissu": {
+  "id": "cs-chaises-tissu",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Mobliberica Gavi",
+  "alt": "Chaises Mobliberica en tissu clair et en tissu vert autour d’une table, devant un mur végétal",
+  "source": "cs-chaises-tissu.jpg",
+  "w": 1500,
+  "h": 1000,
+  "files": {
+   "600": "cs-chaises-tissu-600.webp",
+   "900": "cs-chaises-tissu-900.webp",
+   "1400": "cs-chaises-tissu-1400.webp",
+   "1500": "cs-chaises-tissu-1500.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-chaises-tissu-600.avif",
+   "900": "cs-chaises-tissu-900.avif",
+   "1400": "cs-chaises-tissu-1400.avif",
+   "1500": "cs-chaises-tissu-1500.avif"
+  },
+  "ratio": [
+   1500,
+   1000
+  ],
+  "og": "cs-chaises-tissu-og.jpg"
+ },
+ "cs-plateau-ceramique": {
+  "id": "cs-plateau-ceramique",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Mobliberica Mistral",
+  "alt": "Plateau de table Mobliberica en céramique claire, vu de près, piètement croisé sombre",
+  "source": "cs-plateau-ceramique.jpg",
+  "w": 2434,
+  "h": 2500,
+  "files": {
+   "600": "cs-plateau-ceramique-600.webp",
+   "900": "cs-plateau-ceramique-900.webp",
+   "1400": "cs-plateau-ceramique-1400.webp",
+   "2000": "cs-plateau-ceramique-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-plateau-ceramique-600.avif",
+   "900": "cs-plateau-ceramique-900.avif",
+   "1400": "cs-plateau-ceramique-1400.avif",
+   "2000": "cs-plateau-ceramique-2000.avif"
+  },
+  "ratio": [
+   2434,
+   2500
+  ],
+  "og": "cs-plateau-ceramique-og.jpg"
+ },
+ "cs-tissu-canape": {
+  "id": "cs-tissu-canape",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Max Divani Tata",
+  "alt": "Canapé Max Divani Tata en tissu brun doré, vu de près",
+  "source": "cs-tissu-canape.jpg",
+  "w": 2600,
+  "h": 1733,
+  "files": {
+   "600": "cs-tissu-canape-600.webp",
+   "900": "cs-tissu-canape-900.webp",
+   "1400": "cs-tissu-canape-1400.webp",
+   "2000": "cs-tissu-canape-2000.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-tissu-canape-600.avif",
+   "900": "cs-tissu-canape-900.avif",
+   "1400": "cs-tissu-canape-1400.avif",
+   "2000": "cs-tissu-canape-2000.avif"
+  },
+  "ratio": [
+   2600,
+   1733
+  ],
+  "og": "cs-tissu-canape-og.jpg"
+ },
+ "cs-salon-angle": {
+  "id": "cs-salon-angle",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Tomasella",
+  "alt": "Séjour Tomasella : canapé d’angle clair, table basse et composition murale",
+  "source": "cs-salon-angle.jpg",
+  "w": 1920,
+  "h": 900,
+  "files": {
+   "600": "cs-salon-angle-600.webp",
+   "900": "cs-salon-angle-900.webp",
+   "1400": "cs-salon-angle-1400.webp",
+   "1920": "cs-salon-angle-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-salon-angle-600.avif",
+   "900": "cs-salon-angle-900.avif",
+   "1400": "cs-salon-angle-1400.avif",
+   "1920": "cs-salon-angle-1920.avif"
+  },
+  "ratio": [
+   1920,
+   900
+  ],
+  "og": "cs-salon-angle-og.jpg"
+ },
+ "cs-lit-chambre": {
+  "id": "cs-lit-chambre",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Tomasella Luna",
+  "alt": "Chambre Tomasella : lit rembourré Luna et chevets",
+  "source": "cs-lit-chambre.webp",
+  "w": 1920,
+  "h": 1165,
+  "files": {
+   "600": "cs-lit-chambre-600.webp",
+   "900": "cs-lit-chambre-900.webp",
+   "1400": "cs-lit-chambre-1400.webp",
+   "1920": "cs-lit-chambre-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-lit-chambre-600.avif",
+   "900": "cs-lit-chambre-900.avif",
+   "1400": "cs-lit-chambre-1400.avif",
+   "1920": "cs-lit-chambre-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1165
+  ],
+  "og": "cs-lit-chambre-og.jpg"
+ },
+ "cs-table-basse": {
+  "id": "cs-table-basse",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Mobliberica Lucia",
+  "alt": "Table basse carrée Mobliberica au plateau clair, posée sur un tapis devant un canapé",
+  "source": "cs-table-basse.jpg",
+  "w": 1500,
+  "h": 1000,
+  "files": {
+   "600": "cs-table-basse-600.webp",
+   "900": "cs-table-basse-900.webp",
+   "1400": "cs-table-basse-1400.webp",
+   "1500": "cs-table-basse-1500.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-table-basse-600.avif",
+   "900": "cs-table-basse-900.avif",
+   "1400": "cs-table-basse-1400.avif",
+   "1500": "cs-table-basse-1500.avif"
+  },
+  "ratio": [
+   1500,
+   1000
+  ],
+  "og": "cs-table-basse-og.jpg"
+ },
+ "cs-maison-ouverte": {
+  "id": "cs-maison-ouverte",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Tomasella",
+  "alt": "Grande pièce ouverte Tomasella : salon, table de repas et rangements devant le jardin",
+  "source": "cs-maison-ouverte.webp",
+  "w": 1920,
+  "h": 912,
+  "files": {
+   "600": "cs-maison-ouverte-600.webp",
+   "900": "cs-maison-ouverte-900.webp",
+   "1400": "cs-maison-ouverte-1400.webp",
+   "1920": "cs-maison-ouverte-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-maison-ouverte-600.avif",
+   "900": "cs-maison-ouverte-900.avif",
+   "1400": "cs-maison-ouverte-1400.avif",
+   "1920": "cs-maison-ouverte-1920.avif"
+  },
+  "ratio": [
+   1920,
+   912
+  ],
+  "og": "cs-maison-ouverte-og.jpg"
+ },
+ "cs-coin-lecture": {
+  "id": "cs-coin-lecture",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Tomasella",
+  "alt": "Fauteuil bleu et lampe de lecture près d’une baie vitrée, à côté d’un meuble TV Tomasella",
+  "source": "cs-coin-lecture.webp",
+  "w": 1920,
+  "h": 978,
+  "files": {
+   "600": "cs-coin-lecture-600.webp",
+   "900": "cs-coin-lecture-900.webp",
+   "1400": "cs-coin-lecture-1400.webp",
+   "1920": "cs-coin-lecture-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-coin-lecture-600.avif",
+   "900": "cs-coin-lecture-900.avif",
+   "1400": "cs-coin-lecture-1400.avif",
+   "1920": "cs-coin-lecture-1920.avif"
+  },
+  "ratio": [
+   1920,
+   978
+  ],
+  "og": "cs-coin-lecture-og.jpg"
+ },
+ "cs-piece-deux-usages": {
+  "id": "cs-piece-deux-usages",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Tomasella",
+  "alt": "Pièce Tomasella à plusieurs usages : bibliothèque, table et rangements devant une baie vitrée",
+  "source": "cs-piece-deux-usages.webp",
+  "w": 1920,
+  "h": 1166,
+  "files": {
+   "600": "cs-piece-deux-usages-600.webp",
+   "900": "cs-piece-deux-usages-900.webp",
+   "1400": "cs-piece-deux-usages-1400.webp",
+   "1920": "cs-piece-deux-usages-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cs-piece-deux-usages-600.avif",
+   "900": "cs-piece-deux-usages-900.avif",
+   "1400": "cs-piece-deux-usages-1400.avif",
+   "1920": "cs-piece-deux-usages-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1166
+  ],
+  "og": "cs-piece-deux-usages-og.jpg"
+ },
+ "dd-canape-lit-ferme": {
+  "id": "dd-canape-lit-ferme",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Diva Divani",
+  "alt": "Canapé-lit Diva Divani en cuir blanc, fermé, vu de face : deux places, têtières relevées, pieds fins en métal noir",
+  "source": "dd-canape-lit-ferme.jpg",
+  "w": 1024,
+  "h": 683,
+  "files": {
+   "600": "dd-canape-lit-ferme-600.webp",
+   "900": "dd-canape-lit-ferme-900.webp",
+   "1024": "dd-canape-lit-ferme-1024.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "dd-canape-lit-ferme-600.avif",
+   "900": "dd-canape-lit-ferme-900.avif",
+   "1024": "dd-canape-lit-ferme-1024.avif"
+  },
+  "ratio": [
+   1024,
+   683
+  ],
+  "og": "dd-canape-lit-ferme-og.jpg"
  }
 }

@@ -4,9 +4,7 @@
 
 Adresse de la page : https://fony.be/chambre
 
-(Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
-
-(Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
+(Photo : Chambre Tomasella : lit Cocoon à tête arrondie devant un mur de panneaux clairs)
 
 1. [Accueil](https://fony.be/)
 2. Chambre
@@ -15,13 +13,88 @@ Lits, chevets, armoires, dressings
 
 # Chambre
 
-Le lit, les chevets et les rangements, dans des finitions qui s’accordent. Nous composons la chambre avec vous, selon vos murs et ce que vous rangez.
+La pièce où la journée se termine, et où la suivante commence.
 
 [Mon projet chambre](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Finitions coordonnées
 - Projection 3D de votre projet
 - Première visite et conseil offerts
+
+(Photo : Chambre Tomasella : lit Ophelia en bois devant une boiserie, baie ouverte sur les arbres)
+
+Le soir
+
+## Tout se pose.
+
+Photo Tomasella.
+
+(Photo : Armoire Tomasella Denver à portes battantes dans une chambre aux murs verts)
+
+Le matin
+
+## Tout est à sa place.
+
+[Voir les rangements](https://fony.be/rangements)
+
+Photo Tomasella.
+
+(Photo : Dressing Tomasella Doxa derrière une paroi vitrée, à côté du lit)
+
+Derrière la paroi
+
+## Un dressing.
+
+[Voir le Catalogue](https://fony.be/catalogue)
+
+Photo Tomasella.
+
+Ambiances
+
+## Chacun sa chambre.
+
+- (Photo : Chambre Tomasella avec vue : lit Bravo Plus et commode en bois sombre)
+
+  Face à la vue
+- (Photo : Chambre Tomasella : lit Anubis, tête de lit verte sur boiserie éclairée)
+
+  Bois et vert profond
+- (Photo : Lit Tomasella Yuki de près : tête de lit matelassée et chevet suspendu éclairé)
+
+  Le chevet suspendu
+- (Photo : Dressing Tomasella ouvert, vêtements rangés par niveaux)
+
+  Tout sous les yeux
+
+## Parlons de votre chambre.
+
+Apportez une photo des meubles que vous gardez et les dimensions du mur à aménager. Parking facile d’accès, avec ou sans rendez-vous.
+
+[Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Adresse
+:   [Route de Charleroi 160/1
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Lundi
+:   13h30 – 18h30
+
+Mardi au samedi
+:   10h30 – 18h30
+
+Dimanche
+:   Fermé
+
+Téléphone
+:   [064 46 07 72](tel:+3264460772)
+
+Livraison
+:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
+
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.
+
+Données techniques · Lits, armoires et dressings
 
 Explorer la chambre
 
@@ -67,6 +140,8 @@ Une armoire Tomasella, un boxspring belge, des chevets assortis : nous composon
 
 - [Voir la literie](https://fony.be/literie)
 
+Les fabricants de la chambre
+
 Les fabricants
 
 ## Trois fabricants pour votre chambre.
@@ -84,6 +159,8 @@ Tomasella pour composer la chambre entière. Staud et GBO by Bauwens se commande
 - ### GBO by Bauwens
 
   Des chambres d’un fabricant belge.
+
+Du mur au projet : notre façon de faire
 
 ## Du mur au projet.
 
@@ -119,30 +196,12 @@ Vos mesures et une photo suffisent pour commencer. Si vous le souhaitez, nous ve
 
 Sur la page [Literie](https://fony.be/literie) : boxsprings, matelas et sommiers s’essaient allongé au magasin.
 
-## Parlons de votre chambre.
+Conseils
 
-Apportez une photo des meubles que vous gardez et les dimensions du mur à aménager. Parking facile d’accès, avec ou sans rendez-vous.
+## Pour aller plus loin.
 
-[Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+- ### Quelle profondeur pour un dressing ?
 
-Adresse
-:   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+  Les repères à prendre chez vous, avant de venir.
 
-Lundi
-:   13h30 – 18h30
-
-Mardi au samedi
-:   10h30 – 18h30
-
-Dimanche
-:   Fermé
-
-Téléphone
-:   [064 46 07 72](tel:+3264460772)
-
-Livraison
-:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
-
-Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.
+  [Lire le guide](https://fony.be/conseils-profondeur-dressing)

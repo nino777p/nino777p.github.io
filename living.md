@@ -4,9 +4,7 @@
 
 Adresse de la page : https://fony.be/living
 
-(Photo : Séjour Tomasella : canapé en tissu clair, bibliothèque basse et table, lumière de fin de journée)
-
-(Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+(Photo : Séjour Tomasella : meuble TV et boiseries autour de deux canapés clairs)
 
 1. [Accueil](https://fony.be/)
 2. Séjour
@@ -15,13 +13,98 @@ Le living, à la mesure de votre mur
 
 # Séjour : meubles TV, bibliothèques et buffets.
 
-Un écran, des livres, de la vaisselle, des objets à exposer : les systèmes Tomasella se composent module par module selon votre mur, vos rangements et votre intérieur.
+Le mur du séjour, composé à votre mesure.
 
 [Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Composé module par module
 - Projection 3D de votre projet
 - Première visite et conseil offerts
+
+(Photo : Séjour Tomasella : écran posé sur une boiserie sombre, étagères éclairées)
+
+Le soir
+
+## L’écran s’efface.
+
+Photo Tomasella.
+
+(Photo : Séjour ouvert Tomasella : bibliothèque Andromeda entre salon et salle à manger)
+
+Les livres
+
+## Ils ont leur mur.
+
+[Voir le Catalogue](https://fony.be/catalogue)
+
+Photo Tomasella.
+
+(Photo : Mur en bois Tomasella qui intègre l’écran et cache un bureau)
+
+Derrière les portes
+
+## Un bureau.
+
+[Voir le sur-mesure](https://fony.be/sur-mesure)
+
+Photo Tomasella.
+
+Ambiances
+
+## Chacun son séjour.
+
+- (Photo : Meuble TV Tomasella en bois sombre et laque claire)
+
+  Bois sombre, laque claire
+- (Photo : Grand séjour Tomasella : table, salon et boiseries dans la même pièce)
+
+  La pièce entière
+- (Photo : Bibliothèque Tomasella à vitrines derrière une table de repas)
+
+  Derrière la table
+- (Photo : Séjour Tomasella : armoires en angle autour de l’écran, canapé vert)
+
+  Dans l’angle
+
+## Dans nos réalisations
+
+- Séjour
+
+  ### [Goliath · Le fil d’un séjour lumineux](https://fony.be/realisation-sejour-goliath)
+
+  Une table Goliath d’Akante, des meubles Tomasella, puis une console. Le récit d’un séjour aménagé en deux temps avec FONY.
+
+  Lire le récit →
+
+## Composons votre séjour.
+
+Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module, et nous vous le montrons en projection 3D. Si vous préférez, nous venons prendre les mesures chez vous.
+
+[Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
+[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Adresse
+:   [Route de Charleroi 160/1
+    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+
+Lundi
+:   13h30 – 18h30
+
+Mardi au samedi
+:   10h30 – 18h30
+
+Dimanche
+:   Fermé
+
+Téléphone
+:   [064 46 07 72](tel:+3264460772)
+
+Livraison
+:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
+
+Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.
+
+Données techniques · Meuble TV, bibliothèque, rangements, buffet
 
 Explorer le séjour
 
@@ -65,6 +148,8 @@ Retrouvez les bois et les laques du meuble TV dans votre buffet. Nous vous aidon
 
 - [Voir les buffets et dressoirs](https://fony.be/tables-chaises#buffets)
 
+Du canapé au séjour complet : notre façon de faire
+
 ## Du canapé au séjour complet.
 
 - (Photo : Échantillon Tomasella : chêne cannelé cognac)
@@ -78,6 +163,8 @@ Retrouvez les bois et les laques du meuble TV dans votre buffet. Nous vous aidon
 
   Meuble TV, bibliothèque, buffet et table.
 
+Matières et finitions
+
 (Photo : Échantillon Tomasella : noyer ambré)
 
 Matières et finitions
@@ -87,6 +174,8 @@ Matières et finitions
 Comparez les échantillons avec une photo de votre pièce. Les buffets existent dans les mêmes finitions que le meuble TV.
 
 [Voir les matières](https://fony.be/tendances)
+
+Autour du séjour
 
 Autour du séjour
 
@@ -116,40 +205,12 @@ Le séjour fait partie de l’[espace de vie](https://fony.be/espace-de-vie), av
 
   Voir le sur mesure
 
-## Dans nos réalisations
+Conseils
 
-- Séjour
+## Pour aller plus loin.
 
-  ### [Goliath · Le fil d’un séjour lumineux](https://fony.be/realisation-sejour-goliath)
+- ### À quelle hauteur placer la télévision ?
 
-  Une table Goliath d’Akante, des meubles Tomasella, puis une console. Le récit d’un séjour aménagé en deux temps avec FONY.
+  Les repères à prendre chez vous, avant de venir.
 
-  Lire le récit →
-
-## Composons votre séjour.
-
-Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module, et nous vous le montrons en projection 3D. Si vous préférez, nous venons prendre les mesures chez vous.
-
-[Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
-[Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
-
-Adresse
-:   [Route de Charleroi 160/1
-    7134 Leval-Trahegnies](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
-
-Lundi
-:   13h30 – 18h30
-
-Mardi au samedi
-:   10h30 – 18h30
-
-Dimanche
-:   Fermé
-
-Téléphone
-:   [064 46 07 72](tel:+3264460772)
-
-Livraison
-:   Par nos soins, dans le Hainaut (Binche, La Louvière, Mons, Charleroi…) et la province de Namur
-
-Nous livrons aussi dans le nord de la France. Ailleurs, dont Bruxelles : sur demande.
+  [Lire le guide](https://fony.be/conseils-hauteur-meuble-tv)

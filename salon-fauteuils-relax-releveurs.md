@@ -125,9 +125,9 @@ Voir aussi
 
 ## Chercher autrement.
 
-- [Canapés relax électriques : 7 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
-- [Canapés d’angle : 5 modèles Voir](https://fony.be/salon-canapes-angle)
-- [Canapés en cuir italiens : 9 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
+- [Canapés relax électriques : 10 modèles Voir](https://fony.be/salon-canapes-relax-electriques)
+- [Canapés d’angle : 8 modèles Voir](https://fony.be/salon-canapes-angle)
+- [Canapés en cuir italiens : 12 modèles Voir](https://fony.be/salon-canapes-cuir-italiens)
 - [Nicoletti : 2 modèles Voir](https://fony.be/salon-nicoletti)
 
 ## Venez essayer un fauteuil relax.
