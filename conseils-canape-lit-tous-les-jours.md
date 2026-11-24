@@ -16,11 +16,11 @@ Le soir, imaginez que vous êtes déjà en pyjama. Où posez-vous la table basse
 
 [Mon projet](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
-(Photo : Canapé-lit Diva Divani en cuir blanc, fermé, vu de face : deux places, têtières relevées, pieds fins en métal noir)
+(Photo : Canapé-lit Diva Divani Rocky en cuir blanc, fermé, vu de face : deux places, têtières relevées, pieds fins en métal noir)
 
 ## Fermé, c’est un canapé.
 
-Photo Diva Divani : un canapé-lit, fermé.
+Photo Diva Divani : le canapé-lit Rocky, fermé.
 
 Au magasin
 
@@ -73,6 +73,19 @@ Diva Divani
 - ### Le revêtement au choix
 
   Tissu, microfibre ou cuir : il se choisit avec nous, échantillons en main.
+
+Diva Divani
+
+## Deux canapés-lits, fermés.
+
+- (Photo : Canapé-lit Diva Divani Long Beach en tissu beige, fermé, aux accoudoirs arrondis, mis en ambiance dans un salon clair)
+
+  Long Beach, en tissu
+- (Photo : Canapé-lit Diva Divani Rocky en cuir vert d’eau, fermé, têtières relevées, mis en ambiance dans un salon)
+
+  Rocky, en cuir
+
+Mises en ambiance Diva Divani.
 
 Vos questions
 

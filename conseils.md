@@ -129,7 +129,7 @@ Nos guides
   ### [J’ai envie de changement chez moi](https://fony.be/conseils-amenager-maison-selon-son-projet)
 
   Lire le guide →
-- (Photo : Canapé-lit Diva Divani en cuir blanc, fermé, vu de face : deux places, têtières relevées, pieds fins en métal noir)
+- (Photo : Canapé-lit Diva Divani Rocky en cuir blanc, fermé, vu de face : deux places, têtières relevées, pieds fins en métal noir)
 
   Literie
 

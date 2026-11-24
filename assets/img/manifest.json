@@ -7947,8 +7947,8 @@
   "use": [
    "conseils"
   ],
-  "credit": "Diva Divani",
-  "alt": "Canapé-lit Diva Divani en cuir blanc, fermé, vu de face : deux places, têtières relevées, pieds fins en métal noir",
+  "credit": "Diva Divani Rocky",
+  "alt": "Canapé-lit Diva Divani Rocky en cuir blanc, fermé, vu de face : deux places, têtières relevées, pieds fins en métal noir",
   "source": "dd-canape-lit-ferme.jpg",
   "w": 1024,
   "h": 683,
@@ -7968,5 +7968,61 @@
    683
   ],
   "og": "dd-canape-lit-ferme-og.jpg"
+ },
+ "dd-long-beach-ambiance": {
+  "id": "dd-long-beach-ambiance",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Diva Divani Long Beach",
+  "alt": "Canapé-lit Diva Divani Long Beach en tissu beige, fermé, aux accoudoirs arrondis, mis en ambiance dans un salon clair",
+  "source": "dd-long-beach-ambiance.png",
+  "w": 1536,
+  "h": 1024,
+  "files": {
+   "600": "dd-long-beach-ambiance-600.webp",
+   "900": "dd-long-beach-ambiance-900.webp",
+   "1400": "dd-long-beach-ambiance-1400.webp",
+   "1536": "dd-long-beach-ambiance-1536.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "dd-long-beach-ambiance-600.avif",
+   "900": "dd-long-beach-ambiance-900.avif",
+   "1400": "dd-long-beach-ambiance-1400.avif",
+   "1536": "dd-long-beach-ambiance-1536.avif"
+  },
+  "ratio": [
+   1536,
+   1024
+  ]
+ },
+ "dd-rocky-ambiance": {
+  "id": "dd-rocky-ambiance",
+  "use": [
+   "conseils"
+  ],
+  "credit": "Diva Divani Rocky",
+  "alt": "Canapé-lit Diva Divani Rocky en cuir vert d’eau, fermé, têtières relevées, mis en ambiance dans un salon",
+  "source": "dd-rocky-ambiance.png",
+  "w": 1672,
+  "h": 941,
+  "files": {
+   "600": "dd-rocky-ambiance-600.webp",
+   "900": "dd-rocky-ambiance-900.webp",
+   "1400": "dd-rocky-ambiance-1400.webp",
+   "1672": "dd-rocky-ambiance-1672.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "dd-rocky-ambiance-600.avif",
+   "900": "dd-rocky-ambiance-900.avif",
+   "1400": "dd-rocky-ambiance-1400.avif",
+   "1672": "dd-rocky-ambiance-1672.avif"
+  },
+  "ratio": [
+   1672,
+   941
+  ]
  }
 }
