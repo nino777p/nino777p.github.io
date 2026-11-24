@@ -22,6 +22,22 @@ On choisit la largeur du lit pour bien dormir, puis on vérifie que la chambre r
 
 Photo Tomasella.
 
+Les tailles courantes
+
+## 140, 160 ou 180 cm : ce que ça change.
+
+Les largeurs que l’on rencontre le plus en Belgique, pour une longueur de 200 cm. Ce sont des repères : chaque fabricant a sa gamme.
+
+- ### 140 × 200 cm
+
+  70 cm de largeur chacun à deux. C’est la largeur d’un lit d’enfant : confortable seul, juste à deux.
+- ### 160 × 200 cm
+
+  80 cm chacun. Le choix le plus courant à deux quand la chambre le permet.
+- ### 180 × 200 cm
+
+  90 cm chacun, soit la largeur d’un lit d’une personne. Chacun dort comme s’il était seul ; il faut 40 cm de mur en plus qu’un 140.
+
 L’essai à la maison
 
 ## Trois vérifications.
@@ -58,7 +74,7 @@ Les largeurs
 
   Comptez leur largeur dans le total. Un chevet suspendu ou étroit libère de la place quand le mur est juste.
 
-Les tailles disponibles dépendent de chaque fabricant et de chaque modèle : nous vous les donnons au magasin pour le lit qui vous plaît.
+D’autres tailles existent selon les fabricants, en largeur comme en longueur : demandez-les pour le lit qui vous plaît.
 
 Vos questions
 

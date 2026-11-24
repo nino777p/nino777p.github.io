@@ -4,9 +4,7 @@
 
 Adresse de la page : https://fony.be/rangements
 
-(Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
-
-(Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+(Photo : Mur d’armoires Tomasella clair avec une niche ouverte pour les manteaux)
 
 1. [Accueil](https://fony.be/)
 2. Rangements et aménagement
@@ -42,6 +40,51 @@ Dans cet univers
 
   Voir Tomasella →
 
+(Photo : Rangements Tomasella intégrés sous un escalier, dans un séjour clair)
+
+Sous l’escalier
+
+## La place perdue ne l’est plus.
+
+Photo Tomasella.
+
+(Photo : Entrée Tomasella : armoires vertes, niche éclairée et portemanteau)
+
+Dans l’entrée
+
+## Tout se pose en arrivant.
+
+[Voir le sur-mesure](https://fony.be/sur-mesure)
+
+Photo Tomasella.
+
+(Photo : Mur d’armoires Tomasella qui cache une buanderie)
+
+Derrière les portes
+
+## Le mur garde tout pour lui.
+
+Photo Tomasella.
+
+À l’intérieur
+
+## Chaque chose a sa place.
+
+- (Photo : Portes et tiroirs Tomasella logés sous les marches d’un escalier)
+
+  Sous les marches
+- (Photo : Vestiaire d’entrée Tomasella avec miroir rond et penderie ouverte)
+
+  Le vestiaire
+- (Photo : Armoire Tomasella ouverte sur une machine à laver et des étagères)
+
+  Le linge
+- (Photo : Armoire Tomasella ouverte : penderie, miroir et étagères)
+
+  La penderie
+
+Données pratiques · Modules ou sur mesure
+
 Par où commencer
 
 ## Modules ou sur mesure : comment choisir.
@@ -60,6 +103,8 @@ Un mur à occuper, une garde-robe à organiser, un recoin où la place se perd�
 - ### Dans la chambre
 
   Armoires et garde-robes s’accordent au lit et aux chevets, dans des finitions coordonnées selon les collections. Côté [chambre](https://fony.be/chambre), vous trouverez aussi les armoires à portes coulissantes Sinfonie, de Staud, dont la largeur, la hauteur et la profondeur se choisissent.
+
+De la première visite à l’installation
 
 Votre projet
 

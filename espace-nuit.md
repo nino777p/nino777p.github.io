@@ -4,9 +4,7 @@
 
 Adresse de la page : https://fony.be/espace-nuit
 
-(Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
-
-(Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+(Photo : Chambre Tomasella ouverte sur le jardin, lit bas et chevets)
 
 1. [Accueil](https://fony.be/)
 2. Espace nuit
@@ -42,6 +40,53 @@ Dans cet univers
 
   Voir la chambre →
 
+(Photo : Chambre Tomasella aux murs boisés, lit clair et commode)
+
+Au calme
+
+## Le bois réchauffe la chambre.
+
+Photo Tomasella.
+
+(Photo : Chambre Tomasella : lit en bois et dressing ouvert derrière)
+
+Derrière le lit
+
+## Tout est rangé.
+
+[Voir la chambre](https://fony.be/chambre)
+
+Photo Tomasella.
+
+(Photo : Chambre Tomasella : armoire à portes coulissantes et fenêtre en arche)
+
+Le soir
+
+## Les portes glissent, la chambre se ferme.
+
+[Voir les rangements](https://fony.be/rangements)
+
+Photo Tomasella.
+
+Autour du lit
+
+## Ce qui fait la chambre.
+
+- (Photo : Tête de lit Tomasella en bois et cuir, chevet assorti)
+
+  La tête de lit
+- (Photo : Deux commodes Tomasella sous un miroir rond)
+
+  Les commodes
+- (Photo : Dressing Tomasella ouvert, vêtements suspendus et tiroirs)
+
+  Le dressing
+- (Photo : Chambre Tomasella : lit et dressing vitré en bois)
+
+  Derrière la vitre
+
+D’abord le couchage, ensuite les meubles
+
 Par où commencer
 
 ## D’abord le couchage, ensuite les meubles.
@@ -60,6 +105,8 @@ Vous changez de matelas, de lit ou de chambre entière ? Le matelas et le boxs
 - ### Vous meublez la chambre
 
   Lits, chevets, armoires et dressings existent dans des finitions coordonnées, selon les collections. Notre rubrique [Chambre](https://fony.be/chambre) présente ses trois fabricants, dont [Tomasella](https://fony.be/tomasella), et les armoires à portes battantes ou coulissantes. Quand la pièce a une sous-pente ou un recoin, le [sur mesure](https://fony.be/sur-mesure) prend le relais.
+
+La literie et la chambre, au même endroit
 
 Ce que vous trouverez
 

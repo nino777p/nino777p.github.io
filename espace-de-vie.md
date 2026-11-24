@@ -4,9 +4,7 @@
 
 Adresse de la page : https://fony.be/espace-de-vie
 
-(Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
-
-(Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
+(Photo : Grande pièce de vie Tomasella : table de repas, salon et boiseries)
 
 1. [Accueil](https://fony.be/)
 2. Espace de vie
@@ -56,6 +54,53 @@ Dans cet univers
 
   Voir la cuisine →
 
+(Photo : Pièce ouverte Tomasella : cuisine, table et salon en enfilade)
+
+Une seule pièce
+
+## On mange, on se pose, on se parle.
+
+Photo Tomasella.
+
+(Photo : Séjour Tomasella : table, meuble TV et canapé dans la même pièce)
+
+Le soir
+
+## Tout le monde au même endroit.
+
+[Voir les salons](https://fony.be/salon)
+
+Photo Tomasella.
+
+(Photo : Séjour Tomasella sous des arches blanches, meuble TV bas et bibliothèque)
+
+Le dimanche
+
+## La pièce respire.
+
+[Voir le séjour](https://fony.be/living)
+
+Photo Tomasella.
+
+Dans la pièce
+
+## Chaque coin a son moment.
+
+- (Photo : Table de repas Tomasella devant des buffets bleu nuit)
+
+  À table
+- (Photo : Table au plateau marbré vue de dessus, chaises brunes)
+
+  Le plateau
+- (Photo : Canapé gris et meuble TV Tomasella en bois)
+
+  Devant l’écran
+- (Photo : Séjour Tomasella avec cheminée suspendue et bibliothèque)
+
+  Près du feu
+
+Par où commencer
+
 Par où commencer
 
 ## Ce qui se décide en premier.
@@ -74,6 +119,8 @@ Vous meublez votre pièce de vie, en entier ou meuble après meuble ? Voici no
 - ### La cuisine
 
   Les cuisines Stosa, fabriquées en Italie, sont conçues avec vous à partir des mesures de votre pièce, puis livrées et installées. Les façades, les coloris et les plans de travail se choisissent au magasin, échantillons en main. La gamme et ses quatre familles sont présentées dans la rubrique [Cuisine](https://fony.be/cuisine) ; et parmi nos réalisations, [notre première cuisine Stosa, en vidéo](https://fony.be/realisation-premiere-cuisine-stosa).
+
+Un meuble à la fois, ou toute la pièce
 
 Accorder l’ensemble
 

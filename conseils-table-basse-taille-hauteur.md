@@ -22,6 +22,22 @@ Pour poser une tasse, vous tendez la main. Pour jouer aux cartes, vous vous penc
 
 Photo Mobliberica.
 
+Les repères
+
+## Trois mesures pour partir.
+
+Des repères d’usage, que l’essai du carton confirme ou corrige chez vous.
+
+- ### La hauteur
+
+  Au niveau de l’assise du canapé, ou quelques centimètres plus bas. La plupart des tables basses mesurent 40 à 45 cm de haut.
+- ### La distance
+
+  Environ 40 à 45 cm entre le bord du canapé et la table : assez pour passer les jambes, assez peu pour atteindre sa tasse.
+- ### La longueur
+
+  Environ les deux tiers de la longueur du canapé. Plus longue, elle bloque le passage ; plus courte, elle paraît perdue.
+
 L’essai à la maison
 
 ## Trois gestes.

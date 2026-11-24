@@ -22,6 +22,22 @@ La bonne hauteur se décide assis dans le canapé, pas debout devant le mur.
 
 Photo Tomasella.
 
+Le recul
+
+## Quelle taille d’écran pour votre distance ?
+
+Les professionnels de l’image (SMPTE) conseillent que l’écran occupe environ 30° du champ de vision. Cela revient à s’asseoir à environ 1,6 fois la diagonale. Ce sont des repères : la notice de votre téléviseur donne la distance conseillée.
+
+- ### Écran de 50 pouces (127 cm)
+
+  Environ 2 m entre vos yeux et l’écran.
+- ### Écran de 55 pouces (140 cm)
+
+  Environ 2,25 m.
+- ### Écran de 65 pouces (165 cm)
+
+  Environ 2,70 m. Plus près, l’image est plus enveloppante, comme au cinéma.
+
 Les repères
 
 ## Trois gestes avant de fixer quoi que ce soit.

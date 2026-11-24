@@ -4,9 +4,7 @@
 
 Adresse de la page : https://fony.be/sur-mesure
 
-(Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
-
-(Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+(Photo : Mur de rangements Tomasella avec vitrines, derrière une table de repas)
 
 1. [Accueil](https://fony.be/)
 2. Sur mesure
@@ -17,11 +15,54 @@ Dressing, sous-pente, bibliothèque
 
 Dressings, meubles TV et rangements adaptés à votre pièce : systèmes modulables Tomasella ou fabrication spécifique par notre atelier partenaire en Belgique.
 
-[Mon projet sur mesure](https://fony.be/magasin-contact?projet=sur-mesure#visite) [Voir ce que nous réalisons](https://fony.be/sur-mesure#realisations)
+[Mon projet sur mesure](https://fony.be/magasin-contact?projet=sur-mesure#visite) [Explorer les aménagements](https://fony.be/sur-mesure#realisations)
 
 - Nous venons chez vous
 - Première visite, mesures et devis offerts
 - Sans engagement
+
+(Photo : Armoires Tomasella en angle, avec niche bibliothèque)
+
+Dans l’angle
+
+## Le mur tourne, le meuble aussi.
+
+Photo Tomasella.
+
+(Photo : Lit encastré dans un pont d’armoires Tomasella en bois)
+
+Autour du lit
+
+## Le lit se loge dedans.
+
+Photo Tomasella.
+
+(Photo : Chambre Tomasella : mur d’armoires clair avec un bureau intégré)
+
+Dans la chambre
+
+## Un mur entier, sans rien perdre.
+
+[Voir les rangements](https://fony.be/rangements)
+
+Photo Tomasella.
+
+De près
+
+## Ce qui se dessine avec vous.
+
+- (Photo : Table de repas devant un mur Tomasella à vitrines sombres)
+
+  Les vitrines
+- (Photo : Vitrine Tomasella en verre fumé, objets éclairés)
+
+  Le verre fumé
+- (Photo : Étagères éclairées sur une boiserie Tomasella)
+
+  Les étagères éclairées
+- (Photo : Armoires Tomasella avec vitrine et coiffeuse intégrée)
+
+  La coiffeuse
 
 Ce que nous réalisons
 

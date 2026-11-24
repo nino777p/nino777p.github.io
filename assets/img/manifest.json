@@ -8024,5 +8024,905 @@
    1672,
    941
   ]
+ },
+ "tom-r-mur-penderie": {
+  "id": "tom-r-mur-penderie",
+  "use": [
+   "rangements"
+  ],
+  "credit": "Tomasella",
+  "alt": "Mur d’armoires Tomasella clair avec une niche ouverte pour les manteaux",
+  "source": "tom-r-mur-penderie.webp",
+  "w": 1920,
+  "h": 1259,
+  "files": {
+   "600": "tom-r-mur-penderie-600.webp",
+   "900": "tom-r-mur-penderie-900.webp",
+   "1400": "tom-r-mur-penderie-1400.webp",
+   "1920": "tom-r-mur-penderie-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-r-mur-penderie-600.avif",
+   "900": "tom-r-mur-penderie-900.avif",
+   "1400": "tom-r-mur-penderie-1400.avif",
+   "1920": "tom-r-mur-penderie-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1259
+  ],
+  "og": "tom-r-mur-penderie-og.jpg"
+ },
+ "tom-r-sous-escalier": {
+  "id": "tom-r-sous-escalier",
+  "use": [
+   "rangements"
+  ],
+  "credit": "Tomasella",
+  "alt": "Rangements Tomasella intégrés sous un escalier, dans un séjour clair",
+  "source": "tom-r-sous-escalier.webp",
+  "w": 1920,
+  "h": 1165,
+  "files": {
+   "600": "tom-r-sous-escalier-600.webp",
+   "900": "tom-r-sous-escalier-900.webp",
+   "1400": "tom-r-sous-escalier-1400.webp",
+   "1920": "tom-r-sous-escalier-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-r-sous-escalier-600.avif",
+   "900": "tom-r-sous-escalier-900.avif",
+   "1400": "tom-r-sous-escalier-1400.avif",
+   "1920": "tom-r-sous-escalier-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1165
+  ]
+ },
+ "tom-r-entree": {
+  "id": "tom-r-entree",
+  "use": [
+   "rangements"
+  ],
+  "credit": "Tomasella",
+  "alt": "Entrée Tomasella : armoires vertes, niche éclairée et portemanteau",
+  "source": "tom-r-entree.webp",
+  "w": 1920,
+  "h": 1166,
+  "files": {
+   "600": "tom-r-entree-600.webp",
+   "900": "tom-r-entree-900.webp",
+   "1400": "tom-r-entree-1400.webp",
+   "1920": "tom-r-entree-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-r-entree-600.avif",
+   "900": "tom-r-entree-900.avif",
+   "1400": "tom-r-entree-1400.avif",
+   "1920": "tom-r-entree-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1166
+  ]
+ },
+ "tom-r-buanderie": {
+  "id": "tom-r-buanderie",
+  "use": [
+   "rangements"
+  ],
+  "credit": "Tomasella",
+  "alt": "Mur d’armoires Tomasella qui cache une buanderie",
+  "source": "tom-r-buanderie.webp",
+  "w": 1920,
+  "h": 1165,
+  "files": {
+   "600": "tom-r-buanderie-600.webp",
+   "900": "tom-r-buanderie-900.webp",
+   "1400": "tom-r-buanderie-1400.webp",
+   "1920": "tom-r-buanderie-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-r-buanderie-600.avif",
+   "900": "tom-r-buanderie-900.avif",
+   "1400": "tom-r-buanderie-1400.avif",
+   "1920": "tom-r-buanderie-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1165
+  ]
+ },
+ "tom-r-escalier-tiroirs": {
+  "id": "tom-r-escalier-tiroirs",
+  "use": [
+   "rangements"
+  ],
+  "credit": "Tomasella",
+  "alt": "Portes et tiroirs Tomasella logés sous les marches d’un escalier",
+  "source": "tom-r-escalier-tiroirs.webp",
+  "w": 1590,
+  "h": 1920,
+  "files": {
+   "600": "tom-r-escalier-tiroirs-600.webp",
+   "900": "tom-r-escalier-tiroirs-900.webp",
+   "1400": "tom-r-escalier-tiroirs-1400.webp",
+   "1590": "tom-r-escalier-tiroirs-1590.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-r-escalier-tiroirs-600.avif",
+   "900": "tom-r-escalier-tiroirs-900.avif",
+   "1400": "tom-r-escalier-tiroirs-1400.avif",
+   "1590": "tom-r-escalier-tiroirs-1590.avif"
+  },
+  "ratio": [
+   1590,
+   1920
+  ]
+ },
+ "tom-r-vestiaire": {
+  "id": "tom-r-vestiaire",
+  "use": [
+   "rangements"
+  ],
+  "credit": "Tomasella",
+  "alt": "Vestiaire d’entrée Tomasella avec miroir rond et penderie ouverte",
+  "source": "tom-r-vestiaire.webp",
+  "w": 1583,
+  "h": 1920,
+  "files": {
+   "600": "tom-r-vestiaire-600.webp",
+   "900": "tom-r-vestiaire-900.webp",
+   "1400": "tom-r-vestiaire-1400.webp",
+   "1583": "tom-r-vestiaire-1583.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-r-vestiaire-600.avif",
+   "900": "tom-r-vestiaire-900.avif",
+   "1400": "tom-r-vestiaire-1400.avif",
+   "1583": "tom-r-vestiaire-1583.avif"
+  },
+  "ratio": [
+   1583,
+   1920
+  ]
+ },
+ "tom-r-buanderie-ouverte": {
+  "id": "tom-r-buanderie-ouverte",
+  "use": [
+   "rangements"
+  ],
+  "credit": "Tomasella",
+  "alt": "Armoire Tomasella ouverte sur une machine à laver et des étagères",
+  "source": "tom-r-buanderie-ouverte.webp",
+  "w": 1583,
+  "h": 1920,
+  "files": {
+   "600": "tom-r-buanderie-ouverte-600.webp",
+   "900": "tom-r-buanderie-ouverte-900.webp",
+   "1400": "tom-r-buanderie-ouverte-1400.webp",
+   "1583": "tom-r-buanderie-ouverte-1583.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-r-buanderie-ouverte-600.avif",
+   "900": "tom-r-buanderie-ouverte-900.avif",
+   "1400": "tom-r-buanderie-ouverte-1400.avif",
+   "1583": "tom-r-buanderie-ouverte-1583.avif"
+  },
+  "ratio": [
+   1583,
+   1920
+  ]
+ },
+ "tom-r-penderie-ouverte": {
+  "id": "tom-r-penderie-ouverte",
+  "use": [
+   "rangements"
+  ],
+  "credit": "Tomasella",
+  "alt": "Armoire Tomasella ouverte : penderie, miroir et étagères",
+  "source": "tom-r-penderie-ouverte.webp",
+  "w": 1592,
+  "h": 1920,
+  "files": {
+   "600": "tom-r-penderie-ouverte-600.webp",
+   "900": "tom-r-penderie-ouverte-900.webp",
+   "1400": "tom-r-penderie-ouverte-1400.webp",
+   "1592": "tom-r-penderie-ouverte-1592.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-r-penderie-ouverte-600.avif",
+   "900": "tom-r-penderie-ouverte-900.avif",
+   "1400": "tom-r-penderie-ouverte-1400.avif",
+   "1592": "tom-r-penderie-ouverte-1592.avif"
+  },
+  "ratio": [
+   1592,
+   1920
+  ]
+ },
+ "tom-s-vitrine-repas": {
+  "id": "tom-s-vitrine-repas",
+  "use": [
+   "sur-mesure"
+  ],
+  "credit": "Tomasella",
+  "alt": "Mur de rangements Tomasella avec vitrines, derrière une table de repas",
+  "source": "tom-s-vitrine-repas.webp",
+  "w": 1920,
+  "h": 1166,
+  "files": {
+   "600": "tom-s-vitrine-repas-600.webp",
+   "900": "tom-s-vitrine-repas-900.webp",
+   "1400": "tom-s-vitrine-repas-1400.webp",
+   "1920": "tom-s-vitrine-repas-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-s-vitrine-repas-600.avif",
+   "900": "tom-s-vitrine-repas-900.avif",
+   "1400": "tom-s-vitrine-repas-1400.avif",
+   "1920": "tom-s-vitrine-repas-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1166
+  ],
+  "og": "tom-s-vitrine-repas-og.jpg"
+ },
+ "tom-s-angle": {
+  "id": "tom-s-angle",
+  "use": [
+   "sur-mesure"
+  ],
+  "credit": "Tomasella",
+  "alt": "Armoires Tomasella en angle, avec niche bibliothèque",
+  "source": "tom-s-angle.webp",
+  "w": 1920,
+  "h": 1034,
+  "files": {
+   "600": "tom-s-angle-600.webp",
+   "900": "tom-s-angle-900.webp",
+   "1400": "tom-s-angle-1400.webp",
+   "1920": "tom-s-angle-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-s-angle-600.avif",
+   "900": "tom-s-angle-900.avif",
+   "1400": "tom-s-angle-1400.avif",
+   "1920": "tom-s-angle-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1034
+  ]
+ },
+ "tom-s-lit-pont": {
+  "id": "tom-s-lit-pont",
+  "use": [
+   "sur-mesure"
+  ],
+  "credit": "Tomasella",
+  "alt": "Lit encastré dans un pont d’armoires Tomasella en bois",
+  "source": "tom-s-lit-pont.webp",
+  "w": 1920,
+  "h": 1165,
+  "files": {
+   "600": "tom-s-lit-pont-600.webp",
+   "900": "tom-s-lit-pont-900.webp",
+   "1400": "tom-s-lit-pont-1400.webp",
+   "1920": "tom-s-lit-pont-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-s-lit-pont-600.avif",
+   "900": "tom-s-lit-pont-900.avif",
+   "1400": "tom-s-lit-pont-1400.avif",
+   "1920": "tom-s-lit-pont-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1165
+  ]
+ },
+ "tom-s-chambre-bureau": {
+  "id": "tom-s-chambre-bureau",
+  "use": [
+   "sur-mesure"
+  ],
+  "credit": "Tomasella",
+  "alt": "Chambre Tomasella : mur d’armoires clair avec un bureau intégré",
+  "source": "tom-s-chambre-bureau.webp",
+  "w": 1920,
+  "h": 1165,
+  "files": {
+   "600": "tom-s-chambre-bureau-600.webp",
+   "900": "tom-s-chambre-bureau-900.webp",
+   "1400": "tom-s-chambre-bureau-1400.webp",
+   "1920": "tom-s-chambre-bureau-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-s-chambre-bureau-600.avif",
+   "900": "tom-s-chambre-bureau-900.avif",
+   "1400": "tom-s-chambre-bureau-1400.avif",
+   "1920": "tom-s-chambre-bureau-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1165
+  ]
+ },
+ "tom-s-vitrine-detail": {
+  "id": "tom-s-vitrine-detail",
+  "use": [
+   "sur-mesure"
+  ],
+  "credit": "Tomasella",
+  "alt": "Table de repas devant un mur Tomasella à vitrines sombres",
+  "source": "tom-s-vitrine-detail.webp",
+  "w": 1920,
+  "h": 1350,
+  "files": {
+   "600": "tom-s-vitrine-detail-600.webp",
+   "900": "tom-s-vitrine-detail-900.webp",
+   "1400": "tom-s-vitrine-detail-1400.webp",
+   "1920": "tom-s-vitrine-detail-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-s-vitrine-detail-600.avif",
+   "900": "tom-s-vitrine-detail-900.avif",
+   "1400": "tom-s-vitrine-detail-1400.avif",
+   "1920": "tom-s-vitrine-detail-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1350
+  ]
+ },
+ "tom-s-vitrine-verre": {
+  "id": "tom-s-vitrine-verre",
+  "use": [
+   "sur-mesure"
+  ],
+  "credit": "Tomasella",
+  "alt": "Vitrine Tomasella en verre fumé, objets éclairés",
+  "source": "tom-s-vitrine-verre.webp",
+  "w": 1581,
+  "h": 1920,
+  "files": {
+   "600": "tom-s-vitrine-verre-600.webp",
+   "900": "tom-s-vitrine-verre-900.webp",
+   "1400": "tom-s-vitrine-verre-1400.webp",
+   "1581": "tom-s-vitrine-verre-1581.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-s-vitrine-verre-600.avif",
+   "900": "tom-s-vitrine-verre-900.avif",
+   "1400": "tom-s-vitrine-verre-1400.avif",
+   "1581": "tom-s-vitrine-verre-1581.avif"
+  },
+  "ratio": [
+   1581,
+   1920
+  ]
+ },
+ "tom-s-etageres-bois": {
+  "id": "tom-s-etageres-bois",
+  "use": [
+   "sur-mesure"
+  ],
+  "credit": "Tomasella",
+  "alt": "Étagères éclairées sur une boiserie Tomasella",
+  "source": "tom-s-etageres-bois.webp",
+  "w": 1590,
+  "h": 1920,
+  "files": {
+   "600": "tom-s-etageres-bois-600.webp",
+   "900": "tom-s-etageres-bois-900.webp",
+   "1400": "tom-s-etageres-bois-1400.webp",
+   "1590": "tom-s-etageres-bois-1590.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-s-etageres-bois-600.avif",
+   "900": "tom-s-etageres-bois-900.avif",
+   "1400": "tom-s-etageres-bois-1400.avif",
+   "1590": "tom-s-etageres-bois-1590.avif"
+  },
+  "ratio": [
+   1590,
+   1920
+  ]
+ },
+ "tom-s-coiffeuse": {
+  "id": "tom-s-coiffeuse",
+  "use": [
+   "sur-mesure"
+  ],
+  "credit": "Tomasella",
+  "alt": "Armoires Tomasella avec vitrine et coiffeuse intégrée",
+  "source": "tom-s-coiffeuse.webp",
+  "w": 1920,
+  "h": 1278,
+  "files": {
+   "600": "tom-s-coiffeuse-600.webp",
+   "900": "tom-s-coiffeuse-900.webp",
+   "1400": "tom-s-coiffeuse-1400.webp",
+   "1920": "tom-s-coiffeuse-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-s-coiffeuse-600.avif",
+   "900": "tom-s-coiffeuse-900.avif",
+   "1400": "tom-s-coiffeuse-1400.avif",
+   "1920": "tom-s-coiffeuse-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1278
+  ]
+ },
+ "tom-v-grand-sejour": {
+  "id": "tom-v-grand-sejour",
+  "use": [
+   "espace-de-vie"
+  ],
+  "credit": "Tomasella",
+  "alt": "Grande pièce de vie Tomasella : table de repas, salon et boiseries",
+  "source": "tom-v-grand-sejour.webp",
+  "w": 1920,
+  "h": 911,
+  "files": {
+   "600": "tom-v-grand-sejour-600.webp",
+   "900": "tom-v-grand-sejour-900.webp",
+   "1400": "tom-v-grand-sejour-1400.webp",
+   "1920": "tom-v-grand-sejour-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-v-grand-sejour-600.avif",
+   "900": "tom-v-grand-sejour-900.avif",
+   "1400": "tom-v-grand-sejour-1400.avif",
+   "1920": "tom-v-grand-sejour-1920.avif"
+  },
+  "ratio": [
+   1920,
+   911
+  ],
+  "og": "tom-v-grand-sejour-og.jpg"
+ },
+ "tom-v-sejour-urbain": {
+  "id": "tom-v-sejour-urbain",
+  "use": [
+   "espace-de-vie"
+  ],
+  "credit": "Tomasella",
+  "alt": "Séjour Tomasella : table, meuble TV et canapé dans la même pièce",
+  "source": "tom-v-sejour-urbain.webp",
+  "w": 1920,
+  "h": 925,
+  "files": {
+   "600": "tom-v-sejour-urbain-600.webp",
+   "900": "tom-v-sejour-urbain-900.webp",
+   "1400": "tom-v-sejour-urbain-1400.webp",
+   "1920": "tom-v-sejour-urbain-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-v-sejour-urbain-600.avif",
+   "900": "tom-v-sejour-urbain-900.avif",
+   "1400": "tom-v-sejour-urbain-1400.avif",
+   "1920": "tom-v-sejour-urbain-1920.avif"
+  },
+  "ratio": [
+   1920,
+   925
+  ]
+ },
+ "tom-v-arches": {
+  "id": "tom-v-arches",
+  "use": [
+   "espace-de-vie"
+  ],
+  "credit": "Tomasella",
+  "alt": "Séjour Tomasella sous des arches blanches, meuble TV bas et bibliothèque",
+  "source": "tom-v-arches.webp",
+  "w": 1920,
+  "h": 927,
+  "files": {
+   "600": "tom-v-arches-600.webp",
+   "900": "tom-v-arches-900.webp",
+   "1400": "tom-v-arches-1400.webp",
+   "1920": "tom-v-arches-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-v-arches-600.avif",
+   "900": "tom-v-arches-900.avif",
+   "1400": "tom-v-arches-1400.avif",
+   "1920": "tom-v-arches-1920.avif"
+  },
+  "ratio": [
+   1920,
+   927
+  ]
+ },
+ "tom-v-ouvert": {
+  "id": "tom-v-ouvert",
+  "use": [
+   "espace-de-vie"
+  ],
+  "credit": "Tomasella",
+  "alt": "Pièce ouverte Tomasella : cuisine, table et salon en enfilade",
+  "source": "tom-v-ouvert.webp",
+  "w": 1920,
+  "h": 928,
+  "files": {
+   "600": "tom-v-ouvert-600.webp",
+   "900": "tom-v-ouvert-900.webp",
+   "1400": "tom-v-ouvert-1400.webp",
+   "1920": "tom-v-ouvert-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-v-ouvert-600.avif",
+   "900": "tom-v-ouvert-900.avif",
+   "1400": "tom-v-ouvert-1400.avif",
+   "1920": "tom-v-ouvert-1920.avif"
+  },
+  "ratio": [
+   1920,
+   928
+  ]
+ },
+ "tom-v-table-buffet": {
+  "id": "tom-v-table-buffet",
+  "use": [
+   "espace-de-vie"
+  ],
+  "credit": "Tomasella",
+  "alt": "Table de repas Tomasella devant des buffets bleu nuit",
+  "source": "tom-v-table-buffet.webp",
+  "w": 1668,
+  "h": 1920,
+  "files": {
+   "600": "tom-v-table-buffet-600.webp",
+   "900": "tom-v-table-buffet-900.webp",
+   "1400": "tom-v-table-buffet-1400.webp",
+   "1668": "tom-v-table-buffet-1668.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-v-table-buffet-600.avif",
+   "900": "tom-v-table-buffet-900.avif",
+   "1400": "tom-v-table-buffet-1400.avif",
+   "1668": "tom-v-table-buffet-1668.avif"
+  },
+  "ratio": [
+   1668,
+   1920
+  ]
+ },
+ "tom-v-table-dessus": {
+  "id": "tom-v-table-dessus",
+  "use": [
+   "espace-de-vie"
+  ],
+  "credit": "Tomasella",
+  "alt": "Table au plateau marbré vue de dessus, chaises brunes",
+  "source": "tom-v-table-dessus.webp",
+  "w": 1680,
+  "h": 1920,
+  "files": {
+   "600": "tom-v-table-dessus-600.webp",
+   "900": "tom-v-table-dessus-900.webp",
+   "1400": "tom-v-table-dessus-1400.webp",
+   "1680": "tom-v-table-dessus-1680.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-v-table-dessus-600.avif",
+   "900": "tom-v-table-dessus-900.avif",
+   "1400": "tom-v-table-dessus-1400.avif",
+   "1680": "tom-v-table-dessus-1680.avif"
+  },
+  "ratio": [
+   1680,
+   1920
+  ]
+ },
+ "tom-v-coin-tv": {
+  "id": "tom-v-coin-tv",
+  "use": [
+   "espace-de-vie"
+  ],
+  "credit": "Tomasella",
+  "alt": "Canapé gris et meuble TV Tomasella en bois",
+  "source": "tom-v-coin-tv.webp",
+  "w": 1920,
+  "h": 840,
+  "files": {
+   "600": "tom-v-coin-tv-600.webp",
+   "900": "tom-v-coin-tv-900.webp",
+   "1400": "tom-v-coin-tv-1400.webp",
+   "1920": "tom-v-coin-tv-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-v-coin-tv-600.avif",
+   "900": "tom-v-coin-tv-900.avif",
+   "1400": "tom-v-coin-tv-1400.avif",
+   "1920": "tom-v-coin-tv-1920.avif"
+  },
+  "ratio": [
+   1920,
+   840
+  ]
+ },
+ "tom-v-cheminee": {
+  "id": "tom-v-cheminee",
+  "use": [
+   "espace-de-vie"
+  ],
+  "credit": "Tomasella",
+  "alt": "Séjour Tomasella avec cheminée suspendue et bibliothèque",
+  "source": "tom-v-cheminee.webp",
+  "w": 1920,
+  "h": 925,
+  "files": {
+   "600": "tom-v-cheminee-600.webp",
+   "900": "tom-v-cheminee-900.webp",
+   "1400": "tom-v-cheminee-1400.webp",
+   "1920": "tom-v-cheminee-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-v-cheminee-600.avif",
+   "900": "tom-v-cheminee-900.avif",
+   "1400": "tom-v-cheminee-1400.avif",
+   "1920": "tom-v-cheminee-1920.avif"
+  },
+  "ratio": [
+   1920,
+   925
+  ]
+ },
+ "tom-n-chambre-jardin": {
+  "id": "tom-n-chambre-jardin",
+  "use": [
+   "espace-nuit"
+  ],
+  "credit": "Tomasella",
+  "alt": "Chambre Tomasella ouverte sur le jardin, lit bas et chevets",
+  "source": "tom-n-chambre-jardin.webp",
+  "w": 1920,
+  "h": 1311,
+  "files": {
+   "600": "tom-n-chambre-jardin-600.webp",
+   "900": "tom-n-chambre-jardin-900.webp",
+   "1400": "tom-n-chambre-jardin-1400.webp",
+   "1920": "tom-n-chambre-jardin-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-n-chambre-jardin-600.avif",
+   "900": "tom-n-chambre-jardin-900.avif",
+   "1400": "tom-n-chambre-jardin-1400.avif",
+   "1920": "tom-n-chambre-jardin-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1311
+  ],
+  "og": "tom-n-chambre-jardin-og.jpg"
+ },
+ "tom-n-lit-dressing": {
+  "id": "tom-n-lit-dressing",
+  "use": [
+   "espace-nuit"
+  ],
+  "credit": "Tomasella",
+  "alt": "Chambre Tomasella : lit en bois et dressing ouvert derrière",
+  "source": "tom-n-lit-dressing.webp",
+  "w": 1920,
+  "h": 1005,
+  "files": {
+   "600": "tom-n-lit-dressing-600.webp",
+   "900": "tom-n-lit-dressing-900.webp",
+   "1400": "tom-n-lit-dressing-1400.webp",
+   "1920": "tom-n-lit-dressing-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-n-lit-dressing-600.avif",
+   "900": "tom-n-lit-dressing-900.avif",
+   "1400": "tom-n-lit-dressing-1400.avif",
+   "1920": "tom-n-lit-dressing-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1005
+  ]
+ },
+ "tom-n-chambre-bois": {
+  "id": "tom-n-chambre-bois",
+  "use": [
+   "espace-nuit"
+  ],
+  "credit": "Tomasella",
+  "alt": "Chambre Tomasella aux murs boisés, lit clair et commode",
+  "source": "tom-n-chambre-bois.webp",
+  "w": 1920,
+  "h": 1009,
+  "files": {
+   "600": "tom-n-chambre-bois-600.webp",
+   "900": "tom-n-chambre-bois-900.webp",
+   "1400": "tom-n-chambre-bois-1400.webp",
+   "1920": "tom-n-chambre-bois-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-n-chambre-bois-600.avif",
+   "900": "tom-n-chambre-bois-900.avif",
+   "1400": "tom-n-chambre-bois-1400.avif",
+   "1920": "tom-n-chambre-bois-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1009
+  ]
+ },
+ "tom-n-arche": {
+  "id": "tom-n-arche",
+  "use": [
+   "espace-nuit"
+  ],
+  "credit": "Tomasella",
+  "alt": "Chambre Tomasella : armoire à portes coulissantes et fenêtre en arche",
+  "source": "tom-n-arche.webp",
+  "w": 1920,
+  "h": 1358,
+  "files": {
+   "600": "tom-n-arche-600.webp",
+   "900": "tom-n-arche-900.webp",
+   "1400": "tom-n-arche-1400.webp",
+   "1920": "tom-n-arche-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-n-arche-600.avif",
+   "900": "tom-n-arche-900.avif",
+   "1400": "tom-n-arche-1400.avif",
+   "1920": "tom-n-arche-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1358
+  ]
+ },
+ "tom-n-tete-de-lit": {
+  "id": "tom-n-tete-de-lit",
+  "use": [
+   "espace-nuit"
+  ],
+  "credit": "Tomasella",
+  "alt": "Tête de lit Tomasella en bois et cuir, chevet assorti",
+  "source": "tom-n-tete-de-lit.webp",
+  "w": 1431,
+  "h": 1920,
+  "files": {
+   "600": "tom-n-tete-de-lit-600.webp",
+   "900": "tom-n-tete-de-lit-900.webp",
+   "1400": "tom-n-tete-de-lit-1400.webp",
+   "1431": "tom-n-tete-de-lit-1431.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-n-tete-de-lit-600.avif",
+   "900": "tom-n-tete-de-lit-900.avif",
+   "1400": "tom-n-tete-de-lit-1400.avif",
+   "1431": "tom-n-tete-de-lit-1431.avif"
+  },
+  "ratio": [
+   1431,
+   1920
+  ]
+ },
+ "tom-n-commodes": {
+  "id": "tom-n-commodes",
+  "use": [
+   "espace-nuit"
+  ],
+  "credit": "Tomasella",
+  "alt": "Deux commodes Tomasella sous un miroir rond",
+  "source": "tom-n-commodes.webp",
+  "w": 1646,
+  "h": 1920,
+  "files": {
+   "600": "tom-n-commodes-600.webp",
+   "900": "tom-n-commodes-900.webp",
+   "1400": "tom-n-commodes-1400.webp",
+   "1646": "tom-n-commodes-1646.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-n-commodes-600.avif",
+   "900": "tom-n-commodes-900.avif",
+   "1400": "tom-n-commodes-1400.avif",
+   "1646": "tom-n-commodes-1646.avif"
+  },
+  "ratio": [
+   1646,
+   1920
+  ]
+ },
+ "tom-n-dressing": {
+  "id": "tom-n-dressing",
+  "use": [
+   "espace-nuit"
+  ],
+  "credit": "Tomasella",
+  "alt": "Dressing Tomasella ouvert, vêtements suspendus et tiroirs",
+  "source": "tom-n-dressing.webp",
+  "w": 1446,
+  "h": 1920,
+  "files": {
+   "600": "tom-n-dressing-600.webp",
+   "900": "tom-n-dressing-900.webp",
+   "1400": "tom-n-dressing-1400.webp",
+   "1446": "tom-n-dressing-1446.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-n-dressing-600.avif",
+   "900": "tom-n-dressing-900.avif",
+   "1400": "tom-n-dressing-1400.avif",
+   "1446": "tom-n-dressing-1446.avif"
+  },
+  "ratio": [
+   1446,
+   1920
+  ]
+ },
+ "tom-n-chambre-dressing": {
+  "id": "tom-n-chambre-dressing",
+  "use": [
+   "espace-nuit"
+  ],
+  "credit": "Tomasella",
+  "alt": "Chambre Tomasella : lit et dressing vitré en bois",
+  "source": "tom-n-chambre-dressing.webp",
+  "w": 1920,
+  "h": 1010,
+  "files": {
+   "600": "tom-n-chambre-dressing-600.webp",
+   "900": "tom-n-chambre-dressing-900.webp",
+   "1400": "tom-n-chambre-dressing-1400.webp",
+   "1920": "tom-n-chambre-dressing-1920.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "tom-n-chambre-dressing-600.avif",
+   "900": "tom-n-chambre-dressing-900.avif",
+   "1400": "tom-n-chambre-dressing-1400.avif",
+   "1920": "tom-n-chambre-dressing-1920.avif"
+  },
+  "ratio": [
+   1920,
+   1010
+  ]
  }
 }
