@@ -1,6 +1,6 @@
-# Sur mesure, dressing, sous-pente, bibliothèque — Fony Meubles
+# Aménagement sur mesure à Binche, du plan à la pose — Fony Meubles
 
-> Dressings, sous-pentes, meubles d’entrée, bibliothèques et meubles TV dessinés pour votre pièce, fabriqués en Belgique ou en Italie. Visite et mesures offertes.
+> Un placard sous pente, un dressing ou une bibliothèque d’angle. À Binche, FONY étudie votre pièce, prépare le plan et organise la pose avec vous.
 
 Adresse de la page : https://fony.be/sur-mesure
 
@@ -9,13 +9,13 @@ Adresse de la page : https://fony.be/sur-mesure
 1. [Accueil](https://fony.be/)
 2. Sur mesure
 
-Dressing, sous-pente, bibliothèque
+De la conception à la pose
 
-# Sur mesure
+# Aménagement sur mesure.
 
-Dressings, meubles TV et rangements adaptés à votre pièce : systèmes modulables Tomasella ou fabrication spécifique par notre atelier partenaire en Belgique.
+Le plafond descend, le mur tourne ou le lit doit rester à sa place. Montrez-nous cette contrainte. Nous dessinons le meuble autour d’elle.
 
-[Mon projet sur mesure](https://fony.be/magasin-contact?projet=sur-mesure#visite) [Explorer les aménagements](https://fony.be/sur-mesure#realisations)
+[Parler de mon aménagement](https://fony.be/magasin-contact?projet=sur-mesure#visite) [Explorer les aménagements](https://fony.be/sur-mesure#realisations)
 
 - Nous venons chez vous
 - Première visite, mesures et devis offerts
@@ -27,7 +27,7 @@ Dans l’angle
 
 ## Le mur tourne, le meuble aussi.
 
-Photo Tomasella.
+L’armoire fait le tour de l’angle en gardant le passage entre les pièces. Photo Tomasella, Logica Plus+ 03.
 
 (Photo : Lit encastré dans un pont d’armoires Tomasella en bois)
 
@@ -35,7 +35,7 @@ Autour du lit
 
 ## Le lit se loge dedans.
 
-Photo Tomasella.
+Le lit occupe la niche du pont d’armoires. Photo Tomasella, Logica Plus+ 10.A.
 
 (Photo : Chambre Tomasella : mur d’armoires clair avec un bureau intégré)
 
@@ -43,9 +43,9 @@ Dans la chambre
 
 ## Un mur entier, sans rien perdre.
 
-[Voir les rangements](https://fony.be/rangements)
+[Découvrir le système Logica Plus+](https://fony.be/tomasella#logica-plus)
 
-Photo Tomasella.
+Le bureau s’intègre au mur de rangements de la chambre. Photo Tomasella, Logica Plus+ 09.A.
 
 De près
 
@@ -64,51 +64,57 @@ De près
 
   La coiffeuse
 
-Ce que nous réalisons
+Des idées pour votre pièce
 
 ## Des rangements adaptés à chaque pièce.
 
-Murs irréguliers, pentes de toit, recoins : nous partons de la pièce telle qu’elle est.
+Ces compositions Tomasella illustrent plusieurs façons d’occuper un mur. Avec votre plan, nous regardons laquelle convient chez vous.
 
 (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
 Dressing
 
-### Pensé pour votre garde-robe.
+### S’habiller sans contourner le lit.
 
-Compartiments pensés pour votre garde-robe, finitions assorties à la chambre.
+Où ouvrez-vous vos tiroirs le matin ? Dans le dressing ouvert Doxa photographié ici, les vêtements pliés et suspendus restent visibles. Avant de tracer le vôtre, [vérifiez la place devant les portes et les tiroirs](https://fony.be/conseils-profondeur-dressing#portes).
+
+[Découvrir le dressing Doxa de Tomasella](https://fony.be/tomasella#doxa)
 
 (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
 
 Bibliothèque
 
-### Un mur entier.
+### Les livres qui restent à portée de main.
 
-Un mur entier : niches ouvertes et rangements fermés, selon ce que vous voulez montrer.
+Prenez votre plus grand album comme repère pour la hauteur des étagères. Les livres du quotidien peuvent rester à vue, les dossiers rejoindre un élément fermé.
 
 (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
 Meuble TV
 
-### Câbles cachés, équipements intégrés.
+### Le salon vu depuis votre canapé.
 
-Équipements intégrés et câbles cachés, dans une composition accordée au reste du séjour.
+Installez-vous à votre place habituelle pour choisir la hauteur du téléviseur. Repérez aussi les prises et la box avant de décider quelles niches seront ouvertes.
+
+[Choisir la hauteur du meuble TV](https://fony.be/conseils-hauteur-meuble-tv)
 
 (Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
 
-Ailleurs
+Placard
 
-### Partout où la place se perd.
+### L’entrée et les recoins.
 
-Nous repensons l’aménagement pour le confort et la mobilité : des rangements accessibles sans se baisser.
+Gardez à portée de main ce que vous utilisez pour sortir. Une porte d’entrée qui s’ouvre vers le placard ou un escalier très bas change le choix des portes et des tiroirs.
 
 - Sous-pente : des rangements qui suivent la pente du toit
 - Entrée et hall : manteaux, chaussures, clés, rangés dès la porte
 - Sous l’escalier : tiroirs, placards ou bibliothèque sous les marches
 
+[Voir un placard sous escalier](https://fony.be/rangements#escalier)
+
 - (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
-  Armoire-dressing à portes coulissantes
+  Dressing Doxa DO210 de Tomasella
 - (Photo : Meuble TV Tomasella avec rangements suspendus dans un salon)
 
   Meuble TV et rangements suspendus
@@ -120,12 +126,12 @@ Deux savoir-faire
 
 ## Un seul interlocuteur.
 
-- ### Un atelier partenaire en Belgique
+- ### Quand il faut suivre la pièce
 
-  Pour les pièces uniques : formes atypiques, matériaux choisis avec vous.
-- ### Tomasella
+  Une pente ou un décrochement peut demander une pièce aux dimensions particulières. Nous dessinons sa forme avec vous et en confions la fabrication à notre atelier partenaire en Belgique.
+- ### Quand les modules s’accordent au mur
 
-  Pour les systèmes modulables : armoires, dressings, compositions de séjour.
+  Avec [Tomasella](https://fony.be/tomasella), nous combinons armoires, penderies et niches dans les dimensions de la collection. On peut ainsi prolonger un rangement jusque dans le séjour ou la chambre.
 
 Modules ou sur mesure ? La page [Rangements et aménagement](https://fony.be/rangements) aide à choisir.
 
@@ -135,22 +141,22 @@ Modules ou sur mesure ? La page [Rangements et aménagement](https://fony.be/r
 
   ### La rencontre
 
-  Au magasin ou chez vous.
+  Une photo du mur suffit pour une première discussion au magasin.
 - (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
   ### Les mesures
 
-  Chez vous, si vous le souhaitez.
+  Nous pouvons venir chez vous relever le mur, ses angles et les ouvertures.
 - (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
   ### Le plan
 
-  Façades, poignées et teintes, ajustées avec vous.
+  La projection 3D montre les volumes. Les échantillons aident à choisir les façades et les teintes.
 - (Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
 
-  ### L’installation
+  ### La pose
 
-  Livraison par nos soins, finitions comprises.
+  Notre équipe livre et installe la composition choisie avec vous.
 
 (Photo : Grande table ovale en céramique claire sur pied central, chaises grises, dans une salle sombre ouverte sur une baie vitrée)
 
@@ -204,7 +210,7 @@ Conseils
 
 ## Parlons de votre projet sur mesure.
 
-Remplissez la fiche ou appelez-nous : nous convenons d’une visite, ou nous vous aiguillons par téléphone.
+Avez-vous déjà un plan ou simplement une idée ? Appelez le magasin ou décrivez-nous la pièce. Nous conviendrons ensemble de la prochaine étape.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

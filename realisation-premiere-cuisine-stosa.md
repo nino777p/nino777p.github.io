@@ -20,13 +20,29 @@ C’est la première cuisine Stosa que nous avons livrée. Un modèle Kaya, avec
 
 (Photo : Cuisine Stosa Kaya : péninsule au décor bois avec tabourets, sous des vitrines suspendues à cadre noir éclairées)
 
-Photo Stosa : le modèle Kaya. La vidéo montre la cuisine livrée.
+Ambiance du fabricant Stosa, modèle Kaya. La vidéo montre la cuisine livrée par FONY.
 
 - ### La première cuisine Stosa
 
   [Ouvrir sur Instagram](https://www.instagram.com/reel/Df7Ob6Hs7NU/)
 
 Vidéo hébergée par Instagram (Meta) : son lecteur ne se charge qu’après votre clic. [En savoir plus](https://fony.be/confidentialite#cookies)
+
+Avant votre projet
+
+## Trois questions que l’on nous pose.
+
+### Combien de temps entre la commande et la pose ?
+
+Comptez environ huit semaines entre la commande signée, acompte versé, et la pose, selon le fabricant et la saison.
+
+### Peut-on voir les matières avant de choisir ?
+
+Oui. Les échantillons de façades et de plans de travail se comparent au magasin. Apportez une photo de la pièce : nous les regardons à côté de ce que vous gardez.
+
+### Par quoi commence un projet de cuisine ?
+
+Par vos habitudes et la place disponible. La première visite, les mesures et le devis sont offerts. Voyez [comment nous concevons une cuisine](https://fony.be/cuisine).
 
 ## Parlons de votre cuisine.
 

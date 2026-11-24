@@ -11,53 +11,80 @@ Adresse de la page : https://fony.be/tomasella
 1. [Accueil](https://fony.be/)
 2. Tomasella
 
-Fabriqué en Italie, composé pour votre pièce
+Meubles italiens à composer
 
-# Tomasella : mobilier de séjour, dressings et chambre.
+# Tomasella, du séjour au dressing.
 
-Composez votre meuble TV, votre bibliothèque, votre garde-robe ou votre chambre avec les systèmes modulables Tomasella. Nous adaptons la composition à votre espace et à vos finitions.
+Un mur pour les livres, une place pour les manteaux ou un lit autour duquel composer la chambre. Quel meuble vous manque chez vous ?
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+[Voir les meubles](https://fony.be/tomasella#pieces) [Parler de ma pièce](https://fony.be/magasin-contact#visite)
 
 - Séjour, rangements, chambre
 - Projection 3D de votre projet
 - Première visite et conseil offerts
 
-Trois pièces, un fabricant
+## Quel meuble pour votre pièce ?
 
-## Des meubles qui s’accordent d’une pièce à l’autre.
+Allez directement au [mur TV](https://fony.be/tomasella#atlante), à la [bibliothèque](https://fony.be/tomasella#andromeda), au [placard d’entrée](https://fony.be/tomasella#logica-plus), au [dressing](https://fony.be/tomasella#doxa) ou au [lit](https://fony.be/tomasella#corinto).
 
-Retrouvez des bois et des laques coordonnés du séjour à la chambre, selon les collections. Choisissez chaque composition avec nous, en fonction de vos besoins et de votre intérieur.
+1. (Photo : Séjour Tomasella : écran posé sur une boiserie sombre, étagères éclairées)
 
-1. (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
+   Meuble TV · Atlante AT150
 
-   Le séjour
+   ### Que voit-on depuis le canapé ?
 
-   ### Un meuble TV, une bibliothèque, un buffet : votre composition.
+   Sur cette composition Atlante, la télévision se détache sur un panneau sombre. Les livres et les objets occupent les étagères éclairées à côté. Pour dessiner le vôtre, prenez une photo depuis votre place habituelle. On verra où tombe le regard et de quel côté arrivent les prises.
 
-   Avec Atlante et Time, associez modules bas ou suspendus, rangements fermés et espaces ouverts. Composez le meuble qui convient à votre mur. Un exemple : [le meuble TV et le dressoir du séjour Goliath](https://fony.be/realisation-sejour-goliath).
+   [Choisir la hauteur de mon écran](https://fony.be/conseils-hauteur-meuble-tv)
+2. (Photo : Séjour ouvert Tomasella : bibliothèque Andromeda entre salon et salle à manger)
 
-   [Voir le séjour](https://fony.be/living)
-2. (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
+   Bibliothèque · Andromeda AN101
 
-   Les rangements
+   ### Séparer le coin repas sans perdre la vue.
 
-   ### Une garde-robe organisée selon vos habitudes.
+   Dans ce séjour ouvert, la bibliothèque prend place entre la table et le salon. Les cases ajourées laissent voir l’autre côté. Avant de choisir sa longueur, regardez par où vous passez avec un plat à la main. C’est ce trajet qu’il faut garder libre.
 
-   Portes battantes ou coulissantes, dressing ouvert, compartiments : choisissez la façade et l’organisation intérieure selon ce que vous souhaitez ranger. Modules ou sur mesure ? [Rangements et aménagement](https://fony.be/rangements) aide à choisir.
+   [Aménager mon séjour](https://fony.be/espace-de-vie)
+3. (Photo : Entrée Tomasella : armoires vertes, niche éclairée et portemanteau)
 
-   [Voir le sur mesure](https://fony.be/sur-mesure)
-3. (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+   Placard d’entrée · Logica Plus+ 05.A
 
-   La chambre
+   ### Pouvoir s’asseoir pour enlever ses chaussures.
 
-   ### Une chambre aux finitions coordonnées.
+   La composition 05.A réserve une assise dans le mur d’armoires. On pose son sac en rentrant et on retrouve son manteau près de la sortie. Votre place libre est sous les marches ? La [composition 06.A sous escalier](https://fony.be/rangements#escalier) descend avec la pente.
 
-   Associez le lit et les chevets à votre armoire. Nous vous aidons à choisir les finitions pour créer un ensemble harmonieux.
+   [Regarder le vestiaire de plus près](https://fony.be/rangements#entree)
+4. (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
-   [Voir la chambre](https://fony.be/chambre)
+   Dressing · Doxa DO210
 
-## Du mur au projet.
+   ### Voir ses vêtements d’un seul regard.
+
+   Sur le dressing Doxa DO210, penderies et étagères se côtoient. Pour préparer le vôtre, prenez votre manteau le plus long et une pile de pulls. L’un donne la hauteur à réserver sous la tringle, l’autre la place utile entre deux étagères.
+
+   [Mesurer la profondeur de mon dressing](https://fony.be/conseils-profondeur-dressing)
+5. (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+
+   Lit tapissé · Corinto
+
+   ### Le lit reste au centre de la chambre.
+
+   Le Corinto se reconnaît à la double surpiqûre de sa tête de lit. Si vous gardez vos chevets, mesurez leur hauteur et l’espace de chaque côté du couchage. Au magasin, on regardera comment la nouvelle tête de lit se place entre eux.
+
+   [Vérifier la place autour du lit](https://fony.be/conseils-taille-lit-chambre)
+
+## Quel espace faut-il devant le meuble ?
+
+- ### Liscia, une armoire à portes battantes.
+
+  Tomasella illustre Liscia par une composition de 62 cm de profondeur extérieure. Tracez d’abord sa façade au sol, puis imaginez la porte ouverte face au lit ou au chevet.
+- ### Primafila, des portes qui coulissent.
+
+  La composition illustrée par Tomasella mesure 68,6 cm de profondeur extérieure. Les portes glissent devant l’armoire. Mesurez encore la place pour vous tenir devant et sortir le linge.
+
+Ces deux mesures se rapportent aux compositions du fabricant. Le [guide de profondeur du dressing](https://fony.be/conseils-profondeur-dressing) aide à relever les mesures de votre propre chambre.
+
+## Choisir les finitions au magasin.
 
 - (Photo : Détail de finition Tomasella : façade laquée et poignée intégrée)
 
@@ -66,9 +93,21 @@ Retrouvez des bois et des laques coordonnés du séjour à la chambre, selon les
   Bois, laques mates et décors, au magasin.
 - (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
-  ### Votre composition
+  ### Bois clair et rangements suspendus
 
-  Les modules à la largeur de votre mur.
+  Une composition de la collection Atlante.
+
+(Photo : Séjour Tomasella Time : composition murale en laque et bois)
+
+Composition de séjour · Time
+
+## Et si le meuble se prolongeait le long du mur ?
+
+Dans cette ambiance Time, la laque et le bois rythment la composition murale. Si votre table ou votre canapé reste en place, apportez-en une photo pour comparer les teintes au magasin.
+
+Ambiance de la collection Time, photo Tomasella.
+
+[Voir un séjour aménagé par FONY](https://fony.be/realisation-sejour-goliath)
 
 Vos questions
 

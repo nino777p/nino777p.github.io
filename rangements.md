@@ -1,6 +1,6 @@
-# Rangements, dressings et aménagement sur mesure — Fony Meubles
+# Dressings et placards à Binche — Fony Meubles
 
-> Dressing, bibliothèque, sous-pente ou meuble TV : modules Tomasella ou fabrication sur mesure, comment choisir et ce que Fony Meubles réalise, près de Binche.
+> Un dressing dans la chambre, un placard dans l’entrée ou sous l’escalier. Découvrez des idées pour votre pièce et préparez votre projet à Binche.
 
 Adresse de la page : https://fony.be/rangements
 
@@ -11,60 +11,73 @@ Adresse de la page : https://fony.be/rangements
 
 Rangements et aménagement
 
-# Rangements et dressings sur mesure.
+# Dressings et placards pour votre intérieur.
 
-Un dressing, une bibliothèque, un mur à repenser : imaginons-le ensemble, à vos mesures.
+Où poser les manteaux en rentrant ? Comment ranger jusqu’au fond de la chambre ? Commençons par l’endroit où la place vous manque.
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+[Voir les rangements](https://fony.be/rangements#pieces) [Parler de mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 
 - Mesures chez vous si vous le souhaitez
 - Projection 3D pour un aménagement
 - Première visite et conseil offerts
 
-Dans cet univers
+## Quelle place voulez-vous aménager ?
 
-## Deux façons d’entrer.
+- (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
-- (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
+  ### [Un dressing dans la chambre](https://fony.be/sur-mesure#explorer-dressing)
 
-  ### [Sur mesure](https://fony.be/sur-mesure)
+  Laisser la place de s’habiller, même lorsque les tiroirs sont ouverts.
 
-  Dressings, bibliothèques et rangements adaptés à votre pièce.
+  Organiser mon dressing →
+- (Photo : Vestiaire d’entrée Tomasella avec miroir rond et penderie ouverte)
 
-  Voir le sur mesure →
-- (Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
+  ### [Un placard d’entrée](https://fony.be/rangements#entree)
 
-  ### [Tomasella](https://fony.be/tomasella)
+  Déposer son sac et suspendre sa veste dès qu’on rentre.
 
-  Séjour, dressing et chambre, composés module par module.
+  Voir le placard d’entrée →
+- (Photo : Portes et tiroirs Tomasella logés sous les marches d’un escalier)
 
-  Voir Tomasella →
+  ### [Un placard sous escalier](https://fony.be/rangements#escalier)
+
+  Récupérer la place sous les premières marches.
+
+  Explorer le dessous de l’escalier →
 
 (Photo : Rangements Tomasella intégrés sous un escalier, dans un séjour clair)
 
-Sous l’escalier
+Placard sous escalier
 
-## La place perdue ne l’est plus.
+## Même les premières marches servent.
 
-Photo Tomasella.
+Côté séjour, les portes suivent la montée de l’escalier. Avant de choisir un tiroir, regardez jusqu’où il pourra sortir dans le passage.
+
+[Découvrir les rangements Logica Plus+](https://fony.be/tomasella#logica-plus)
+
+Logica Plus+ 06.A de Tomasella. Cet exemple mesure 422 cm de large et 62 cm de profondeur. Sa hauteur passe de 270 à 48 cm.
 
 (Photo : Entrée Tomasella : armoires vertes, niche éclairée et portemanteau)
 
-Dans l’entrée
+Placard d’entrée
 
-## Tout se pose en arrivant.
+## Une place pour les manteaux et les clés.
 
-[Voir le sur-mesure](https://fony.be/sur-mesure)
+Un banc se glisse entre les armoires pour enlever ses chaussures. À côté, le petit meuble sous le miroir laisse les clés à portée de main.
 
-Photo Tomasella.
+[Voir le système de rangement de cette entrée](https://fony.be/tomasella#logica-plus)
+
+Composition d’entrée Logica Plus+ 05.A avec miroir Bolle. Photo Tomasella.
 
 (Photo : Mur d’armoires Tomasella qui cache une buanderie)
 
 Derrière les portes
 
-## Le mur garde tout pour lui.
+## La buanderie disparaît quand on ferme.
 
-Photo Tomasella.
+[Regarder derrière les portes](https://fony.be/rangements#interieurs)
+
+Buanderie Logica Plus+ 11.A. Photo Tomasella.
 
 À l’intérieur
 
@@ -79,6 +92,8 @@ Photo Tomasella.
 - (Photo : Armoire Tomasella ouverte sur une machine à laver et des étagères)
 
   Le linge
+
+  La porte ouverte laisse apparaître le lave-linge et les étagères de la composition 11.A.
 - (Photo : Armoire Tomasella ouverte : penderie, miroir et étagères)
 
   La penderie
@@ -87,9 +102,9 @@ Données pratiques · Modules ou sur mesure
 
 Par où commencer
 
-## Modules ou sur mesure : comment choisir.
+## Des modules ou une fabrication à vos mesures ?
 
-Un mur à occuper, une garde-robe à organiser, un recoin où la place se perd ? Modules ou pièce unique : voici ce qui les distingue, et où les retrouver.
+La forme du mur, la profondeur disponible et ce que vous voulez ranger orientent le choix.
 
 - ### Un mur à composer
 
@@ -131,17 +146,22 @@ Conseils
   Les repères avant de dessiner le rangement.
 
   [Lire le guide](https://fony.be/conseils-profondeur-dressing)
+- ### Que ranger sous un escalier ?
+
+  Un aspirateur, des chaussures ou une penderie occupent la pente différemment.
+
+  [Essayer chez moi](https://fony.be/conseils-placard-sous-escalier)
 - ### Comment mesurer sa pièce ?
 
   Les mesures et les photos à apporter.
 
   [Lire le guide](https://fony.be/conseils-mesurer-sa-piece)
 
-## Parlons de votre pièce.
+## Et chez vous, que faut-il ranger ?
 
-Apportez un plan ou quelques mesures, et une photo du mur. Nous dessinons la composition avec vous.
+Une photo prise depuis la porte aide à voir le mur et le passage. Apportez-la au magasin avec quelques mesures et dites-nous ce qui prend le plus de place chez vous.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse

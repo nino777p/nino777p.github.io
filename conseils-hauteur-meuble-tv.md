@@ -37,7 +37,7 @@ Des repères courants, à vérifier chez vous depuis votre place habituelle.
 
   ### Placez le centre de l’écran
 
-  Asseyez-vous et marquez la hauteur de vos yeux au mur. Si cette marque est à 105 cm du sol et que le centre de l’image se trouve à 40 cm au-dessus du plateau, essayez un meuble haut de 65 cm. Remplacez ces deux mesures par les vôtres.
+  Si la marque est à 105 cm du sol et que le centre de l’image se trouve à 40 cm au-dessus du plateau, essayez un meuble haut de 65 cm. Refaites la soustraction avec vos deux mesures.
 - 03
 
   ### Mesurez le recul
@@ -72,7 +72,7 @@ Le meuble
   Le sol reste dégagé et se nettoie facilement. Si l’écran est fixé au mur, au-dessus du meuble, c’est sa fixation qui décide de la hauteur de l’image, pas le meuble. Le mur doit pouvoir porter la charge : dites-nous de quoi il est fait.
 - ### Les fils et les appareils
 
-  Prévoyez la place du décodeur, de la console et des multiprises, et un passage pour les câbles. C’est plus simple à prévoir avant qu’après.
+  Posez le décodeur et la console côte à côte, câbles branchés. Vous verrez la profondeur qui leur est nécessaire. Sur [le meuble TV Atlante AT150 de Tomasella](https://fony.be/tomasella#atlante), regardez comment le panneau de l’écran et les étagères se partagent le mur.
 
 Un relax change tout : dossier incliné, le regard monte. Faites la marque sur le mur dans la position où vous regardez vraiment la télévision.
 

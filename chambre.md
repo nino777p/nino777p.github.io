@@ -25,29 +25,29 @@ La pièce où la journée se termine, et où la suivante commence.
 
 Le soir
 
-## Tout se pose.
+## Le bois se prolonge derrière le lit.
 
-Photo Tomasella.
+Lit Ophelia, photo Tomasella.
 
 (Photo : Armoire Tomasella Denver à portes battantes dans une chambre aux murs verts)
 
 Le matin
 
-## Tout est à sa place.
+## Ouvrir l’armoire depuis le pied du lit.
 
-[Voir les rangements](https://fony.be/rangements)
+[Mesurer la place devant les portes](https://fony.be/conseils-profondeur-dressing)
 
-Photo Tomasella.
+Armoire Denver à portes battantes, photo Tomasella.
 
 (Photo : Dressing Tomasella Doxa derrière une paroi vitrée, à côté du lit)
 
 Derrière la paroi
 
-## Un dressing.
+## Les vêtements se voient depuis la chambre.
 
-[Voir le Catalogue](https://fony.be/catalogue)
+[Découvrir le dressing Doxa](https://fony.be/tomasella#doxa)
 
-Photo Tomasella.
+Dressing Doxa, photo Tomasella.
 
 Ambiances
 

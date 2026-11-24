@@ -1,60 +1,78 @@
 # Fony Meubles — magasin de meubles entre Binche et La Louvière
 
-> Magasin de meubles à Leval-Trahegnies, entre Binche et La Louvière : salons et relax, tables, literie, cuisines italiennes, sur mesure, livrés dans le Hainaut.
+> À Leval-Trahegnies, entre Binche et La Louvière, préparez votre cuisine, votre dressing ou votre séjour. Retrouvez aussi les salons, tables et lits du magasin.
 
 Adresse de la page : https://fony.be/
 
-(Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
-
-(Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
+(Photo : Grand séjour Tomasella : table, salon et boiseries dans la même pièce)
 
 (Photo : Cuisine Stosa Metropolis ouverte sur le séjour, façades mates et plan de travail foncé)
 
-(Photo : Appartement avec vue : séjour Tomasella, canapé et rangements sur mesure)
+(Photo : Table à pied central en céramique effet travertin, entourée de fauteuils cognac dans une salle à manger lumineuse)
+
+(Photo : Rendu du fabricant : salon en tissu beige aux formes souples, canapé, fauteuils et tables basses devant la baie vitrée)
 
 (Photo : Chambre au mur de pierre claire : lit tapissé gris sur pieds en bois, linge ocre et brique, tapis tressé)
 
-Mobilier, cuisines et sur mesure — Leval-Trahegnies, depuis 1991
+Aménagement et mobilier à Leval-Trahegnies, depuis 1991
 
 # Votre intérieur, de la première idée à la pose.
 
 [4,6 ★  sur 5 sur 85 avis Google](https://maps.google.com/?cid=16578439565149159556)
 
-Salons, tables et literie à voir et à essayer au magasin ; cuisines et sur mesure à concevoir avec votre conseiller, du premier croquis à la pose.
+Une cuisine ouverte, un placard dans l’entrée ou simplement une nouvelle table ?
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+[Aménager ma pièce](https://fony.be/#pieces) [Voir le catalogue de meubles](https://fony.be/catalogue)
 
 - Salons, relax et literie à essayer
 - Première visite et conseil offerts
 - Du lundi au samedi, avec ou sans rendez-vous
 
-Les univers
+## Quelle pièce aimeriez-vous aménager ?
 
-## Trois univers, un intérieur qui vous ressemble.
+- (Photo : Cuisine moderne Stosa Metropolis avec îlot central)
 
-À Leval-Trahegnies, entre Binche et La Louvière : salons, tables et literie à voir et à essayer ; cuisines et rangements à concevoir avec votre conseiller.
+  ### [La cuisine](https://fony.be/cuisine)
 
-- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
-
-  Espace de vie
-
-  ### [Un lieu où l’on aime se retrouver.](https://fony.be/espace-de-vie)
-
-  Découvrir →
-- (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
-
-  Espace nuit
-
-  ### [Un couchage qui vous convient.](https://fony.be/espace-nuit)
-
-  Découvrir →
+  Concevoir ma cuisine →
 - (Photo : Dressing ouvert Tomasella : penderies et tiroirs en bois chaud)
 
-  Rangements et aménagement
+  ### [Dressings et placards](https://fony.be/rangements)
 
-  ### [Une solution adaptée à votre espace.](https://fony.be/rangements)
+  Trouver ma solution de rangement →
+- (Photo : Séjour Tomasella Atlante : meuble TV suspendu et rangements en bois clair)
 
-  Découvrir →
+  ### [Le séjour](https://fony.be/espace-de-vie)
+
+  Aménager mon espace de vie →
+- (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
+
+  ### [Chambre et literie](https://fony.be/espace-nuit)
+
+  Découvrir l’espace nuit →
+
+## Chez nos clients
+
+- Séjour
+
+  ### [Goliath · Le fil d’un séjour lumineux](https://fony.be/realisation-sejour-goliath)
+
+  Une table Goliath d’Akante, des meubles Tomasella, puis une console. Le récit d’un séjour aménagé en deux temps avec FONY.
+
+  Lire le récit →
+- (Photo : Cuisine Stosa Kaya : péninsule au décor bois avec tabourets, sous des vitrines suspendues à cadre noir éclairées)
+
+  Photo d’illustration Stosa, modèle Kaya : pas la cuisine livrée
+
+  Cuisine
+
+  ### [Stosa · La première cuisine](https://fony.be/realisation-premiere-cuisine-stosa)
+
+  La première cuisine Stosa livrée par FONY, à découvrir en vidéo dans le journal des intérieurs.
+
+  Lire le récit →
+
+[Toutes les réalisations](https://fony.be/realisations)
 
 Au magasin
 
@@ -107,9 +125,9 @@ Avis clients
 
 Nos fabricants
 
-## Des fabricants européens, choisis pour leur design et leur savoir-faire.
+## Un séjour autour de la table que vous gardez.
 
-Nous sélectionnons des collections aux styles et aux finitions variés. Au magasin, nous vous aidons à comparer les matières et à accorder les meubles d’une pièce à l’autre. Certains modèles sont exposés ; d’autres se découvrent sur catalogue et se commandent dans les configurations proposées par nos fabricants.
+Votre table reste. Autour d’elle, vous cherchez où ranger la vaisselle, poser l’écran ou laisser des livres à portée de main. Regardez [les compositions de séjour Tomasella](https://fony.be/tomasella#atlante). Pour une table ou une chaise à choisir à la pièce, retrouvez [les meubles du catalogue](https://fony.be/catalogue).
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 

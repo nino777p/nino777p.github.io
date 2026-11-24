@@ -44,6 +44,11 @@ Selon votre situation
   Sur le plan, placez la table où vous aimeriez déjeuner le dimanche. Le canapé, puis les rangements, trouveront plus facilement leur place.
 
   [Aménager ma maison par étapes](https://fony.be/conseils-amenager-maison-selon-son-projet#maison-par-etapes)
+- ### Les chaussures s’accumulent sous l’escalier
+
+  Posez côte à côte les paires que vous portez cette semaine. Cette largeur vous donne un premier repère pour choisir l’étagère ou le tiroir du quotidien.
+
+  [Choisir mon rangement sous escalier](https://fony.be/conseils-placard-sous-escalier)
 
 Nos guides
 

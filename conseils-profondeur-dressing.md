@@ -8,13 +8,13 @@ Adresse de la page : https://fony.be/conseils-profondeur-dressing
 2. [Conseils](https://fony.be/conseils)
 3. Profondeur d’un dressing
 
-Conseils · Chambre
+Conseils · Dressing
 
 # Quelle profondeur pour un dressing ?
 
 Partez de vos vêtements les plus encombrants. Ce sont eux qui donnent la profondeur.
 
-[Mon projet](https://fony.be/magasin-contact?projet=chambre#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+[Parler de mon dressing](https://fony.be/magasin-contact?projet=sur-mesure#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 (Photo : Dressing Tomasella ouvert sur la chambre, penderies et étagères visibles)
 
@@ -32,7 +32,7 @@ Des repères courants d’aménagement, à vérifier avec vos propres vêtements
 
   ### La penderie
 
-  Mesurez votre manteau le plus épais sur son cintre, d’une épaule à l’autre. Comparez cette largeur à la profondeur libre derrière les portes fermées. À titre d’exemples, Tomasella indique 62 cm de profondeur extérieure pour une composition Liscia à portes battantes et 68,6 cm pour Primafila à portes coulissantes.
+  La profondeur extérieure comprend le fond, les façades et, selon le système, les rails. Deux exemples chez Tomasella donnent un repère. La composition [Liscia à portes battantes](https://fony.be/tomasella#liscia) mesure 62 cm de profondeur extérieure. La [Primafila à portes coulissantes](https://fony.be/tomasella#primafila) en mesure 68,6. Pour savoir si vos manteaux y tiennent, demandez la profondeur intérieure libre.
 - 02
 
   ### Les étagères et les tiroirs
@@ -58,7 +58,7 @@ Devant le dressing
 
   Marquez au sol la façade et le bord du lit. Placez-vous entre les deux avec un cintre à la main, puis simulez l’ouverture du tiroir le plus profond. Notez le passage encore libre.
 
-Sous une pente de toit ou dans un renfoncement, un dressing se dessine sur mesure : les modules s’adaptent à la largeur et à la hauteur disponibles.
+Sous une pente, relevez la hauteur près du mur puis à l’emplacement prévu pour les façades. Ces deux repères nous aident à voir si des modules conviennent ou si la pente demande une [fabrication spécifique](https://fony.be/sur-mesure).
 
 L’essai à la maison
 
@@ -89,7 +89,7 @@ Battantes si vous avez la place devant : on voit tout l’intérieur d’un cou
 
 ### Armoire ou dressing ?
 
-Une armoire se pose contre un mur et se ferme. Un dressing s’organise dans un espace à lui, ouvert ou derrière une paroi. Les deux se composent avec les mêmes modules.
+Si vous gardez le lit proche du mur, commencez par mesurer la place devant une armoire fermée. Si vous pouvez entrer dans un renfoncement, un dressing ouvert permet de voir les vêtements d’un coup d’œil. Dans les deux cas, essayez le passage et l’ouverture des tiroirs.
 
 Voir aussi
 
@@ -115,7 +115,7 @@ Voir aussi
 
 Largeur, hauteur sous plafond, emplacement de la porte et de la fenêtre : nous dessinons le rangement avec vous. Avec ou sans rendez-vous.
 
-[Mon projet](https://fony.be/magasin-contact?projet=chambre#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=sur-mesure#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse

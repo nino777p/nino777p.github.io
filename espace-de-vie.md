@@ -13,9 +13,9 @@ Espace de vie
 
 # Un lieu où l’on aime se retrouver.
 
-Du canapé à la table, du meuble TV à la cuisine : composez la pièce où l’on vit, meuble par meuble ou d’un seul geste.
+La table est là, le canapé aussi, et vous cherchez encore comment les réunir. Partons de ce que vous aimez déjà dans votre pièce de vie.
 
-[Mon projet](https://fony.be/magasin-contact#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+[Explorer les pièces](https://fony.be/espace-de-vie#pieces) [Mon projet d’ensemble](https://fony.be/magasin-contact?projet=complet#visite)
 
 - Salons, relax et tables à essayer
 - Première visite et conseil offerts
@@ -128,10 +128,10 @@ Accorder l’ensemble
 
 - ### Vous changez un seul meuble
 
-  Les matières se comparent côte à côte au magasin, avec la photo de votre intérieur : le nouveau meuble s’accorde à ceux que vous gardez.
+  Photographiez la table, le sol et les meubles voisins dans la même lumière. Au magasin, cette vue nous aide à choisir ce qui ira chez vous. [Voyez comment ce séjour a pris forme en deux temps](https://fony.be/realisation-sejour-goliath).
 - ### Vous refaites toute la pièce
 
-  Nous proposons à la fois la cuisine et le mobilier : les teintes s’accordent d’une pièce à l’autre, et tout se prépare au même endroit. La table et le buffet existent dans les finitions du meuble TV. Pour choisir une base qui dure, lisez nos repères sur [les matières et les tendances](https://fony.be/tendances).
+  Imaginez un soir où les chaises sont tirées et le canapé occupé. Par où passez-vous pour aller de la cuisine au salon ? Dessinons d’abord ce passage, puis regardons ensemble les [matières et les teintes](https://fony.be/tendances).
 - ### Vous voulez voir avant de décider
 
   Pour un séjour composé module par module, nous vous montrons le projet en projection 3D. Et si vous le souhaitez, nous venons prendre les mesures chez vous. Nos [réalisations](https://fony.be/realisations) racontent des projets accompagnés de la première idée à l’installation.
@@ -167,7 +167,7 @@ Conseils
 
 Apportez les dimensions de votre pièce et, si possible, une photo. Nous accordons avec vous les matières du canapé, de la table et des meubles.
 
-[Mon projet](https://fony.be/magasin-contact#visite)
+[Mon projet](https://fony.be/magasin-contact?projet=complet#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Adresse

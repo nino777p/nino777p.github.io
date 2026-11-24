@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://fony.be/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://fony.be/catalogue</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://fony.be/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/catalogue</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/chambre</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/confidentialite</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/conseils</loc><lastmod>2026-11-24</lastmod></url>
@@ -62,6 +62,7 @@
   <url><loc>https://fony.be/conseils-cuisine-ouverte-sur-salon</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/conseils-hauteur-meuble-tv</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/conseils-mesurer-sa-piece</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/conseils-placard-sous-escalier</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/conseils-profondeur-dressing</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/conseils-table-basse-taille-hauteur</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/conseils-table-ceramique-ou-bois</loc><lastmod>2026-11-24</lastmod></url>
@@ -75,9 +76,9 @@
   <url><loc>https://fony.be/realisations</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/salon-fauteuils-relax-releveurs</loc><lastmod>2026-11-18</lastmod></url>
   <url><loc>https://fony.be/tables-perfecta</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/tomasella</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/realisation-premiere-cuisine-stosa</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://fony.be/realisation-sejour-goliath</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://fony.be/tomasella</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/realisation-premiere-cuisine-stosa</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://fony.be/realisation-sejour-goliath</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://fony.be/realisation-table-cattelan-italia</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://fony.be/catalogue-salons-a-composer</loc><lastmod>2026-11-23</lastmod></url>
 </urlset>

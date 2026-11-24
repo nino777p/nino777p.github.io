@@ -61,7 +61,7 @@ L’ouverture
   Depuis le salon, on voit les façades hautes et le plan de travail. Des colonnes qui cachent le four et le frigo gardent la vue calme.
 - ### Les matières
 
-  Reprenez une teinte du séjour dans la cuisine : le bois de la table, la couleur d’un meuble. Les échantillons se comparent au magasin, côte à côte.
+  Posez un échantillon de façade à côté du bois de la table que vous gardez. Regardez-les de la cuisine, puis du canapé. Dans [le séjour Goliath](https://fony.be/realisation-sejour-goliath), c’est le veinage de la table qui se retrouve côté salon.
 
 Le bruit et les odeurs voyagent dans une pièce ouverte : la hotte et le lave-vaisselle se choisissent aussi pour leur discrétion.
 
@@ -86,7 +86,7 @@ Distinguez le côté où l’on passe du côté où l’on cuisine. Reprenez les
 
 ### Comment séparer la cuisine du salon sans cloison ?
 
-Par un plan-bar, un îlot, un changement de sol ou un meuble bas. La séparation se voit, mais la pièce reste ouverte.
+Un îlot ou un meuble bas dessine une limite. Si vous préférez y ranger des livres, regardez [la bibliothèque ajourée Andromeda AN101](https://fony.be/tomasella#andromeda) entre le salon et le coin repas. Vérifiez le passage jusqu’à la table avec une chaise tirée.
 
 ### Quel délai pour une cuisine ?
 

@@ -13,9 +13,9 @@ Le living, à la mesure de votre mur
 
 # Séjour : meubles TV, bibliothèques et buffets.
 
-Le mur du séjour, composé à votre mesure.
+Des livres à portée du canapé, l’écran en face et les câbles à cacher. Partons de ce que vous voulez garder près de vous pour dessiner le meuble.
 
-[Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
+[Mon projet séjour](https://fony.be/magasin-contact?projet=sejour#visite) [Voir un séjour aménagé](https://fony.be/realisation-sejour-goliath)
 
 - Composé module par module
 - Projection 3D de votre projet
@@ -27,17 +27,19 @@ Le soir
 
 ## L’écran s’efface.
 
-Photo Tomasella.
+[Regarder le meuble TV Atlante AT150](https://fony.be/tomasella#atlante)
+
+Atlante AT150, photo Tomasella.
 
 (Photo : Séjour ouvert Tomasella : bibliothèque Andromeda entre salon et salle à manger)
 
 Les livres
 
-## Ils ont leur mur.
+## Des livres entre la table et le canapé.
 
-[Voir le Catalogue](https://fony.be/catalogue)
+[Découvrir la bibliothèque Andromeda](https://fony.be/tomasella#andromeda)
 
-Photo Tomasella.
+Bibliothèque Andromeda AN101, photo Tomasella.
 
 (Photo : Mur en bois Tomasella qui intègre l’écran et cache un bureau)
 
@@ -78,7 +80,7 @@ Ambiances
 
 ## Composons votre séjour.
 
-Apportez une photo de la pièce et les dimensions du mur : nous composons le meuble avec vous, module par module, et nous vous le montrons en projection 3D. Si vous préférez, nous venons prendre les mesures chez vous.
+Apportez une photo du mur prise depuis votre canapé et, si vous les avez, sa largeur et sa hauteur. Nous pouvons y situer l’écran, les prises et les meubles que vous gardez, puis vous montrer la composition en 3D.
 
 [Mon projet](https://fony.be/magasin-contact?projet=sejour#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

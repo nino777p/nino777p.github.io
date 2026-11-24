@@ -11,7 +11,7 @@ Catalogue
 
 # Tous nos meubles, pièce par pièce.
 
-Certains modèles sont exposés au magasin ; d’autres se découvrent sur catalogue et se commandent dans les configurations proposées par nos fabricants. Les fiches indiquent les dimensions, les revêtements des salons et les plateaux et finitions des tables.
+Choisissez un meuble en photo pour découvrir son modèle. Certains sont exposés au magasin, d’autres se composent sur commande.
 
 Par pièce
 
@@ -108,13 +108,13 @@ Photo  1 / 3
 
 - (Photo : Séjour Tomasella Time : composition murale en laque et bois)
 
-  Time Tomasella
-- (Photo : Bibliothèque murale Tomasella avec niches et éclairage intégré)
+  [Séjour Time](https://fony.be/tomasella#time) Tomasella
+- (Photo : Séjour ouvert Tomasella : bibliothèque Andromeda entre salon et salle à manger)
 
-  Bibliothèque Tomasella
-- (Photo : Meuble TV Tomasella avec rangements suspendus dans un salon)
+  [Bibliothèque Andromeda AN101](https://fony.be/tomasella#andromeda) Tomasella
+- (Photo : Séjour Tomasella : écran posé sur une boiserie sombre, étagères éclairées)
 
-  Meuble TV Tomasella
+  [Meuble TV Atlante AT150](https://fony.be/tomasella#atlante) Tomasella
 
 ### Literie
 
@@ -144,13 +144,13 @@ Photo  1 / 3
 
 - (Photo : Chambre Tomasella Corinto : lit tapissé et chevets assortis)
 
-  Corinto Tomasella
-- (Photo : Chambre Tomasella : lit tapissé, chevet, commodes et armoire à portes coulissantes à miroir)
+  [Lit Corinto](https://fony.be/tomasella#corinto) Tomasella
+- (Photo : Armoire Tomasella Denver à portes battantes dans une chambre aux murs verts)
 
-  Armoire Tomasella
+  [Armoire Denver](https://fony.be/chambre#matin) Tomasella
 - (Photo : Armoire-dressing Tomasella Doxa à portes coulissantes)
 
-  Dressing Tomasella
+  [Dressing Doxa DO210](https://fony.be/tomasella#doxa) Tomasella
 
 Par besoin
 

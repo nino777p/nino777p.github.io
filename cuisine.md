@@ -1,6 +1,6 @@
-# Cuisine italienne sur mesure à Binche, Stosa — Fony Meubles
+# Cuisine équipée italienne Stosa à Binche — Fony Meubles
 
-> Des cuisines Stosa fabriquées en Italie, dessinées avec vous de la mesure à la pose. Garantie 5 ans, échantillons au magasin près de Binche.
+> Découvrez une cuisine Kaya livrée par Fony Meubles. À Leval-Trahegnies, comparez les échantillons Stosa et dessinez votre cuisine sur mesure avec nous.
 
 Adresse de la page : https://fony.be/cuisine
 
@@ -11,16 +11,16 @@ Adresse de la page : https://fony.be/cuisine
 1. [Accueil](https://fony.be/)
 2. Cuisine
 
-Cuisine italienne sur mesure
+Stosa chez FONY
 
-# Cuisines italiennes
+# Votre cuisine équipée italienne
 
-Conçues avec vous à partir des mesures de votre pièce, livrées et installées.
+Un îlot pour cuisiner face à la pièce ou une table où s’attarder ? Dessinons votre cuisine à partir de vos habitudes et de la place disponible.
 
-[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite) [Voir la gamme](https://fony.be/cuisine#gamme)
+[Mon projet cuisine](https://fony.be/magasin-contact?projet=cuisine#visite) [Voir une cuisine livrée](https://fony.be/cuisine#premiere-cuisine-stosa)
 
 - Première visite, mesures et devis offerts
-- Conçues et fabriquées en Italie
+- Cuisines sur commande, façades et plans de travail sur échantillons au magasin
 - Garantie cinq ans
 
 La gamme Stosa
@@ -159,15 +159,15 @@ Photos Stosa. Toutes les collections sur commande.
 
 Réalisations
 
-## Une cuisine Stosa en images
+## La première cuisine Stosa livrée par FONY
 
-C’est la première cuisine Stosa que nous avons livrée. Un modèle Kaya, avec un plan de travail en compact.
+Pour cette cuisine, le choix s’est porté sur le modèle Kaya et un plan de travail en compact. La vidéo vous emmène dans la pièce après la livraison.
 
 [Voir la cuisine Kaya et son plan de travail en compact](https://fony.be/realisation-premiere-cuisine-stosa)
 
 (Photo : Cuisine Stosa Kaya : péninsule au décor bois avec tabourets, sous des vitrines suspendues à cadre noir éclairées)
 
-Photo Stosa : le modèle Kaya. La vidéo montre la cuisine livrée.
+Ambiance du fabricant Stosa, modèle Kaya. La vidéo montre la cuisine livrée par FONY.
 
 - ### La première cuisine Stosa
 
@@ -255,11 +255,11 @@ Toutes les collections Stosa, sur commande. Du vert sauge au terracotta, du bois
 
 Cuisine et pièce de vie
 
-## La cuisine et la pièce de vie, pensées ensemble.
+## Et de l’autre côté de la table ?
 
-Nous proposons à la fois la cuisine et le mobilier : les teintes s’accordent d’une pièce à l’autre, et toute la maison se prépare au même endroit.
+Depuis la cuisine, que voyez-vous du salon ? Apportez une photo prise dans cette direction. Elle nous aidera à comparer une façade avec la couleur du buffet ou le bois de la table que vous gardez.
 
-Salon, séjour, table et rangements sur mesure se choisissent dans des finitions assorties : voyez tout l’[espace de vie](https://fony.be/espace-de-vie).
+Ambiance Stosa. Pour choisir le mobilier autour de votre cuisine, explorez l’[espace de vie](https://fony.be/espace-de-vie).
 
 [Voir le séjour](https://fony.be/living)
 
@@ -292,7 +292,7 @@ Conseils
 
 ## Parlons de votre cuisine.
 
-Décrivez votre projet en quelques lignes : nous convenons d’un rendez-vous pour prendre les mesures chez vous et concevoir la cuisine avec vous.
+Au magasin, vous trouverez les échantillons de façades et de plans de travail. Si vous avez une photo ou un plan de la pièce, apportez-le. Nous pouvons aussi convenir d’une visite pour prendre les mesures chez vous.
 
 [Mon projet](https://fony.be/magasin-contact?projet=cuisine#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)

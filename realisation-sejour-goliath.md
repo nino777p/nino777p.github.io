@@ -14,13 +14,13 @@ Réalisations
 
 La cuisine blanche donnait déjà le ton. Dans son prolongement, le séjour devait garder la même lumière tout en laissant au salon et à la salle à manger leur caractère.
 
-## Une pièce composée en deux temps
+## Le même veinage, de la salle à manger au salon
 
-Le veinage Fiorentino de la table Goliath d’Akante se retrouve sur les tables basses et relie les deux espaces d’un regard. La bouclette du canapé donne du relief au salon. Le meuble TV et le dressoir Tomasella prolongent la composition.
+Regardez le plateau de la table Goliath d’Akante, puis les tables basses devant le canapé en bouclette. On y retrouve le même veinage Fiorentino. Le dressoir et le meuble TV viennent de chez Tomasella.
 
-Plus tard, une console et son miroir ont rejoint le séjour. Les premiers meubles donnent une direction, puis un détail prolonge l’accord à sa manière.
+La console et son miroir sont arrivés plus tard, quand les premiers meubles avaient déjà trouvé leur place. La deuxième vidéo montre cet ajout dans le séjour.
 
-[Explorer le séjour](https://fony.be/living)
+[Aménager mon séjour](https://fony.be/living)
 
 - ### Le séjour Goliath
 
@@ -30,6 +30,22 @@ Plus tard, une console et son miroir ont rejoint le séjour. Les premiers meuble
   [Voir la vidéo sur Instagram](https://www.instagram.com/reel/DQcCYyQDLex/)
 
 Vidéo hébergée par Instagram (Meta) : son lecteur ne se charge qu’après votre clic. [En savoir plus](https://fony.be/confidentialite#cookies)
+
+Ce que ce séjour montre
+
+## Trois questions que l’on nous pose.
+
+### Comment relier la salle à manger et le salon dans une pièce ouverte ?
+
+Ici, c’est un motif qui fait le lien : le veinage Fiorentino du plateau de la table se retrouve sur les tables basses. Chez vous, ce peut être un bois, une teinte ou une matière reprise à deux endroits de la pièce.
+
+### Peut-on aménager un séjour en plusieurs fois ?
+
+Oui. Dans ce séjour, les premiers meubles ont donné la direction. La console et son miroir ont suivi plus tard. Commencez par la pièce qui donne le ton, souvent la table ou le canapé.
+
+### Que faut-il apporter au magasin ?
+
+Une photo de la pièce et ses dimensions. Si vous gardez la cuisine, la table ou le sol, photographiez-les dans la même lumière : c’est à partir d’eux que nous choisissons le reste avec vous.
 
 ## Parlons de votre séjour.
 
