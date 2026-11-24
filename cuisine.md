@@ -275,6 +275,21 @@ Environ huit semaines entre la commande signée (acompte versé) et la pose, sel
 
 Pas encore de cuisine exposée, mais tous les échantillons sont au magasin : façades, coloris, plans de travail.
 
+Conseils
+
+## Pour préparer votre visite.
+
+- ### Une cuisine ouverte sur le salon ?
+
+  Les passages à garder et les questions à se poser.
+
+  [Lire le guide](https://fony.be/conseils-cuisine-ouverte-sur-salon)
+- ### Comment mesurer sa pièce ?
+
+  Les mesures et les photos à apporter.
+
+  [Lire le guide](https://fony.be/conseils-mesurer-sa-piece)
+
 ## Parlons de votre cuisine.
 
 Décrivez votre projet en quelques lignes : nous convenons d’un rendez-vous pour prendre les mesures chez vous et concevoir la cuisine avec vous.

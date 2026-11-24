@@ -22,6 +22,22 @@ Le bon canapé n’est pas le plus grand qui entre : c’est celui qui laisse v
 
 Photo Tomasella.
 
+Les repères
+
+## Trois mesures qui décident.
+
+Les chiffres viennent des fiches de nos fabricants. Ils changent d’un modèle à l’autre : ce sont des ordres de grandeur pour tracer au sol.
+
+- ### La profondeur
+
+  Un canapé occupe environ 1 m à 1,20 m de profondeur. Sur trois de nos modèles relax : [Kuma](https://fony.be/salon-max-divani-kuma) 98 cm, [Zebra](https://fony.be/salon-max-divani-zebra) 110 cm, [Tata](https://fony.be/salon-max-divani-tata) 117 cm.
+- ### Le relax ouvert
+
+  Repose-jambes déplié, comptez 50 à 60 cm de plus devant : 158 cm pour Kuma, 162 cm pour Zebra, 166 cm pour Tata. C’est cette mesure-là qu’il faut tracer devant la table basse.
+- ### L’angle
+
+  Un angle demande deux murs ou un grand dégagement. Deux exemples : Zebra avec chaise longue, 287 × 238 cm ; Tata en angle arrondi, 370 × 230 cm.
+
 L’essai à la maison
 
 ## Trois gestes avant de mesurer.

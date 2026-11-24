@@ -127,6 +127,21 @@ Ce que vous trouverez
 
 Pour le reste de la maison : le salon, la table, le séjour et la cuisine sont dans l’[espace de vie](https://fony.be/espace-de-vie) ; les dressings et le sur mesure dans [rangements et aménagement](https://fony.be/rangements).
 
+Conseils
+
+## Pour préparer votre visite.
+
+- ### Quelle taille de lit pour ma chambre ?
+
+  140, 160 ou 180 cm : ce que ça change.
+
+  [Lire le guide](https://fony.be/conseils-taille-lit-chambre)
+- ### Quelle profondeur pour un dressing ?
+
+  Les repères avant de dessiner le rangement.
+
+  [Lire le guide](https://fony.be/conseils-profondeur-dressing)
+
 ## Venez essayer votre literie.
 
 Prenez le temps de vous allonger : un matelas se choisit couché, pas debout. Nous composons ensuite la chambre autour du lit.

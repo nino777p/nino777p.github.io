@@ -182,6 +182,26 @@ Oui. Nous préparons une projection 3D de votre aménagement : vous voyez les v
 
 Oui : nous partons de ce que vous avez déjà.
 
+Conseils
+
+## Pour préparer votre visite.
+
+- ### Quelle profondeur pour un dressing ?
+
+  Les repères avant de dessiner le rangement.
+
+  [Lire le guide](https://fony.be/conseils-profondeur-dressing)
+- ### À quelle hauteur placer la télévision ?
+
+  Les repères à prendre depuis votre canapé.
+
+  [Lire le guide](https://fony.be/conseils-hauteur-meuble-tv)
+- ### Comment mesurer sa pièce ?
+
+  Les mesures et les photos à apporter.
+
+  [Lire le guide](https://fony.be/conseils-mesurer-sa-piece)
+
 ## Parlons de votre projet sur mesure.
 
 Remplissez la fiche ou appelez-nous : nous convenons d’une visite, ou nous vous aiguillons par téléphone.

@@ -138,6 +138,31 @@ Accorder l’ensemble
 
 Pour le reste de la maison : la literie et la chambre sont dans l’[espace nuit](https://fony.be/espace-nuit) ; les dressings, les bibliothèques et le sur mesure dans [rangements et aménagement](https://fony.be/rangements).
 
+Conseils
+
+## Pour préparer votre visite.
+
+- ### Quelle taille de table pour 4, 6 ou 8 ?
+
+  La place de chacun et la place autour.
+
+  [Lire le guide](https://fony.be/conseils-taille-table-salle-a-manger)
+- ### Table basse : quelle taille, quelle hauteur ?
+
+  Trois repères et un essai au carton.
+
+  [Lire le guide](https://fony.be/conseils-table-basse-taille-hauteur)
+- ### Créer un coin lecture dans le salon
+
+  Le fauteuil, la lampe et la place autour.
+
+  [Lire le guide](https://fony.be/conseils-coin-lecture-salon)
+- ### Aménager sa maison selon son projet
+
+  Par où commencer quand la vie change.
+
+  [Lire le guide](https://fony.be/conseils-amenager-maison-selon-son-projet)
+
 ## Venez voir et essayer au magasin.
 
 Apportez les dimensions de votre pièce et, si possible, une photo. Nous accordons avec vous les matières du canapé, de la table et des meubles.

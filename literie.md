@@ -217,6 +217,16 @@ Oui. Plusieurs couchages sont installés au magasin : allongez-vous, sans rende
 
 Oui, la livraison et l’installation sont assurées par nos soins.
 
+Conseils
+
+## Pour préparer votre visite.
+
+- ### Quelle taille de lit pour ma chambre ?
+
+  140, 160 ou 180 cm : ce que ça change.
+
+  [Lire le guide](https://fony.be/conseils-taille-lit-chambre)
+
 ## Venez essayer nos matelas et boxsprings.
 
 Allongez-vous dans votre position habituelle : c’est le test le plus fiable. Notre magasin de literie, à Leval-Trahegnies (Binche), vous accueille sans rendez-vous, à quelques minutes d’Anderlues, à un quart d’heure de La Louvière et moins de trente minutes de Mons. Parking facile d’accès.

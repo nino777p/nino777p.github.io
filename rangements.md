@@ -122,6 +122,21 @@ Votre projet
 
 Vous êtes professionnel ? Nous aménageons aussi vos espaces : voyez l’[espace pro](https://fony.be/espace-pro). Pour le reste de la maison : l’[espace de vie](https://fony.be/espace-de-vie) et l’[espace nuit](https://fony.be/espace-nuit).
 
+Conseils
+
+## Pour préparer votre visite.
+
+- ### Quelle profondeur pour un dressing ?
+
+  Les repères avant de dessiner le rangement.
+
+  [Lire le guide](https://fony.be/conseils-profondeur-dressing)
+- ### Comment mesurer sa pièce ?
+
+  Les mesures et les photos à apporter.
+
+  [Lire le guide](https://fony.be/conseils-mesurer-sa-piece)
+
 ## Parlons de votre pièce.
 
 Apportez un plan ou quelques mesures, et une photo du mur. Nous dessinons la composition avec vous.

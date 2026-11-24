@@ -173,6 +173,31 @@ Oui. Des salons et des fauteuils relax sont exposés au magasin : comparez leur
 
 Le fauteuil relax permet de s’incliner et de relever les jambes ; le releveur ajoute une aide pour se mettre debout.
 
+Conseils
+
+## Pour préparer votre visite.
+
+- ### Quelle taille de canapé pour mon salon ?
+
+  Le tracé au sol à faire avant de venir.
+
+  [Lire le guide](https://fony.be/conseils-taille-canape-salon)
+- ### Comment choisir un canapé confortable ?
+
+  Ce qu’il faut essayer, assis, au magasin.
+
+  [Lire le guide](https://fony.be/conseils-choisir-canape-confortable)
+- ### Cuir, microfibre ou tissu ?
+
+  Ce qui change au toucher et à l’entretien.
+
+  [Lire le guide](https://fony.be/conseils-canape-cuir-microfibre-tissu)
+- ### Un canapé-lit pour tous les jours ?
+
+  Ce qu’il faut vérifier avant de choisir.
+
+  [Lire le guide](https://fony.be/conseils-canape-lit-tous-les-jours)
+
 ## Venez essayer nos salons.
 
 Venez essayer nos salons à Leval-Trahegnies, à quelques minutes de Morlanwelz et d’Anderlues, à un quart d’heure de La Louvière. Notre équipe vous aide à choisir la configuration, les revêtements et les fonctions qui vous conviennent. Parking facile d’accès.
