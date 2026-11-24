@@ -35,7 +35,7 @@ Cinq situations
 
   Le soir du déménagement, on cherche de quoi faire le lit, on pose deux assiettes où l’on peut et on se promet de retrouver la cafetière pour demain. Faites une place à ces premiers gestes dans votre budget. Si une vieille table vous dépanne, gardez-la quelques semaines. En prenant vos premiers repas, vous découvrirez peut-être que vous préférez manger près de la fenêtre et garder le grand mur pour le canapé.
 
-  [Mesurer sa pièce](https://fony.be/conseils-mesurer-sa-piece)
+  [Mesurer la pièce et le passage des meubles](https://fony.be/conseils-mesurer-sa-piece#mesures)
 - ### Je veux aménager toute ma maison
 
   Imaginez un dimanche chez vous. Le café se prépare dans la cuisine pendant que quelqu’un lit au salon. À midi, la table s’ouvre. Où aimeriez-vous que tout cela se passe ? Sur le plan de la maison, placez d’abord la table, le canapé et les lits. Une fois ces repères posés, il devient plus facile de décider où ranger la vaisselle ou installer une lampe pour lire. Vous pouvez concevoir l’ensemble aujourd’hui et choisir les pièces au fil de votre budget. Chez FONY, le [séjour Goliath](https://fony.be/realisation-sejour-goliath) s’est construit de cette façon : la console et son miroir ont rejoint la pièce dans un second temps.
@@ -46,7 +46,7 @@ Cinq situations
 
   Vous avez envie d’y coudre, d’y lire au calme, mais aussi d’accueillir quelqu’un de temps en temps. Pensez à un mardi ordinaire. Si c’est ce jour-là que vous utiliserez la pièce le plus souvent, offrez la lumière de la fenêtre à votre table de couture ou à votre fauteuil. Dessinez ensuite la place d’un couchage ouvert pour les soirs où quelqu’un reste dormir.
 
-  [Un canapé-lit pour tous les jours ?](https://fony.be/conseils-canape-lit-tous-les-jours)
+  [Vérifier la place du couchage ouvert](https://fony.be/conseils-canape-lit-tous-les-jours#repere)
 
 Voir aussi
 

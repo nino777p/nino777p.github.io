@@ -90,6 +90,10 @@ Les deux durent quand ils sont choisis pour l’usage réel et entretenus comme 
 
 Partez de ce qui vous gêne le plus : les poils, les accrocs ou les traces. Pour chaque revêtement, demandez ce que la notice du fabricant prévoit ; nous la regardons avec vous, échantillons en main.
 
+### À quoi sert le chiffre Martindale sur un échantillon de tissu ?
+
+Il indique comment le tissu résiste aux frottements répétés lors d’un essai en laboratoire. Chez Max Divani, par exemple, la fiche du tissu Oasis indique 180 000 cycles. Si votre chat accroche souvent le canapé, regardez aussi si le tissage présente des boucles où une griffe peut se prendre. Pour votre commande, demandez la fiche du tissu choisi et ses consignes d’entretien.
+
 ### Le cuir est-il froid en hiver ?
 
 Il prend la température de la pièce, puis celle du corps. Asseyez-vous quelques minutes au magasin pour sentir la différence avec un tissu.

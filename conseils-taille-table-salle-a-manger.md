@@ -37,7 +37,7 @@ Ce sont des repères courants d’aménagement. Vérifiez-les dans votre pièce,
 
   ### La place autour
 
-  Tirez une chaise comme pour sortir de table : la personne derrière vous peut-elle encore passer ? À titre de repère, 70 à 80 cm pour reculer sa chaise, environ un mètre pour passer derrière quelqu’un d’assis.
+  Laissez environ 60 cm de bord de table par personne comme point de départ. Pour vous lever, essayez de réserver 90 à 100 cm entre le bord du plateau et le mur. Si quelqu’un passe derrière vous pendant le repas, tracez plutôt 120 à 140 cm et essayez avec la chaise occupée.
 - 03
 
   ### Le contour au sol
@@ -50,7 +50,7 @@ Ronde ou rectangulaire
 
 - ### Table ronde
 
-  À titre d’exemple : pour quatre, un diamètre de 100 à 110 cm ; pour six, de 120 à 135 cm ; pour huit, environ 150 cm. Le nombre de places dépend aussi de la largeur des chaises et de la position du pied.
+  Tracez un cercle de 100 à 110 cm de diamètre pour essayer quatre places, de 120 à 130 cm pour six, de 140 à 160 cm pour huit. Posez vos propres chaises autour. Des accoudoirs larges ou un pied déporté peuvent changer le nombre de places utilisables.
 - ### Table rectangulaire
 
   Pour six, de 160 à 180 cm de long. Pour huit, de 200 à 220 cm. La largeur tourne autour de 90 à 100 cm, pour laisser la place des plats au milieu.
@@ -81,7 +81,7 @@ Un exemple : la [New Austin 135](https://fony.be/tables-akante-austin) ouverte 
 
 ### Quelle place faut-il autour d’une table ?
 
-Au moins 70 à 80 cm entre la table et le mur ou le meuble voisin, pour reculer sa chaise. Environ un mètre si l’on doit circuler derrière.
+Laissez environ 60 cm de bord de table par personne comme point de départ. Pour vous lever, essayez de réserver 90 à 100 cm entre le bord du plateau et le mur. Si quelqu’un passe derrière vous pendant le repas, tracez plutôt 120 à 140 cm et essayez avec la chaise occupée.
 
 ### Table ronde ou rectangulaire dans une petite pièce ?
 

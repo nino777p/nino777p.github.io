@@ -75,9 +75,9 @@ Ambiances Max Divani
 
   Max Divani Gala
 
-  Un canapé aux formes souples, à composer selon votre pièce.
+  Une chaise longue près de la fenêtre, un passage à garder vers la terrasse ? Voici quelques idées pour disposer les éléments de Gala dans votre pièce.
 
-  [Découvrir Gala](https://fony.be/salon-max-divani-gala)
+  [Voir les idées de composition](https://fony.be/salon-max-divani-gala#composition)
 
 Le revêtement se choisit modèle par modèle, échantillons en main, avec une photo de votre pièce. À côté du canapé, le fauteuil [Dana](https://fony.be/salon-max-divani-dana) se choisit lui aussi en cuir ou en tissu.
 
@@ -87,7 +87,7 @@ Fiches techniques
 
 ## Dimensions et revêtements, modèle par modèle.
 
-Chaque salon a sa fiche technique au Catalogue. Les compositions se découvrent au magasin.
+Le Catalogue présente les dimensions et les compositions illustrées. Pour les salons modulables, nous pouvons aussi étudier une autre disposition avec vous en magasin.
 
 [Voir les fiches au Catalogue](https://fony.be/catalogue#pieces)
 

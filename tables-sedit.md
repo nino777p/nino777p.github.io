@@ -51,7 +51,9 @@ Photo Sedit.
 
 Quand on est nombreux
 
-## Elle s’allonge.
+## Quelle longueur les jours de fête ?
+
+Prenez une table rectangulaire de 180 × 100 cm. Sur une version Sedit, deux rallonges de 45 cm portent sa longueur à 270 cm. Tracez les deux extrémités au sol avant de choisir. La porte du buffet s’ouvre-t-elle encore quand une chaise est occupée en bout de table ?
 
 [Comparer les rallonges Akante](https://fony.be/tables-extensibles-ceramique)
 

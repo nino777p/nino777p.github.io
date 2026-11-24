@@ -26,9 +26,9 @@ Le sommier
 - ### La version électrique
 
   Le couchage se relève : pratique pour lire ou regarder la télévision au lit.
-- ### Votre lit reste le même
+- ### Vous gardez votre cadre de lit ?
 
-  Le sommier se pose dans votre cadre de lit : vous gardez celui que vous aimez.
+  Mesurez la largeur et la longueur intérieures du cadre. Prenez aussi une photo des appuis qui portent le sommier et notez la référence de votre matelas. Avec ces éléments, nous pourrons vérifier quel sommier convient.
 
 (Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)
 

@@ -10,7 +10,7 @@ Adresse de la page : https://fony.be/conseils-table-basse-taille-hauteur
 
 Conseils · Salon
 
-# Quelle taille pour ma table basse ?
+# Quelle taille de table basse devant mon canapé ?
 
 Pour poser une tasse, vous tendez la main. Pour jouer aux cartes, vous vous penchez vers le milieu. Lequel de ces gestes revient le plus souvent chez vous ?
 
@@ -22,99 +22,23 @@ Pour poser une tasse, vous tendez la main. Pour jouer aux cartes, vous vous penc
 
 Photo Mobliberica.
 
-Les repères
+Pour choisir entre deux tables basses, prenez le livre que vous lisez en ce moment. Installez-vous à votre place habituelle. À quel endroit aimeriez-vous pouvoir le poser quand le téléphone sonne ? Si vous aimez rester dans l’angle du canapé, la réponse peut être « juste à ma gauche », alors que le milieu du tapis se trouve à plus d’une longueur de bras.
 
-## Trois mesures pour partir.
+## La bonne hauteur se mesure depuis votre place
 
-Des repères d’usage, que l’essai du carton confirme ou corrige chez vous.
+Asseyez-vous et demandez à quelqu’un de mesurer la hauteur du coussin près de votre cuisse. Un plateau à peu près à ce niveau, ou un peu plus bas, est un bon point de départ. Un canapé très moelleux peut descendre de plusieurs centimètres quand on s’y installe. Pour départager deux hauteurs, posez votre livre sur un support stable à chacune d’elles. Vous sentirez vite à laquelle vous devez quitter le dossier pour le reprendre.
 
-- ### La hauteur
+## Quelle longueur devant un canapé droit ?
 
-  Au niveau de l’assise du canapé, ou quelques centimètres plus bas. La plupart des tables basses mesurent 40 à 45 cm de haut.
-- ### La distance
+Pour un canapé de **225 cm**, un premier tracé de **150 cm** donne une idée du plateau devant soi. Cela correspond au repère des deux tiers. Pour placer un carton aux dimensions de la table, partez du bord avant du canapé et avancez de **40 à 45 cm**. C’est là que commence le plateau. Asseyez-vous, puis levez-vous pendant que quelqu’un reste à côté de vous. Si vous devez tous les deux rentrer les genoux, éloignez un peu la table. Si c’est en bout de table que vous restez coincé, essayez un plateau plus court. Cette distance sert à essayer la table à portée de main. Le chemin qui traverse le séjour se mesure à part.
 
-  Environ 40 à 45 cm entre le bord du canapé et la table : assez pour passer les jambes, assez peu pour atteindre sa tasse.
-- ### La longueur
+## Une grande table, ou deux petites ?
 
-  Environ les deux tiers de la longueur du canapé. Plus longue, elle bloque le passage ; plus courte, elle paraît perdue.
+Si la table sert aux jeux de société, sortez votre jeu préféré et dépliez le plateau sur le tracé. Reste-t-il une place pour les cartes de chacun ? Si elle sert surtout à poser un verre depuis le canapé et un autre depuis le fauteuil, deux petites tables qu’on rapproche au besoin peuvent mieux convenir. Devant une méridienne, un plateau ovale mérite aussi un essai si c’est toujours le même coin de table que vous devez contourner.
 
-L’essai à la maison
+Un dernier détail pour un canapé relax. Relevez le repose-pieds jusqu’à votre position de lecture et regardez où pourrait rester la table. Si vous deviez la pousser chaque soir, essayez une petite table en bout de canapé, du côté de l’accoudoir. Votre livre reste à portée de main, même quand vous allongez les jambes.
 
-## Trois gestes.
-
-Avec un carton ou une pile de livres à la place de la table.
-
-- 01
-
-  ### La hauteur
-
-  Asseyez-vous sur votre coussin habituel. Posez un livre sur un support stable, à la hauteur du plateau envisagé, puis prenez-le et reposez-le. À quelques centimètres près, on sent si l’on doit se pencher plus qu’on ne le voudrait.
-- 02
-
-  ### La distance
-
-  Rapprochez puis éloignez le carton : il faut pouvoir passer les jambes et atteindre la table sans se lever. Avec un relax, refaites l’essai repose-pieds ouvert.
-- 03
-
-  ### La taille
-
-  Regardez depuis l’entrée de la pièce : la table doit sembler appartenir au canapé, sans le dépasser ni disparaître devant lui.
-
-La forme
-
-## Selon le canapé et la pièce.
-
-- ### Devant un canapé droit
-
-  Une table rectangulaire ou ovale suit la longueur du canapé.
-- ### Dans l’angle d’un canapé d’angle
-
-  Une table carrée ou ronde se place au creux de l’angle, à portée des deux côtés.
-- ### Dans un petit salon
-
-  Deux petites tables qui se rangent l’une sous l’autre se déplacent selon le moment : une près du canapé, une près du fauteuil.
-
-Si de jeunes enfants jouent dans le salon, regardez les angles et la matière du plateau.
-
-Vos questions
-
-## Avant de choisir.
-
-### Table basse ronde ou rectangulaire ?
-
-Ronde, on la contourne plus facilement ; rectangulaire, elle offre plus de surface devant un long canapé.
-
-### Peut-on assortir la table basse à la table de repas ?
-
-Oui : reprendre le même plateau ou le même veinage relie le salon à la salle à manger. C’est le choix fait dans notre réalisation [Séjour Goliath](https://fony.be/realisation-sejour-goliath).
-
-### Une table basse avec rangement ?
-
-Utile pour les télécommandes et les magazines. Vérifiez que le tiroir ou le plateau relevable s’ouvre sans toucher le canapé.
-
-### Quelle matière pour le plateau ?
-
-Céramique, bois ou verre : comparez-les au magasin. Notre guide [Céramique ou bois](https://fony.be/conseils-table-ceramique-ou-bois) explique ce qui change.
-
-Voir aussi
-
-## Continuer votre choix.
-
-- ### Les salons
-
-  Canapés fixes, relax et à composer.
-
-  [Voir les salons](https://fony.be/salon)
-- ### Tables basses Akante
-
-  Les tables basses assorties aux tables de repas.
-
-  [Voir les tables basses](https://fony.be/tables-akante#tables-basses)
-- ### Quelle taille de canapé ?
-
-  Trouver la bonne longueur.
-
-  [Lire le guide](https://fony.be/conseils-taille-canape-salon)
+[Voir les salons](https://fony.be/salon)
 
 ## Venez avec une photo de votre salon.
 

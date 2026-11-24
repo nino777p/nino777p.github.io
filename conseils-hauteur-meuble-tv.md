@@ -22,22 +22,6 @@ La bonne hauteur se décide assis dans le canapé, pas debout devant le mur.
 
 Photo Tomasella.
 
-Le recul
-
-## Quelle taille d’écran pour votre distance ?
-
-Les professionnels de l’image (SMPTE) conseillent que l’écran occupe environ 30° du champ de vision. Cela revient à s’asseoir à environ 1,6 fois la diagonale. Ce sont des repères : la notice de votre téléviseur donne la distance conseillée.
-
-- ### Écran de 50 pouces (127 cm)
-
-  Environ 2 m entre vos yeux et l’écran.
-- ### Écran de 55 pouces (140 cm)
-
-  Environ 2,25 m.
-- ### Écran de 65 pouces (165 cm)
-
-  Environ 2,70 m. Plus près, l’image est plus enveloppante, comme au cinéma.
-
 Les repères
 
 ## Trois gestes avant de fixer quoi que ce soit.
@@ -53,12 +37,28 @@ Des repères courants, à vérifier chez vous depuis votre place habituelle.
 
   ### Placez le centre de l’écran
 
-  Le centre de l’écran se place à cette marque, ou un peu plus bas. Si le téléviseur repose sur le meuble, mesurez aussi la distance entre le bas de son pied et le centre de l’image.
+  Asseyez-vous et marquez la hauteur de vos yeux au mur. Si cette marque est à 105 cm du sol et que le centre de l’image se trouve à 40 cm au-dessus du plateau, essayez un meuble haut de 65 cm. Remplacez ces deux mesures par les vôtres.
 - 03
 
   ### Mesurez le recul
 
   Notez la distance entre vos yeux et le mur. La bonne taille d’écran pour ce recul dépend de sa résolution : la notice du téléviseur donne la distance conseillée.
+
+Le recul
+
+## À quelle distance essayer l’écran ?
+
+Voici un essai pour un écran 16:9 occupant 30° de votre champ de vision horizontal. Mesurez depuis vos yeux jusqu’à l’écran. Ajustez selon votre place et la notice de votre téléviseur.
+
+- ### Écran de 50 pouces
+
+  Essayez environ 2,1 m.
+- ### Écran de 55 pouces
+
+  Essayez environ 2,3 m.
+- ### Écran de 65 pouces
+
+  Essayez environ 2,7 m.
 
 Le meuble
 

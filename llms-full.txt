@@ -318,9 +318,9 @@ Ambiances Max Divani
 
   Max Divani Gala
 
-  Un canapé aux formes souples, à composer selon votre pièce.
+  Une chaise longue près de la fenêtre, un passage à garder vers la terrasse ? Voici quelques idées pour disposer les éléments de Gala dans votre pièce.
 
-  [Découvrir Gala](https://fony.be/salon-max-divani-gala)
+  [Voir les idées de composition](https://fony.be/salon-max-divani-gala#composition)
 
 Le revêtement se choisit modèle par modèle, échantillons en main, avec une photo de votre pièce. À côté du canapé, le fauteuil [Dana](https://fony.be/salon-max-divani-dana) se choisit lui aussi en cuir ou en tissu.
 
@@ -330,7 +330,7 @@ Fiches techniques
 
 ## Dimensions et revêtements, modèle par modèle.
 
-Chaque salon a sa fiche technique au Catalogue. Les compositions se découvrent au magasin.
+Le Catalogue présente les dimensions et les compositions illustrées. Pour les salons modulables, nous pouvons aussi étudier une autre disposition avec vous en magasin.
 
 [Voir les fiches au Catalogue](https://fony.be/catalogue#pieces)
 
@@ -2250,31 +2250,31 @@ Selon votre situation
 
 ## Qu’est-ce qui vous amène ?
 
-- ### J’emménage
+- ### J’emménage dans mon premier appartement
 
-  Qu’est-ce qu’on achète en premier, et que faut-il mesurer ?
+  Le premier soir, où allez-vous dormir et prendre votre repas ? Les autres meubles peuvent se décider une fois sur place.
 
-  [Mesurer sa pièce](https://fony.be/conseils-mesurer-sa-piece)
+  [Choisir mes premiers meubles](https://fony.be/conseils-amenager-maison-selon-son-projet#premier-appartement)
 - ### J’ai envie de changement
 
-  Vous aimez encore vos meubles : on change une partie, pas tout.
+  Vous tenez à votre table, mais vous la voyez à peine tant elle vous est familière. Essayez une autre chaise en bout de table.
 
-  [Par où commencer](https://fony.be/conseils-amenager-maison-selon-son-projet#situations)
+  [Changer autour d’un meuble que j’aime](https://fony.be/conseils-amenager-maison-selon-son-projet#envie-de-changement)
 - ### On s’installe à deux
 
-  Chacun arrive avec ses meubles : que garder, qu’accorder ?
+  Deux buffets pour un seul séjour. Avant de choisir, dites-vous chacun lequel vous auriez du plaisir à retrouver en rentrant.
 
-  [Par où commencer](https://fony.be/conseils-amenager-maison-selon-son-projet#situations)
-- ### Une chambre se libère
+  [Faire une place aux meubles de chacun](https://fony.be/conseils-amenager-maison-selon-son-projet#installation-a-deux)
+- ### Une chambre devient aussi mon bureau
 
-  En faire un bureau ou un coin à soi, qui accueille encore un invité.
+  Où ira la chaise du bureau le soir où quelqu’un dormira ici ? Faites l’essai avec le couchage ouvert.
 
-  [Le canapé-lit de tous les jours](https://fony.be/conseils-canape-lit-tous-les-jours)
+  [Partager la pièce entre bureau et invités](https://fony.be/conseils-amenager-maison-selon-son-projet#bureau-chambre-amis)
 - ### J’aménage toute la maison
 
-  Garder un fil entre les pièces, du salon à la chambre.
+  Sur le plan, placez la table où vous aimeriez déjeuner le dimanche. Le canapé, puis les rangements, trouveront plus facilement leur place.
 
-  [Par où commencer](https://fony.be/conseils-amenager-maison-selon-son-projet#situations)
+  [Aménager ma maison par étapes](https://fony.be/conseils-amenager-maison-selon-son-projet#maison-par-etapes)
 
 Nos guides
 
@@ -2783,13 +2783,13 @@ Cinq pièces très différentes, pour donner une idée de l’univers. Une parti
   Table Maya.
 - (Photo : Buffet bas bleu aux façades en relief quadrillé, sur un piètement fin)
 
-  Buffet Ofelia.
+  Buffet Ofelia. Les portes s’ouvrent d’une pression. Deux exemples de largeur dans la collection, 120 et 240 cm, pour 50 cm de profondeur.
 - (Photo : Miroir rond entouré d’un large cadre argenté en relief)
 
-  Miroir Dance.
+  Miroir Dance. Son cadre est en verre travaillé. Pour visualiser sa place au mur, tracez un cercle de 90, 120 ou 180 cm de diamètre.
 - (Photo : Horloge murale carrée aux angles arrondis, cadran clair cerclé de lignes dorées)
 
-  Horloge Horizon.
+  Horloge Horizon. Ses angles arrondis et ses lignes gravées au laser dessinent un carré en verre miroir, naturel ou bronze.
 - (Photo : Bibliothèque sol-plafond : un montant fin portant des rubans sombres enroulés)
 
   Bibliothèque Tiffany.
@@ -3087,7 +3087,7 @@ Cinq situations
 
   Le soir du déménagement, on cherche de quoi faire le lit, on pose deux assiettes où l’on peut et on se promet de retrouver la cafetière pour demain. Faites une place à ces premiers gestes dans votre budget. Si une vieille table vous dépanne, gardez-la quelques semaines. En prenant vos premiers repas, vous découvrirez peut-être que vous préférez manger près de la fenêtre et garder le grand mur pour le canapé.
 
-  [Mesurer sa pièce](https://fony.be/conseils-mesurer-sa-piece)
+  [Mesurer la pièce et le passage des meubles](https://fony.be/conseils-mesurer-sa-piece#mesures)
 - ### Je veux aménager toute ma maison
 
   Imaginez un dimanche chez vous. Le café se prépare dans la cuisine pendant que quelqu’un lit au salon. À midi, la table s’ouvre. Où aimeriez-vous que tout cela se passe ? Sur le plan de la maison, placez d’abord la table, le canapé et les lits. Une fois ces repères posés, il devient plus facile de décider où ranger la vaisselle ou installer une lampe pour lire. Vous pouvez concevoir l’ensemble aujourd’hui et choisir les pièces au fil de votre budget. Chez FONY, le [séjour Goliath](https://fony.be/realisation-sejour-goliath) s’est construit de cette façon : la console et son miroir ont rejoint la pièce dans un second temps.
@@ -3098,7 +3098,7 @@ Cinq situations
 
   Vous avez envie d’y coudre, d’y lire au calme, mais aussi d’accueillir quelqu’un de temps en temps. Pensez à un mardi ordinaire. Si c’est ce jour-là que vous utiliserez la pièce le plus souvent, offrez la lumière de la fenêtre à votre table de couture ou à votre fauteuil. Dessinez ensuite la place d’un couchage ouvert pour les soirs où quelqu’un reste dormir.
 
-  [Un canapé-lit pour tous les jours ?](https://fony.be/conseils-canape-lit-tous-les-jours)
+  [Vérifier la place du couchage ouvert](https://fony.be/conseils-canape-lit-tous-les-jours#repere)
 
 Voir aussi
 
@@ -3237,6 +3237,10 @@ Les deux durent quand ils sont choisis pour l’usage réel et entretenus comme 
 ### Quel revêtement avec un chien ou un chat ?
 
 Partez de ce qui vous gêne le plus : les poils, les accrocs ou les traces. Pour chaque revêtement, demandez ce que la notice du fabricant prévoit ; nous la regardons avec vous, échantillons en main.
+
+### À quoi sert le chiffre Martindale sur un échantillon de tissu ?
+
+Il indique comment le tissu résiste aux frottements répétés lors d’un essai en laboratoire. Chez Max Divani, par exemple, la fiche du tissu Oasis indique 180 000 cycles. Si votre chat accroche souvent le canapé, regardez aussi si le tissage présente des boucles où une griffe peut se prendre. Pour votre commande, demandez la fiche du tissu choisi et ses consignes d’entretien.
 
 ### Le cuir est-il froid en hiver ?
 
@@ -3593,7 +3597,7 @@ Adresse de la page : https://fony.be/conseils-choisir-canape-confortable
 
 Conseils · Salon
 
-# Comment choisir un canapé confortable ?
+# Comment choisir un canapé où l’on se sent vraiment bien ?
 
 Un canapé confortable est celui qui convient à votre façon de vous asseoir. Cela se vérifie assis, pas sur une photo.
 
@@ -3605,110 +3609,23 @@ Un canapé confortable est celui qui convient à votre façon de vous asseoir. C
 
 Photo Max Divani, canapé Zebra.
 
-L’essai
+Si vous pouviez garder une seule chose de votre canapé actuel, qu’est-ce que ce serait ? Peut-être cet accoudoir où vous posez votre livre. Ou cette place, tout au bout, qui vous permet de replier les jambes. Et qu’aimeriez-vous changer ? « J’ai toujours besoin d’un coussin derrière le dos » donne déjà une bonne piste pour votre prochain essai.
 
-## Quatre points à vérifier, assis.
+## Commencez par votre place habituelle
 
-Asseyez-vous comme le soir chez vous, et restez quelques minutes.
+Au magasin, on a tendance à s’asseoir bien droit au bord du coussin. Chez soi, on s’installe autrement. Prenez la place que vous choisiriez pour une soirée entière. Si vous aimez lire assis, calez votre dos, posez les pieds et tenez un livre quelques minutes. L’accoudoir arrive-t-il là où votre coude le cherche ? Si vous regardez plutôt les films en travers, prenez aussi cette position. Un accoudoir qui vous convient sous le coude peut vous sembler bien haut sous la tête.
 
-- 01
+## Trop profond ou trop souple ?
 
-  ### La profondeur d’assise
+Vous glissez vers l’avant pour poser les pieds au sol et votre dos quitte le dossier. Refaites le même essai avec un coussin dans le dos. Si vous préférez cette position, comparez avec une assise plus courte ou un dossier qui s’avance. Pour juger la fermeté, faites un autre essai. Asseyez-vous, laissez le coussin se tasser sous votre poids, puis relevez-vous comme chez vous. Vous pouvez très bien aimer une place profonde et la préférer assez ferme.
 
-  Dos calé dans votre position habituelle, vos pieds ont-ils un appui confortable ? Le bord du coussin appuie-t-il derrière vos genoux ? Si oui, l’assise est trop profonde pour vous.
-- 02
+Une mesure peut vous aider à retrouver ce que vous aimez déjà. Sur votre canapé actuel, mesurez **du bord avant du coussin jusqu’au dossier, là où votre dos se pose**. C’est la profondeur d’assise. La profondeur totale, qui comprend le dossier, sert à savoir combien de place le meuble prendra dans le séjour.
 
-  ### La hauteur d’assise
+## Et si vous n’aimez pas vous asseoir de la même façon ?
 
-  Vos pieds reposent à plat et vos genoux forment à peu près un angle droit. Une assise plus haute aide à se relever.
-- 03
+Faites l’essai à deux, chacun à sa place. L’un aime peut-être discuter, les pieds au sol, tandis que l’autre se cale au fond avec un livre. Essayez un dossier réglable ou un fauteuil à côté du canapé. Dans le premier cas, vérifiez si chaque place se règle séparément. Dans le second, voyez si vous pouvez encore vous parler sans tourner les épaules. Si vous hésitez entre deux salons après l’essai, demandez-vous dans lequel chacun de vous a fini par s’installer naturellement.
 
-  ### Le dossier et la tête
-
-  Regardez jusqu’où le dossier vous porte, selon votre taille. Pour lire ou regarder un film, une têtière réglable soutient la nuque.
-- 04
-
-  ### La fermeté
-
-  Souplesse et profondeur sont deux choses différentes : une assise peut être profonde et ferme. Essayez plusieurs conforts : le corps répond vite.
-
-Votre usage
-
-## Ce qui change selon la vie de la maison.
-
-- ### Droit, d’angle ou à composer
-
-  Dessinez la pièce avec la porte et le passage. L’angle se place du côté qui ne coupe pas la circulation. Un canapé à composer s’adapte élément par élément.
-- ### Relax ou fixe
-
-  Un relax électrique allonge les jambes et incline le dossier. Demandez l’encombrement total ouvert et le recul nécessaire derrière le dossier, pour la version qui vous intéresse.
-- ### Le revêtement
-
-  Cuir, microfibre ou tissu : chacun a son toucher et son entretien. Comparez les échantillons à la lumière du jour, avec une photo de votre pièce.
-
-Avant de commander, mesurez la porte d’entrée, le couloir et l’escalier : le canapé doit arriver jusqu’au salon.
-
-Canapé d’angle
-
-## Angle à gauche ou à droite ?
-
-- ### Entourez la méridienne
-
-  Entourez la méridienne sur le dessin de la référence et faites confirmer le côté au magasin : c’est le plus sûr.
-- ### Dessinez la porte
-
-  Sur votre croquis, placez la porte et le passage vers la pièce voisine. L’angle va du côté qui ne coupe pas le chemin.
-- ### Validez sur le dessin commandé
-
-  Avant de signer, vérifiez le sens sur le dessin de la référence commandée, pas seulement sur une photo d’ambiance.
-
-Vos questions
-
-## Avant de choisir.
-
-### Comment savoir si un canapé est confortable ?
-
-Asseyez-vous dix minutes dans votre position habituelle. Vérifiez la profondeur d’assise, l’appui du dos et de la nuque, et la facilité à vous relever.
-
-### Assise ferme ou assise souple ?
-
-Ferme si vous aimez vous asseoir droit et vous relever facilement. Souple si vous aimez vous installer en profondeur. Certains modèles existent dans deux conforts.
-
-### Quelle profondeur d’assise choisir ?
-
-Elle dépend de votre taille et de votre façon de vous asseoir. Une assise profonde convient pour s’installer en travers ; une assise plus courte convient pour s’asseoir droit.
-
-### Peut-on essayer les canapés au magasin ?
-
-Oui. Les salons et les relax s’essaient au magasin, sans rendez-vous.
-
-### Un canapé relax prend-il plus de place ?
-
-Cela dépend du modèle. Demandez l’encombrement total ouvert et le recul à prévoir à l’arrière, puis mesurez chez vous jusqu’à la table basse et jusqu’au mur.
-
-### Comment savoir si mon canapé passera dans l’escalier ?
-
-Notre guide [Mesurer sa pièce](https://fony.be/conseils-mesurer-sa-piece#escalier) détaille les mesures à prendre, de la porte d’entrée au palier.
-
-Voir aussi
-
-## Continuer votre choix.
-
-- ### Les salons
-
-  Canapés fixes, relax et à composer.
-
-  [Voir les salons](https://fony.be/salon)
-- ### Canapés relax électriques
-
-  Ce qui bouge, et comment.
-
-  [Voir les relax](https://fony.be/salon-canapes-relax-electriques)
-- ### Canapés d’angle
-
-  De quel côté placer le retour.
-
-  [Voir les canapés d’angle](https://fony.be/salon-canapes-angle)
+[Voir les salons](https://fony.be/salon)
 
 ## Venez vous asseoir.
 
@@ -3911,7 +3828,7 @@ Des repères courants d’aménagement, à adapter à votre pièce.
 
   ### Le passage
 
-  À titre de repère, environ 90 cm devant les meubles, et 110 à 120 cm entre deux lignes de meubles si l’on cuisine à deux. Vérifiez avec la porte du lave-vaisselle et celle du four ouvertes.
+  Tracez le trajet de la cuisine à la table. Pour un simple passage, essayez environ 90 cm libres. Devant un plan où l’on cuisine seul, prenez plutôt 107 cm comme point de départ. Si vous préparez le repas à deux entre des meubles en vis-à-vis, essayez environ 120 à 122 cm. Mesurez entre les bords qui avancent le plus, puis ouvrez le four et le lave-vaisselle.
 - 03
 
   ### La dépose
@@ -3956,7 +3873,7 @@ Vos questions
 
 ### Ai-je assez de passage autour de l’îlot ?
 
-Posez-vous cette question : quelqu’un peut-il rejoindre la table pendant que vous videz le lave-vaisselle ? Environ 90 cm de chaque côté est un repère, à confronter à l’ouverture réelle de vos appareils. Sinon, un retour accolé au mur convient mieux.
+Distinguez le côté où l’on passe du côté où l’on cuisine. Reprenez les repères de ces deux zones, puis simulez le lave-vaisselle ouvert pendant que quelqu’un rejoint la table. Un retour contre le mur peut libérer le trajet.
 
 ### Comment séparer la cuisine du salon sans cloison ?
 
@@ -4049,22 +3966,6 @@ La bonne hauteur se décide assis dans le canapé, pas debout devant le mur.
 
 Photo Tomasella.
 
-Le recul
-
-## Quelle taille d’écran pour votre distance ?
-
-Les professionnels de l’image (SMPTE) conseillent que l’écran occupe environ 30° du champ de vision. Cela revient à s’asseoir à environ 1,6 fois la diagonale. Ce sont des repères : la notice de votre téléviseur donne la distance conseillée.
-
-- ### Écran de 50 pouces (127 cm)
-
-  Environ 2 m entre vos yeux et l’écran.
-- ### Écran de 55 pouces (140 cm)
-
-  Environ 2,25 m.
-- ### Écran de 65 pouces (165 cm)
-
-  Environ 2,70 m. Plus près, l’image est plus enveloppante, comme au cinéma.
-
 Les repères
 
 ## Trois gestes avant de fixer quoi que ce soit.
@@ -4080,12 +3981,28 @@ Des repères courants, à vérifier chez vous depuis votre place habituelle.
 
   ### Placez le centre de l’écran
 
-  Le centre de l’écran se place à cette marque, ou un peu plus bas. Si le téléviseur repose sur le meuble, mesurez aussi la distance entre le bas de son pied et le centre de l’image.
+  Asseyez-vous et marquez la hauteur de vos yeux au mur. Si cette marque est à 105 cm du sol et que le centre de l’image se trouve à 40 cm au-dessus du plateau, essayez un meuble haut de 65 cm. Remplacez ces deux mesures par les vôtres.
 - 03
 
   ### Mesurez le recul
 
   Notez la distance entre vos yeux et le mur. La bonne taille d’écran pour ce recul dépend de sa résolution : la notice du téléviseur donne la distance conseillée.
+
+Le recul
+
+## À quelle distance essayer l’écran ?
+
+Voici un essai pour un écran 16:9 occupant 30° de votre champ de vision horizontal. Mesurez depuis vos yeux jusqu’à l’écran. Ajustez selon votre place et la notice de votre téléviseur.
+
+- ### Écran de 50 pouces
+
+  Essayez environ 2,1 m.
+- ### Écran de 55 pouces
+
+  Essayez environ 2,3 m.
+- ### Écran de 65 pouces
+
+  Essayez environ 2,7 m.
 
 Le meuble
 
@@ -4261,7 +4178,7 @@ Vos questions
 
 ### Quel passage garder autour d’un meuble ?
 
-Comptez environ 80 à 90 cm pour circuler à l’aise. Devant un meuble à tiroirs ou à portes, ajoutez la place pour ouvrir.
+Mesurez l’espace entre le point le plus avancé du meuble et l’obstacle en face, poignée comprise. Par exemple, avec 210 cm disponibles et un canapé profond de 120 cm, il reste 90 cm. Tracez les deux bords au sol. Faites passer une personne avec son panier à linge, puis testez la porte ou le tiroir ouvert.
 
 ### Comment savoir si un canapé passera par la porte ?
 
@@ -4360,7 +4277,7 @@ Des repères courants d’aménagement, à vérifier avec vos propres vêtements
 
   ### La penderie
 
-  Mesurez votre manteau d’hiver le plus épais sur son cintre : c’est la profondeur qu’il lui faut à l’intérieur. À titre d’exemple, beaucoup d’armoires-penderies mesurent 58 à 60 cm à l’extérieur ; la profondeur utilisable dépend du système choisi.
+  Mesurez votre manteau le plus épais sur son cintre, d’une épaule à l’autre. Comparez cette largeur à la profondeur libre derrière les portes fermées. À titre d’exemples, Tomasella indique 62 cm de profondeur extérieure pour une composition Liscia à portes battantes et 68,6 cm pour Primafila à portes coulissantes.
 - 02
 
   ### Les étagères et les tiroirs
@@ -4384,7 +4301,7 @@ Devant le dressing
   Elles ne débattent pas devant l’armoire : utiles quand le lit est proche. On n’ouvre qu’un côté à la fois, et les rails prennent de la profondeur. Vérifiez qu’avec la porte ouverte, chaque tiroir intérieur sort entièrement.
 - ### Dressing ouvert
 
-  Pas de porte, tout sous les yeux. Comptez 70 à 90 cm de passage devant pour s’habiller à l’aise.
+  Marquez au sol la façade et le bord du lit. Placez-vous entre les deux avec un cintre à la main, puis simulez l’ouverture du tiroir le plus profond. Notez le passage encore libre.
 
 Sous une pente de toit ou dans un renfoncement, un dressing se dessine sur mesure : les modules s’adaptent à la largeur et à la hauteur disponibles.
 
@@ -4397,7 +4314,7 @@ L’essai à la maison
   Suspendez votre manteau le plus épais et mesurez-le d’une manche à l’autre. C’est la profondeur qu’il lui faut, à l’intérieur.
 - ### Comptez la profondeur libre
 
-  La profondeur annoncée d’une armoire comprend les portes et, pour des coulissantes, les rails. Demandez la profondeur réellement libre à l’intérieur : elle dépend de la gamme retenue.
+  Demandez deux mesures sur votre plan, la profondeur extérieure portes fermées et celle réellement libre pour vos cintres.
 
 Vos questions
 
@@ -4482,7 +4399,7 @@ Adresse de la page : https://fony.be/conseils-table-basse-taille-hauteur
 
 Conseils · Salon
 
-# Quelle taille pour ma table basse ?
+# Quelle taille de table basse devant mon canapé ?
 
 Pour poser une tasse, vous tendez la main. Pour jouer aux cartes, vous vous penchez vers le milieu. Lequel de ces gestes revient le plus souvent chez vous ?
 
@@ -4494,99 +4411,23 @@ Pour poser une tasse, vous tendez la main. Pour jouer aux cartes, vous vous penc
 
 Photo Mobliberica.
 
-Les repères
+Pour choisir entre deux tables basses, prenez le livre que vous lisez en ce moment. Installez-vous à votre place habituelle. À quel endroit aimeriez-vous pouvoir le poser quand le téléphone sonne ? Si vous aimez rester dans l’angle du canapé, la réponse peut être « juste à ma gauche », alors que le milieu du tapis se trouve à plus d’une longueur de bras.
 
-## Trois mesures pour partir.
+## La bonne hauteur se mesure depuis votre place
 
-Des repères d’usage, que l’essai du carton confirme ou corrige chez vous.
+Asseyez-vous et demandez à quelqu’un de mesurer la hauteur du coussin près de votre cuisse. Un plateau à peu près à ce niveau, ou un peu plus bas, est un bon point de départ. Un canapé très moelleux peut descendre de plusieurs centimètres quand on s’y installe. Pour départager deux hauteurs, posez votre livre sur un support stable à chacune d’elles. Vous sentirez vite à laquelle vous devez quitter le dossier pour le reprendre.
 
-- ### La hauteur
+## Quelle longueur devant un canapé droit ?
 
-  Au niveau de l’assise du canapé, ou quelques centimètres plus bas. La plupart des tables basses mesurent 40 à 45 cm de haut.
-- ### La distance
+Pour un canapé de **225 cm**, un premier tracé de **150 cm** donne une idée du plateau devant soi. Cela correspond au repère des deux tiers. Pour placer un carton aux dimensions de la table, partez du bord avant du canapé et avancez de **40 à 45 cm**. C’est là que commence le plateau. Asseyez-vous, puis levez-vous pendant que quelqu’un reste à côté de vous. Si vous devez tous les deux rentrer les genoux, éloignez un peu la table. Si c’est en bout de table que vous restez coincé, essayez un plateau plus court. Cette distance sert à essayer la table à portée de main. Le chemin qui traverse le séjour se mesure à part.
 
-  Environ 40 à 45 cm entre le bord du canapé et la table : assez pour passer les jambes, assez peu pour atteindre sa tasse.
-- ### La longueur
+## Une grande table, ou deux petites ?
 
-  Environ les deux tiers de la longueur du canapé. Plus longue, elle bloque le passage ; plus courte, elle paraît perdue.
+Si la table sert aux jeux de société, sortez votre jeu préféré et dépliez le plateau sur le tracé. Reste-t-il une place pour les cartes de chacun ? Si elle sert surtout à poser un verre depuis le canapé et un autre depuis le fauteuil, deux petites tables qu’on rapproche au besoin peuvent mieux convenir. Devant une méridienne, un plateau ovale mérite aussi un essai si c’est toujours le même coin de table que vous devez contourner.
 
-L’essai à la maison
+Un dernier détail pour un canapé relax. Relevez le repose-pieds jusqu’à votre position de lecture et regardez où pourrait rester la table. Si vous deviez la pousser chaque soir, essayez une petite table en bout de canapé, du côté de l’accoudoir. Votre livre reste à portée de main, même quand vous allongez les jambes.
 
-## Trois gestes.
-
-Avec un carton ou une pile de livres à la place de la table.
-
-- 01
-
-  ### La hauteur
-
-  Asseyez-vous sur votre coussin habituel. Posez un livre sur un support stable, à la hauteur du plateau envisagé, puis prenez-le et reposez-le. À quelques centimètres près, on sent si l’on doit se pencher plus qu’on ne le voudrait.
-- 02
-
-  ### La distance
-
-  Rapprochez puis éloignez le carton : il faut pouvoir passer les jambes et atteindre la table sans se lever. Avec un relax, refaites l’essai repose-pieds ouvert.
-- 03
-
-  ### La taille
-
-  Regardez depuis l’entrée de la pièce : la table doit sembler appartenir au canapé, sans le dépasser ni disparaître devant lui.
-
-La forme
-
-## Selon le canapé et la pièce.
-
-- ### Devant un canapé droit
-
-  Une table rectangulaire ou ovale suit la longueur du canapé.
-- ### Dans l’angle d’un canapé d’angle
-
-  Une table carrée ou ronde se place au creux de l’angle, à portée des deux côtés.
-- ### Dans un petit salon
-
-  Deux petites tables qui se rangent l’une sous l’autre se déplacent selon le moment : une près du canapé, une près du fauteuil.
-
-Si de jeunes enfants jouent dans le salon, regardez les angles et la matière du plateau.
-
-Vos questions
-
-## Avant de choisir.
-
-### Table basse ronde ou rectangulaire ?
-
-Ronde, on la contourne plus facilement ; rectangulaire, elle offre plus de surface devant un long canapé.
-
-### Peut-on assortir la table basse à la table de repas ?
-
-Oui : reprendre le même plateau ou le même veinage relie le salon à la salle à manger. C’est le choix fait dans notre réalisation [Séjour Goliath](https://fony.be/realisation-sejour-goliath).
-
-### Une table basse avec rangement ?
-
-Utile pour les télécommandes et les magazines. Vérifiez que le tiroir ou le plateau relevable s’ouvre sans toucher le canapé.
-
-### Quelle matière pour le plateau ?
-
-Céramique, bois ou verre : comparez-les au magasin. Notre guide [Céramique ou bois](https://fony.be/conseils-table-ceramique-ou-bois) explique ce qui change.
-
-Voir aussi
-
-## Continuer votre choix.
-
-- ### Les salons
-
-  Canapés fixes, relax et à composer.
-
-  [Voir les salons](https://fony.be/salon)
-- ### Tables basses Akante
-
-  Les tables basses assorties aux tables de repas.
-
-  [Voir les tables basses](https://fony.be/tables-akante#tables-basses)
-- ### Quelle taille de canapé ?
-
-  Trouver la bonne longueur.
-
-  [Lire le guide](https://fony.be/conseils-taille-canape-salon)
+[Voir les salons](https://fony.be/salon)
 
 ## Venez avec une photo de votre salon.
 
@@ -4776,99 +4617,31 @@ Le bon canapé n’est pas le plus grand qui entre : c’est celui qui laisse v
 
 Photo Tomasella.
 
-Les repères
+Vous avez mesuré 3,80 m entre les deux bouts du mur. L’angle de 2,80 m que vous imaginez y entre largement. Mais si la terrasse est à droite, c’est aussi par là qu’on rentre avec les coussins du jardin, qu’on sort avec les assiettes et qu’on passe quand quelqu’un fait la sieste. C’est ce bout de mur qu’il vaut la peine de regarder en premier.
 
-## Trois mesures qui décident.
+## Faut-il centrer le canapé ?
 
-Les chiffres viennent des fiches de nos fabricants. Ils changent d’un modèle à l’autre : ce sont des ordres de grandeur pour tracer au sol.
+Prenez un canapé droit de **240 × 95 cm**. Si vous le centrez, il reste 70 cm de chaque côté. En le décalant tout à gauche, vous retrouvez **1,40 m d’un seul tenant** à droite. La pièce a les mêmes dimensions, le canapé aussi. Si la baie est à droite, vous pouvez essayer de passer par là avec les assiettes, sans faire le tour de la table basse. Si, chez vous, on entre d’un côté et on sort de l’autre, le canapé centré mérite autant d’être essayé.
 
-- ### La profondeur
+## Une méridienne ou un angle avec des places en retour ?
 
-  Un canapé occupe environ 1 m à 1,20 m de profondeur. Sur trois de nos modèles relax : [Kuma](https://fony.be/salon-max-divani-kuma) 98 cm, [Zebra](https://fony.be/salon-max-divani-zebra) 110 cm, [Tata](https://fony.be/salon-max-divani-tata) 117 cm.
-- ### Le relax ouvert
+Cela dépend de ce que vous comptez faire de cette place. Pour lire les jambes allongées près de la fenêtre, essayez une méridienne. À l’heure de l’apéro, si vous aimez voir le visage de vos invités, des assises qui se prolongent sur le côté donnent une autre façon de s’installer.
 
-  Repose-jambes déplié, comptez 50 à 60 cm de plus devant : 158 cm pour Kuma, 162 cm pour Zebra, 166 cm pour Tata. C’est cette mesure-là qu’il faut tracer devant la table basse.
-- ### L’angle
+Sur notre croquis, les deux canapés mesurent **2,80 m le long du mur**. La méridienne avance de **1,60 m** dans la pièce. L’angle avec des assises en retour avance de **2,20 m**. Les 60 cm de différence se voient à peine quand on regarde le mur de face. On les retrouve tout de suite quand on recule la chaise de la salle à manger. Faites l’essai avec la chaise tirée et la porte-fenêtre grande ouverte. Pour marquer votre choix sur le plan, « retour côté jardin » est plus parlant que « angle à gauche ».
 
-  Un angle demande deux murs ou un grand dégagement. Deux exemples : Zebra avec chaise longue, 287 × 238 cm ; Tata en angle arrondi, 370 × 230 cm.
+## Et si vous gardiez votre fauteuil ?
 
-L’essai à la maison
+Un canapé droit de **220 × 95 cm** et un fauteuil indépendant peuvent donner un salon très agréable pour discuter. Le soir, le fauteuil reste près de la lampe. Quand des amis viennent, il pivote vers le canapé. Si vous avez déjà un fauteuil que vous aimez, commencez avec celui-là. Placez-le en face, de biais, puis asseyez-vous. Voyez-vous votre invité sans devoir vous tourner ? Peut-il se lever sans déplacer la table basse ?
 
-## Trois gestes avant de mesurer.
+ (Photo : Quatre implantations à la même échelle le long d’un mur de 3,80 m. Le canapé droit laisse un côté libre. À largeur égale, l’angle avance de 60 cm de plus que la méridienne. La dernière disposition associe un canapé et un fauteuil indépendant.)
 
-Avec du ruban adhésif, des cartons ou un drap plié.
+Quatre exemples dessinés à la même échelle, pour un mur fictif de 3,80 m.
 
-- 01
+## À tracer chez vous.
 
-  ### Tracez le canapé au sol
+Ces dimensions sont des **exemples à tracer chez vous**. Un mètre de mur libre à côté du canapé peut déboucher sur un passage beaucoup plus étroit devant une chaise. Deux bandes de ruban au sol, l’une pour le canapé et l’autre pour le bout du retour, suffisent pour repérer cet endroit. Pour un relax, demandez la profondeur totale en position ouverte et l’espace nécessaire derrière le dossier. Avant de commander, vérifiez aussi le trajet du plus grand élément, surtout si l’escalier tourne sur un palier.
 
-  Marquez son contour à la taille envisagée, à l’endroit prévu. Laissez-le un jour ou deux et vivez autour.
-- 02
-
-  ### Faites le chemin habituel
-
-  De la porte au fauteuil, du canapé à la fenêtre, vers la cuisine. Si vous contournez le tracé en serrant les épaules, il est trop grand ou mal placé.
-- 03
-
-  ### Asseyez-vous dedans
-
-  Posez une chaise dans le tracé, là où sera votre place. Voyez-vous l’écran, la fenêtre, la personne en face ?
-
-Les mesures
-
-## Ce qu’il faut noter.
-
-- ### Le mur ou l’espace
-
-  La largeur disponible, d’un obstacle à l’autre : radiateur, porte, fenêtre basse.
-- ### La place devant
-
-  La distance jusqu’à la table basse, puis jusqu’au meuble TV. Pour un relax, demandez l’encombrement ouvert de la version choisie.
-- ### Le chemin de livraison
-
-  La porte d’entrée, le couloir et l’escalier. Demandez les dimensions du plus grand élément tel qu’il sera livré.
-
-Un canapé à composer se dessine élément par élément : on ajuste la longueur à votre mur plutôt que l’inverse.
-
-Vos questions
-
-## Avant de choisir.
-
-### Canapé droit ou canapé d’angle ?
-
-Un angle occupe un coin et accueille plus de monde sur la même surface ; un droit laisse plus de liberté pour déplacer les meubles. Tracez les deux au sol pour comparer.
-
-### Peut-on mettre un canapé devant une fenêtre ?
-
-Vérifiez que l’on peut encore ouvrir la fenêtre et atteindre le radiateur. Si un enfant peut grimper sur le canapé pour atteindre la fenêtre, choisissez un autre mur.
-
-### Quelle distance entre le canapé et la table basse ?
-
-Assez pour passer les jambes, assez peu pour poser une tasse sans se lever. Essayez chez vous avec un carton à la place de la table.
-
-### Et dans un petit salon ?
-
-Préférez un canapé aux accoudoirs fins ou un modèle à composer. Notre guide [Mesurer sa pièce](https://fony.be/conseils-mesurer-sa-piece) liste ce qu’il faut relever.
-
-Voir aussi
-
-## Continuer votre choix.
-
-- ### Les salons
-
-  Canapés fixes, relax et à composer.
-
-  [Voir les salons](https://fony.be/salon)
-- ### Canapés d’angle
-
-  De quel côté placer le retour.
-
-  [Voir les canapés d’angle](https://fony.be/salon-canapes-angle)
-- ### Mesurer sa pièce
-
-  Les mesures et les photos utiles.
-
-  [Lire le guide](https://fony.be/conseils-mesurer-sa-piece)
+[Voir les salons](https://fony.be/salon)
 
 ## Venez avec votre croquis.
 
@@ -4929,17 +4702,17 @@ Les tailles courantes
 
 ## 140, 160 ou 180 cm : ce que ça change.
 
-Les largeurs que l’on rencontre le plus en Belgique, pour une longueur de 200 cm. Ce sont des repères : chaque fabricant a sa gamme.
+Trois largeurs de couchage à comparer pour une longueur de 200 cm. Tracez ensuite le contour extérieur du lit avec le cadre choisi.
 
 - ### 140 × 200 cm
 
-  70 cm de largeur chacun à deux. C’est la largeur d’un lit d’enfant : confortable seul, juste à deux.
+  À deux, cela représente 70 cm chacun.
 - ### 160 × 200 cm
 
-  80 cm chacun. Le choix le plus courant à deux quand la chambre le permet.
+  Ici, chacun dispose de 80 cm, soit 10 cm de plus que sur le 140.
 - ### 180 × 200 cm
 
-  90 cm chacun, soit la largeur d’un lit d’une personne. Chacun dort comme s’il était seul ; il faut 40 cm de mur en plus qu’un 140.
+  Chacun dispose de 90 cm. Le couchage prend 40 cm de largeur de plus qu’un 140.
 
 L’essai à la maison
 
@@ -5089,7 +4862,7 @@ Ce sont des repères courants d’aménagement. Vérifiez-les dans votre pièce,
 
   ### La place autour
 
-  Tirez une chaise comme pour sortir de table : la personne derrière vous peut-elle encore passer ? À titre de repère, 70 à 80 cm pour reculer sa chaise, environ un mètre pour passer derrière quelqu’un d’assis.
+  Laissez environ 60 cm de bord de table par personne comme point de départ. Pour vous lever, essayez de réserver 90 à 100 cm entre le bord du plateau et le mur. Si quelqu’un passe derrière vous pendant le repas, tracez plutôt 120 à 140 cm et essayez avec la chaise occupée.
 - 03
 
   ### Le contour au sol
@@ -5102,7 +4875,7 @@ Ronde ou rectangulaire
 
 - ### Table ronde
 
-  À titre d’exemple : pour quatre, un diamètre de 100 à 110 cm ; pour six, de 120 à 135 cm ; pour huit, environ 150 cm. Le nombre de places dépend aussi de la largeur des chaises et de la position du pied.
+  Tracez un cercle de 100 à 110 cm de diamètre pour essayer quatre places, de 120 à 130 cm pour six, de 140 à 160 cm pour huit. Posez vos propres chaises autour. Des accoudoirs larges ou un pied déporté peuvent changer le nombre de places utilisables.
 - ### Table rectangulaire
 
   Pour six, de 160 à 180 cm de long. Pour huit, de 200 à 220 cm. La largeur tourne autour de 90 à 100 cm, pour laisser la place des plats au milieu.
@@ -5133,7 +4906,7 @@ Un exemple : la [New Austin 135](https://fony.be/tables-akante-austin) ouverte 
 
 ### Quelle place faut-il autour d’une table ?
 
-Au moins 70 à 80 cm entre la table et le mur ou le meuble voisin, pour reculer sa chaise. Environ un mètre si l’on doit circuler derrière.
+Laissez environ 60 cm de bord de table par personne comme point de départ. Pour vous lever, essayez de réserver 90 à 100 cm entre le bord du plateau et le mur. Si quelqu’un passe derrière vous pendant le repas, tracez plutôt 120 à 140 cm et essayez avec la chaise occupée.
 
 ### Table ronde ou rectangulaire dans une petite pièce ?
 
@@ -5992,9 +5765,9 @@ Adresse de la page : https://fony.be/literie-conseils
 
 Espace literie
 
-# Conseils literie.
+# Que voulez-vous changer dans votre lit ?
 
-Pour préparer votre essai en magasin : choisir un matelas, ou comparer boxspring fixe et boxspring électrique.
+Vous gardez le cadre, vous manquez de place à deux ou vous aimeriez lire le dossier relevé ? Commencez par le choix qui vous concerne.
 
 Nos guides
 
@@ -6012,6 +5785,13 @@ Nos guides
   Le boxspring
 
   ### [Fixe ou électrique ?](https://fony.be/literie-boxspring-fixe-electrique)
+
+  Lire le conseil →
+- (Photo : Chambre Tomasella : lit rembourré Luna et chevets)
+
+  La largeur
+
+  ### [Quelle place pour un lit plus large ?](https://fony.be/conseils-taille-lit-chambre#tailles)
 
   Lire le conseil →
 
@@ -6074,9 +5854,9 @@ Le sommier
 - ### La version électrique
 
   Le couchage se relève : pratique pour lire ou regarder la télévision au lit.
-- ### Votre lit reste le même
+- ### Vous gardez votre cadre de lit ?
 
-  Le sommier se pose dans votre cadre de lit : vous gardez celui que vous aimez.
+  Mesurez la largeur et la longueur intérieures du cadre. Prenez aussi une photo des appuis qui portent le sommier et notez la référence de votre matelas. Avec ces éléments, nous pourrons vérifier quel sommier convient.
 
 (Photo : Boxspring en tissu beige aux pieds noirs, coussins orangés et plaid crème, lampe sur un chevet en bois)
 
@@ -7461,9 +7241,9 @@ Au magasin et sur catalogue
 
    ### Gala
 
-   Des formes souples en tissu, avec chaise longue.
+   Gala, en tissu avec chaise longue. Ses éléments permettent aussi de composer un canapé droit ou un angle.
 
-   [Dimensions et versions de Gala](https://fony.be/salon-max-divani-gala)
+   [Voir les idées de composition de Gala](https://fony.be/salon-max-divani-gala#composition)
 3. (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
    (Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)
@@ -9295,6 +9075,10 @@ Vos questions
 ### Quels modèles Nicoletti peut-on essayer au magasin ?
 
 Memphis et Oakland. La composition exposée change au fil des arrivages : les moteurs s’essaient toujours.
+
+### Quelle place prend le canapé quand le relax est ouvert ?
+
+Memphis atteint 160 cm de profondeur au maximum, Oakland 157 cm. Chez vous, marquez cette profondeur au sol dans le sens du canapé, puis regardez où commence la table basse. Lors de l’essai, pensez aussi à votre façon de lire ou de regarder la télévision. Sur Oakland, la version avec têtière électrique permet de régler l’appui de la tête. La version Comfort ajoute le réglage du soutien lombaire.
 
 Voir aussi
 
@@ -11518,7 +11302,9 @@ Photo Sedit.
 
 Quand on est nombreux
 
-## Elle s’allonge.
+## Quelle longueur les jours de fête ?
+
+Prenez une table rectangulaire de 180 × 100 cm. Sur une version Sedit, deux rallonges de 45 cm portent sa longueur à 270 cm. Tracez les deux extrémités au sol avant de choisir. La porte du buffet s’ouvre-t-elle encore quand une chaise est occupée en bout de table ?
 
 [Comparer les rallonges Akante](https://fony.be/tables-extensibles-ceramique)
 

@@ -22,99 +22,31 @@ Le bon canapé n’est pas le plus grand qui entre : c’est celui qui laisse v
 
 Photo Tomasella.
 
-Les repères
+Vous avez mesuré 3,80 m entre les deux bouts du mur. L’angle de 2,80 m que vous imaginez y entre largement. Mais si la terrasse est à droite, c’est aussi par là qu’on rentre avec les coussins du jardin, qu’on sort avec les assiettes et qu’on passe quand quelqu’un fait la sieste. C’est ce bout de mur qu’il vaut la peine de regarder en premier.
 
-## Trois mesures qui décident.
+## Faut-il centrer le canapé ?
 
-Les chiffres viennent des fiches de nos fabricants. Ils changent d’un modèle à l’autre : ce sont des ordres de grandeur pour tracer au sol.
+Prenez un canapé droit de **240 × 95 cm**. Si vous le centrez, il reste 70 cm de chaque côté. En le décalant tout à gauche, vous retrouvez **1,40 m d’un seul tenant** à droite. La pièce a les mêmes dimensions, le canapé aussi. Si la baie est à droite, vous pouvez essayer de passer par là avec les assiettes, sans faire le tour de la table basse. Si, chez vous, on entre d’un côté et on sort de l’autre, le canapé centré mérite autant d’être essayé.
 
-- ### La profondeur
+## Une méridienne ou un angle avec des places en retour ?
 
-  Un canapé occupe environ 1 m à 1,20 m de profondeur. Sur trois de nos modèles relax : [Kuma](https://fony.be/salon-max-divani-kuma) 98 cm, [Zebra](https://fony.be/salon-max-divani-zebra) 110 cm, [Tata](https://fony.be/salon-max-divani-tata) 117 cm.
-- ### Le relax ouvert
+Cela dépend de ce que vous comptez faire de cette place. Pour lire les jambes allongées près de la fenêtre, essayez une méridienne. À l’heure de l’apéro, si vous aimez voir le visage de vos invités, des assises qui se prolongent sur le côté donnent une autre façon de s’installer.
 
-  Repose-jambes déplié, comptez 50 à 60 cm de plus devant : 158 cm pour Kuma, 162 cm pour Zebra, 166 cm pour Tata. C’est cette mesure-là qu’il faut tracer devant la table basse.
-- ### L’angle
+Sur notre croquis, les deux canapés mesurent **2,80 m le long du mur**. La méridienne avance de **1,60 m** dans la pièce. L’angle avec des assises en retour avance de **2,20 m**. Les 60 cm de différence se voient à peine quand on regarde le mur de face. On les retrouve tout de suite quand on recule la chaise de la salle à manger. Faites l’essai avec la chaise tirée et la porte-fenêtre grande ouverte. Pour marquer votre choix sur le plan, « retour côté jardin » est plus parlant que « angle à gauche ».
 
-  Un angle demande deux murs ou un grand dégagement. Deux exemples : Zebra avec chaise longue, 287 × 238 cm ; Tata en angle arrondi, 370 × 230 cm.
+## Et si vous gardiez votre fauteuil ?
 
-L’essai à la maison
+Un canapé droit de **220 × 95 cm** et un fauteuil indépendant peuvent donner un salon très agréable pour discuter. Le soir, le fauteuil reste près de la lampe. Quand des amis viennent, il pivote vers le canapé. Si vous avez déjà un fauteuil que vous aimez, commencez avec celui-là. Placez-le en face, de biais, puis asseyez-vous. Voyez-vous votre invité sans devoir vous tourner ? Peut-il se lever sans déplacer la table basse ?
 
-## Trois gestes avant de mesurer.
+ (Photo : Quatre implantations à la même échelle le long d’un mur de 3,80 m. Le canapé droit laisse un côté libre. À largeur égale, l’angle avance de 60 cm de plus que la méridienne. La dernière disposition associe un canapé et un fauteuil indépendant.)
 
-Avec du ruban adhésif, des cartons ou un drap plié.
+Quatre exemples dessinés à la même échelle, pour un mur fictif de 3,80 m.
 
-- 01
+## À tracer chez vous.
 
-  ### Tracez le canapé au sol
+Ces dimensions sont des **exemples à tracer chez vous**. Un mètre de mur libre à côté du canapé peut déboucher sur un passage beaucoup plus étroit devant une chaise. Deux bandes de ruban au sol, l’une pour le canapé et l’autre pour le bout du retour, suffisent pour repérer cet endroit. Pour un relax, demandez la profondeur totale en position ouverte et l’espace nécessaire derrière le dossier. Avant de commander, vérifiez aussi le trajet du plus grand élément, surtout si l’escalier tourne sur un palier.
 
-  Marquez son contour à la taille envisagée, à l’endroit prévu. Laissez-le un jour ou deux et vivez autour.
-- 02
-
-  ### Faites le chemin habituel
-
-  De la porte au fauteuil, du canapé à la fenêtre, vers la cuisine. Si vous contournez le tracé en serrant les épaules, il est trop grand ou mal placé.
-- 03
-
-  ### Asseyez-vous dedans
-
-  Posez une chaise dans le tracé, là où sera votre place. Voyez-vous l’écran, la fenêtre, la personne en face ?
-
-Les mesures
-
-## Ce qu’il faut noter.
-
-- ### Le mur ou l’espace
-
-  La largeur disponible, d’un obstacle à l’autre : radiateur, porte, fenêtre basse.
-- ### La place devant
-
-  La distance jusqu’à la table basse, puis jusqu’au meuble TV. Pour un relax, demandez l’encombrement ouvert de la version choisie.
-- ### Le chemin de livraison
-
-  La porte d’entrée, le couloir et l’escalier. Demandez les dimensions du plus grand élément tel qu’il sera livré.
-
-Un canapé à composer se dessine élément par élément : on ajuste la longueur à votre mur plutôt que l’inverse.
-
-Vos questions
-
-## Avant de choisir.
-
-### Canapé droit ou canapé d’angle ?
-
-Un angle occupe un coin et accueille plus de monde sur la même surface ; un droit laisse plus de liberté pour déplacer les meubles. Tracez les deux au sol pour comparer.
-
-### Peut-on mettre un canapé devant une fenêtre ?
-
-Vérifiez que l’on peut encore ouvrir la fenêtre et atteindre le radiateur. Si un enfant peut grimper sur le canapé pour atteindre la fenêtre, choisissez un autre mur.
-
-### Quelle distance entre le canapé et la table basse ?
-
-Assez pour passer les jambes, assez peu pour poser une tasse sans se lever. Essayez chez vous avec un carton à la place de la table.
-
-### Et dans un petit salon ?
-
-Préférez un canapé aux accoudoirs fins ou un modèle à composer. Notre guide [Mesurer sa pièce](https://fony.be/conseils-mesurer-sa-piece) liste ce qu’il faut relever.
-
-Voir aussi
-
-## Continuer votre choix.
-
-- ### Les salons
-
-  Canapés fixes, relax et à composer.
-
-  [Voir les salons](https://fony.be/salon)
-- ### Canapés d’angle
-
-  De quel côté placer le retour.
-
-  [Voir les canapés d’angle](https://fony.be/salon-canapes-angle)
-- ### Mesurer sa pièce
-
-  Les mesures et les photos utiles.
-
-  [Lire le guide](https://fony.be/conseils-mesurer-sa-piece)
+[Voir les salons](https://fony.be/salon)
 
 ## Venez avec votre croquis.
 

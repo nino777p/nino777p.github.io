@@ -45,9 +45,9 @@ Au magasin et sur catalogue
 
    ### Gala
 
-   Des formes souples en tissu, avec chaise longue.
+   Gala, en tissu avec chaise longue. Ses éléments permettent aussi de composer un canapé droit ou un angle.
 
-   [Dimensions et versions de Gala](https://fony.be/salon-max-divani-gala)
+   [Voir les idées de composition de Gala](https://fony.be/salon-max-divani-gala#composition)
 3. (Photo : Grand canapé d’angle arrondi en tissu camel, appuie-têtes relevés, filet doré sur l’accoudoir)
 
    (Photo : Canapé d’angle arrondi en tissu camel, une place relax ouverte)

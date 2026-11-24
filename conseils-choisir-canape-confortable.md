@@ -10,7 +10,7 @@ Adresse de la page : https://fony.be/conseils-choisir-canape-confortable
 
 Conseils · Salon
 
-# Comment choisir un canapé confortable ?
+# Comment choisir un canapé où l’on se sent vraiment bien ?
 
 Un canapé confortable est celui qui convient à votre façon de vous asseoir. Cela se vérifie assis, pas sur une photo.
 
@@ -22,110 +22,23 @@ Un canapé confortable est celui qui convient à votre façon de vous asseoir. C
 
 Photo Max Divani, canapé Zebra.
 
-L’essai
+Si vous pouviez garder une seule chose de votre canapé actuel, qu’est-ce que ce serait ? Peut-être cet accoudoir où vous posez votre livre. Ou cette place, tout au bout, qui vous permet de replier les jambes. Et qu’aimeriez-vous changer ? « J’ai toujours besoin d’un coussin derrière le dos » donne déjà une bonne piste pour votre prochain essai.
 
-## Quatre points à vérifier, assis.
+## Commencez par votre place habituelle
 
-Asseyez-vous comme le soir chez vous, et restez quelques minutes.
+Au magasin, on a tendance à s’asseoir bien droit au bord du coussin. Chez soi, on s’installe autrement. Prenez la place que vous choisiriez pour une soirée entière. Si vous aimez lire assis, calez votre dos, posez les pieds et tenez un livre quelques minutes. L’accoudoir arrive-t-il là où votre coude le cherche ? Si vous regardez plutôt les films en travers, prenez aussi cette position. Un accoudoir qui vous convient sous le coude peut vous sembler bien haut sous la tête.
 
-- 01
+## Trop profond ou trop souple ?
 
-  ### La profondeur d’assise
+Vous glissez vers l’avant pour poser les pieds au sol et votre dos quitte le dossier. Refaites le même essai avec un coussin dans le dos. Si vous préférez cette position, comparez avec une assise plus courte ou un dossier qui s’avance. Pour juger la fermeté, faites un autre essai. Asseyez-vous, laissez le coussin se tasser sous votre poids, puis relevez-vous comme chez vous. Vous pouvez très bien aimer une place profonde et la préférer assez ferme.
 
-  Dos calé dans votre position habituelle, vos pieds ont-ils un appui confortable ? Le bord du coussin appuie-t-il derrière vos genoux ? Si oui, l’assise est trop profonde pour vous.
-- 02
+Une mesure peut vous aider à retrouver ce que vous aimez déjà. Sur votre canapé actuel, mesurez **du bord avant du coussin jusqu’au dossier, là où votre dos se pose**. C’est la profondeur d’assise. La profondeur totale, qui comprend le dossier, sert à savoir combien de place le meuble prendra dans le séjour.
 
-  ### La hauteur d’assise
+## Et si vous n’aimez pas vous asseoir de la même façon ?
 
-  Vos pieds reposent à plat et vos genoux forment à peu près un angle droit. Une assise plus haute aide à se relever.
-- 03
+Faites l’essai à deux, chacun à sa place. L’un aime peut-être discuter, les pieds au sol, tandis que l’autre se cale au fond avec un livre. Essayez un dossier réglable ou un fauteuil à côté du canapé. Dans le premier cas, vérifiez si chaque place se règle séparément. Dans le second, voyez si vous pouvez encore vous parler sans tourner les épaules. Si vous hésitez entre deux salons après l’essai, demandez-vous dans lequel chacun de vous a fini par s’installer naturellement.
 
-  ### Le dossier et la tête
-
-  Regardez jusqu’où le dossier vous porte, selon votre taille. Pour lire ou regarder un film, une têtière réglable soutient la nuque.
-- 04
-
-  ### La fermeté
-
-  Souplesse et profondeur sont deux choses différentes : une assise peut être profonde et ferme. Essayez plusieurs conforts : le corps répond vite.
-
-Votre usage
-
-## Ce qui change selon la vie de la maison.
-
-- ### Droit, d’angle ou à composer
-
-  Dessinez la pièce avec la porte et le passage. L’angle se place du côté qui ne coupe pas la circulation. Un canapé à composer s’adapte élément par élément.
-- ### Relax ou fixe
-
-  Un relax électrique allonge les jambes et incline le dossier. Demandez l’encombrement total ouvert et le recul nécessaire derrière le dossier, pour la version qui vous intéresse.
-- ### Le revêtement
-
-  Cuir, microfibre ou tissu : chacun a son toucher et son entretien. Comparez les échantillons à la lumière du jour, avec une photo de votre pièce.
-
-Avant de commander, mesurez la porte d’entrée, le couloir et l’escalier : le canapé doit arriver jusqu’au salon.
-
-Canapé d’angle
-
-## Angle à gauche ou à droite ?
-
-- ### Entourez la méridienne
-
-  Entourez la méridienne sur le dessin de la référence et faites confirmer le côté au magasin : c’est le plus sûr.
-- ### Dessinez la porte
-
-  Sur votre croquis, placez la porte et le passage vers la pièce voisine. L’angle va du côté qui ne coupe pas le chemin.
-- ### Validez sur le dessin commandé
-
-  Avant de signer, vérifiez le sens sur le dessin de la référence commandée, pas seulement sur une photo d’ambiance.
-
-Vos questions
-
-## Avant de choisir.
-
-### Comment savoir si un canapé est confortable ?
-
-Asseyez-vous dix minutes dans votre position habituelle. Vérifiez la profondeur d’assise, l’appui du dos et de la nuque, et la facilité à vous relever.
-
-### Assise ferme ou assise souple ?
-
-Ferme si vous aimez vous asseoir droit et vous relever facilement. Souple si vous aimez vous installer en profondeur. Certains modèles existent dans deux conforts.
-
-### Quelle profondeur d’assise choisir ?
-
-Elle dépend de votre taille et de votre façon de vous asseoir. Une assise profonde convient pour s’installer en travers ; une assise plus courte convient pour s’asseoir droit.
-
-### Peut-on essayer les canapés au magasin ?
-
-Oui. Les salons et les relax s’essaient au magasin, sans rendez-vous.
-
-### Un canapé relax prend-il plus de place ?
-
-Cela dépend du modèle. Demandez l’encombrement total ouvert et le recul à prévoir à l’arrière, puis mesurez chez vous jusqu’à la table basse et jusqu’au mur.
-
-### Comment savoir si mon canapé passera dans l’escalier ?
-
-Notre guide [Mesurer sa pièce](https://fony.be/conseils-mesurer-sa-piece#escalier) détaille les mesures à prendre, de la porte d’entrée au palier.
-
-Voir aussi
-
-## Continuer votre choix.
-
-- ### Les salons
-
-  Canapés fixes, relax et à composer.
-
-  [Voir les salons](https://fony.be/salon)
-- ### Canapés relax électriques
-
-  Ce qui bouge, et comment.
-
-  [Voir les relax](https://fony.be/salon-canapes-relax-electriques)
-- ### Canapés d’angle
-
-  De quel côté placer le retour.
-
-  [Voir les canapés d’angle](https://fony.be/salon-canapes-angle)
+[Voir les salons](https://fony.be/salon)
 
 ## Venez vous asseoir.
 

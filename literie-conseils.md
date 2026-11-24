@@ -10,9 +10,9 @@ Adresse de la page : https://fony.be/literie-conseils
 
 Espace literie
 
-# Conseils literie.
+# Que voulez-vous changer dans votre lit ?
 
-Pour préparer votre essai en magasin : choisir un matelas, ou comparer boxspring fixe et boxspring électrique.
+Vous gardez le cadre, vous manquez de place à deux ou vous aimeriez lire le dossier relevé ? Commencez par le choix qui vous concerne.
 
 Nos guides
 
@@ -30,6 +30,13 @@ Nos guides
   Le boxspring
 
   ### [Fixe ou électrique ?](https://fony.be/literie-boxspring-fixe-electrique)
+
+  Lire le conseil →
+- (Photo : Chambre Tomasella : lit rembourré Luna et chevets)
+
+  La largeur
+
+  ### [Quelle place pour un lit plus large ?](https://fony.be/conseils-taille-lit-chambre#tailles)
 
   Lire le conseil →
 

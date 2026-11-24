@@ -19,31 +19,31 @@ Selon votre situation
 
 ## Qu’est-ce qui vous amène ?
 
-- ### J’emménage
+- ### J’emménage dans mon premier appartement
 
-  Qu’est-ce qu’on achète en premier, et que faut-il mesurer ?
+  Le premier soir, où allez-vous dormir et prendre votre repas ? Les autres meubles peuvent se décider une fois sur place.
 
-  [Mesurer sa pièce](https://fony.be/conseils-mesurer-sa-piece)
+  [Choisir mes premiers meubles](https://fony.be/conseils-amenager-maison-selon-son-projet#premier-appartement)
 - ### J’ai envie de changement
 
-  Vous aimez encore vos meubles : on change une partie, pas tout.
+  Vous tenez à votre table, mais vous la voyez à peine tant elle vous est familière. Essayez une autre chaise en bout de table.
 
-  [Par où commencer](https://fony.be/conseils-amenager-maison-selon-son-projet#situations)
+  [Changer autour d’un meuble que j’aime](https://fony.be/conseils-amenager-maison-selon-son-projet#envie-de-changement)
 - ### On s’installe à deux
 
-  Chacun arrive avec ses meubles : que garder, qu’accorder ?
+  Deux buffets pour un seul séjour. Avant de choisir, dites-vous chacun lequel vous auriez du plaisir à retrouver en rentrant.
 
-  [Par où commencer](https://fony.be/conseils-amenager-maison-selon-son-projet#situations)
-- ### Une chambre se libère
+  [Faire une place aux meubles de chacun](https://fony.be/conseils-amenager-maison-selon-son-projet#installation-a-deux)
+- ### Une chambre devient aussi mon bureau
 
-  En faire un bureau ou un coin à soi, qui accueille encore un invité.
+  Où ira la chaise du bureau le soir où quelqu’un dormira ici ? Faites l’essai avec le couchage ouvert.
 
-  [Le canapé-lit de tous les jours](https://fony.be/conseils-canape-lit-tous-les-jours)
+  [Partager la pièce entre bureau et invités](https://fony.be/conseils-amenager-maison-selon-son-projet#bureau-chambre-amis)
 - ### J’aménage toute la maison
 
-  Garder un fil entre les pièces, du salon à la chambre.
+  Sur le plan, placez la table où vous aimeriez déjeuner le dimanche. Le canapé, puis les rangements, trouveront plus facilement leur place.
 
-  [Par où commencer](https://fony.be/conseils-amenager-maison-selon-son-projet#situations)
+  [Aménager ma maison par étapes](https://fony.be/conseils-amenager-maison-selon-son-projet#maison-par-etapes)
 
 Nos guides
 

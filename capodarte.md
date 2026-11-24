@@ -47,13 +47,13 @@ Cinq pièces très différentes, pour donner une idée de l’univers. Une parti
   Table Maya.
 - (Photo : Buffet bas bleu aux façades en relief quadrillé, sur un piètement fin)
 
-  Buffet Ofelia.
+  Buffet Ofelia. Les portes s’ouvrent d’une pression. Deux exemples de largeur dans la collection, 120 et 240 cm, pour 50 cm de profondeur.
 - (Photo : Miroir rond entouré d’un large cadre argenté en relief)
 
-  Miroir Dance.
+  Miroir Dance. Son cadre est en verre travaillé. Pour visualiser sa place au mur, tracez un cercle de 90, 120 ou 180 cm de diamètre.
 - (Photo : Horloge murale carrée aux angles arrondis, cadran clair cerclé de lignes dorées)
 
-  Horloge Horizon.
+  Horloge Horizon. Ses angles arrondis et ses lignes gravées au laser dessinent un carré en verre miroir, naturel ou bronze.
 - (Photo : Bibliothèque sol-plafond : un montant fin portant des rubans sombres enroulés)
 
   Bibliothèque Tiffany.

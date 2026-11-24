@@ -26,17 +26,17 @@ Les tailles courantes
 
 ## 140, 160 ou 180 cm : ce que ça change.
 
-Les largeurs que l’on rencontre le plus en Belgique, pour une longueur de 200 cm. Ce sont des repères : chaque fabricant a sa gamme.
+Trois largeurs de couchage à comparer pour une longueur de 200 cm. Tracez ensuite le contour extérieur du lit avec le cadre choisi.
 
 - ### 140 × 200 cm
 
-  70 cm de largeur chacun à deux. C’est la largeur d’un lit d’enfant : confortable seul, juste à deux.
+  À deux, cela représente 70 cm chacun.
 - ### 160 × 200 cm
 
-  80 cm chacun. Le choix le plus courant à deux quand la chambre le permet.
+  Ici, chacun dispose de 80 cm, soit 10 cm de plus que sur le 140.
 - ### 180 × 200 cm
 
-  90 cm chacun, soit la largeur d’un lit d’une personne. Chacun dort comme s’il était seul ; il faut 40 cm de mur en plus qu’un 140.
+  Chacun dispose de 90 cm. Le couchage prend 40 cm de largeur de plus qu’un 140.
 
 L’essai à la maison
 

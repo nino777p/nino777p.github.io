@@ -37,7 +37,7 @@ Des repères courants d’aménagement, à adapter à votre pièce.
 
   ### Le passage
 
-  À titre de repère, environ 90 cm devant les meubles, et 110 à 120 cm entre deux lignes de meubles si l’on cuisine à deux. Vérifiez avec la porte du lave-vaisselle et celle du four ouvertes.
+  Tracez le trajet de la cuisine à la table. Pour un simple passage, essayez environ 90 cm libres. Devant un plan où l’on cuisine seul, prenez plutôt 107 cm comme point de départ. Si vous préparez le repas à deux entre des meubles en vis-à-vis, essayez environ 120 à 122 cm. Mesurez entre les bords qui avancent le plus, puis ouvrez le four et le lave-vaisselle.
 - 03
 
   ### La dépose
@@ -82,7 +82,7 @@ Vos questions
 
 ### Ai-je assez de passage autour de l’îlot ?
 
-Posez-vous cette question : quelqu’un peut-il rejoindre la table pendant que vous videz le lave-vaisselle ? Environ 90 cm de chaque côté est un repère, à confronter à l’ouverture réelle de vos appareils. Sinon, un retour accolé au mur convient mieux.
+Distinguez le côté où l’on passe du côté où l’on cuisine. Reprenez les repères de ces deux zones, puis simulez le lave-vaisselle ouvert pendant que quelqu’un rejoint la table. Un retour contre le mur peut libérer le trajet.
 
 ### Comment séparer la cuisine du salon sans cloison ?
 

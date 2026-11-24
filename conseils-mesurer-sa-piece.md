@@ -85,7 +85,7 @@ Vos questions
 
 ### Quel passage garder autour d’un meuble ?
 
-Comptez environ 80 à 90 cm pour circuler à l’aise. Devant un meuble à tiroirs ou à portes, ajoutez la place pour ouvrir.
+Mesurez l’espace entre le point le plus avancé du meuble et l’obstacle en face, poignée comprise. Par exemple, avec 210 cm disponibles et un canapé profond de 120 cm, il reste 90 cm. Tracez les deux bords au sol. Faites passer une personne avec son panier à linge, puis testez la porte ou le tiroir ouvert.
 
 ### Comment savoir si un canapé passera par la porte ?
 

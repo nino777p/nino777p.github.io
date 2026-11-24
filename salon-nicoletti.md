@@ -47,6 +47,10 @@ Vos questions
 
 Memphis et Oakland. La composition exposée change au fil des arrivages : les moteurs s’essaient toujours.
 
+### Quelle place prend le canapé quand le relax est ouvert ?
+
+Memphis atteint 160 cm de profondeur au maximum, Oakland 157 cm. Chez vous, marquez cette profondeur au sol dans le sens du canapé, puis regardez où commence la table basse. Lors de l’essai, pensez aussi à votre façon de lire ou de regarder la télévision. Sur Oakland, la version avec têtière électrique permet de régler l’appui de la tête. La version Comfort ajoute le réglage du soutien lombaire.
+
 Voir aussi
 
 ## D’autres façons de chercher.

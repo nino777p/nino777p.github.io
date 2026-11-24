@@ -32,7 +32,7 @@ Des repères courants d’aménagement, à vérifier avec vos propres vêtements
 
   ### La penderie
 
-  Mesurez votre manteau d’hiver le plus épais sur son cintre : c’est la profondeur qu’il lui faut à l’intérieur. À titre d’exemple, beaucoup d’armoires-penderies mesurent 58 à 60 cm à l’extérieur ; la profondeur utilisable dépend du système choisi.
+  Mesurez votre manteau le plus épais sur son cintre, d’une épaule à l’autre. Comparez cette largeur à la profondeur libre derrière les portes fermées. À titre d’exemples, Tomasella indique 62 cm de profondeur extérieure pour une composition Liscia à portes battantes et 68,6 cm pour Primafila à portes coulissantes.
 - 02
 
   ### Les étagères et les tiroirs
@@ -56,7 +56,7 @@ Devant le dressing
   Elles ne débattent pas devant l’armoire : utiles quand le lit est proche. On n’ouvre qu’un côté à la fois, et les rails prennent de la profondeur. Vérifiez qu’avec la porte ouverte, chaque tiroir intérieur sort entièrement.
 - ### Dressing ouvert
 
-  Pas de porte, tout sous les yeux. Comptez 70 à 90 cm de passage devant pour s’habiller à l’aise.
+  Marquez au sol la façade et le bord du lit. Placez-vous entre les deux avec un cintre à la main, puis simulez l’ouverture du tiroir le plus profond. Notez le passage encore libre.
 
 Sous une pente de toit ou dans un renfoncement, un dressing se dessine sur mesure : les modules s’adaptent à la largeur et à la hauteur disponibles.
 
@@ -69,7 +69,7 @@ L’essai à la maison
   Suspendez votre manteau le plus épais et mesurez-le d’une manche à l’autre. C’est la profondeur qu’il lui faut, à l’intérieur.
 - ### Comptez la profondeur libre
 
-  La profondeur annoncée d’une armoire comprend les portes et, pour des coulissantes, les rails. Demandez la profondeur réellement libre à l’intérieur : elle dépend de la gamme retenue.
+  Demandez deux mesures sur votre plan, la profondeur extérieure portes fermées et celle réellement libre pour vos cintres.
 
 Vos questions
 
