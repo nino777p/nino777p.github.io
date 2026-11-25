@@ -54,15 +54,15 @@ Le recul
 
 ## À quelle distance essayer l’écran ?
 
-Voici un essai pour un écran 16:9 occupant 30° de votre champ de vision horizontal. Mesurez depuis vos yeux jusqu’à l’écran. Ajustez selon votre place et la notice de votre téléviseur.
+Voici un essai pour un écran 16:9 occupant 30° de votre champ de vision horizontal. La taille d’un écran est sa diagonale. Mesurez depuis vos yeux jusqu’à l’écran. Ajustez selon votre place et la notice de votre téléviseur.
 
-- ### Écran de 50 pouces
+- ### Écran de 127 cm (50 pouces)
 
   Essayez environ 2,1 m.
-- ### Écran de 55 pouces
+- ### Écran de 140 cm (55 pouces)
 
   Essayez environ 2,3 m.
-- ### Écran de 65 pouces
+- ### Écran de 165 cm (65 pouces)
 
   Essayez environ 2,7 m.
 

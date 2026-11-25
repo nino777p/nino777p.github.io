@@ -1,6 +1,6 @@
 # Quelle taille de table pour 4, 6 ou 8 ? — Fony Meubles
 
-> Table ronde ou rectangulaire pour 4, 6 ou 8 : les tailles, la place à garder autour et le rôle de la rallonge, avant de venir comparer près de Binche.
+> Table ronde ou rectangulaire pour 4, 6 ou 8 : les dimensions, la place à garder autour et le rôle de la rallonge, avant de venir comparer près de Binche.
 
 Adresse de la page : https://fony.be/conseils-taille-table-salle-a-manger
 
@@ -52,14 +52,14 @@ Ce sont des repères courants d’aménagement. Vérifiez-les dans votre pièce,
 
 Ronde ou rectangulaire
 
-## Les tailles qui reviennent le plus.
+## Les dimensions pour 4, 6 ou 8 personnes.
 
 - ### Table ronde
 
   Tracez un cercle de 100 à 110 cm de diamètre pour essayer quatre places, de 120 à 130 cm pour six, de 140 à 160 cm pour huit. Posez vos propres chaises autour. Des accoudoirs larges ou un pied déporté peuvent changer le nombre de places utilisables.
 - ### Table rectangulaire
 
-  Pour six, de 160 à 180 cm de long. Pour huit, de 200 à 220 cm. La largeur tourne autour de 90 à 100 cm, pour laisser la place des plats au milieu.
+  Pour quatre, à partir de 120 cm de long : deux personnes par côté, 60 cm chacune. Pour six, de 160 à 180 cm de long. Pour huit, de 200 à 220 cm. La largeur tourne autour de 90 à 100 cm, pour laisser la place des plats au milieu.
 - ### Avec une rallonge
 
   On choisit la table pour tous les jours, et la rallonge pour les jours où l’on reçoit. Un exemple : la table Akante [New Austin 135](https://fony.be/tables-akante-austin) mesure 135 × 95 cm fermée ; ouverte, elle devient ronde, 135 cm de diamètre, jusqu’à six places.

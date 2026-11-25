@@ -137,7 +137,7 @@ Aussi au magasin
 - [Nicoletti](https://fony.be/salon-nicoletti) canapés relax, fabriqués en Italie
 - [De Eiken Zetel](https://fony.be/salon-fauteuils-relax-releveurs) fauteuils relax et releveurs, d’un fabricant belge
 - **Confortluxe** canapés, canapés relax et fauteuils releveurs
-- [Canapés-lits](https://fony.be/literie#canapes-lits) dans l’espace literie
+- [Canapés-lits](https://fony.be/canapes-lits) de fabrication italienne, pour un usage régulier
 
 Autour du canapé
 

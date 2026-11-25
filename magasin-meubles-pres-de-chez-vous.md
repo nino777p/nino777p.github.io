@@ -44,7 +44,7 @@ Le magasin est sur la N90, entre Binche et Anderlues, à deux kilomètres de la 
 
   Comptez environ 4 min depuis le centre de Binche, 7 min depuis Péronnes-lez-Binche, 10 min depuis Bray et 11 min depuis Estinnes. Depuis Mons, comptez environ 24 min par l’E19 puis la N55.
 
-  [La route depuis Mons](https://fony.be/magasin-meubles-pres-de-chez-vous#plus-loin)
+  [La page pour venir de Mons](https://fony.be/magasin-meubles-mons)
 - ### Depuis la Thudinie et la frontière
 
   Par la N59, comptez environ 15 min depuis Lobbes et 19 min depuis Thuin ; par la N55, environ 23 min depuis Erquelinnes et 30 min depuis Beaumont. Côté français, Jeumont est à environ 24 min et Marpent à environ 27 min.

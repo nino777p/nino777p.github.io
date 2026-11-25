@@ -1,4 +1,4 @@
-# Aménagement sur mesure à Binche, du plan à la pose — Fony Meubles
+# Meubles et dressing sur mesure à Binche — Fony Meubles
 
 > Un placard sous pente, un dressing ou une bibliothèque d’angle. À Binche, FONY étudie votre pièce, prépare le plan et organise la pose avec vous.
 
@@ -217,9 +217,9 @@ Avez-vous déjà un plan ou simplement une idée ? Appelez le magasin ou décr
 
 Partager cette page
 
-- [WhatsApp](https://wa.me/?text=Am%C3%A9nagement%20sur%20mesure%20%C3%A0%20Binche%2C%20du%20plan%20%C3%A0%20la%20pose%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/sur-mesure)
+- [WhatsApp](https://wa.me/?text=Meubles%20et%20dressing%20sur%20mesure%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/sur-mesure)
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/sur-mesure)
-- [E-mail](mailto:?subject=Am%C3%A9nagement%20sur%20mesure%20%C3%A0%20Binche%2C%20du%20plan%20%C3%A0%20la%20pose%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/sur-mesure)
+- [E-mail](mailto:?subject=Meubles%20et%20dressing%20sur%20mesure%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/sur-mesure)
 
 Adresse
 :   [Route de Charleroi 160/1

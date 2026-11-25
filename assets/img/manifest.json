@@ -8925,5 +8925,61 @@
    1920,
    1010
   ]
+ },
+ "vr-mirage-ambiance": {
+  "id": "vr-mirage-ambiance",
+  "use": [
+   "canapes-lits"
+  ],
+  "credit": "Vitarelax Mirage",
+  "alt": "Canapé-lit Vitarelax Mirage en tissu gris, fermé, avec méridienne et têtière relevée, mis en ambiance devant une baie vitrée",
+  "source": "vr-mirage-ambiance.webp",
+  "w": 1600,
+  "h": 1200,
+  "files": {
+   "600": "vr-mirage-ambiance-600.webp",
+   "900": "vr-mirage-ambiance-900.webp",
+   "1400": "vr-mirage-ambiance-1400.webp",
+   "1600": "vr-mirage-ambiance-1600.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "vr-mirage-ambiance-600.avif",
+   "900": "vr-mirage-ambiance-900.avif",
+   "1400": "vr-mirage-ambiance-1400.avif",
+   "1600": "vr-mirage-ambiance-1600.avif"
+  },
+  "ratio": [
+   1600,
+   1200
+  ]
+ },
+ "cp-jazz-ambiance": {
+  "id": "cp-jazz-ambiance",
+  "use": [
+   "canapes-lits"
+  ],
+  "credit": "Confortplus Jazz",
+  "alt": "Canapé-lit Confortplus Jazz en tissu écru, fermé, sur pieds en bois, mis en ambiance dans un séjour",
+  "source": "cp-jazz-ambiance.jpg",
+  "w": 1500,
+  "h": 830,
+  "files": {
+   "600": "cp-jazz-ambiance-600.webp",
+   "900": "cp-jazz-ambiance-900.webp",
+   "1400": "cp-jazz-ambiance-1400.webp",
+   "1500": "cp-jazz-ambiance-1500.webp"
+  },
+  "rendu": "naturel",
+  "avif": {
+   "600": "cp-jazz-ambiance-600.avif",
+   "900": "cp-jazz-ambiance-900.avif",
+   "1400": "cp-jazz-ambiance-1400.avif",
+   "1500": "cp-jazz-ambiance-1500.avif"
+  },
+  "ratio": [
+   1500,
+   830
+  ]
  }
 }

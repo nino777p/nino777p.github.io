@@ -175,7 +175,7 @@ Canapés-lits
 
 ## Un vrai canapé le jour, un vrai lit la nuit.
 
-Trois fabricants, pour la chambre d’amis ou le séjour qui accueille un invité.
+Trois fabricants, pour la chambre d’amis ou le séjour qui accueille un invité. Les modèles ont [leur page](https://fony.be/canapes-lits).
 
 - ### Confortplus
 
