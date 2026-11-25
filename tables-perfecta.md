@@ -1,6 +1,6 @@
 # Tables et chaises Perfecta, revendeur à Binche — Fony Meubles
 
-> Tables Perfecta Canvas, Onyx et Vienna : forme, dimensions, plateau et pied au choix, chaises assorties. Fony Meubles, revendeur Perfecta près de Binche.
+> Tables Perfecta Canvas, Onyx et Vienna : forme, dimensions, plateau et pied au choix. Prix sur demande chez Fony Meubles, revendeur près de Binche.
 
 Adresse de la page : https://fony.be/tables-perfecta
 
@@ -103,6 +103,9 @@ Revendeur Perfecta, nous composons votre table avec vous, au magasin de Leval-Tr
 - ### Le conseil
 
   Vous venez avec ou sans rendez-vous. Nous partons de votre pièce et du nombre de convives pour retenir la forme et le format de la table.
+- ### Le prix
+
+  Pour le prix, venez nous rendre visite au magasin : le choix est large, et nous vous donnons le prix du modèle qui vous intéresse. Vous pouvez aussi nous appeler au 064 46 07 72.
 - ### La commande et la livraison
 
   La table se commande dans la forme, les dimensions, le plateau et le pied retenus, avec les chaises assorties. La livraison et l’installation sont assurées par nos soins.

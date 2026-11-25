@@ -1,6 +1,6 @@
 # Capodarte : tables, chaises et décoration — Fony Meubles
 
-> Capodarte, marque italienne du Ciciriello Group : tables, chaises, buffets, miroirs et horloges. Une partie au magasin, le reste sur catalogue, près de Binche.
+> Capodarte, marque italienne : tables, chaises, buffets, miroirs et horloges. Prix sur demande chez Fony Meubles, près de Binche.
 
 Adresse de la page : https://fony.be/capodarte
 
@@ -72,6 +72,18 @@ Voir aussi
   Le rangement qui accompagne la table.
 
   [Voir les buffets](https://fony.be/tables-chaises#buffets)
+
+Vos questions
+
+## Avant de choisir.
+
+### Quel est le prix d’une pièce Capodarte ?
+
+Pour le prix, venez nous rendre visite au magasin : le choix est large, et nous vous donnons le prix du modèle qui vous intéresse. Vous pouvez aussi nous appeler au 064 46 07 72.
+
+### Comment se passe la commande ?
+
+Nous parcourons le catalogue avec vous et commandons la pièce choisie. Nous livrons et installons nous-mêmes.
 
 ## Venez voir Capodarte au magasin.
 

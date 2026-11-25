@@ -1,6 +1,6 @@
 # Max Divani, salons italiens à Binche — Fony Meubles
 
-> Salons Max Divani fabriqués en Italie, en cuir, microfibre ou tissu : à voir au magasin de Leval-Trahegnies, près de Binche.
+> Salons Max Divani fabriqués en Italie, en cuir, microfibre ou tissu. Prix sur demande au magasin de Leval-Trahegnies, près de Binche.
 
 Adresse de la page : https://fony.be/salon-max-divani
 
@@ -164,6 +164,18 @@ Voir aussi
   Des fauteuils relax et releveurs, d’un fabricant belge.
 
   [Voir les fauteuils relax](https://fony.be/salon-fauteuils-relax-releveurs)
+
+Vos questions
+
+## Avant de choisir.
+
+### Quel est le prix d’un salon Max Divani ?
+
+Pour le prix, venez nous rendre visite au magasin : le choix est large, et nous vous donnons le prix du modèle qui vous intéresse. Vous pouvez aussi nous appeler au 064 46 07 72.
+
+### Peut-on choisir la composition et le revêtement ?
+
+Oui : en angle, en trois ou deux places, en cuir, en microfibre ou en tissu. Le choix se fait avec nous, au magasin, catalogue en main.
 
 ## Venez essayer les salons Max Divani.
 

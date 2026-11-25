@@ -1,6 +1,6 @@
 # Tables Akante en céramique, revendeur à Binche — Fony Meubles
 
-> Tables Akante extensibles, à rallonge intégrée et plateaux en céramique. Fony Meubles, revendeur Akante à Leval-Trahegnies, près de Binche.
+> Tables Akante extensibles, à rallonge intégrée et plateaux en céramique. Prix sur demande chez Fony Meubles, revendeur Akante près de Binche.
 
 Adresse de la page : https://fony.be/tables-akante
 
@@ -118,7 +118,7 @@ Fony Meubles est revendeur Akante. Votre table se choisit avec nous, au magasin 
   La finition du plateau en céramique se choisit avec nous. Pour accorder une pierre veinée à votre sol et à votre lumière, nos repères sont dans [les tendances](https://fony.be/tendances).
 - ### Le prix
 
-  Il dépend du modèle, de la taille et de la finition du plateau. Appelez-nous au 064 46 07 72 ou passez au magasin : nous vous le donnons pour la table qui vous intéresse.
+  Pour le prix, venez nous rendre visite au magasin : le choix est large, et nous vous donnons le prix du modèle qui vous intéresse. Vous pouvez aussi nous appeler au 064 46 07 72.
 - ### La commande et la livraison
 
   Une fois le modèle retenu, la table se commande dans les dimensions et la finition choisies. Nous la livrons et l’installons nous-mêmes.

@@ -1,6 +1,6 @@
 # Sedit, tables italiennes à Binche — Fony Meubles
 
-> Tables Sedit fabriquées en Italie, plateaux en céramique ou en bois : à voir au magasin de Leval-Trahegnies, près de Binche.
+> Tables Sedit fabriquées en Italie, plateaux en céramique ou en bois. Prix sur demande au magasin de Leval-Trahegnies, près de Binche.
 
 Adresse de la page : https://fony.be/tables-sedit
 
@@ -83,6 +83,18 @@ Ambiances
 - (Photo : Table ronde Sedit devant une cheminée, grande baie sur la forêt)
 
   Ronde, près du feu
+
+Vos questions
+
+## Avant de choisir.
+
+### Quel est le prix d’une table Sedit ?
+
+Pour le prix, venez nous rendre visite au magasin : le choix est large, et nous vous donnons le prix du modèle qui vous intéresse. Vous pouvez aussi nous appeler au 064 46 07 72.
+
+### Comment se passe la commande ?
+
+Dimensions, plateau et couleur du pied se choisissent avec nous, au magasin ou sur catalogue. Nous livrons et installons nous-mêmes.
 
 ## Venez voir nos tables au magasin.
 

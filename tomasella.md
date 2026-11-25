@@ -1,6 +1,6 @@
 # Tomasella : séjour, dressing et chambre — Fony Meubles
 
-> Meubles TV, bibliothèques, garde-robes, dressings et chambres Tomasella, composés module par module et montrés en projection 3D. Fony Meubles, près de Binche.
+> Meubles TV, bibliothèques, dressings et chambres Tomasella, composés module par module, en projection 3D. Prix sur demande chez Fony Meubles, près de Binche.
 
 Adresse de la page : https://fony.be/tomasella
 
@@ -120,6 +120,10 @@ Ce sont des systèmes modulables : les modules se combinent pour s’ajuster à
 ### Peut-on voir le projet avant de commander ?
 
 Oui. Nous préparons une projection 3D de votre composition.
+
+### Quel est le prix d’un meuble Tomasella ?
+
+Pour le prix, venez nous rendre visite au magasin : le choix est large, et nous vous donnons le prix du modèle qui vous intéresse. Vous pouvez aussi nous appeler au 064 46 07 72.
 
 ### Faut-il prendre les mesures soi-même ?
 

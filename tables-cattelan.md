@@ -1,6 +1,6 @@
 # Cattelan Italia : tables et dressoirs à Binche — Fony Meubles
 
-> Cattelan Italia, design italien depuis 1979 : tables en céramique et dressoir Kayak, à choisir sur catalogue au magasin, près de Binche.
+> Cattelan Italia, design italien depuis 1979 : tables en céramique et dressoir Kayak, sur catalogue. Prix sur demande au magasin, près de Binche.
 
 Adresse de la page : https://fony.be/tables-cattelan
 
@@ -126,6 +126,18 @@ Voir aussi
   Une table Tyron de Cattelan Italia, plateau en céramique, à découvrir dans la salle à manger qui l’accueille.
 
   Lire le récit →
+
+Vos questions
+
+## Avant de choisir.
+
+### Quel est le prix d’une table Cattelan Italia ?
+
+Pour le prix, venez nous rendre visite au magasin : le choix est large, et nous vous donnons le prix du modèle qui vous intéresse. Vous pouvez aussi nous appeler au 064 46 07 72.
+
+### Comment se passe la commande ?
+
+Tables et dressoirs se choisissent sur catalogue, au magasin. Nous livrons et installons nous-mêmes.
 
 ## Composons votre salle à manger Cattelan Italia.
 

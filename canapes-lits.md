@@ -1,6 +1,6 @@
 # Canapés-lits italiens près de Binche — Fony Meubles
 
-> Canapés-lits de fabrication italienne, pour un usage régulier : mécanisme d’ouverture, matelas à haute densité, tissu ou cuir. Chez Fony Meubles près de Binche.
+> Canapés-lits de fabrication italienne, pour un usage régulier : mécanisme d’ouverture, matelas à haute densité. Prix sur demande, près de Binche.
 
 Adresse de la page : https://fony.be/canapes-lits
 
@@ -88,6 +88,10 @@ Reportez sur votre plan la profondeur du canapé ouvert, et voyez si vous pouvez
 ### Faut-il enlever les coussins pour ouvrir ?
 
 Cela dépend du mécanisme. La notice du modèle le précise.
+
+### Quel est le prix d’un canapé-lit ?
+
+Pour le prix, venez nous rendre visite au magasin : le choix est large, et nous vous donnons le prix du modèle qui vous intéresse. Vous pouvez aussi nous appeler au 064 46 07 72.
 
 ### Quels fabricants de canapés-lits proposez-vous ?
 
