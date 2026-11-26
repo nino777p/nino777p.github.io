@@ -192,3 +192,13 @@ Conseils
   Les repères à prendre chez vous, avant de venir.
 
   [Lire le guide](https://fony.be/conseils-taille-table-salle-a-manger)
+- ### Table en céramique ou en bois ?
+
+  Ce qui change à l’usage et à l’entretien.
+
+  [Lire le guide](https://fony.be/conseils-table-ceramique-ou-bois)
+- ### Quelles chaises avec une table en bois ?
+
+  Accorder les chaises à la table.
+
+  [Lire le guide](https://fony.be/conseils-chaises-table-en-bois)

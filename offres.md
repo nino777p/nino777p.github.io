@@ -1,6 +1,6 @@
-# Offres, déstockage et soldes à Binche — Fony Meubles
+# Black Friday meubles et canapés près de Binche — Fony Meubles
 
-> Déstockage de l’exposition, Black Friday le 27 novembre 2026 et soldes d’hiver du 2 au 31 janvier 2027 au magasin Fony Meubles de Leval-Trahegnies (Binche).
+> Black Friday meubles, salons et salles à manger jusqu’au dimanche 29 novembre, ouvert ce dimanche : un fauteuil club offert. Fony Meubles, près de Binche.
 
 Adresse de la page : https://fony.be/offres
 
@@ -18,7 +18,8 @@ Les offres du magasin et leurs dates, réunies sur une seule page. Les prix sont
 [Voir les pièces sur Facebook](https://www.facebook.com/fonymeubles/) [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 - Pièces d’exposition à prix réduit
-- Black Friday : vendredi 27 novembre 2026
+- Black Friday : jusqu’au dimanche 29 novembre
+- Ouvert ce dimanche, de 10 h 30 à 18 h 30
 - Soldes : du 2 au 31 janvier 2027
 
 Le calendrier
@@ -30,20 +31,28 @@ Le calendrier
   ### Déstockage de l’exposition
 
   Nous renouvelons l’exposition : salons, relax, tables et rangements présentés au magasin sont proposés à prix réduit. Les pièces disponibles sont publiées sur Facebook et Instagram. Contactez-nous pour vérifier la disponibilité de celle qui vous intéresse.
-- Vendredi 27 novembre 2026
+- Jusqu’au dimanche 29 novembre
 
-  ### Black Friday
+  ### Black Friday, tout le week-end
 
-  Des offres spéciales pour le Black Friday. Leur détail sera publié sur cette page et sur nos réseaux.
+  Vous cherchez un salon, un canapé, une salle à manger ou un boxspring pour le Black Friday ? Pour l’achat d’une pièce d’exposition de notre liste, nous vous offrons un fauteuil club. Les fauteuils sont en nombre limité : quand ils sont partis, l’offre s’arrête. Le magasin est ouvert exceptionnellement le dimanche 29 novembre, de 10 h 30 à 18 h 30. La liste des pièces et la vidéo sont sur [Facebook](https://www.facebook.com/fonymeubles/) et [Instagram](https://www.instagram.com/fonymeubles/).
 - Du samedi 2 au dimanche 31 janvier 2027
 
   ### Soldes d’hiver
 
-  La période légale des soldes en Belgique. Le magasin étant fermé le dimanche, le dernier jour d’ouverture est le samedi 30 janvier.
+  La période légale des soldes en Belgique. En janvier, le magasin est fermé le dimanche : le dernier jour d’ouverture est le samedi 30 janvier.
 
 Conditions
 
 ## Bon à savoir.
+
+### Le magasin est-il ouvert ce dimanche ?
+
+Oui, exceptionnellement : le dimanche 29 novembre, de 10 h 30 à 18 h 30. Les autres dimanches, le magasin est fermé.
+
+### Où acheter un salon ou une salle à manger pour le Black Friday près de Binche ?
+
+Au magasin Fony Meubles, Route de Charleroi 160/1 à Leval-Trahegnies, entre Binche et La Louvière. Les pièces d’exposition sont à prix réduit. Jusqu’au dimanche 29 novembre, un fauteuil club est offert à l’achat d’une pièce de notre liste, en nombre limité. Les prix sont affichés au magasin et dans nos publications Facebook et Instagram.
 
 ### Les pièces existent-elles en plusieurs exemplaires ?
 
@@ -59,16 +68,16 @@ Appelez le magasin au [064 46 07 72](tel:+3264460772) ou écrivez-nous en messag
 
 ## Venez voir les pièces au magasin.
 
-Les pièces de l’exposition se voient et s’essaient sur place, du lundi au samedi, sans rendez-vous.
+Les pièces de l’exposition se voient et s’essaient sur place, du lundi au samedi, sans rendez-vous. Exceptionnellement, le magasin est aussi ouvert le dimanche 29 novembre, de 10 h 30 à 18 h 30.
 
 [Mon projet](https://fony.be/magasin-contact#visite)
 [Itinéraire](https://www.google.com/maps/search/?api=1&query=Fony+Meubles%2C+Route+de+Charleroi+160%2F1%2C+7134+Leval-Trahegnies&query_place_id=ChIJddEGBrE5wkcRhED_uvJyEuY)
 
 Partager cette page
 
-- [WhatsApp](https://wa.me/?text=Offres%2C%20d%C3%A9stockage%20et%20soldes%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/offres)
+- [WhatsApp](https://wa.me/?text=Black%20Friday%20meubles%20et%20canap%C3%A9s%20pr%C3%A8s%20de%20Binche%20%E2%80%94%20Fony%20Meubles%20https%3A//fony.be/offres)
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//fony.be/offres)
-- [E-mail](mailto:?subject=Offres%2C%20d%C3%A9stockage%20et%20soldes%20%C3%A0%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/offres)
+- [E-mail](mailto:?subject=Black%20Friday%20meubles%20et%20canap%C3%A9s%20pr%C3%A8s%20de%20Binche%20%E2%80%94%20Fony%20Meubles&body=https%3A//fony.be/offres)
 
 Adresse
 :   [Route de Charleroi 160/1

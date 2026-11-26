@@ -197,6 +197,16 @@ Conseils
   Ce qu’il faut vérifier avant de choisir.
 
   [Lire le guide](https://fony.be/conseils-canape-lit-tous-les-jours)
+- ### Table basse : quelle taille, quelle hauteur ?
+
+  Trois repères et un essai au carton.
+
+  [Lire le guide](https://fony.be/conseils-table-basse-taille-hauteur)
+- ### Créer un coin lecture dans le salon
+
+  Le fauteuil, la lampe et la place autour.
+
+  [Lire le guide](https://fony.be/conseils-coin-lecture-salon)
 
 ## Venez essayer nos salons.
 

@@ -207,6 +207,11 @@ Conseils
   Les mesures et les photos à apporter.
 
   [Lire le guide](https://fony.be/conseils-mesurer-sa-piece)
+- ### Que ranger sous un escalier ?
+
+  Que ranger dans la partie haute et dans la partie basse ?
+
+  [Lire le guide](https://fony.be/conseils-placard-sous-escalier)
 
 ## Parlons de votre projet sur mesure.
 

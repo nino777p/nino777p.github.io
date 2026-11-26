@@ -175,7 +175,7 @@ Pour le prix, venez nous rendre visite au magasin : le choix est large, et nous
 
 ### Peut-on choisir la composition et le revêtement ?
 
-Oui : en angle, en trois ou deux places, en cuir, en microfibre ou en tissu. Le choix se fait avec nous, au magasin, catalogue en main.
+Oui : en angle, en trois ou deux places, en cuir, en microfibre ou en tissu. Le choix se fait avec nous, au magasin, catalogue en main. Pour les dimensions, voyez notre guide [Quelle taille de canapé pour mon salon ?](https://fony.be/conseils-taille-canape-salon)
 
 ## Venez essayer les salons Max Divani.
 

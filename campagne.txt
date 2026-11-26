@@ -28,7 +28,7 @@
 #     Laissez vide s'il n'y a pas d'échéance.
 # ---------------------------------------------------------------------
 
-fin :
+fin : 2026-11-29
 
 
 # ---------------------------------------------------------------------
@@ -37,17 +37,17 @@ fin :
 #     C'est l'outil le plus sûr : à privilégier avant le pop-up.
 # ---------------------------------------------------------------------
 
-bandeau actif : non
+bandeau actif : oui
 
 # Le texte affiché sur ordinateur (une phrase, sans point final obligatoire)
-bandeau texte :
+bandeau texte : Black Friday tout le week-end : un fauteuil club offert à l'achat d'une pièce d'exposition de notre liste. Ouvert ce dimanche de 10 h 30 à 18 h 30.
 
 # La version courte, affichée sur téléphone (6 à 8 mots maximum)
-bandeau texte court :
+bandeau texte court : Black Friday : fauteuil club offert à l'achat d'une pièce d'expo de la liste.
 
 # Où mène le lien, et comment il s'appelle
 # Le lien doit mener à une page qui existe : magasin-contact#visite, cuisine, salon…
-bandeau lien : magasin-contact#visite
+bandeau lien : offres
 bandeau libellé : Voir l'offre
 
 
@@ -59,18 +59,18 @@ bandeau libellé : Voir l'offre
 #     À réserver à un vrai événement daté.
 # ---------------------------------------------------------------------
 
-popup actif : non
+popup actif : oui
 
-popup titre :
-popup texte :
-popup bouton : Réserver un moment
-popup lien : magasin-contact#visite
+popup titre : Black Friday, tout le week-end
+popup texte : Nous sortons les pièces d'exposition. Pour l'achat d'une pièce de notre liste (salle à manger, salon ou boxspring), nous vous offrons un fauteuil club, en nombre limité. Le magasin est ouvert exceptionnellement ce dimanche 29 novembre, de 10 h 30 à 18 h 30.
+popup bouton : Voir l'offre
+popup lien : offres
 
 # Secondes avant qu'il puisse apparaître (25 est un bon réglage)
-popup délai : 25
+popup délai : 10
 
 # Jours avant de le remontrer à quelqu'un qui l'a fermé (7 est raisonnable)
-popup repos : 7
+popup repos : 2
 
 
 # ---------------------------------------------------------------------

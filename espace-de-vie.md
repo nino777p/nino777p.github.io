@@ -162,6 +162,11 @@ Conseils
   Par où commencer quand la vie change.
 
   [Lire le guide](https://fony.be/conseils-amenager-maison-selon-son-projet)
+- ### Une petite cuisine ouverte sur le salon
+
+  Les trajets à dessiner avant les meubles.
+
+  [Lire le guide](https://fony.be/conseils-cuisine-ouverte-sur-salon)
 
 ## Venez voir et essayer au magasin.
 
