@@ -2561,7 +2561,7 @@ Adresse de la page : https://fony.be/offres
 
 Offres
 
-# Déstockage, Black Friday et soldes.
+# Déstockage et Black Friday.
 
 Les offres du magasin et leurs dates, réunies sur une seule page. Les prix sont affichés en magasin et dans nos publications Facebook et Instagram.
 
@@ -2570,11 +2570,10 @@ Les offres du magasin et leurs dates, réunies sur une seule page. Les prix sont
 - Pièces d’exposition à prix réduit
 - Black Friday : jusqu’au dimanche 29 novembre
 - Ouvert ce dimanche, de 10 h 30 à 18 h 30
-- Soldes : du 2 au 31 janvier 2027
 
 Le calendrier
 
-## Trois rendez-vous d’ici fin janvier.
+## En ce moment au magasin.
 
 - En ce moment
 
@@ -2586,11 +2585,6 @@ Le calendrier
   ### Black Friday, tout le week-end
 
   Vous cherchez un salon, un canapé, une salle à manger ou un boxspring pour le Black Friday ? Pour l’achat d’une pièce d’exposition de notre liste, nous vous offrons un fauteuil club. Les fauteuils sont en nombre limité : quand ils sont partis, l’offre s’arrête. Le magasin est ouvert exceptionnellement le dimanche 29 novembre, de 10 h 30 à 18 h 30. La liste des pièces et la vidéo sont sur [Facebook](https://www.facebook.com/fonymeubles/) et [Instagram](https://www.instagram.com/fonymeubles/).
-- Du samedi 2 au dimanche 31 janvier 2027
-
-  ### Soldes d’hiver
-
-  La période légale des soldes en Belgique. En janvier, le magasin est fermé le dimanche : le dernier jour d’ouverture est le samedi 30 janvier.
 
 Conditions
 
@@ -2606,7 +2600,7 @@ Au magasin Fony Meubles, Route de Charleroi 160/1 à Leval-Trahegnies, entre Bin
 
 ### Les pièces existent-elles en plusieurs exemplaires ?
 
-Non. Sauf mention « en stock », chaque pièce en déstockage ou en soldes est la dernière disponible : elle revient au premier acheteur.
+Non. Sauf mention « en stock », chaque pièce d’exposition proposée ici est la dernière disponible : elle revient au premier acheteur.
 
 ### Où voir les prix ?
 
